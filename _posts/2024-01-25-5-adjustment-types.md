@@ -4,20 +4,22 @@ title: 5 adjusting journal entries
 tags: adjustments
 ---
 
-## adjustments: 5 types
+## adjustments: 5 types   
+
 <br>
 
-#### 1. **Prepaid Expense** 
-   - Definition: **_adjustments or adjusting entries_ are journal entries made to update acts for previously unrecorded items.**
-   
-   - adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.
+**_Adjustments or adjusting entries_ ARE** journal entries made to update acts for previously unrecorded items.     
 
-  - "Prepaid expense account" are commonly used for:
-    - Pre-paid Rent
-    - Pre-paid Insurance
-    - Pre-paid Advertising
-    - Pre-paid Supplies, etc.
-    - For example: Auto insurance is prepaid for a yr but has not **expired** by end of period/yr.
+#### 1. **Prepaid Expense** 
+   
+- Adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
+
+- "Prepaid expense account" are commonly used for:
+  - Pre-paid Rent
+  - Pre-paid Insurance
+  - Pre-paid Advertising
+  - Pre-paid Supplies, etc.
+  - For example: Auto insurance is prepaid for a yr but has not **expired** by end of period/yr.
 
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
