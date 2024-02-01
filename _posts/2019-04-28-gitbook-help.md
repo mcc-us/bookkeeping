@@ -1,8 +1,11 @@
 ---
+title: Gitbook Help
+category: Jekyll
 layout: post
-title: using markdown
-tags: markdown
 ---
+
+More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
+
 
 ### Tables:
 
@@ -14,6 +17,19 @@ tags: markdown
 | 3     | A3    | B3    |
 | 4     | A4    | B4    |
 ~~~
+
+```markdown
+<div class="table-wrapper" markdown="block">
+
+|title1|title2|title3|title4|title5|title6|title7|title8|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+|1|2|3|4|5|6|7|8|
+
+</div>
+```
 
 ### Add non-breaking space: 
 
