@@ -8,7 +8,7 @@ permalink: /
     - [income:](2024-01-17-dincome-statement)   
     - [equity:](2024-01-17-cchanges-in-equity)  
     - [balance sheet:](2024-01-17-bbalance-sheet)   
-    - [trial-balance:]("2024-01-28-trial-balance)  
+    - [trial-balance:](2024-01-28-trial-balance)  
     - [ratios:](2024-01-17-afin-ratios)  
     - [cheatsheet:](2024-01-16-order-of-financial-statements)  
 - Favorites
