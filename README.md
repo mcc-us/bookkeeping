@@ -5,7 +5,7 @@ permalink: /
 ---
 
 - Statements    
-    - [income:]("/2024-01-17-dincome-statement/")   
+    - [income:](2024-01-17-dincome-statement)   
     - [equity:]("/2024-01-17-cchanges-in-equity/")  
     - [balance sheet:]("https://mcc-us.github.io/2024-01-17-bbalance-sheet/")   
     - [trial-balance:]("https://mcc-us.github.io/2024-01-28-trial-balance/")  
