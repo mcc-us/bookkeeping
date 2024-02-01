@@ -1,6 +1,6 @@
 ---
 layout: post
-title: accounting terms
+title: glossary
 ---
 
 1. *Accounting Cycle*: **"Record, process, report"**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
