@@ -1,11 +1,9 @@
 ---
 layout: home
-title: bookkeeping
+title: bookkeeping notes
 permalink: /
 ---
 
-
-- [Glossary:]("https://mcc-us.github.io/2020-01-01-glossary-accounting-terms/")  
 - Statements    
     - [income:]("https://mcc-us.github.io/2024-01-17-dincome-statement/")   
     - [equity:]("https://mcc-us.github.io/2024-01-17-cchanges-in-equity/")  
@@ -24,5 +22,4 @@ permalink: /
     - [NACPB:]("https://www.certifiedpublicbookkeeper.org/")   
 
 [GitHub:]("https://github.com/mcc-us")   
-
 
