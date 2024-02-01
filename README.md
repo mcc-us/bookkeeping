@@ -10,7 +10,7 @@ permalink: /
     - [balance sheet:](2024-01-17-bbalance-sheet)   
     - [trial-balance:]("2024-01-28-trial-balance)  
     - [ratios:](2024-01-17-afin-ratios)  
-    - [cheatsheet:](2024-01-16-order-of-financial-statements")  
+    - [cheatsheet:](2024-01-16-order-of-financial-statements)  
 - Favorites
     - [debit/credit:](2023-12-27-youtube-debit-credits-explained)   
     - [markdown:](2020-02-28-sample-markdown)  
