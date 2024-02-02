@@ -4,7 +4,7 @@ title: double declining depreciation
 tags: depreciation
 ---
 
-## How to in 3 steps
+#### How to in 3 steps
 
 DDB = (2 / Useful Life) x Book Value at Beginning of Period
 
@@ -17,7 +17,7 @@ Key components:
 {: .box-success}
 **Example**: Your company buys a $50k truck. How much is depreciation?
 
-### Step 1 - Write down your known info
+#### 1. Write down your known info
 
 | Double-Declining Depreciation Example ||
 | :--- |-----: |
@@ -29,7 +29,7 @@ Key components:
 
 <br>
 
-### Step 2 - Calculate the Depreciation Rate
+#### Step 2 - Calculate the Depreciation Rate
 
 DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 
@@ -39,7 +39,7 @@ DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 
 <br>
 
-### Step 3 - Build Depreciation Schedule/Table
+#### Step 3 - Build Depreciation Schedule/Table
 
 | Year | Opening Value | Depreciation Expense | Accumulated Depreciation | Closing Value |
 |---:|--------:|--------:|--------:|--------:|
@@ -49,7 +49,7 @@ DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 | 4  |  10,800 |   4,320 |  43,520 |   6,480 |
 | 5  |   6,480 |   2,592 |  46,112 |   3,888 |
 
-Notes:
+#### Notes:
 
 - *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
 - *Salvage Value*: If a salvage value is expected at the end of the asset's life, it's typically ignored in DDB calculations until the final year.

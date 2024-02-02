@@ -1,11 +1,9 @@
 ---
-layout: post
 title: debit credits basics
+layout: post
 tags: drcr
 ---
 
-
-Tips from 'Bard'
 
 ## Basics:
 

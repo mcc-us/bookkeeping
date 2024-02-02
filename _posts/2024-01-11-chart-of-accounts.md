@@ -8,9 +8,10 @@ title: chart of accounts
 *Assets, Liabilities, Owner Equity, Revenue, Expenses*
 
 *Often numbered:*
+Table of COA
 
 | Range | Account Type | Category or Financial Report |
-|-:|:-|-:|
+|:-|:-|:-|
 | 100 – 199 | Assets | Balance Sheet |
 | 200 – 299 | Liabilities | Balance Sheet |
 | 300 – 399 | Equity | Balance Sheet |
@@ -48,7 +49,7 @@ COA's should be printable and easy to reference bc it may be used often. Small b
    - Personal loans
 
 
-Other resources: 
+##### Other resources: 
 - [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)
 - [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)
 

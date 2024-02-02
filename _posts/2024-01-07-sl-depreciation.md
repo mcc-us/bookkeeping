@@ -5,16 +5,16 @@ tags: depreciation
 math: true
 ---
 
-## How to in 3 steps
+### 3 steps
 
 As found in [straight line depreciation - youtube](https://www.youtube.com/watch?v=iruD9KTNnNc)
 
-**Depreciation** is the act of reducing the book value of a fixed asset due to 'wear and tear'
+**Depreciation** is the act of reducing the book value of a fixed asset due to 'wear, tear and obselence'.
 
 {: .box-success}
 **Example**: Your company buys a $50k truck. How much is depreciation?
 
-### Step 1 - Write down your known info
+#### 1. Write down known info
 
 | Straight Line Depreciation Example |  |
 |:-----------------------------------|-:|
@@ -27,7 +27,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 <br>
 
-### Step 2 - Calculate the Depreciation Expense/Period
+#### Step 2 - Calculate the Depreciation Expense/Period
 
 - Annual depreciation expense:
 
@@ -40,7 +40,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 <br>
 
-### Step 3 - Build Depreciation Schedule/Table
+#### Step 3 - Build Depreciation Schedule/Table
 
 | Year | Opening Value | Depreciation Expense | Accumulated Depreciation | Closing Value |
 |---:|--------:|-------:|-------:|--------:|
@@ -51,3 +51,4 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 | 5  |  18,000 |  8,000 | 40,000 |  10,000 |
 
   ---
+  
