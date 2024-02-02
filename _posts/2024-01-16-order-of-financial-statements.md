@@ -6,25 +6,26 @@ tags: reporting
 
 Q. What order are financial statements prepared? and Why?
 
-1. **Income statement <- Rev - Exp = Net**    
+#### 1. **Income statement <- Rev - Exp = Net**    
 
-   - 3 Columns: **Act, Amount, Total** 
-<br>    
+3 Columns: **Act, Amount, Total**  
 
-2. **Equity <- Common Shares + Retained Earnings - Dividends - Drawings**  
+#### 2. **Equity <- Common Shares + Retained Earnings - Dividends - Drawings**  
 
-   - 3 Columns: **Act, Amount, Total**   
-<br>
+3 Columns: **Act, Amount, Total**   
 
-3. **Balance Sheet <- A = L + SE**  
+#### 3. Trial Balance Sheet
 
-   - 3 Columns: **Act, Amount, Total**  
-<br>
+Order accounts from top to bottom with ALORE
 
-4. **3 Financial Ratios - Current, Debt & Equity ratios**  
+#### 4. **Balance Sheet <- A = L + SE**  
 
-<br>
+3 Columns: **Act, Amount, Total**  
 
-All reports use: **WHO, WHAT, WHEN**   
+#### 5. **3 Financial Ratios - Current, Debt & Equity ratios**  
+
+
+{: .box-warning}
+**Reports NEED: WHO, WHAT, WHEN**   
 
 ---

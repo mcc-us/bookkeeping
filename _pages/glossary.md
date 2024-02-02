@@ -3,15 +3,23 @@ layout: post
 title: glossary
 ---
 
-1. *Accounting Cycle*: **"Record, process, report"**, The cyclical process of recording, analyzing, and reporting financial transactions over a specific period.
+The definitions are abbreviated and abridged.
 
-2. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses.
+1. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses
+
+1. *Accounting Equation*: A = L + E
+
+1. *Accounting Cycle*: **Record, process, report**
 
 3. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner’s equity on the right (see also Report form balance sheet).
+
+3. *ADIP*: "Additional Paid In Capital", This is an owner's equity act title. 
    
 4. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)
 
 5. *Adjustment*: A change made to an account that reflects its true, or updated balances at the end of a period. (**"updates to keep things accurate"**)
+
+6. *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses
 
 6. *Audit Trail*: **"breadcrumbs leading to the source"**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used and equipment bought or sold should be listed. 
 
@@ -36,6 +44,8 @@ title: glossary
 16. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)
 
 17. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)
+
+17. *DEA-LER*: = Dividends, Expenses, Assets & Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits
 
 18. *Double-declining-depreciation*: Rate is twice simple linear depreciation.
 
