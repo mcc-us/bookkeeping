@@ -7,7 +7,7 @@
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
-                "github_link": "https://github.com",
+                "github_link": "https://github.com/mcc-us",
               {% endif %}
 
                 "telegram": false,
@@ -24,5 +24,5 @@
 
                 "weibo": false,
 
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
+                {*"all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]*}
             },
