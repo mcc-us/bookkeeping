@@ -46,6 +46,9 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # Disqus comments
 # disqushandler:            sighingnow
 
+site.github_username: mcc-us
+# Just added to see if this fixes the github link on the home page
+
 exclude:
   - _drafts
 
@@ -54,10 +57,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-page_width: 800px
+page_width: 1000px
 
 destination:      ./_site
-incremental:      false
+incremental:      true
 regenerate:       true
 
 plugins:
