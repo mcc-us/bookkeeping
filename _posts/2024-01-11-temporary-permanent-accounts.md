@@ -23,6 +23,3 @@ title: temporary v permanent accounts
 
 1. *Revenue*: This account accumulates all income earned during the period. At the end of the year, its balance gets transferred to the income statement to determine net income. This account also resets to zero after closing.  
 
-
-
----

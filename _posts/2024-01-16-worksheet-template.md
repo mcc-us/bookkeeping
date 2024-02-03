@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2 worksheet templates
+title: worksheet templates
 tags:  
 ---
 
-Portrait & Landscape
+1. Portrait
 
 <div class="pdf-container">
     <iframe src="/assets/worksheets/grid.ws.landscape.pdf" 
@@ -15,9 +15,10 @@ Portrait & Landscape
     </iframe>
 </div>
 
+2. Landscape
 
 <div class="pdf-container">
-    <iframe src="/assets/worksheets/9.col.balance.worksheet.pdf" 
+    <iframe src="assets/misc/9.col.balance.worksheet.pdf" 
         title="portrait-worksheet" 
         height="400" 
         width="712" 
@@ -25,4 +26,13 @@ Portrait & Landscape
     </iframe>
 </div>
 
----
+3. General
+
+<div class="pdf-container">
+    <iframe src="assets/misc/accounting-general-journal-template_325973.png" 
+        title="portrait-worksheet" 
+        height="400" 
+        width="712" 
+        allowfullscreen="true">
+    </iframe>
+</div>

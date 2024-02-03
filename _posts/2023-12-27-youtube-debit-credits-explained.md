@@ -4,21 +4,12 @@ title: youtube explains debit credits
 tags: drcr
 ---
 
-![Cedit=Destination, Debit=Source](/assets/mc-graw-accounting-course/debit-destination-credit-source.png)
+![Cedit=Destination, Debit=Source](/assets/mc-graw-accounting-course/images/debit-destination-credit-source.png)
 
 - **DEBITS** represent the flow of funds **To A Destination**
 
 - **CREDITS** represent the flow of funds **From A Source**
 
----
-
-### *DEAR = CLIP*
-
-| Debits: <br> Accounts on Left |=| Credits: <br> Accounts on Right |
-|:----------|-|:-|
-| **D**rawings + <br> **E**xpenses + <br> **A**ssets + <br> **R**eceivables |=| **C**apital + <br> **L**iabilities + <br> **I**ncome + <br> **P**ayables |
-
----
 
 *Fee-Income* or *Revenue* are recorded on right side, Credit accounts.
   

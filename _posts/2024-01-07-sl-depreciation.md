@@ -5,7 +5,7 @@ tags: depreciation
 math: true
 ---
 
-### 3 steps
+#### 3 steps
 
 As found in [straight line depreciation - youtube](https://www.youtube.com/watch?v=iruD9KTNnNc)
 
@@ -50,5 +50,3 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 | 4  |  26,000 |  8,000 | 32,000 |  18,000 |
 | 5  |  18,000 |  8,000 | 40,000 |  10,000 |
 
-  ---
-  
