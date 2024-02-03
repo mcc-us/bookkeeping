@@ -1,5 +1,5 @@
 ---
-title: debit/credits basics
+title: debit / credits basics
 layout: post
 tags: drcr
 ---
