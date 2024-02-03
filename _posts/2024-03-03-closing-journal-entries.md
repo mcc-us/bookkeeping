@@ -1,0 +1,61 @@
+---
+title: closing & re-opening ledger accounts
+layout: post
+tags: closingAccounts
+---
+
+
+Accounts Flowchart:
+
+Start: End of accounting period (e.g., month, quarter, year).
+
+1. Identify Temporary Accounts:
+
+    These are accounts whose balances represent the performance of the business for the period (revenue, expenses).
+    Permanent accounts track ongoing balances and are not closed (assets, liabilities, equity).
+
+2. Prepare Closing Entries (Optional):
+
+    For each temporary account:
+        Create a closing entry to transfer its balance to a closing account (often "Income Summary" or "Profit and Loss Summary").
+        Debit the temporary account to zero out its balance.
+        Credit the closing account with the amount being transferred.
+    This step ensures temporary accounts start the new period with zero balances.
+
+3. Post Closing Entries:
+
+    Update the individual account balances in the ledger with the closing entry amounts.
+
+4. Prepare an Adjusted Trial Balance:
+
+    List all accounts and their balances after posting closing entries.
+    This ensures total debits still equal total credits, even after closing adjustments.
+
+5. Close the Closing Account (Optional):
+
+    Depending on your system:
+        Create a final entry to transfer the closing account balance (net income/loss) to the retained earnings account.
+        Debit the closing account to zero it out.
+        Credit the retained earnings account with the net income/loss.
+    This updates retained earnings to reflect the period's performance.
+
+6. Review and Analyze Statements:
+
+    Prepare and analyze financial statements like the balance sheet and income statement using the final account balances.
+    Ensure they accurately reflect the company's financial position and performance.
+
+7. Re-Open Temporary Accounts (Optional):
+
+    After statement analysis, reverse the closing entries made earlier for temporary accounts.
+    Debit the closing account and credit the individual temporary accounts with the same amounts originally transferred.
+    This resets temporary accounts to zero, preparing them for recording transactions in the new period.
+
+8. Start New Accounting Period:
+
+    Continue recording transactions in the journal and posting them to the ledger accounts.
+    The cycle repeats from here for the next accounting period.
+
+Notes:
+
+    Closing entries are optional in some accounting systems and for businesses with continuous accounting periods.
+    Check with your accountant or refer to relevant accounting standards for specific requirements and practices in your context.
