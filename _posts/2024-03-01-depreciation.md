@@ -1,6 +1,6 @@
 ---
 layout: post
-title: straight line depreciation
+title: depreciation
 tags: depreciation
 math: true
 ---

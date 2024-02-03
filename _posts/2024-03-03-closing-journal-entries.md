@@ -1,6 +1,6 @@
 ---
-title: closing & re-opening ledger accounts
 layout: post
+title: closing / re-opening ledger accounts
 tags: closingAccounts
 ---
 
