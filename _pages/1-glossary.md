@@ -76,7 +76,8 @@ title: glossary
 
 25. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
     
-26. *Income Statement*: aka statement of Operations, (consists of **Only Revenue and Expense accounts**)   
+26. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement   
+   1. Consists of **Only Revenue and Expense accounts**     
 
 27. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
    
@@ -90,23 +91,23 @@ title: glossary
     
 32. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
-33. *Permanent Account*: Accounts with balances carried over to the next accounting period that reflect long-term financial standing (**assets, liabilities, and equity**).   
+33. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
 
-34. *Prepaid Expenses*: Expenses are paid in advance but have not been used or consumed. (**Think: paying ahead of time but still waiting to use it**)   
+34. *Prepaid Expenses*: Expenses are paid in advance but have not been used or consumed. **Think: paying ahead of time but still waiting to use it**.   
 
-35. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. (**Posting = transferring data from a journal to a ledger.**   
+35. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
 
 36. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts first, followed by liabilities and owner's equity.   
 
-37. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. (**Scrap value**)   
+37. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
 
 38. *Slide*: An accidental **movement of a decimal point**.   
 
-39. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. (**Report detailing what the owner puts in, takes out, & has left**)   
+39. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-40. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. (**Linear depreciation with a slope = -1.**)   
+40. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-41. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end (**Cost of goods sold, revenue**, etc).    
+41. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
 42. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 

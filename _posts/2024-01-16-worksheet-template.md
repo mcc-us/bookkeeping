@@ -32,7 +32,7 @@ tags:
     <iframe src="assets/misc/accounting-general-journal-template_325973.png" 
         title="portrait-worksheet" 
         height="400" 
-        width="712" 
+        width="300" 
         allowfullscreen="true">
     </iframe>
 </div>
