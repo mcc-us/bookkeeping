@@ -3,9 +3,9 @@ layout: post
 title: glossary
 ---
 
-The definitions are abbreviated and abridged.
+*The definitions are abbreviated and abridged.*  
 
-1. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses
+1. *Accounts*: A "container" that tracks specific assets, liabilities, equity, income, or expenses  
 
 1. *Accounting Equation*: A = L + E
 
