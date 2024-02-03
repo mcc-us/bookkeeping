@@ -1,17 +1,13 @@
 ---
 layout: post
-title: 1 income statement
+title: 
 tags: reporting
 ---
 
 {: .box-success}
 **Revenue & Expenses -> Net Income**   
 
----
-
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
-
----
 
 Step 1: **Obtain Revenue & Expense accounts**     
 Step 2: Use 3 columns; **Act, Amount, Total**   
@@ -19,7 +15,6 @@ Step 3: List Revenues & total
 Step 4: List Expenses & total    
 Step 5: Calculate Net & double underline bottom line   
 
----
 
 {: .box-success}
 Reporting NEEDS **Who, What, When: Time Period**
