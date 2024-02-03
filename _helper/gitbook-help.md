@@ -150,4 +150,3 @@ Host project on GitHub Pages (for example, `https://USERNAME.github.io/MyProject
 
 [FAQ - beautifuljekyll.com/faq](https://beautifuljekyll.com/faq/#links-in-project-page)
 
----
