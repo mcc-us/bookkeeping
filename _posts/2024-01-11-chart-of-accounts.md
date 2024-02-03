@@ -7,8 +7,9 @@ title: chart of accounts
 
 *Assets, Liabilities, Owner Equity, Revenue, Expenses*
 
-*Often numbered:*
-Table of COA
+*Common numbering:*   
+
+C.O.A.
 
 | Range | Account Type | Category or Financial Report |
 |:-|:-|:-|
@@ -22,35 +23,10 @@ Table of COA
 | 800 – 899 | Other Expenses | Profit & Loss |
 
 
-COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.
+COA's should be printable and easy to reference bc it may be used often. Small businesses may have 250.  
 
+Other resources:   
 
+- [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)   
+- [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)   
 
-- Asset accounts include:
-   - Buildings
-   - Land
-   - Equipment
-   - Vehicles
-   - Valuables
-   - Inventory
-   - Cash
-   - Bank accounts
-   - Accounts receivable
-   - Notes (loans out) receivable
-
-- Liability accounts include:
-   - Accounts payable or bills
-   - Payroll taxes
-   - Income taxes payable
-   - Bank loans
-   - Credit card balances
-   - Mortgages
-   - Deferred tax liabilities
-   - Personal loans
-
-
-##### Other resources: 
-- [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)
-- [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)
-
----

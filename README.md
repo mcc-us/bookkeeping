@@ -21,5 +21,4 @@ permalink: /
     - [AIPB:]("https://aipb.org)   
     - [NACPB:]("https://www.certifiedpublicbookkeeper.org)   
 
-[GitHub:]("https://github.com/mcc-us")   
-
+    
