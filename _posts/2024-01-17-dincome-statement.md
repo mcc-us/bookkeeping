@@ -4,8 +4,9 @@ title: 1 income statement
 tags: reporting
 ---
 
+> Revenue & Expenses -> Net Income
 {: .box-success}
-**Revenue & Expenses -> Net Income**   
+
 
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 
@@ -16,8 +17,8 @@ Step 4: List Expenses & total
 Step 5: Calculate Net & double underline bottom line   
 
 
+> Reporting NEEDS **Who, What, When: Time Period**
 {: .box-success}
-Reporting NEEDS **Who, What, When: Time Period**
 
 Company Name   
 Income Statement   
@@ -29,21 +30,20 @@ For the Year Ending Dec. 31, 2024
 | Shuttle Rides | | $69,300 |
 | Expenses | | |
 | Fuel | $11,000 | |
-| Depreciation |   2,000 | |
-| Ins. |   4,000 | |
-| Tele. |    400 | |
-| Wages |  30,000 | |
-| Utils. |   1,200 | |
-| Total Expenses | |  48,600 |
+| Depreciation | 2,000 | |
+| Ins. | 4,000 | |
+| Tele. | 400 | |
+| Wages | 30,000 | |
+| Utils. | 1,200 | |
+| Total Expenses | | 48,600 |
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
-{: .box-warning}
-Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
 
----
+> Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
+{: .box-warning}
+
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 - Find this example at Tony Bell @ accountingworkbook.com
 
----
