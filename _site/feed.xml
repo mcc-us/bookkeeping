@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-03T19:38:17-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">bookkeeping</title><author><name>mcc</name></author><entry><title type="html">adjusting entries table</title><link href="http://localhost:4000/2024-01-30-adjusment-table.html" rel="alternate" type="text/html" title="adjusting entries table" /><published>2024-01-30T00:00:00-05:00</published><updated>2024-01-30T00:00:00-05:00</updated><id>http://localhost:4000/adjusment-table</id><content type="html" xml:base="http://localhost:4000/2024-01-30-adjusment-table.html"><![CDATA[<h3 id="5-adjustment-types">5 Adjustment Types</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th style="text-align: left">Type</th>
+      <th style="text-align: left">Setup</th>
+      <th style="text-align: left">Adjustment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td style="text-align: left">Pre-paid exp./asset</td>
+      <td style="text-align: left">pre-paid Act-asset<br />   cash</td>
+      <td style="text-align: left">Act exp.<br />   pre-paid Act-asset</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td style="text-align: left">Depreciation exp.</td>
+      <td style="text-align: left">LT Act-asset<br />   cash</td>
+      <td style="text-align: left">Depreciation exp.<br />   LT Act-Depreciation</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td style="text-align: left">Accrued-exp.</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Act-exp.<br />   Act-payable</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td style="text-align: left">Accrued rev.</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Act-receivable<br />   Act-rev.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td style="text-align: left">Unearned rev.</td>
+      <td style="text-align: left">cash<br />   Unearned Act-rev.</td>
+      <td style="text-align: left">Unearned rev.<br />   Act rev.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><strong>For more information see</strong>: Tony Bell <a href="https://www.youtube.com/watch?v=TKpabpcjk14">FA 16-Adjusted Trial Balance</a>, <a href="https://www.youtube.com/watch?v=NT5zaYuEyuk">FA 17-Preparing Detailed Financial Statements</a></p>
+
+<hr />]]></content><author><name>mcc</name></author><category term="adjustments" /><category term="cheatsheet" /><summary type="html"><![CDATA[5 Adjustment Types]]></summary></entry><entry><title type="html">sample income statement</title><link href="http://localhost:4000/2024-01-30-sample-income-statement.html" rel="alternate" type="text/html" title="sample income statement" /><published>2024-01-30T00:00:00-05:00</published><updated>2024-01-30T00:00:00-05:00</updated><id>http://localhost:4000/sample-income-statement</id><content type="html" xml:base="http://localhost:4000/2024-01-30-sample-income-statement.html"><![CDATA[<p><img src="/assets/misc/Sample-Accounting-Income-Statement.webp" alt="Example 1" /></p>
+
+<p><img src="/assets/misc/Sample-Accounting-Income-Statement2.webp" alt="Example 2" /></p>
+
+<hr />]]></content><author><name>mcc</name></author><category term="examples" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">trial balance v balance sheet</title><link href="http://localhost:4000/2024-01-29-trial-bal-v-bal-sheet.html" rel="alternate" type="text/html" title="trial balance v balance sheet" /><published>2024-01-29T00:00:00-05:00</published><updated>2024-01-29T00:00:00-05:00</updated><id>http://localhost:4000/trial-bal-v-bal-sheet</id><content type="html" xml:base="http://localhost:4000/2024-01-29-trial-bal-v-bal-sheet.html"><![CDATA[<p>Q. What is the difference between a trial balance and a balance sheet?</p>
+
+<p>Here’s some key differences:</p>
+
+<p>Purpose:</p>
+
+<ul>
+  <li>
+    <p>Trial Balance: Primarily serves as a check for the accuracy of your accounting records. It ensures the total debits equal the total credits, indicating that all transactions have been properly recorded.</p>
+  </li>
+  <li>
+    <p>Balance Sheet: Presents a snapshot of your company’s financial position at a specific point in time. It summarizes your assets, liabilities, and equity, offering a high-level overview of your financial health.</p>
+  </li>
+</ul>
+
+<p>Level of Detail:</p>
+
+<ul>
+  <li>
+    <p>Trial Balance: Lists all account titles and their respective balances without further categorization. It’s essentially a raw list of extracted numbers.</p>
+  </li>
+  <li>
+    <p>Balance Sheet: Groups and organizes account balances into categories like current and non-current assets, liabilities, and equity. This provides a more structured and meaningful representation of your finances.</p>
+  </li>
+</ul>
+
+<p>Format:</p>
+
+<ul>
+  <li>
+    <p>Trial Balance: Typically presented as a two-column spreadsheet with debits on one side and credits on the other.</p>
+  </li>
+  <li>
+    <p>Balance Sheet: Follows a specific format with distinct sections for assets, liabilities, and equity. It might also include additional information like subtotals and grand totals.</p>
+  </li>
+</ul>
+
+<p>Usability:</p>
+
+<ul>
+  <li>
+    <p>Trial Balance: Primarily used internally by accountants and bookkeepers to verify data accuracy before proceeding with financial statement preparation.</p>
+  </li>
+  <li>
+    <p>Balance Sheet: Used by both internal and external stakeholders, including managers, investors, creditors, and auditors. It provides a readily understandable overview of the company’s financial standing.</p>
+  </li>
+</ul>
+
+<p>Overall:</p>
+
+<ul>
+  <li>
+    <p>Think of a trial balance as a “behind-the-scenes” tool for ensuring data integrity.</p>
+  </li>
+  <li>
+    <p>Think of a balance sheet as a “public-facing” representation of your company’s financial health.</p>
+  </li>
+</ul>
+
+<hr />]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[Q. What is the difference between a trial balance and a balance sheet?]]></summary></entry><entry><title type="html">trial balances</title><link href="http://localhost:4000/2024-01-28-trial-balance.html" rel="alternate" type="text/html" title="trial balances" /><published>2024-01-28T00:00:00-05:00</published><updated>2024-01-28T00:00:00-05:00</updated><id>http://localhost:4000/trial-balance</id><content type="html" xml:base="http://localhost:4000/2024-01-28-trial-balance.html"><![CDATA[<p class="box-success">List all accounts in order: <strong>A, L, O(wners Equity), R, E</strong><br />    &amp; check for equal balances.</p>
+
+<hr />
+
+<p>Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.</p>
+
+<h3 id="steps">Steps</h3>
+
+<ol>
+  <li>
+    <p>Enter the general ledger account names.</p>
+  </li>
+  <li>
+    <p>Enter the ending balance of each account in either Debit or Credit column.</p>
+  </li>
+  <li>
+    <p>Total the Debit and Credit columns to prove that the trial balance is in balance.</p>
+  </li>
+  <li>
+    <p>Compare the total debits with the total credits, <strong>Net differences between debits &amp; credits.</strong></p>
+  </li>
+  <li>
+    <p>Double underscore under each Trial Balance column to show that the work in that column is complete.</p>
+  </li>
+</ol>
+
+<h3 id="notice-that-the-trial-balance-has-four-new-accounts">Notice that the trial balance has four new accounts:</h3>
+
+<ol>
+  <li>Accumulated Depreciation—Equipment,</li>
+  <li>Supplies Expense,</li>
+  <li>Rent Expense,</li>
+  <li>Depreciation Expense—Equipment.</li>
+</ol>
+
+<h3 id="rules-for-presentation">Rules for Presentation:</h3>
+
+<ol>
+  <li>Balance sheet assets are arranged on the bases of liquidity.
+    <ul>
+      <li>Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).</li>
+    </ul>
+  </li>
+</ol>
+
+<p>For example, store equipment, office equipment, buildings and land would appear in the order presented under fixed assets.</p>
+
+<ol>
+  <li>Liability accounts appear based on their earliest due date.
+    <ul>
+      <li>Consequently A/P always appear first followed by notes payable and mortgages payable.</li>
+    </ul>
+  </li>
+  <li>Income statement accounts, both revenues and expenses appear in alphabetical order.</li>
+</ol>
+
+<hr />
+
+<p class="box-warning">REMEMBER: Debits = Credits for Trial Balance</p>
+
+<hr />
+
+<p class="box-warning">Reporting NEEDS <strong>Who, What, When: Time Period</strong></p>
+
+<p>Company Name <br />
+Income Statement <br />
+For the Year Ending Dec. 31, 2024</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Assets</th>
+      <th style="text-align: left">Act</th>
+      <th style="text-align: right">Debit</th>
+      <th style="text-align: right">Credit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Assets</td>
+      <td style="text-align: left">Cash</td>
+      <td style="text-align: right">$950</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Assets</td>
+      <td style="text-align: left">Supplies</td>
+      <td style="text-align: right">200</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Assets</td>
+      <td style="text-align: left">A/R</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Assets</td>
+      <td style="text-align: left">Equipment</td>
+      <td style="text-align: right">4,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Liability</td>
+      <td style="text-align: left">A/P</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">$400</td>
+    </tr>
+    <tr>
+      <td>Liability</td>
+      <td style="text-align: left">Bank Loan Payable</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">5,000</td>
+    </tr>
+    <tr>
+      <td>Equity</td>
+      <td style="text-align: left">Common Shares</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">1,000</td>
+    </tr>
+    <tr>
+      <td>Equity</td>
+      <td style="text-align: left">Retained Earnings</td>
+      <td style="text-align: right">30,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>?</td>
+      <td style="text-align: left">Dividends</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>Revenue</td>
+      <td style="text-align: left">Fees</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">1250</td>
+    </tr>
+    <tr>
+      <td>Exp.</td>
+      <td style="text-align: left">Rent Exp.</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">600</td>
+    </tr>
+    <tr>
+      <td>Exp.</td>
+      <td style="text-align: left">Tele Exp.</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">400</td>
+    </tr>
+    <tr>
+      <td>Exp.</td>
+      <td style="text-align: left">Salaries Exp.</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">1000</td>
+    </tr>
+    <tr>
+      <td>Exp.</td>
+      <td style="text-align: left">Totals</td>
+      <td style="text-align: right">7,650</td>
+      <td style="text-align: right">7,650</td>
+    </tr>
+    <tr>
+      <td>Exp.</td>
+      <td style="text-align: left"><strong>Debits must equal Credits</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>DOUBLE UNDERLINE</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h3 id="key-benefits-it-offers">Key benefits it offers:</h3>
+
+<ol>
+  <li>
+    <p>Verifies Accuracy: The fundamental purpose of a trial balance is to check for mathematical errors in your accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.</p>
+  </li>
+  <li>
+    <p>Identifies Potential Issues: While a balanced trial balance doesn’t guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don’t match, it indicates an error somewhere in your system, prompting you to investigate and rectify the issue before proceeding further.</p>
+  </li>
+  <li>
+    <p>Provides Overview of Financial Position: The trial balance summarizes the balances of all your accounts, offering a snapshot of your financial position at a specific point in time. You can quickly see your total assets, liabilities, equity, income, and expenses, gaining a high-level understanding of your business’s financial health.</p>
+  </li>
+  <li>
+    <p>Aids in Financial Statement Preparation: The trial balance forms the foundation for preparing financial statements such as the balance sheet and income statement. By having all the balances readily available, you can easily transfer them to the appropriate statements, saving time and ensuring consistency.</p>
+  </li>
+  <li>
+    <p>Internal Control Tool: Regularly preparing trial balances serves as a form of internal control. It promotes discipline and accuracy in daily bookkeeping and helps prevent errors and fraud from going undetected.</p>
+  </li>
+  <li>
+    <p>Communication Tool: The trial balance can be used as a communication tool for stakeholders like managers, investors, or auditors. It provides a concise overview of the company’s financial standing, facilitating discussions and decision-making.</p>
+  </li>
+</ol>
+
+<p>Overall, a trial balance is a valuable tool at various stages of the accounting process. It promotes accuracy, identifies potential issues, facilitates financial statement preparation, and serves as an internal control measure.</p>]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[List all accounts in order: A, L, O(wners Equity), R, E    &amp; check for equal balances.]]></summary></entry><entry><title type="html">5 adjusting journal entries</title><link href="http://localhost:4000/2024-01-25-5-adjustment-types.html" rel="alternate" type="text/html" title="5 adjusting journal entries" /><published>2024-01-25T00:00:00-05:00</published><updated>2024-01-25T00:00:00-05:00</updated><id>http://localhost:4000/5-adjustment-types</id><content type="html" xml:base="http://localhost:4000/2024-01-25-5-adjustment-types.html"><![CDATA[<h2 id="adjustments-5-types">adjustments: 5 types</h2>
+
+<p><br /></p>
+
+<p><strong><em>Adjustments or adjusting entries</em> ARE</strong> journal entries made to update acts for previously unrecorded items.</p>
+
+<h4 id="1-prepaid-expense">1. <strong>Prepaid Expense</strong></h4>
+
+<ul>
+  <li>
+    <p>Adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered <strong>assets</strong>.</p>
+  </li>
+  <li>
+    <p>“Prepaid expense account” are commonly used for:</p>
+    <ul>
+      <li>Pre-paid Rent</li>
+      <li>Pre-paid Insurance</li>
+      <li>Pre-paid Advertising</li>
+      <li>Pre-paid Supplies, etc.</li>
+      <li>For example: Auto insurance is prepaid for a yr but has not <strong>expired</strong> by end of period/yr.</li>
+    </ul>
+  </li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Type</th>
+      <th style="text-align: left">Setup</th>
+      <th style="text-align: left">Adjustment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Pre-paid accounts</td>
+      <td style="text-align: left">dr: prepaid-act.<br />   cr: cash</td>
+      <td style="text-align: left">act-expense<br />   prepaid-act.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Prepaid Exp/Asset</td>
+      <td style="text-align: left">Pre-paid Expense (asset)</td>
+      <td style="text-align: left">Expense</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<ol>
+  <li>
+    <p>Depreciation exp.</p>
+  </li>
+  <li>
+    <p>Accrued exp.</p>
+  </li>
+  <li>
+    <p>Accrued rev.</p>
+  </li>
+  <li>
+    <p>Unearned rev.</p>
+  </li>
+</ol>
+
+<hr />
+
+<p>Table of examples</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Type</th>
+      <th style="text-align: left">Setup</th>
+      <th style="text-align: left">Adjustment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Pre-paid expense/asset</td>
+      <td style="text-align: left">pre-paid Act-asset<br />  cash</td>
+      <td style="text-align: left">Act expense<br />  pre-paid Act-Asset</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Depreciation expense</td>
+      <td style="text-align: left">LT (asset) Act<br />  cash</td>
+      <td style="text-align: left">Depreciation expense<br />  Asset-Depreciation</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Accrued expense</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Act expense<br />  Act payable</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Accrued revenue</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Act receivable<br />  Act revenue</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Unearned revenue</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: left">Unearned revenue<br />  Act revenue</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="adjustment-type">Adjustment Type</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Type</th>
+      <th style="text-align: left">Account Debited</th>
+      <th style="text-align: left">Account Credit</th>
+      <th style="text-align: left">Description</th>
+      <th style="text-align: left">Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Prepaid Exp/Asset</td>
+      <td style="text-align: left">Pre-paid Expense (asset)</td>
+      <td style="text-align: left">Expense</td>
+      <td style="text-align: left">Expenses are paid in advance but may not be used up.</td>
+      <td style="text-align: left">Auto insurance is prepaid for a yr but may not be used up by end of yr.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Depreciation Exp.</td>
+      <td style="text-align: left">Depreciation Expense</td>
+      <td style="text-align: left">Accumulated Depreciation<br />(Contra-Asset)</td>
+      <td style="text-align: left">Allocates the accumulated cost Depreciation of an asset over a period.</td>
+      <td style="text-align: left">Cars depreciate over time and that expense is deducted from its value.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Accrued Exp.</td>
+      <td style="text-align: left">Expense</td>
+      <td style="text-align: left">Accrued Expense (Liability)</td>
+      <td style="text-align: left">Recognizes expenses incurred but not yet paid.</td>
+      <td style="text-align: left">Record $200 of accrued utility expense for the month.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Unearned/Accrued Rev.</td>
+      <td style="text-align: left">Revenue</td>
+      <td style="text-align: left">Accrued Revenue (Asset)</td>
+      <td style="text-align: left">Recognizes revenue earned as if it were A/R</td>
+      <td style="text-align: left">Work is done ahead of time and then billed sometime later.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Deferred Rev.</td>
+      <td style="text-align: left">Deferred Revenue</td>
+      <td style="text-align: left">Revenue</td>
+      <td style="text-align: left">Recognizes cash payment BEFORE work is done.</td>
+      <td style="text-align: left">Tuition for uni is a de</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p>Five common types of adjustments can vary depending on the business.</p>
+
+<ol>
+  <li>
+    <p><em>Depreciation Expenses</em>: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset’s cost isn’t recognized all at once but gradually spread over time. It benefits the business as the investment is being used.</p>
+  </li>
+  <li>
+    <p><em>Accrued Expenses</em>: These adjustments recognize expenses incurred but not yet paid, resulting in a liability.</p>
+  </li>
+  <li>
+    <p><em>Accrued Revenues</em>: These adjustments recognize revenue earned but have yet to be recorded because cash has yet to be received.</p>
+  </li>
+  <li>
+    <p><em>Deferred Revenues</em>: These adjustments recognize cash received in advance for services you still need to provide. For example, suppose you receive a subscription payment in December for January access. In that case, you’d need to defer the revenue in December and record a deferred revenue liability.</p>
+  </li>
+</ol>
+
+<p><a href="https://www.youtube.com/watch?v=gkqoIqeiCsU">FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell</a></p>
+
+<hr />]]></content><author><name>mcc</name></author><category term="adjustments" /><summary type="html"><![CDATA[adjustments: 5 types]]></summary></entry><entry><title type="html">4 financial ratios</title><link href="http://localhost:4000/2024-01-17-afin-ratios.html" rel="alternate" type="text/html" title="4 financial ratios" /><published>2024-01-17T00:00:00-05:00</published><updated>2024-01-17T00:00:00-05:00</updated><id>http://localhost:4000/afin-ratios</id><content type="html" xml:base="http://localhost:4000/2024-01-17-afin-ratios.html"><![CDATA[<p>3 Common Financial Ratios</p>
+
+<ol>
+  <li>
+    <p><strong>Current Ratio</strong> = Current Assets / Current Liabilities</p>
+
+    <ul>
+      <li><em>Ratio &gt; 1.5 is good</em> <br />
+<br /></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Debt Ratio</strong> = Total Liabilities / Total Assets</p>
+
+    <ul>
+      <li><em>Present as %</em>  <br />
+<br /></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Equity Ratio</strong> = Total S.E. / Total Assets</p>
+
+    <ul>
+      <li><em>Present as %</em></li>
+      <li>Equity ratio = 1 - Debt ratio</li>
+    </ul>
+  </li>
+</ol>
+
+<hr />]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[3 Common Financial Ratios Current Ratio = Current Assets / Current Liabilities Ratio &gt; 1.5 is good]]></summary></entry><entry><title type="html">3 balance sheet</title><link href="http://localhost:4000/2024-01-17-bbalance-sheet.html" rel="alternate" type="text/html" title="3 balance sheet" /><published>2024-01-17T00:00:00-05:00</published><updated>2024-01-17T00:00:00-05:00</updated><id>http://localhost:4000/bbalance-sheet</id><content type="html" xml:base="http://localhost:4000/2024-01-17-bbalance-sheet.html"><![CDATA[<p class="box-success"><strong>A = L + E</strong><br />
+Use: Total Equity from Statement of Equity</p>
+
+<ol>
+  <li>Prepare 6 column worksheet</li>
+  <li>Gather Current Assets &amp; Long-term Assets</li>
+  <li>Gather Current Liabilities &amp; Long-term Liabilities (NOT Expenses)</li>
+  <li>Include Equity from Statement of Equity</li>
+</ol>
+
+<p class="box-warning"><strong>Remember:</strong> Reports NEED: Who, What, When</p>
+
+<hr />
+
+<p>Co.  <br />
+Balance Sheet <br />
+For the date 12/31/24</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Assets</th>
+      <th style="text-align: right"> </th>
+      <th style="text-align: right"> </th>
+      <th style="text-align: right">Liabilities</th>
+      <th style="text-align: right"> </th>
+      <th style="text-align: right"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right"><strong>Current Assets</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>Current Liabilities</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Cash</td>
+      <td style="text-align: right">$5,000</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">A/P</td>
+      <td style="text-align: right">$2,200</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">A/R</td>
+      <td style="text-align: right">1,000</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">Wages Payable</td>
+      <td style="text-align: right">1,600</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Office Supplies</td>
+      <td style="text-align: right">500</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><em>Total Current Liabilities</em></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">3,800</td>
+    </tr>
+    <tr>
+      <td style="text-align: right"><strong>Total Current Assets</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">$6,500</td>
+      <td style="text-align: right"><strong>Long-term Liabilities</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right"><strong>Long-term Assets</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">Bank Loan</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">45,000</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Equipment, net</td>
+      <td style="text-align: right">30,000</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>Total Liabilities</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">48,800</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Building, net</td>
+      <td style="text-align: right">100,000</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>Equity</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right"><strong>Total L-T Assets</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">130,000</td>
+      <td style="text-align: right">Common shares</td>
+      <td style="text-align: right">60,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right"><strong>Grand Total Assets</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">136,500</td>
+      <td style="text-align: right">Retained Earnings</td>
+      <td style="text-align: right">27,700</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>Total Equity</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">87,700</td>
+    </tr>
+    <tr>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"><strong>Total L+E</strong></td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">$136,500</td>
+    </tr>
+    <tr>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><img src="/assets/tony-bell/balance.sheet.numbers.png" alt="Example Income Statement" /></p>
+
+<hr />]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[A = L + E Use: Total Equity from Statement of Equity]]></summary></entry><entry><title type="html">2 changes in equity</title><link href="http://localhost:4000/2024-01-17-cchanges-in-equity.html" rel="alternate" type="text/html" title="2 changes in equity" /><published>2024-01-17T00:00:00-05:00</published><updated>2024-01-17T00:00:00-05:00</updated><id>http://localhost:4000/cchanges-in-equity</id><content type="html" xml:base="http://localhost:4000/2024-01-17-cchanges-in-equity.html"><![CDATA[<p class="box-success">Include: Capital, Common Shares, Income, Dividends, Retained Earnings &amp; Withdrawls</p>
+
+<p class="box-warning">The <strong>Net Income</strong> from <strong>Changes in Equity</strong> is needed for calculation for equity in <strong>Balance Sheet</strong>.</p>
+
+<ol>
+  <li>Include: <strong>Capital, Common Shares, Dividends, Retained Earnings &amp; Withdrawls</strong></li>
+  <li>Set-up 4 column worksheet</li>
+  <li>ADD: Capital + Common Shares at beginning of period</li>
+  <li>ADD: Retained Earning at beginning of period</li>
+  <li>+/- Net Income/Losses</li>
+  <li>+/- Common shares bought/sold</li>
+  <li>SUBTRACT: Dividends &amp; Withdrawls</li>
+</ol>
+
+<p><strong>Prepare a statement of changes in equity for the year ended December 31, 2024.</strong></p>
+
+<hr />
+
+<p><strong>WHO</strong>: <em>Co.</em><br />
+<strong>WHAT</strong>: <em>Statement in Changes of Shareholders Equity</em><br />
+<strong>WHEN</strong>: <em>For the Period Ending 12/31/24</em></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right"> </th>
+      <th style="text-align: right">Common Shares</th>
+      <th style="text-align: right">Retained Earnings</th>
+      <th style="text-align: right">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">Jan. 1, 2024</td>
+      <td style="text-align: right">$60,000</td>
+      <td style="text-align: right">$10,000</td>
+      <td style="text-align: right">$70,000</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Net Income (ADD)</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">20,700</td>
+      <td style="text-align: right">20,700</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Shares Bought/Sold</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Dividends (SUBTRACT)</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">(3,000)</td>
+      <td style="text-align: right">(3,000)</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Dec. 31, 2024</td>
+      <td style="text-align: right">$60,000</td>
+      <td style="text-align: right">$27,700</td>
+      <td style="text-align: right">$87,700</td>
+    </tr>
+    <tr>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><img src="/assets/tony-bell/equity.numbers.png" alt="Example Income Statement" /></p>
+
+<p><strong>Alternative Names</strong>:</p>
+
+<ol>
+  <li><strong>Statement of Shareholders’ Equity</strong></li>
+  <li><strong>Changes in Shareholders’ Equity</strong></li>
+  <li><strong>Shareholders’ Equity Movement</strong></li>
+  <li><strong>Statement of Equity</strong></li>
+  <li><strong>Owners’ Equity Statement</strong>: In smaller businesses with sole ownership, this term replaces “Shareholders’” to reflect the specific ownership structure.</li>
+  <li><strong>Equity and Liabilities Statement</strong>: A less common variation combines this statement with the “Statement of Liabilities and Shareholders’ Equity” into a single report.</li>
+  <li><strong>Condensed Statement of Changes in Shareholders’ Equity</strong></li>
+  <li><strong>Schedule of Changes in Shareholders’ Equity</strong></li>
+</ol>
+
+<ul>
+  <li>Find this example at Tony Bell @ accountingworkbook.com</li>
+</ul>
+
+<hr />]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[Include: Capital, Common Shares, Income, Dividends, Retained Earnings &amp; Withdrawls]]></summary></entry><entry><title type="html">1 income statement</title><link href="http://localhost:4000/2024-01-17-dincome-statement.html" rel="alternate" type="text/html" title="1 income statement" /><published>2024-01-17T00:00:00-05:00</published><updated>2024-01-17T00:00:00-05:00</updated><id>http://localhost:4000/dincome-statement</id><content type="html" xml:base="http://localhost:4000/2024-01-17-dincome-statement.html"><![CDATA[<blockquote class="box-success">
+  <p>Revenue &amp; Expenses -&gt; Net Income</p>
+</blockquote>
+
+<p>The <strong>Income Statement</strong> is needed for <strong>Net Income/Loss in Equity</strong> calculations.</p>
+
+<p>Step 1: <strong>Obtain Revenue &amp; Expense accounts</strong>   <br />
+Step 2: Use 3 columns; <strong>Act, Amount, Total</strong> <br />
+Step 3: List Revenues &amp; total <br />
+Step 4: List Expenses &amp; total  <br />
+Step 5: Calculate Net &amp; double underline bottom line</p>
+
+<blockquote class="box-success">
+  <p>Reporting NEEDS <strong>Who, What, When: Time Period</strong></p>
+</blockquote>
+
+<p>Company Name <br />
+Income Statement <br />
+For the Year Ending Dec. 31, 2024</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: right">Act</th>
+      <th style="text-align: right">Amount</th>
+      <th style="text-align: right">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: right">Revenue</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Shuttle Rides</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">$69,300</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Expenses</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Fuel</td>
+      <td style="text-align: right">$11,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Depreciation</td>
+      <td style="text-align: right">2,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Ins.</td>
+      <td style="text-align: right">4,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Tele.</td>
+      <td style="text-align: right">400</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Wages</td>
+      <td style="text-align: right">30,000</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Utils.</td>
+      <td style="text-align: right">1,200</td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Total Expenses</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">48,600</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">Net Income</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right">$20,700 <br /> <strong>DOUBLE UNDERLINE</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote class="box-warning">
+  <p>Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.</p>
+</blockquote>
+
+<p><img src="/assets/tony-bell/prepare-income-statement.png" alt="Example Income Statement" /></p>
+
+<ul>
+  <li>Find this example at Tony Bell @ accountingworkbook.com</li>
+</ul>]]></content><author><name>mcc</name></author><category term="reporting" /><summary type="html"><![CDATA[Revenue &amp; Expenses -&gt; Net Income]]></summary></entry><entry><title type="html">dr cr infographic</title><link href="http://localhost:4000/2024-01-16-dr-cr-infographic.html" rel="alternate" type="text/html" title="dr cr infographic" /><published>2024-01-16T00:00:00-05:00</published><updated>2024-01-16T00:00:00-05:00</updated><id>http://localhost:4000/dr-cr-infographic</id><content type="html" xml:base="http://localhost:4000/2024-01-16-dr-cr-infographic.html"><![CDATA[<p>A table to help remember the debit/credit tables.</p>
+
+<p><img src="/assets/tony-bell/dead.crls.png" alt="Debit-Credit Table" class="mx-auto d-block" /></p>
+
+<hr />]]></content><author><name>mcc</name></author><category term="drcr" /><summary type="html"><![CDATA[A table to help remember the debit/credit tables.]]></summary></entry></feed>
