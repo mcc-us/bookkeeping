@@ -4,7 +4,7 @@ title: adjusting entries table
 tags: [adjustments, cheatsheet]
 ---
 
-### 5 Adjustment Types
+## 5 Adjustment Types
 
 || Type | Setup | Adjustment |
 |-|:-----|:------|:-----------|
