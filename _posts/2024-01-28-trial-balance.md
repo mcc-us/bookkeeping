@@ -12,7 +12,7 @@ List all accounts in order: **A, L, O(wners Equity), R, E**<br>&nbsp;&nbsp;&nbsp
 
 Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
 
-### Steps
+## Steps
 
 1. Enter the general ledger account names.   
 
@@ -24,7 +24,7 @@ Trial balances promote accuracy, identify potential issues, facilitate financial
 
 5. Double underscore under each Trial Balance column to show that the work in that column is complete.   
 
-### Notice that the trial balance has four new accounts:   
+## Notice that the trial balance has four new accounts:   
 
 1. Accumulated Depreciation—Equipment,  
 2. Supplies Expense,   
@@ -32,7 +32,7 @@ Trial balances promote accuracy, identify potential issues, facilitate financial
 4. Depreciation Expense—Equipment.   
 
 
-### Rules for Presentation:
+## Rules for Presentation:
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
   - Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).   

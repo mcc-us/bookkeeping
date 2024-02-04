@@ -6,7 +6,7 @@ math: true
 ---
 
 
-#### A. Straight line depreciation
+## A. Straight line depreciation
 
 As found in [straight line depreciation - youtube](https://www.youtube.com/watch?v=iruD9KTNnNc)
 
@@ -16,7 +16,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 > **Example**: Your company buys a $50k truck. How much is depreciation?
 
-#### A. 1. Write down known info
+### A. 1. Write down known info
 
 | Straight Line Depreciation Example |  |
 |:-----------------------------------|-:|
@@ -29,7 +29,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 
 
-#### A. 2. Calculate the Depreciation Expense/Period
+### A. 2. Calculate the Depreciation Expense/Period
 
 - Annual depreciation expense:
 
@@ -41,7 +41,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 | Depreciable cost / year | $8,000 |
 
 
-#### A. 3. Build Depreciation Schedule/Table
+### A. 3. Build Depreciation Schedule/Table
 
 | Year | Opening Value | Depreciation Expense | Accumulated Depreciation | Closing Value |
 |---:|--------:|-------:|-------:|--------:|
@@ -52,7 +52,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 | 5  |  18,000 |  8,000 | 40,000 |  10,000 |
 
 
-#### B. Double declining depreciation
+## B. Double declining depreciation
 
 **3 steps**
 
@@ -66,7 +66,7 @@ Key components:
 
 > **Example**: Your company buys a $50k truck. How much is depreciation?
 
-#### B. 1. Write down your known info
+### B. 1. Write down your known info
 
 | Double-Declining Depreciation Example ||
 | :--- |-----: |
@@ -77,7 +77,7 @@ Key components:
 | Useful life | 5 yr |
 
 
-#### B. 2. Calculate the Depreciation Rate
+### B. 2. Calculate the Depreciation Rate
 
 DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 
@@ -87,7 +87,7 @@ DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 
 
 
-#### B. 3. Build Depreciation Schedule/Table
+### B. 3. Build Depreciation Schedule/Table
 
 | Year | Opening Value | Depreciation Expense | Accumulated Depreciation | Closing Value |
 |---:|--------:|--------:|--------:|--------:|
@@ -97,7 +97,7 @@ DDB Depreciation Expense = (2 / Useful Life) x Book Value at Beginning of Period
 | 4  |  10,800 |   4,320 |  43,520 |   6,480 |
 | 5  |   6,480 |   2,592 |  46,112 |   3,888 |
 
-#### Notes:
+### Notes:
 
 - *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
 - *Salvage Value*: If a salvage value is expected at the end of the asset's life, it's typically ignored in DDB calculations until the final year.
