@@ -17,8 +17,8 @@ permalink: /
 - [dear=clip:](2023-12-27-dear-clip)  
 - [worksheets:](2024-01-16-worksheet-template)  
 ## Resources   
-- [McGraw Course:]("https://connect.mheducation.com/connect/hmStudentCourseList.do")  
-- [AIPB:]("https://aipb.org)   
-- [NACPB:]("https://www.certifiedpublicbookkeeper.org)   
+- [McGraw Course:](https://connect.mheducation.com/connect/hmStudentCourseList.do)  
+- [AIPB:](https://aipb.org)   
+- [NACPB:](https://www.certifiedpublicbookkeeper.org)   
 
     
