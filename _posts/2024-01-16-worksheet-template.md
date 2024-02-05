@@ -22,17 +22,11 @@ tags:
         title="portrait-worksheet" 
         height="400" 
         width="712" 
-        allowfullscreen="true">
+        allowfullscreen="false">
     </iframe>
 </div>
 
 ## General
 
-<div class="pdf-container">
-    <iframe src="assets/worksheets/general-journal-template.png" 
-        title="portrait-worksheet" 
-        height="400" 
-        width="712" 
-        allowfullscreen="true">
-    </iframe>
-</div>
+![general-worksheet](/assets/worksheets/general-journal-template.png){: .mx-auto.d-block :}
+
