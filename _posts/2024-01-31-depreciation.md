@@ -29,7 +29,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 - Annual depreciation expense:
 
-= $\frac{(initial - salvage~ ~value)}{(usefull ~ ~years)} = \frac{\$50k ~-~\$10k}{5 yr} =$ \$8k / yr
+= $\Large \frac{(initial - salvage~ ~value)}{(usefull ~ ~years)} = \frac{\$50k ~-~\$10k}{5 yr} =$ \$8k / yr
 
 **Depreciable cost / year = $8,000**
 
