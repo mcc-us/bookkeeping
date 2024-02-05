@@ -4,9 +4,12 @@ title: 3 balance sheet
 tags: reporting
 ---
 
-{: .box-success}
-**A = L + E**  
-Use: Total Equity from Statement of Equity   
+## A = L + E* 
+
+>Use: 
+>
+>Total Equity from Statement of Equity   
+{: .block-tip }
 
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  
@@ -14,9 +17,10 @@ Use: Total Equity from Statement of Equity
 4. Include Equity from Statement of Equity 
 
 {: .box-warning}
-**Remember:** Reports NEED: Who, What, When  
-
-
+> #### Remember:
+>
+>Reports NEED: WHO, WHAT, WHEN (Single Time)  
+{: .block-tip }
 
 Co.    
 Balance Sheet   

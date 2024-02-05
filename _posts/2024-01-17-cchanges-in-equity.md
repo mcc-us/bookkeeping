@@ -22,8 +22,6 @@ The **Net Income** from **Changes in Equity** is needed for calculation for equi
 
 **Prepare a statement of changes in equity for the year ended December 31, 2024.**
 
----
-
 **WHO**: *Co.*  
 **WHAT**: *Statement in Changes of Shareholders Equity*  
 **WHEN**: *For the Period Ending 12/31/24*  
@@ -37,7 +35,6 @@ The **Net Income** from **Changes in Equity** is needed for calculation for equi
 | Dec. 31, 2024 |       $60,000 |          $27,700 |  $87,700|
 |               |               |                  |         |
 
----
 
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 

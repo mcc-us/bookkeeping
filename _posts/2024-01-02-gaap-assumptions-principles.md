@@ -4,21 +4,21 @@ layout: post
 tags: gaap  
 ---
 
-### 4 GAAP Assumptions   
+## 4 GAAP Assumptions   
 
 1. **Separate Entity** - Personal acts always separated from business acts   
 2. **Going Concern** - Business will continue to cover its obligations and debts, etc  
 3. **Monetary Unit** - Information is ONLY expressed in monetary terms  
 4. **Periodicity of Income** - Activities are separated into periods: monthly, quarterly, or yearly
 
-### 4 Major Principles  
+## 4 Major Principles  
 
 1. **Historical Cost basis** - Past amounts or market value determine values of assets or liabilities   
 2. **Revenue Recognition** - Revenue is recognized when it is earned (delivery of service or good) and realized (cost received)   
 3. **Matching** - Revenue and Liabilities are matched to the 'period' they occurred.   
 4. **Full Disclosure** - Full, relevant, honest and open monetary information  
 
-### More GAAP
+## More GAAP
 
 - GAAP is developed by Financial Accounting Standards Board (FASB).  
 - Standards can be changed by petitioning FASB. It's more common for the FASB to initiate changes based on research, public input, and emerging issues.  

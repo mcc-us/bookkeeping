@@ -12,7 +12,6 @@ tags: reporting
 {: .block-warning }
 
 
-
 Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
 
 ## Steps
@@ -82,7 +81,7 @@ For the Year Ending Dec. 31, 2024
 
 
 
-### Key benefits it offers:
+## Key benefits it offers:
 
 1. Verifies Accuracy: The fundamental purpose of a trial balance is to check for mathematical errors in your accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.
 
