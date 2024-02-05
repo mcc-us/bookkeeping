@@ -25,8 +25,8 @@ Order accounts from top to bottom with ALORE
 ## 5. **3 Financial Ratios - Current, Debt & Equity ratios**  
 
 
-> ##### Remember
+> ##### Reports NEED:
 >
-> Reports NEED: WHO, WHAT, WHEN
+> WHO, WHAT, WHEN
 {: .block-warning }
 

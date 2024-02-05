@@ -3,15 +3,15 @@ layout: post
 title: chart of accounts
 ---
 
-**Typically, 5 categories: A. L. O. R. E.**
 
-*Assets, Liabilities, Owner Equity, Revenue, Expenses*
+> ##### A. L. O. R. E.
+>
+> Assets, Liabilities, Owner Equity, Revenue, Expenses
+{: .block-tip }
 
-*Common numbering:*   
+Example: C.O.A.
 
-C.O.A.
-
-| Range | Account Type | Category or Financial Report |
+| Range | Account Type | Financial Report |
 |:-|:-|:-|
 | 100 – 199 | Assets | Balance Sheet |
 | 200 – 299 | Liabilities | Balance Sheet |
