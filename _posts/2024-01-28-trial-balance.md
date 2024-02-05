@@ -7,7 +7,7 @@ tags: reporting
 
 > ##### List all accounts in order  
 >
-> A, L, O(wners Equity), R, E &nbsp;&nbsp;&nbsp;&nbsp; Then check for equal balances.   
+> A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.   
 {: .block-warning }
 
 
@@ -15,6 +15,7 @@ tags: reporting
 2. Identify potential issues,   
 3. Facilitate financial statement preparation,  
 4. Serve as an internal control.   
+
 
 ## 5 Steps
 
@@ -27,40 +28,37 @@ tags: reporting
 4. Net differences between debits & credits, and write in balance(s).  
 
 5. Double underscore Trial Balance columns to show that the work in that column is complete.   
-6. NOTE: Trial Balance has 4 new accounts:
-   1. Accumulated Depreciation-Equipment, 
-   2. Supplies Expense, 
-   3. Depreciation Expense-Equipment
 
-## Notice that the trial balance has four new accounts:   
-
-1. Accumulated Depreciation—Equipment,  
-2. Supplies Expense,   
-3. Rent Expense,    
-4. Depreciation Expense—Equipment.   
+6. **NOTE: Trial Balance has 4 new accounts**:  
+   1. Accumulated Depreciation—Equipment,  
+   2. Supplies Expense,  
+   3. Rent Expense,  
+   4. Depreciation Expense—Equipment.     
 
 
 ## Rules for Presentation:
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
-  - Cash always appears first followed by marketable securities, accounts receivable, supplies, inventory, prepaid items then fixed assets (which appear in the order of longevity).   
-
-For example, store equipment, office equipment, buildings and land would appear in the order presented under fixed assets.   
+  - Cash first followed by 
+  - marketable securities, 
+  - accounts receivable, 
+  - supplies, 
+  - inventory, 
+  - prepaid items then 
+  - fixed assets (which appear in the order of longevity).     
 
 2. Liability accounts appear based on their earliest due date.   
-  - Consequently A/P always appear first followed by notes payable and mortgages payable.   
+-  A/P appears first followed by 
+-  bank notes payable and 
+-  mortgages payable.   
 
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
 
+> Reporting NEEDS **Who, What, When: Time Period**
 {: .box-warning}
-REMEMBER: Debits = Credits for Trial Balance
 
-
-
-{: .box-warning}
-Reporting NEEDS **Who, What, When: Time Period**
 
 Company Name   
 Income Statement   
@@ -101,4 +99,3 @@ For the Year Ending Dec. 31, 2024
 
 6. Communication Tool: The trial balance can be used as a communication tool for stakeholders like managers, investors, or auditors. It provides a concise overview of the company's financial standing, facilitating discussions and decision-making.
 
-Overall, a trial balance is a valuable tool at various stages of the accounting process. It promotes accuracy, identifies potential issues, facilitates financial statement preparation, and serves as an internal control measure.
