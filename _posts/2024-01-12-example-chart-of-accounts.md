@@ -13,4 +13,4 @@ tags: examples
 
 ![Example 4](/assets/misc/chart-of-accounts3.jpg)
 
----
+

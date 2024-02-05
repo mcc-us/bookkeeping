@@ -5,10 +5,13 @@ tags: reporting
 ---
 
 
-{: .box-success}
-List all accounts in order: **A, L, O(wners Equity), R, E**<br>&nbsp;&nbsp;&nbsp;&nbsp;& check for equal balances.
+> ##### List all accounts in order  
+>
+> A, L, O(wners Equity), R, E   
+> Then check for equal balances.   
+{: .block-warning }
 
----
+
 
 Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
 
@@ -44,12 +47,12 @@ For example, store equipment, office equipment, buildings and land would appear 
 
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
----
+
 
 {: .box-warning}
 REMEMBER: Debits = Credits for Trial Balance
 
----
+
 
 {: .box-warning}
 Reporting NEEDS **Who, What, When: Time Period**
@@ -77,7 +80,7 @@ For the Year Ending Dec. 31, 2024
 | Exp. | Totals | 7,650 | 7,650 |
 | Exp. | **Debits must equal Credits** | | **DOUBLE UNDERLINE** |
 
----
+
 
 ### Key benefits it offers:
 

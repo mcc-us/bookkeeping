@@ -21,4 +21,3 @@ tags: reporting
    - *Present as %*   
    - Equity ratio = 1 - Debt ratio 
   
----

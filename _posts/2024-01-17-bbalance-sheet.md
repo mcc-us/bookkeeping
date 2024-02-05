@@ -16,7 +16,7 @@ Use: Total Equity from Statement of Equity
 {: .box-warning}
 **Remember:** Reports NEED: Who, What, When  
 
----
+
 
 Co.    
 Balance Sheet   
@@ -38,8 +38,8 @@ For the date 12/31/24
 | | | |**Total L+E**| |$136,500|
 | | | || ||
 
----
+
    
 ![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
 
----
+

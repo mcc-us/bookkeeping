@@ -44,4 +44,3 @@ o. More government regulation <br>
 | Coroporation    | | |
 | S-Corporation   | | |
 
----

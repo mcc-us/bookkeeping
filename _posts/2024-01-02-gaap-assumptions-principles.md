@@ -30,4 +30,3 @@ tags: gaap
   - Timely, accurate and fair   
   - Assets and liabilities should be objectively determinable  
 
----

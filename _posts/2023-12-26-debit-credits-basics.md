@@ -33,12 +33,9 @@ tags: drcr
 | Debit + | Credit (-)|
 
 
----
 
 **Liabilities increase with Credits, decrease with Debits** 
 
 || Liabilities |
 |:----------|--------:|
 | Debit (-) | Credit +|
-
----

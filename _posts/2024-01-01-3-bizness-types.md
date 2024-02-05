@@ -44,4 +44,3 @@ Chapter1 pg17
 - The advantage is that owner's have limited liability and avoid double taxation.
 - Like any corp, the business has indeterminate life span
 
----

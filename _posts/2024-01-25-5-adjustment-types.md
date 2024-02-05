@@ -76,4 +76,3 @@ Five common types of adjustments can vary depending on the business.
 
 [FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell](https://www.youtube.com/watch?v=gkqoIqeiCsU)
 
----

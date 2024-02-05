@@ -9,5 +9,3 @@ tags: examples
 
 ![Example 2](/assets/misc/Sample-Accounting-Income-Statement2.webp)
 
-
----

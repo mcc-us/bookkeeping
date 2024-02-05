@@ -4,9 +4,10 @@ title: 2 changes in equity
 tags: reporting
 ---
 
+> ##### Remember
+>
+> Include: Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls
 {: .box-success}
-Include: Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls
- 
 
 {: .box-warning}
 The **Net Income** from **Changes in Equity** is needed for calculation for equity in **Balance Sheet**.
@@ -53,4 +54,3 @@ The **Net Income** from **Changes in Equity** is needed for calculation for equi
    
 - Find this example at Tony Bell @ accountingworkbook.com
 
----
