@@ -69,7 +69,7 @@ Key components:
 
 *double declining depreciation* =   
 
-$2 ~x~ \frac{(initial~ ~value)}{(usefull ~ ~years)} = \frac{2~x~\$50k }{5 yr} =$ **\$20k for first year**
+$\Large 2 ~x~ \frac{(initial~ ~value)}{(usefull ~ ~years)} = \frac{2~x~\$50k }{5 yr} =$ **\$20k for first year**
 
 
 | Straight Line Depreciation Example ||
