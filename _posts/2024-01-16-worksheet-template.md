@@ -28,6 +28,12 @@ tags:
 
 3. General
 
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 <div class="pdf-container">
     <iframe src="assets/misc/accounting-general-journal-template_325973.png" 
         title="portrait-worksheet" 
