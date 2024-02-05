@@ -20,13 +20,17 @@ tags: reporting
 
 1. Enter the general ledger account names.   
 
-2. Enter the ending balance of each account in either Debit or Credit column.   
+2. Enter the ending balance of each account in Debit or Credit column.   
 
-3. Total the Debit and Credit columns to prove that the trial balance is in balance.   
+3. Total the Debit and Credit columns to determine IF trial balance is in balance.   
 
-4. Compare the total debits with the total credits, **Net differences between debits & credits.**   
+4. Net differences between debits & credits, and write in balance(s).  
 
-5. Double underscore under each Trial Balance column to show that the work in that column is complete.   
+5. Double underscore Trial Balance columns to show that the work in that column is complete.   
+6. NOTE: Trial Balance has 4 new accounts:
+   1. Accumulated Depreciation-Equipment, 
+   2. Supplies Expense, 
+   3. Depreciation Expense-Equipment
 
 ## Notice that the trial balance has four new accounts:   
 
