@@ -7,14 +7,16 @@ tags: reporting
 
 > ##### List all accounts in order  
 >
-> A, L, O(wners Equity), R, E   
-> Then check for equal balances.   
+> A, L, O(wners Equity), R, E &nbsp;&nbsp;&nbsp;&nbsp; Then check for equal balances.   
 {: .block-warning }
 
 
-Trial balances promote accuracy, identify potential issues, facilitate financial statement preparation, and serve as an internal control.   
+1. Trial balances promote accuracy,   
+2. Identify potential issues,   
+3. Facilitate financial statement preparation,  
+4. Serve as an internal control.   
 
-## Steps
+## 5 Steps
 
 1. Enter the general ledger account names.   
 

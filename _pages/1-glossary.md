@@ -112,3 +112,5 @@ title: glossary
 46. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
 47. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+
+48. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
