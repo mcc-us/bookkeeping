@@ -3,8 +3,6 @@ layout: post
 title: temporary v permanent accounts
 ---
 
-## Describe differences? Give 2 examples.
-
 ## Key Differences:
 
 1. *Temporary accounts*: Measures short-term performance, usually <= year.   

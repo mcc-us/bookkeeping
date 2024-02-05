@@ -4,7 +4,7 @@ category:
 layout: post
 ---
 
-# Q. List Accounting Cycle steps
+# List Accounting Cycle steps
 
 >1. record
 >2. classify
