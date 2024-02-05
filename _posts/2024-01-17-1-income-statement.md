@@ -8,10 +8,10 @@ tags: reporting
 > ##### Remember
 >
 > Revenue & Expenses -> Net Income
+>
+> The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 {: .block-warning }
 
-
-The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 
 Step 1: **Obtain Revenue & Expense accounts**     
 Step 2: Use 3 columns; **Act, Amount, Total**   
@@ -49,8 +49,6 @@ For the Year Ending Dec. 31, 2024
 {: .block-warning }
 
 
-
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 - Find this example at Tony Bell @ accountingworkbook.com
-

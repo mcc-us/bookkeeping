@@ -6,14 +6,12 @@ tags: reporting
 
 > ##### Remember
 >
-> Include: Capital, Common Shares, Income, Dividends, Retained Earnings & Withdrawls
+> Include: Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .box-success}
 
-{: .box-warning}
-The **Net Income** from **Changes in Equity** is needed for calculation for equity in **Balance Sheet**.
   
-1. Include: **Capital, Common Shares, Dividends, Retained Earnings & Withdrawls**
-2. Set-up 4 column worksheet  
+1. Include: **Capital, Common Shares, Dividends, Retained Earnings (Net Income) & Withdrawls**
+2. Set-up 3 column worksheet: Act, Amount, Total
 3. ADD: Capital + Common Shares at beginning of period  
 4. ADD: Retained Earning at beginning of period  
 5.  +/- Net Income/Losses  
