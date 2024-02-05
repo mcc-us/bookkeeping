@@ -73,7 +73,7 @@ $\Large 2 ~x~ \frac{(initial~ ~value)}{(usefull ~ ~years)} = \frac{2~x~\$50k }{5
 
 
 | Straight Line Depreciation Example ||
-|---:|-----:|
+|:--|-----:|
 | 2 * Depreciation rate / year = 2/5 | 40% |
 
 
