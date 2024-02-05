@@ -20,12 +20,12 @@ Order accounts from top to bottom with ALORE
 
 #### 4. **Balance Sheet <- A = L + SE**  
 
-3 Columns: **Act, Amount, Total**  
+4 Columns: **Asset Act, Amount, (L+E)Act, Amount**  
 
 #### 5. **3 Financial Ratios - Current, Debt & Equity ratios**  
 
 
 {: .box-warning}
-**Reports NEED: WHO, WHAT, WHEN**   
+> **Reports NEED: WHO, WHAT, WHEN**   
 
 ---
