@@ -65,17 +65,16 @@ Key components:
 
 ### B. 2. Calculate the Depreciation Rate
 
-(DDB) Double Depreciation Expense = (2 / Useful Life) x Book Value Changing each period
+(DDB) Double Depreciation Expense = (2 / useful life) x Book Value based on the previous period
 
 *double declining depreciation* =   
 
-$\Large 2 ~x~ \frac{(initial~ ~value)}{(usefull ~ ~years)} = \frac{2~x~\$50k }{5 yr} =$ **\$20k for first year**
+$\Large 2 ~x~ \frac{(Value)}{(Usefull ~ ~Years)} = \frac{2~x~\$50k }{5 yr} =$ **\$20k for first year**
 
 
 | Straight Line Depreciation Example ||
 |:--|-----:|
 | 2 * Depreciation rate / year = 2/5 | 40% |
-
 
 
 ### B. 3. Build Depreciation Schedule/Table

@@ -25,7 +25,14 @@ Order accounts from top to bottom with ALORE
 #### 5. **3 Financial Ratios - Current, Debt & Equity ratios**  
 
 
-{: .box-warning}
 > **Reports NEED: WHO, WHAT, WHEN**   
+{: .box-warning}
+
+
+> ##### WARNING
+>
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
 
 ---
