@@ -47,68 +47,68 @@ title: glossary
 
 17. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)  
 
-17. *DEA-LER*: = Dividends, Expenses, Assets & Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
+18. *DEA-LER*: = Dividends, Expenses, Assets & Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
 
-18. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+19. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
-19. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+20. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
 
-20. *Equity*: synonyms   
+21. *Equity*: synonyms   
     1. Ownership interest   
     2. Investment: Highlights the financial stake   
     3. Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.   
     4. Capital: Broad term referring to the funds invested in a business.   
     5. Net worth   
 
-1. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
+22. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
    
-1. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
+23. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
 
-20. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
+24. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
 
-21. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
+25. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
 
-22. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
+26. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
 
-23. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
+27. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
 
-24. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
+28. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
 
-25. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
+29. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
     
-26. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement   
+30. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement   
    1. Consists of **Only Revenue and Expense accounts**     
 
-27. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
+31. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
    
-28. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
+32. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
 
-29. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
+33. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
     
-30. *List of approved suppliers*: Used as an internal control.   
+34. *List of approved suppliers*: Used as an internal control.   
 
-31. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
+35. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
     
-32. *Normal Balance*: The normal balance of an account is its **increase** side.   
+36. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
-33. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
+37. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
 
-34. *Prepaid Expenses*: Expenses are paid in advance but have not been used or consumed. **Think: paying ahead of time but still waiting to use it**.   
+38. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
 
-35. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
+39. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
 
-36. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts first, followed by liabilities and owner's equity.   
+40. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts first, followed by liabilities and owner's equity.   
 
-37. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
+41. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
 
-38. *Slide*: An accidental **movement of a decimal point**.   
+42. *Slide*: An accidental **movement of a decimal point**.   
 
-39. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+43. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-40. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+44. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-41. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+45. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-42. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+46. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-43. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+47. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
