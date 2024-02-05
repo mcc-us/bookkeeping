@@ -4,13 +4,13 @@ category:
 layout: post
 ---
 
-# Q. what are the steps of the **Accounting Cycle**?
+# Q. List Accounting Cycle steps
 
-1. record
-2. classify
-3. summarize financial transactions to generate accurate financial statements  
+>1. record
+>2. classify
+>3. summarize financial transactions to generate accurate financial statements  
 
-Here are the steps involved:
+9 steps:
 
 ## 1. Identify & Analyze Transactions:
 
