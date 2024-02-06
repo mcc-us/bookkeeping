@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 business types
+title: business types
 tags: businessTypes
 ---
 
