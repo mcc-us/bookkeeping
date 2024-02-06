@@ -1,3 +1,6 @@
+See: https://www.irs.gov/businesses/business-tax-account
+
+
 Overall:
 
 - Consider splitting the content into smaller sections with clear headings (e.g., "Understanding the Importance of Business Types", "Key Differences Between Sole Proprietorships, Partnerships, and Corporations", etc.) for better readability.
