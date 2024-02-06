@@ -1,11 +1,11 @@
 ---
 layout: post
-title: closing re-opening ledger accounts
+title: closing accounts
 tags: closingAccounts
 ---
 
 
-## Closing Accounts Flowchart:   
+## Flowchart:   
 
 Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.
 
@@ -37,7 +37,7 @@ For each temporary account:
 - List all accounts and their balances after posting closing entries.  
 - This ensures total debits still equal total credits, even after closing adjustments.   
 
-### 5. Close the Closing Account (Optional):
+### 5. Close the Closing Account (If Needed):
 
 Depending on your system:
 - Create a final entry to transfer the closing account balance (net income/loss) to the retained earnings account.   
