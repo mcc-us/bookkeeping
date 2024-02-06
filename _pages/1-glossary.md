@@ -17,7 +17,7 @@ title: glossary
 
 1. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
-1. *Adjusting entries*: Fixing incomplete or inaccurate records at the end of an accounting period, ensuring the proper accounts and values are entered. (**Cleaning up the financials before reporting**)   
+1. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
 1. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period. (**"updates to keep things accurate"**)   
 

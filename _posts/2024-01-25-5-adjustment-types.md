@@ -4,11 +4,9 @@ title: 5 adjusting journal entries
 tags: adjustments
 ---
 
-## adjustments: 5 types   
-
 **_Adjustments or adjusting entries_ ARE** journal entries made to update acts for previously unrecorded items.     
 
-### 1. **Prepaid Expense** 
+### 1. Prepaid Expense 
    
 - Adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
 
@@ -24,7 +22,6 @@ tags: adjustments
 | Pre-paid accounts | dr: prepaid-act.<br>&nbsp;&nbsp;&nbsp;cr: cash| act-expense<br>&nbsp;&nbsp;&nbsp;prepaid-act.|
 | Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense |
 
----
 
 1. Depreciation exp.
 
@@ -34,7 +31,6 @@ tags: adjustments
 
 4. Unearned rev.
 
----
 
 Table of examples
 
@@ -57,7 +53,6 @@ Table of examples
 | Deferred Rev. | Deferred Revenue | Revenue | Recognizes cash payment BEFORE work is done. | Tuition for uni is a de |
 
 
----
 
 ### Five common types of adjustments can vary depending on the business. 
 
