@@ -19,7 +19,7 @@ tags: reporting
 {: .box-warning}
 > #### Reports NEED:
 >
-> WHO, WHAT, WHEN (Single Time)  
+> WHO, WHAT, WHEN (On Day / Date Time)  
 {: .block-tip }
 
 Co.    
