@@ -1,7 +1,7 @@
 ---
 layout: post
 title: worksheet templates
-tags:  
+tags:  worksheet
 ---
 
 ## Portrait
@@ -28,5 +28,12 @@ tags:
 
 ## General
 
-![general-worksheet](/assets/worksheets/general-journal-template.png){: .mx-auto.d-block :}
+<div class="pdf-container">
+    <iframe src="/assets/worksheets/general.worksheet.pdf" 
+        title="portrait-worksheet" 
+        height="400" 
+        width="712" 
+        allowfullscreen="false">
+    </iframe>
+</div>
 
