@@ -5,6 +5,6 @@ tags:
 --- 
 
 <div class="pdf-container">
-    <iframe src="assets/bill-hanna/BS KPIs.v2.pdf" title="balance sheet metrics" height="400" width="712" allowfullscreen="false">
+    <iframe src="assets/bill-hanna/BS KPIs.v2.pdf" title="balance sheet metrics" height="600" width="912" allowfullscreen="false">
     </iframe>
 </div>
