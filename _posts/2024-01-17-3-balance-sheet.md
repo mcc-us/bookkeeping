@@ -6,7 +6,7 @@ tags: reporting
 
 ## A = L + E* 
 
->Use: 
+>#### NEED: 
 >
 >Total Equity from Statement of Equity   
 {: .block-tip }
@@ -17,9 +17,9 @@ tags: reporting
 4. Include Equity from Statement of Equity 
 
 {: .box-warning}
-> #### Remember:
+> #### Reports NEED:
 >
->Reports NEED: WHO, WHAT, WHEN (Single Time)  
+> WHO, WHAT, WHEN (Single Time)  
 {: .block-tip }
 
 Co.    
