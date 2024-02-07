@@ -27,7 +27,7 @@ Balance Sheet
 For the date 12/31/24   
 
 |Assets|  |  |Liabilities| | |
-| -: | -: | -: | -: | -: | -: |
+|:-| -: | -: |:-| -: | -: |
 |**Current Assets**| | |**Current Liabilities**| | |
 |Cash|$5,000| |A/P|$2,200| |
 |A/R|1,000| |Wages Payable|1,600| |
