@@ -7,23 +7,22 @@ tags: closingAccounts
 
 ## Flowchart:   
 
-Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.
+Closing accounts & entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.
 
 This crucial step ensures clear separation of current performance from past results, providing accurate and complete financial statements at the end of each accounting period.
 
-**Start**: End of accounting period (e.g., month, quarter, year).   
 
 ### 1. Identify Temporary Accounts:
 
-- Temporary Accounts are only used during an accounting period to summarize income and expenses.    
 - Temporary Accounts are closed to **zero** at the end of a period, e.g. revenue, expenses, cost of goods sold.   
+- Temporary Accounts are only used during an accounting period to summarize income and expenses.    
 
 **NOTE: Permanent accounts track ongoing balances and are not closed, e.g. assets, liabilities, equity**.
 
-### 2. Prepare Closing Entries (Optional):
+### 2. Prepare Closing Entries (If Needed):
 
 For each temporary account:
-- Create a closing entry to transfer its balance to a closing account (often "Income Summary" or "Profit and Loss Summary").   
+- ??????Create a closing entry to transfer its balance to a closing account (often "Income Summary" or "Profit and Loss Summary").   
 - Debit the temporary account to zero out its balance.   
 - Credit the closing account with the amount being transferred.   
 - This step ensures temporary accounts start the new period with zero balances.   

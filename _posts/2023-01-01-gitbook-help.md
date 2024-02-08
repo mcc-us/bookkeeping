@@ -36,7 +36,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 - `&nbsp;`
 
 ## Boxes
-You can add notification, warning and error boxes like this:
+Add notification:
+1. Green box = {: .box-success}
+2. 
 
 {: .box-success}
 Green demo post / box using [markdown](https://markdowntutorial.com/)
