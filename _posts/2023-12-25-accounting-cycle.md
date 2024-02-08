@@ -4,25 +4,27 @@ category:
 layout: post
 ---
 
-# List Accounting Cycle steps
-
->1. record
->2. classify
->3. summarize financial transactions to generate accurate financial statements  
+> #### General Accounting Cycle Steps
+>
+>1. Record
+>2. Classify
+>3. Summarize financial transactions to generate accurate financial statements  
+{: .box-success}
 
 9 steps:
 
 ## 1. Identify & Analyze Transactions:
 
-Every financial activity impacting the business needs to be identified & understood. This includes purchases, sales, payments, receipts, etc.
+- Every financial transaction impacting the business needs to be identified & added, including purchases, sales, payments, receipts, etc.
 
 ## 2. Record Transactions in a Journal:
 
-These identified transactions are then chronologically recorded in a journal with details like date, account titles, amounts (debits/credits), & brief descriptions.
+- Transactions are recorded chronologically.
+- USE: date, account titles, debits/credits amounts, & brief descriptions.
 
 ## 3. Post Transactions to the General Ledger:
 
-Individual account balances in the general ledger are updated based on the journal entries. Debits increase asset & expense accounts, while credits decrease them. Conversely, credits increase liability, equity, & revenue accounts, & debits decrease them.
+- Individual account balances in the general ledger are updated based on the journal entries. Debits increase asset & expense accounts, while credits decrease them. Conversely, credits increase liability, equity, & revenue accounts, & debits decrease them.
 
 ## 4. Prepare an Unadjusted Trial Balance:
 

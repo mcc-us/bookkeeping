@@ -40,7 +40,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 Add notification:
 1. Green box = {: .box-success}
 2. Yello = {: .box-warning}
-3. Red = {: .box-error}
+3. Red = {: .box-danger}
 
 > ##### Green-success note
 >
@@ -57,35 +57,46 @@ Add notification:
 
 ### Notification boxes
 
-> ##### ? note
+> ##### tip note
 >
-> **Simple Note:** This is a notification box.
-{: .box-note}
+> tip Note
+{: .box-tip}
 
 
 ```
-> ##### ? note
+> ##### tip
 >
-> **Simple Note:** This is a notification box.
-{: .box-note}
+> Simple tip
+{: .box-tip}
 ```
 
-### Yellow Warning boxes
-
-```
-> ##### Yellow Warning note
+###
+> ##### WARNING
 >
-> Warning Note
-{: .box-warning}
-```
-
-### Red boxes
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
 
 ```
-> ##### Red Error note
+> ##### WARNING
 >
-> Error Note
-{: .box-error}
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
+```
+
+### Red DANGER
+
+> ##### DANGER
+>
+> You cannot delete an ephemeral message.
+{: .block-danger }
+
+```
+> ##### DANGER
+>
+> You cannot delete an ephemeral message.
+{: .block-danger }
 ```
 
 ### White Message boxes
@@ -93,7 +104,6 @@ Add notification:
 | :warning: WARNING          |
 |:---------------------------|
 | I should warn you ...      |
-
 
 
 ### PDF Containers
