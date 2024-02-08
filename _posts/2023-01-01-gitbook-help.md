@@ -4,7 +4,8 @@ category: Jekyll
 layout: post
 ---
 
-More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
+More information see:   
+- [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
 
 
 ### Tables
@@ -18,12 +19,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ```markdown
 <div class="table-wrapper" markdown="block">
-
 |title1|title2|title3|title4|title5|title6|title7|title8|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1|2|3|4|5|6|7|8|
-
-
 </div>
 ```
 
@@ -34,75 +32,44 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 ### Boxes
 
 Add notification:
-1. Green box = {: .box-success}
-2. Yello = {: .box-warning}
+1. Grey = {: .box-tip}
+2. Yellow = {: .box-warning}
 3. Red = {: .box-danger}
 
-> ##### Green-success note
->
-> Green box using
-{: .box-success}
-
-
-```
-> ##### Green-success note
->
-> Green box using
-{: .box-success}
-```
-
-### Notification boxes
 
 > ##### tip note
->
 > tip Note
 {: .box-tip}
 
-
 ```
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-
+> ##### tip note
+> tip Note
+{: .box-tip}
 ```
-
-### Warning
 
 > ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
+> like this
 {: .block-warning }
 
 ```
 > ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
+> like this
 {: .block-warning }
 ```
 
-###  Danger
-
 > ##### DANGER
->
-> You cannot delete an ephemeral message.
+> Ephemeral message
 {: .block-danger }
 
 ```
 > ##### DANGER
->
-> You cannot delete an ephemeral message.
+> Ephemeral message
 {: .block-danger }
 ```
 
-### White Message boxes
-
-| :warning: WARNING          |
-|:---------------------------|
-| I should warn you ...      |
+| :warning: White boxes |
+|:----------------------|
+| I should warn you     |
 
 
 ### PDF Containers
@@ -114,7 +81,6 @@ Add notification:
 </div>
 ```
 
----
 
 ### Links
 
@@ -122,7 +88,7 @@ Add notification:
 
 `[Relative link to a section inside a page](#local-urls)`
 
----
+
 
 ### Pictures
 
@@ -132,7 +98,6 @@ Images can also be centered!
 
 `![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
 
----
 
 ### Code chunks 
 
@@ -168,7 +133,3 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 ```
-
-### More Info
-
-[FAQ - beautifuljekyll.com/faq](https://beautifuljekyll.com/faq/#links-in-project-page)
