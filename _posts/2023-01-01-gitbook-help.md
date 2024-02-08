@@ -36,44 +36,56 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 - `&nbsp;`
 
 ## Boxes
+
 Add notification:
 1. Green box = {: .box-success}
-2. 
+2. Yello = {: .box-warning}
+3. Red = {: .box-error}
 
+> ##### Green-success note
+>
+> Green box using
 {: .box-success}
-Green demo post / box using [markdown](https://markdowntutorial.com/)
+
 
 ```
+> ##### Green-success note
+>
+> Green box using
 {: .box-success}
-Green demo post / box using [markdown](https://markdowntutorial.com/)
 ```
 
 ### Notification boxes
 
+> ##### ? note
+>
+> **Simple Note:** This is a notification box.
 {: .box-note}
-**Simple Note:** This is a notification box.
+
 
 ```
+> ##### ? note
+>
+> **Simple Note:** This is a notification box.
 {: .box-note}
-**Simple Note:** This is a notification
 ```
 
 ### Yellow Warning boxes
 
+```
+> ##### Yellow Warning note
+>
+> Warning Note
 {: .box-warning}
-**Yellow Warning:** Yellow warning box.
-
-```
-{: .box-warning}
-**Yellow warning:** Yellow warning box.
 ```
 
-### Red Warning boxes
-
-<p class="box-error">This is a RED warning box.</p>
+### Red boxes
 
 ```
-<p class="box-error">This is a RED warning box.</p>
+> ##### Red Error note
+>
+> Error Note
+{: .box-error}
 ```
 
 ### White Message boxes
@@ -82,7 +94,7 @@ Green demo post / box using [markdown](https://markdowntutorial.com/)
 |:---------------------------|
 | I should warn you ...      |
 
----
+
 
 ### PDF Containers
 
