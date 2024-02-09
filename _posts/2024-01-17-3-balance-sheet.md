@@ -8,7 +8,7 @@ A = L + E
 
 >#### NEED: 
 >
->Total Equity from Statement of Equity   
+>Total Equity from Statement of Equity
 {: .block-tip }
 
 1. Prepare 6 column worksheet   
@@ -18,7 +18,7 @@ A = L + E
 
 > #### Reports NEED:
 >
-> WHO, WHAT, WHEN (On Day / Date Time)  
+> WHO, WHAT, WHEN (On Day / Date Time)
 {: .block-tip }
 
 Co.    
