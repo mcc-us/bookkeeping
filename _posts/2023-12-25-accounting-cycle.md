@@ -26,7 +26,7 @@ stateDiagram-v2
     Financial_Statements --> Closing_Entries?
     Closing_Entries? --> Post_Closing_Trial_Balance
     Post_Closing_Trial_Balance --> Start
-    style A,B,C,D,E,F,G,H,I,J,K,L
+    style Analyze_Transactions,Record_to_Journal,Post_to_Ledger,Trial_Balance,Adjustments?,Add_Adjusting_Entries,Adjusted_Trial_Balance,Financial_Statements,Closing_Entries?,Post_Closing_Trial_Balance
     fill:#f9f9f9;
     stroke:#333;
     stroke-width:2px;
