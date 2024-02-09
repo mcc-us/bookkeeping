@@ -34,11 +34,9 @@ For the Year Ending Dec. 31, 2024
 | Expenses | | |
 | Fuel | $11,000 | |
 | Depreciation | 2,000 | |
-| Ins. | 4,000 | |
-| Tele. | 400 | |
+| Ins. | 4,000 | ||
 | Wages | 30,000 | |
-| Utils. | 1,200 | |
-| Total Expenses | | 48,600 |
+| Total Expenses | | 47,000 |
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
 
