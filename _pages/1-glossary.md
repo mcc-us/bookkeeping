@@ -43,21 +43,21 @@ title: glossary
 
 1. *Contra Account*: An account with an average balance opposite that of a related account.   
 
-2. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
+1. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
 
-3. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
+1. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
 
-4. *Credit*: Think RIGHT hand
+1. *Credit*: Think RIGHT hand
 
-5. *Debit*: Think LEFT hand 
+1. *Debit*: Think LEFT hand 
 
-6. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
+1. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
 
-7. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+1. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
-8. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+1. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
 
-9. *Equity*: synonyms   
+1. *Equity*: synonyms   
     1. Ownership interest   
     2. Investment: Highlights the financial stake   
     3. Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.   
