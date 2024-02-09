@@ -43,24 +43,26 @@ title: glossary
 
 1. *Contra Account*: An account with an average balance opposite that of a related account.   
 
-1. *Contra Asset Account*: A contra account that reduces the balance of an asset account. (**??Think: "mini-vacuum" sucking away from another asset**)  
+2. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
 
-1. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**)  
+3. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
 
-1. *DEA-LER*: = Dividends, Expenses, Assets & Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
+4. *Credit*: Think RIGHT hand
 
-1. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+5. *Debit*: Think LEFT hand 
 
-1. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+6. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
 
-1. *Equity*: synonyms   
+7. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+
+8. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+
+9. *Equity*: synonyms   
     1. Ownership interest   
     2. Investment: Highlights the financial stake   
     3. Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.   
     4. Capital: Broad term referring to the funds invested in a business.   
     5. Net worth   
-
-
 
 1. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
 
@@ -103,7 +105,7 @@ title: glossary
 
 1. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
 
-1. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts first, followed by liabilities and owner's equity.   
+1. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
 1. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
 
