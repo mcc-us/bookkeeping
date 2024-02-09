@@ -39,7 +39,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 > #### green tip
 >
 > green tip
-{: .box-tip }
+{: .block-tip }
 ```
 
 > #### yellow warning
