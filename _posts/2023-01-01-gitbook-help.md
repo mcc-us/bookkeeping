@@ -64,14 +64,14 @@ Add notification: {: .block-tip }, {: .block-warning }, {: .block-danger }
 {: .block-danger }
 ```
 
-| :warning: White boxes |
-|:----------------------|
-| I should warn you     |
+| :warning: White box :warning: |
+|:-----------------:|
+| I should warn you |
 
 ```
-| :warning: White boxes |
-|:----------------------|
-| I should warn you     |
+| :warning: White box :warning: |
+|:-----------------:|
+| I should warn you |
 ```
 
 ### PDF Containers

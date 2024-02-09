@@ -1,13 +1,13 @@
 ---
 layout: post
-title: trial balances
+title: 5 trial balances
 tags: reporting
 ---
 
 
-> ##### List all accounts in order  
+> ##### List all accounts in order
 >
-> A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.   
+> A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.
 {: .block-warning }
 
 
@@ -56,7 +56,9 @@ tags: reporting
 
 
 
-> Reporting NEEDS **Who, What, When: Time Period**
+> Reporting NEEDS
+>
+>**Who, What, When: Time Period**
 {: .box-warning}
 
 
