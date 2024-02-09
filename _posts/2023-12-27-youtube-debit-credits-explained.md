@@ -12,10 +12,4 @@ tags: drcr
 
 It's important to understand that debits and credits represent changes to **specific accounts**, e.g. assets, liabilities, etc.
 
-### Useful ??
-
-Debits increase the "giving" sides (assets and expenses) and decrease the "taking" sides (liabilities, equity, and revenue).
-
-Credits decrease the "giving" sides and increase the "taking" sides.
-
 Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
