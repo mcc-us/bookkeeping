@@ -4,8 +4,7 @@ category: Jekyll
 layout: post
 ---
 
-More information see:   
-- [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
+More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
 
 
 ### Tables
@@ -31,38 +30,34 @@ More information see:
 
 ### Boxes
 
-Add notification:
-1. Grey = {: .box-tip}
-2. Yellow = {: .box-warning}
-3. Red = {: .box-danger}
+Add notification: {: .block-tip }, {: .block-warning }, {: .block-danger }
 
-
-> ##### tip note
+> #### tip note
 > tip Note
-{: .box-tip}
+{: .box-tip }
 
 ```
-> ##### tip note
+> #### tip note
 > tip Note
-{: .box-tip}
+{: .box-tip }
 ```
 
-> ##### WARNING
+> #### WARNING
 > like this
 {: .block-warning }
 
 ```
-> ##### WARNING
+> #### WARNING
 > like this
 {: .block-warning }
 ```
 
-> ##### DANGER
+> #### DANGER
 > Ephemeral message
 {: .block-danger }
 
 ```
-> ##### DANGER
+> #### DANGER
 > Ephemeral message
 {: .block-danger }
 ```
@@ -71,6 +66,11 @@ Add notification:
 |:----------------------|
 | I should warn you     |
 
+```
+| :warning: White boxes |
+|:----------------------|
+| I should warn you     |
+```
 
 ### PDF Containers
 
