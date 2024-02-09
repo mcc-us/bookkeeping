@@ -27,7 +27,7 @@ title: glossary
 
 1. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 
-1. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity for a specific period, **A = L + E**   
+1. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time, **A = L + E**   
 
 1. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation. (**Think: worth after depreciation**)   
 

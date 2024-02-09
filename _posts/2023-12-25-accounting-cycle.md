@@ -2,6 +2,7 @@
 title: accounting cycle
 category: 
 layout: post
+mermaid: true
 ---
 
 > #### General Accounting Cycle Steps
@@ -10,6 +11,34 @@ layout: post
 >2. Classify
 >3. Summarize financial transactions to generate accurate financial statements  
 {: .box-success}
+
+
+```mermaid
+graph LR;
+A[**Analyze Transactions**] --> B(Record in Journal);
+B --> C{Post to Ledger};
+C --> D{Trial Balance};
+D --> E{! Adjustments? (Yes/No)};
+E --> F{Adjusting Entries} --> C;
+E --> G{Adjusted Trial Balance};
+G --> H{Financial Statements};
+H --> I{! Closing Entries? (Yes/No)};
+I --> J{Closing Entries} --> C;
+I --> K{Post-Closing Trial Balance};
+K --> L[**End**];
+style A,B,C,D,E,F,G,H,I,J,K,L
+    fill:#f9f9f9;
+    stroke:#333;
+    stroke-width:2px;
+    padding: 10px;
+    font-size: 14px;
+style E
+    shape: diamond;
+style I
+    shape: diamond;
+```
+
+
 
 9 steps:
 
