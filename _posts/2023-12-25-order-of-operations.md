@@ -9,7 +9,9 @@ Begin: Transaction occurs in your business.
 
 ## 1. Journalize the transaction  
    1. Record transactions chronologically in journal.  
-   2. ENTRIES NEED: **date, account titles, debits & credits amounts, and a brief description**.  
+      1. date, account titles,   
+      2. debits & credits amounts,   
+      3. a brief description.   
 
 ## 2. Post the transaction to ledger 
 
