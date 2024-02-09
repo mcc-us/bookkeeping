@@ -5,12 +5,12 @@ layout: post
 mermaid: true
 ---
 
-> #### General Accounting Cycle Steps
+> #### 3 General Accounting Cycle Steps
 >
->1. Record
->2. Classify
->3. Summarize financial transactions to generate accurate financial statements  
-{: .box-success}
+> 1. Record
+> 2. Classify
+> 3. Summarize financial transactions to generate accurate financial statements
+{: .box-tip }
 
 
 ```mermaid
@@ -26,14 +26,7 @@ stateDiagram-v2
     Financial_Statements --> Closing_Entries?
     Closing_Entries? --> Post_Closing_Trial_Balance
     Post_Closing_Trial_Balance --> Start
-    fill:#f9f9f9;
-    stroke:#333;
-    stroke-width:2px;
-    padding: 10px;
-    font-size: 14px;
 ```
-
-
 
 9 steps:
 
