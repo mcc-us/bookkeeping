@@ -16,7 +16,6 @@ A = L + E*
 3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)  
 4. Include Equity from Statement of Equity 
 
-{: .box-warning}
 > #### Reports NEED:
 >
 > WHO, WHAT, WHEN (On Day / Date Time)  

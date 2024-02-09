@@ -4,7 +4,7 @@ title: 2 changes in equity
 tags: reporting
 ---
 
-> ##### Remember
+> #### Remember
 >
 > Include: Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .box-success}

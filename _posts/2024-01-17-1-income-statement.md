@@ -5,7 +5,7 @@ tags: reporting
 ---
 
 
-> ##### Remember
+> #### Remember
 >
 > Revenue & Expenses -> Net Income
 >
@@ -18,7 +18,7 @@ Step 2: Use 3 columns; **Act, Amount, Total**
 Step 3: List Revenues, Expenses & total them      
 Step 5: Calculate Net & double underline bottom line   
 
-> ##### Remember
+> #### Remember
 >
 > Reporting NEEDS **Who, What, When: Time Period**
 {: .box-tip}
@@ -40,7 +40,7 @@ For the Year Ending Dec. 31, 2024
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
 
-> ##### Remember
+> #### Remember
 >
 > Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
 {: .block-warning }
