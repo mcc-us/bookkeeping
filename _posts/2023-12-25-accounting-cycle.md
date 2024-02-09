@@ -26,6 +26,12 @@ stateDiagram-v2
     Financial_Statements --> Closing_Entries?
     Closing_Entries? --> Post_Closing_Trial_Balance
     Post_Closing_Trial_Balance --> Start
+    style A,B,C,D,E,F,G,H,I,J,K,L
+    fill:#f9f9f9;
+    stroke:#333;
+    stroke-width:2px;
+    padding: 10px;
+    font-size: 14px;
 ```
 
 
