@@ -5,10 +5,9 @@ tags: reporting
 ---
 
 
-> ##### List all accounts in order
->
-> A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.
-{: .block-warning }
+## List all accounts in order
+
+A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.
 
 
 1. Trial balances promote accuracy,   
@@ -29,7 +28,7 @@ tags: reporting
 
 5. Double underscore Trial Balance columns to show that the work in that column is complete.   
 
-6. **NOTE: Trial Balance has 4 new accounts**:  
+**NOTE: Trial Balance has 4 new accounts**:  
    1. Accumulated Depreciation—Equipment,  
    2. Supplies Expense,  
    3. Rent Expense,  
