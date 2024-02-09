@@ -59,7 +59,6 @@ Table of examples
 | Deferred Rev. | Deferred Revenue | Revenue | Recognizes cash payment BEFORE work is done. | Tuition for uni is a de |
 
 
-
 ### Five common types of adjustments can vary depending on the business. 
 
 1. *Depreciation Expenses*: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over time. It benefits the business as the investment is being used.

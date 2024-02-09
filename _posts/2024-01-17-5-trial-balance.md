@@ -29,10 +29,10 @@ A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Cre
 5. Double underscore Trial Balance columns to show that the work in that column is complete.   
 
 **NOTE: Trial Balance has 4 new accounts**:  
-   1. Accumulated Depreciation—Equipment,  
-   2. Supplies Expense,  
-   3. Rent Expense,  
-   4. Depreciation Expense—Equipment.     
+  1. Accumulated Depreciation—Equipment,  
+  2. Supplies Expense,  
+  3. Rent Expense,  
+  4. Depreciation Expense—Equipment.     
 
 
 ## Rules for Presentation:
@@ -54,11 +54,10 @@ A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Cre
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
-
 > Reporting NEEDS
 >
 > Who, What, When: Time Period
-{: .box-warning }
+{: .block-warning }
 
 
 Company Name   
@@ -83,7 +82,6 @@ For the Year Ending Dec. 31, 2024
 | Exp. | Salaries Exp. |   | 1000 |
 | Exp. | Totals | 7,650 | 7,650 |
 | Exp. | **Debits must equal Credits** | | **DOUBLE UNDERLINE** |
-
 
 
 ## Key benefits it offers:

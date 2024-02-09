@@ -7,7 +7,7 @@ tags: reporting
 > #### Remember
 >
 > Include: Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
-{: .box-tip }
+{: .block-tip }
 
   
 1. Include: **Capital, Common Shares, Dividends, Retained Earnings (Net Income) & Withdrawls**
