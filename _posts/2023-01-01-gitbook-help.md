@@ -28,7 +28,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - `&nbsp;`
 
-### 3 Boxes
+### 3 Blocks
 
 >#### green tip
 >

@@ -5,15 +5,17 @@ tags: reporting
 ---
 
 
-## List all accounts in order
-
-A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Credits for Trial Balance.
-
-
 1. Trial balances promote accuracy,   
 2. Identify potential issues,   
 3. Facilitate financial statement preparation,  
 4. Serve as an internal control.   
+
+
+> #### List all accounts in order
+>
+> A, L, O(wners Equity), R, E  
+> Debits = Credits for Trial Balance.
+{: .block-tip }
 
 
 ## 5 Steps
@@ -38,7 +40,7 @@ A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Cre
 ## Rules for Presentation:
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
-  - Cash first followed by 
+  - Cash first
   - marketable securities, 
   - accounts receivable, 
   - supplies, 
@@ -54,10 +56,10 @@ A, L, O(wners Equity), R, E <br> &nbsp;&nbsp;&nbsp;&nbsp; REMEMBER: Debits = Cre
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
-> Reporting NEEDS
->
-> Who, What, When: Time Period
-{: .block-warning }
+> REPORTS NEED  
+>  
+> Who, What, When: For a SPECIFIC TIME  
+{: .block-tip }
 
 
 Company Name   

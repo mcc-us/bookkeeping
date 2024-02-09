@@ -34,7 +34,7 @@ For the Year Ending Dec. 31, 2024
 | Expenses | | |
 | Fuel | $11,000 | |
 | Depreciation | 2,000 | |
-| Ins. | 4,000 | ||
+| Ins. | 4,000 | |
 | Wages | 30,000 | |
 | Total Expenses | | 47,000 |
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
@@ -43,7 +43,7 @@ For the Year Ending Dec. 31, 2024
 > #### Remember
 >
 > Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
-{: .block-warning }
+{: .block-tip }
 
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
