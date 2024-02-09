@@ -7,6 +7,8 @@ layout: post
 This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
 from [the discord.js website][1].
 
+[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
+
 You could have the following [markdown attributes (supported by kramdown)][2]:
 
 ### Tips
@@ -61,5 +63,4 @@ Using a `{: .block-danger}` attribute:
 > You cannot delete an ephemeral message.
 {: .block-danger }
 
-[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
 [2]: https://kramdown.gettalong.org/quickref.html#block-attributes

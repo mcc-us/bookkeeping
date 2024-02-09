@@ -4,7 +4,7 @@ title: 3 balance sheet
 tags: reporting
 ---
 
-## A = L + E* 
+A = L + E* 
 
 >#### NEED: 
 >
