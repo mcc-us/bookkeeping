@@ -32,13 +32,14 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 Add notification: {: .block-tip }, {: .block-warning }, {: .block-danger }
 
->#### NEED: 
+>#### NEED:
 >
->Total Equity from Statement of Equity   
+>Total Equity from Statement of Equity
 {: .block-tip }
 
 ```
 > #### tip note
+>
 > tip Note
 {: .box-tip }
 ```

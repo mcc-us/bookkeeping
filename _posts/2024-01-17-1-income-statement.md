@@ -10,7 +10,7 @@ tags: reporting
 > Revenue & Expenses -> Net Income
 >
 > The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
-{: .block-warning }
+{: .block-tip }
 
 
 Step 1: **Obtain Revenue & Expense accounts**     
