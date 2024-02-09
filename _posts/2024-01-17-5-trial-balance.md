@@ -58,8 +58,8 @@ tags: reporting
 
 > Reporting NEEDS
 >
->**Who, What, When: Time Period**
-{: .box-warning}
+>Who, What, When: Time Period
+{: .box-warning }
 
 
 Company Name   
