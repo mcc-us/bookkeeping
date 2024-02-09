@@ -7,7 +7,7 @@ tags: businessTypes
 
 Chapter1 pg17
 
-To better understand accounting, we need to understand the three major types of businesses. This is important because, this tells the accountant or bookkeeper who is ultimately in charge of making decisions and who is liable for any costs and ownership. 
+To better understand accounting, we need to understand three major types of businesses. This is important because, this tells the accountant or bookkeeper who is ultimately in charge of making decisions and who is liable for any costs and ownership. 
 
 It is important to know who to ask for help and guiandance when issues regarding cash flow and managerial dicsions are needed.
 

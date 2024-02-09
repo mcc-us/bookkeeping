@@ -105,19 +105,6 @@ Images can also be centered!
 
 ### Code chunks 
 
-- start with 3 tildas or back ticks:
-
-```
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-```
-
-- use syntax highlighting:
-
 ```
 ```javascript
 var foo = function(x) {
@@ -127,10 +114,9 @@ foo(3)
 ```
 ```
 
-- use line numbers:
-
 ```
 {% highlight javascript linenos %}
+# with line numbers
 var foo = function(x) {
   return(x + 5);
 }

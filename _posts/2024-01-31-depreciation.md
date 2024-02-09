@@ -5,7 +5,7 @@ tags: depreciation
 math: true
 ---
 
-**Depreciation** is the act of reducing the book value of a fixed asset due to 'wear, tear and obselence'.
+**Depreciation** is the act of reducing the book value, and expensing the assets usage generally over a year, for a fixed asset due to 'wear, tear and obselence'.
 
 ## A. straight line depreciation - 3 Steps
 
