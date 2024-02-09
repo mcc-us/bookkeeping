@@ -30,48 +30,50 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ### 3 Boxes
 
-{: .block-tip }, {: .block-warning }, {: .block-danger }
-
->#### NEED:
+>#### green tip
 >
->Total Equity from Statement of Equity
+> green tip
 {: .block-tip }
 
 ```
-> #### tip note
+> #### green tip
 >
-> tip Note
+> green tip
 {: .box-tip }
 ```
 
-> #### WARNING
-> like this
+> #### yellow warning
+>
+> yellow warning
 {: .block-warning }
 
 ```
-> #### WARNING
-> like this
+> #### yellow warning
+>
+> yellow warning
 {: .block-warning }
 ```
 
-> #### DANGER
-> Ephemeral message
+> #### red danger
+> 
+> red danger
 {: .block-danger }
 
 ```
-> #### DANGER
-> Ephemeral message
+> #### red danger
+>
+> red danger
 {: .block-danger }
 ```
 
 | :warning: White box :warning: |
-|:-----------------:|
-| I should warn you |
+|:---------:|
+| White box |
 
 ```
 | :warning: White box :warning: |
-|:-----------------:|
-| I should warn you |
+|:---------:|
+| White box |
 ```
 
 ### PDF Containers
