@@ -28,9 +28,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - `&nbsp;`
 
-### Boxes
+### 3 Boxes
 
-Add notification: {: .block-tip }, {: .block-warning }, {: .block-danger }
+{: .block-tip }, {: .block-warning }, {: .block-danger }
 
 >#### NEED:
 >
