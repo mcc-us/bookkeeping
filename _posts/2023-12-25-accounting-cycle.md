@@ -14,28 +14,18 @@ mermaid: true
 
 
 ```mermaid
-graph LR;
-A[**Analyze Transactions**] --> B(Record in Journal);
-B --> C{Post to Ledger};
-C --> D{Trial Balance};
-D --> E{! Adjustments? (Yes/No)};
-E --> F{Adjusting Entries} --> C;
-E --> G{Adjusted Trial Balance};
-G --> H{Financial Statements};
-H --> I{! Closing Entries? (Yes/No)};
-I --> J{Closing Entries} --> C;
-I --> K{Post-Closing Trial Balance};
-K --> L[**End**];
-style A,B,C,D,E,F,G,H,I,J,K,L
-    fill:#f9f9f9;
-    stroke:#333;
-    stroke-width:2px;
-    padding: 10px;
-    font-size: 14px;
-style E
-    shape: diamond;
-style I
-    shape: diamond;
+stateDiagram-v2
+    Start --> Analyze_Transactions
+    Analyze_Transactions --> Record_to_Journal
+    Record_to_Journal --> Post_to_Ledger
+    Post_to_Ledger --> Trial_Balance
+    Trial_Balance --> Adjustments?
+    Adjustments? --> Add_Adjusting_Entries
+    Add_Adjusting_Entries --> Adjusted_Trial_Balance
+    Adjusted_Trial_Balance --> Financial_Statements
+    Financial_Statements --> Closing_Entries?
+    Closing_Entries? --> Post_Closing_Trial_Balance
+    Post_Closing_Trial_Balance --> Start
 ```
 
 
