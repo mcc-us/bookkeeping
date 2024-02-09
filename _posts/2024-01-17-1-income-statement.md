@@ -20,7 +20,7 @@ Step 5: Calculate Net & double underline bottom line
 
 > #### Remember
 >
-> Reporting NEEDS **Who, What, When: Time Period**
+> Reporting NEEDS Who, What, When: Time Period
 {: .box-tip }
 
 Company Name   
