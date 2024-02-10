@@ -15,14 +15,15 @@ mermaid: true
 
 ```mermaid
 stateDiagram-v2
-    A(Analyze Transactions) --> B(Record to Journal)
+    A[Analyze Transactions] --> B(Record to Journal)
     B --> C(Post to Ledger)
     C --> D(Trial Balance)
-    D --> E(Adjustments?)
+    D --> E{Adjustments?}
     E --> F(Adjusted Trial Balance)
     F --> G(Financial Statements)
-    G --> H(Closing Entries?)
+    G --> H{Closing Entries?}
     H --> I(Produce Trial Balance)
+    I --> A
 ```
 
 ```mermaid
