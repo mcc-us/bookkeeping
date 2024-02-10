@@ -14,14 +14,14 @@ mermaid: true
 
 ```mermaid
 graph TD
-    A[Analyze Transactions] --> B(Record to Journal)
-    B --> C(Post to Ledger)
+    A[Analyze Transactions] --> B(Record Transaction To Journal)
+    B --> C(Post Xaction To Ledger)
     C --> D(Trial Balance)
-    D --> E{Adjustments?}
+    D --> E(Adjustments?)
     E --> F(Adjusted Trial Balance)
     F --> G(Financial Statements)
-    G --> H{Closing Entries?}
-    H --> I(Produce Trial Balance)
+    G --> H(Closing Entries?)
+    H --> I(Update Trial Balance)
     I --> A
 ```
 
