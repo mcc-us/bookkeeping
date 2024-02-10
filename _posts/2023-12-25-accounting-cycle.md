@@ -5,42 +5,37 @@ layout: post
 mermaid: true
 ---
 
-> #### 3 General Accounting Cycle Steps
-> 1. Record
-> 2. Classify
-> 3. Summarize financial transactions to generate accurate financial statements
-{: .block-tip }
-
 
 ```mermaid
 graph TD
     A[Analyze Transactions] --> B(Record Transaction To Journal)
-    B --> C(Post Xaction To Ledger)
-    C --> D(Trial Balance)
-    D --> E(Adjustments?)
-    E --> F(Adjusted Trial Balance)
-    F --> G(Financial Statements)
-    G --> H(Closing Entries?)
+    B --> C(Post Transaction To Ledger)
+    C --> D(Generate Trial Balance)
+    D --> E(Make Adjustments?)
+    E --> F(Generate Adjusted Trial Balance)
+    G --> H(Are Closing Entries Needed)
     H --> I(Update Trial Balance)
-    I --> A
+    I --> G(Generate Financial Statements)
+    F --> A
 ```
 
 9 steps:
 
 ## 1. Identify & Analyze Transactions:
 
-- Every financial transaction impacting the business needs to be identified & added, including purchases, sales, payments, receipts, etc.
+- Identify which accounts are impacted by transaction
+- Include purchases, sales, payments, receipts, etc.
 
-## 2. Record Transactions in a Journal:
+## 2. Record Transactions To Journal:
 
 - Transactions are recorded chronologically.
-- USE: date, account titles, debits/credits amounts, & brief descriptions.
+- Date, account titles, debits/credits amounts, & brief descriptions.
 
-## 3. Post Transactions to the General Ledger:
+## 3. Post Transactions To General Ledger:
 
 - Individual account balances in the general ledger are updated based on the journal entries. Debits increase asset & expense accounts, while credits decrease them. Conversely, credits increase liability, equity, & revenue accounts, & debits decrease them.
 
-## 4. Prepare an Unadjusted Trial Balance:
+## 4. Prepare Unadjusted Trial Balance:
 
 This report lists all accounts in the ledger with their respective balances, showcasing a preliminary overview of the financial position. However, it might not fully reflect the current state due to accruals & prepayments.
 
