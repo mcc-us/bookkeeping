@@ -4,10 +4,11 @@ title: bookkeeping notes
 permalink: /
 ---
 
-> #### Resources   
->   
-> [McGraw Course](https://connect.mheducation.com/connect/hmStudentCourseList.do), [AIPB](https://aipb.org), [NACPB](https://www.certifiedpublicbookkeeper.org)   
-{: .block-tip }
+
+| :honeybee: Resources :honeybee: |
+|:---------:|
+| [McGraw Course](https://connect.mheducation.com/connect/hmStudentCourseList.do), [AIPB](https://aipb.org), [NACPB](https://www.certifiedpublicbookkeeper.org) |
+
  
 > #### Statements   
 >   
