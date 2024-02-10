@@ -15,16 +15,15 @@ mermaid: true
 
 ```mermaid
 stateDiagram-v2
-    Analyze-Transactions --> Record-to-Journal
-    Record-to-Journal --> Post-to-Ledger
-    Post-to-Ledger --> Trial-Balance
-    Trial-Balance --> Adjustments?
-    Adjustments? --> Add-Adjusting-Entries
-    Add-Adjusting-Entries --> Adjusted-Trial-Balance
-    Adjusted-Trial-Balance --> Financial-Statements
-    Financial-Statements --> Closing-Entries?
-    Closing-Entries? --> Post-Closing-Trial-Balance
-    Post-Closing-Trial-Balance --> Analyze-Transactions
+    A(Analyze Transactions) --> B(Record to Journal)
+    B --> C(Post to Ledger)
+    C --> D(Trial Balance)
+    D --> E(Adjustments?)
+    E --> F(Adjusted Trial Balance)
+    F --> G(Financial Statements)
+    G --> H(Closing Entries?)
+    H --> I(Post-Closing Trial Balance)
+    I --> A
 ```
 
 ```mermaid
