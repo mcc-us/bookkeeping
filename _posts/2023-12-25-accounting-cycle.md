@@ -22,8 +22,7 @@ stateDiagram-v2
     E --> F(Adjusted Trial Balance)
     F --> G(Financial Statements)
     G --> H(Closing Entries?)
-    H --> I(Post-Closing Trial Balance)
-    I --> A
+    H --> I(Produce Trial Balance)
 ```
 
 ```mermaid
