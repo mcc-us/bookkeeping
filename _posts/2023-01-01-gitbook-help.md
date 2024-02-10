@@ -85,6 +85,9 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 </div>
 ```
 
+### Emojis
+
+https://gist.github.com/rxaviers/7360908
 
 ### Links
 
