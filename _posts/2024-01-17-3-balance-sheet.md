@@ -36,9 +36,9 @@ For the date 12/31/24
 |Equipment, net|30,000| |**Tot.Liabilities**| |48,800|
 |Building, net|100,000| |**Equity**|| |
 |**Tot. L-T Assets**| |130,000 |Common shares|60,000| |
-|**Grand Tot. Assets** | |136,500|Ret.Earnings|27,700| |
+|| ||Ret.Earnings|27,700| |
 | | | |**Tot. Equity**| |87,700|
-| | | |**Tot. L+E**| |$136,500|
+|**Grand Tot. Assets** | |$136,500|**Tot. L+E**| |$136,500|
 
 -**L-T = Long term**  
 

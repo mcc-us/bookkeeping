@@ -4,39 +4,38 @@ title: 2 changes in equity
 tags: reporting
 ---
 
-> #### Remember
->
-> Include: Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
+> #### Equity Includes
+> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .block-tip }
 
-  
-1. Include: **Capital, Common Shares, Dividends, Retained Earnings (Net Income) & Withdrawls**
+
+**Prepare a statement of equity**
+
+1. Report: Who, What, When (FOR Period Ending)
 2. Set-up 3 column worksheet: Act, Amount, Total
 3. ADD: Capital + Common Shares at beginning of period  
 4. ADD: Retained Earning at beginning of period  
-5.  +/- Net Income/Losses  
+5.  +/- Net Income/Loss  
 6.  +/- Common shares bought/sold  
 7. SUBTRACT: Dividends & Withdrawls  
 
-**Prepare a statement of changes in equity for the year ended December 31, 2024.**
 
 **WHO**: *Co.*  
-**WHAT**: *Statement in Changes of Shareholders Equity*  
-**WHEN**: *For the Period Ending 12/31/24*  
+**WHAT**: *Statement of Shareholders' Equity*  
+**WHEN**: *For the Year Ending 12/31/24*  
 
 |              | Common Shares | Retained Earnings |   Total |
 |-------------:|--------------:|------------------:|--------:|
 | Jan. 1, 2024 |       $60,000 |           $10,000 | $70,000 |
-| Net Income (ADD)|            |            20,700 |  20,700 |
+| ADD Net Income |             |            20,700 |  20,700 |
 | Shares Bought/Sold |       0 |                 0 |       0 |
-| Dividends (SUBTRACT) |        |          (3,000) |  (3,000)|
-| Dec. 31, 2024 |       $60,000 |          $27,700 |  $87,700|
-|               |               |                  |         |
+| SUBTRACT Dividends |         |           (3,000) |  (3,000)|
+| Dec. 31, 2024 |      $60,000 |           $27,700 |  $87,700|
 
 
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 
-**Alternative Names**:
+### Alternative Names
 
 1. **Statement of Shareholders' Equity**   
 2. **Changes in Shareholders' Equity**   

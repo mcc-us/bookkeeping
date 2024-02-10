@@ -6,11 +6,10 @@ mermaid: true
 ---
 
 > #### 3 General Accounting Cycle Steps
->
 > 1. Record
 > 2. Classify
 > 3. Summarize financial transactions to generate accurate financial statements
-{: .box-tip }
+{: .block-tip }
 
 
 ```mermaid
@@ -24,17 +23,6 @@ graph TD
     G --> H{Closing Entries?}
     H --> I(Produce Trial Balance)
     I --> A
-```
-
-```mermaid
-graph TD
-    A[Enter Chart Definition] --> B(Preview)
-    B --> C{decide}
-    C --> D[Keep]
-    C --> E[Edit Definition]
-    E --> B
-    D --> F[Save Image and Code]
-    F --> B
 ```
 
 9 steps:
