@@ -15,8 +15,7 @@ mermaid: true
 
 ```mermaid
 stateDiagram-v2
-    Start --> Analyze_Transactions
-    Analyze_Transactions --> Record_to_Journal
+    "Analyze Transactions" --> Record_to_Journal
     Record_to_Journal --> Post_to_Ledger
     Post_to_Ledger --> Trial_Balance
     Trial_Balance --> Adjustments?
@@ -25,7 +24,7 @@ stateDiagram-v2
     Adjusted_Trial_Balance --> Financial_Statements
     Financial_Statements --> Closing_Entries?
     Closing_Entries? --> Post_Closing_Trial_Balance
-    Post_Closing_Trial_Balance --> Start
+    Post_Closing_Trial_Balance --> Analyze_Transactions
 ```
 
 9 steps:
