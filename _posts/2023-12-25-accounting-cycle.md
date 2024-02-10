@@ -14,7 +14,7 @@ mermaid: true
 
 
 ```mermaid
-stateDiagram-v2
+graph TD
     A[Analyze Transactions] --> B(Record to Journal)
     B --> C(Post to Ledger)
     C --> D(Trial Balance)
