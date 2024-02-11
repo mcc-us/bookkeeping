@@ -30,11 +30,13 @@ tags: gaap
 
 ### More GAAP
 
+- The **SEC requires publicly traded companies to comply with GAAP.** 
+- GAAP recommends that publicly traded companies have their financial statements audited by independent auditors.   
+
 - GAAP is developed by Financial Accounting Standards Board (FASB).  
 - Standards can be changed by petitioning FASB. It's more common for the FASB to initiate changes based on research, public input, and emerging issues.  
-  - **Exposure draft** describes proposed changes, **discussion memorandum** followed by **Accounting standards Codification** implementation  
-- The SEC requires **publicly traded companies to comply** with GAAP  
-- GAAP recommends that publicly traded companies have their financial statements audited by independent auditors.   
+- **Exposure draft** describes proposed changes, **discussion memorandum** followed by **Accounting standards Codification** implementation  
+
 - Auditors produce report on the operation and financial position of the business   
 - Audits should be:  
   - Timely, accurate and fair   
@@ -45,28 +47,28 @@ tags: gaap
 
 1. Transparency and Consistency:
 
-- GAAP provides a standardized framework for companies to prepare their financial statements. This ensures that the information presented is transparent, meaning investors, creditors, and other stakeholders can understand and compare companies' financial performance fairly.
+  - GAAP provides a standardized framework for companies to prepare their financial statements. This ensures that the information presented is transparent, meaning investors, creditors, and other stakeholders can understand and compare companies' financial performance fairly.
 
-- Consistency over time allows for meaningful trend analysis and performance assessments. It helps users track a company's progress and identify potential red flags if financial metrics suddenly deviate from past trends.
+  - Consistency over time allows for meaningful trend analysis and performance assessments. It helps users track a company's progress and identify potential red flags if financial metrics suddenly deviate from past trends.
 
 2. Trust and Confidence:
 
-- By complying with GAAP, companies adhere to established best practices and ethical guidelines. This fosters trust and confidence among investors, creditors, and other stakeholders in the accuracy and reliability of the financial information presented.
+  - By complying with GAAP, companies adhere to established best practices and ethical guidelines. This fosters trust and confidence among investors, creditors, and other stakeholders in the accuracy and reliability of the financial information presented.
 
-- This trust encourages investment and business relationships, fostering a healthy and stable financial environment.
+  - This trust encourages investment and business relationships, fostering a healthy and stable financial environment.
 
 3. Market Efficiency:
 
-- Standardized financial reporting allows for efficient allocation of capital across the market. Investors can compare apples to apples when evaluating different companies, making informed investment decisions based on accurate and comparable financial data.
+  - Standardized financial reporting allows for efficient allocation of capital across the market. Investors can compare apples to apples when evaluating different companies, making informed investment decisions based on accurate and comparable financial data.
 
-- This efficiency helps ensure that capital flows to companies with the most potential for growth and profitability.
+  - This efficiency helps ensure that capital flows to companies with the most potential for growth and profitability.
 
 4. Reduced Information Asymmetry:
 
-- By following GAAP, companies disclose essential financial information in a standardized format. This reduces information asymmetry between management and investors, and stakeholders receive relevant details about the company's financial health without needing specialized accounting knowledge.
+  - By following GAAP, companies disclose essential financial information in a standardized format. This reduces information asymmetry between management and investors, and stakeholders receive relevant details about the company's financial health without needing specialized accounting knowledge.
 
-- This promotes informed decision-making by various stakeholders and helps mitigate potential conflicts of interest.
+  - This promotes informed decision-making by various stakeholders and helps mitigate potential conflicts of interest.
 
 5. Regulatory Compliance:
 
-- Publicly traded companies and certain other entities are legally required to comply with GAAP for reporting purposes. This ensures that these companies adhere to minimum standards for financial reporting, promoting transparency and accountability.
+  - Publicly traded companies and certain other entities are legally required to comply with GAAP for reporting purposes. This ensures that these companies adhere to minimum standards for financial reporting, promoting transparency and accountability.
