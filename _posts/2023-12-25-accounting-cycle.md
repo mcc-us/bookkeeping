@@ -32,30 +32,36 @@ graph TD
 
 ## 3. Post Transactions To General Ledger:
 
-- Individual account balances in the general ledger are updated based on the journal entries. Debits increase asset & expense accounts, while credits decrease them. Conversely, credits increase liability, equity, & revenue accounts, & debits decrease them.
+- Individual account balances in the general ledger are updated based on the journal entries.
 
 ## 4. Prepare Unadjusted Trial Balance:
 
-This report lists all accounts in the ledger with their respective balances, showcasing a preliminary overview of the financial position. However, it might not fully reflect the current state due to accruals & prepayments.
+- The Trial Balance lists all accounts in the ledger with their respective balances.  
+- The Trial Balance does not highlight the accouonting equation, but it shows all normal balances.  
 
-## 5. Make Adjusting Entries (Optional):
+However, it might not fully reflect the current state due to accruals & prepayments.
 
-To ensure accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
+## 5. Make Adjusting Entries (If Needed):
 
-## 6. Prepare an Adjusted Trial Balance:
+- For accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
 
-After incorporating adjustments, a new trial balance is generated, reflecting a more accurate picture of the company's financial st&ing at a specific point in time.
+## 6. Prepare An Adjusted Trial Balance:
+
+- After incorporating adjustments, a new trial balance is generated,
+- This reflects a more accurate picture of the company's financial state at a specific point in time.
 
 ## 7. Prepare Financial Statements:
 
-Using the adjusted trial balance as a starting point, financial statements like the balance sheet & income statement are created, portraying the company's financial position & performance.
+- Using the adjusted trial balance as a starting point, financial statements like the income statement, statement of equity and balance sheet are created.
 
-## 8. Close the Books (Optional):
+## 8. Close the Books (If Needed):
 
-This step, particularly relevant for periodic reporting (e.g., monthly, quarterly), involves transferring temporary account balances (revenue, expense) to permanent accounts (retained earnings), preparing them for a new reporting period.
+- This step is particularly relevant for periodic reporting (e.g., monthly, quarterly).  
+- Closing involves transferring temporary account balances (revenue, expense) to permanent accounts (retained earnings), preparing them for a new reporting period.
 
 ## 9. Archive Records:
 
-All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
+- All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
 
-*This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but underst&ing the underlying concepts remains crucial.*
+> #### NOTE: *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but underst&ing the underlying concepts remains crucial.*
+{: .block-tip }
