@@ -9,10 +9,10 @@ tags: gaap
 1. **Separate Entity** - Personal accounts must always be separated from business accounts.   
 2. **Going Concern** - Business will continue to cover its obligations and debts, etc.  
 3. **Monetary Unit** - Information is ONLY expressed in monetary terms.  
-4. **Periodicity of Income** - Activities are separated into periods: monthly, quarterly, or yearly.  
-5. **Objectivity** - Financial statements are based on verifiable data and free from personal bias.    
-6. **Materiality** - Information that is significant enough to influence the decisions of users is disclosed.   
-7. **Accrual Accounting** - Revenues and expenses are recognized when they are earned or incurred, regardless of cash flow.   
+4. **Periodicity of Income** - Activities are separated into periods, e.g. monthly, quarterly, or yearly.  
+5. **Objectivity** - Financial statements are based on verifiable data, free from personal bias.    
+6. **Materiality** - Information that is significant enough to influence the decisions of users is disclosed.    
+7. **Accrual Accounting** - Revenues & expenses are recognized when they are earned or incurred, regardless of cash flow.   
 8. **Consistency** - Accounting methods are applied consistently within an entity and across periods.   
     
 
@@ -41,7 +41,7 @@ tags: gaap
   - Assets and liabilities should be objectively determinable  
 
 
-### Generally Accepted Accounting Principles, plays a crucial role in the financial world for several important reasons:
+#### Generally Accepted Accounting Principles, plays a crucial role in the financial world for several important reasons:
 
 1. Transparency and Consistency:
 
