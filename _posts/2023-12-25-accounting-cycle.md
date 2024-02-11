@@ -5,6 +5,7 @@ layout: post
 mermaid: true
 ---
 
+**8 steps**
 
 ```mermaid
 graph TD
@@ -18,7 +19,6 @@ graph TD
     H --> A
 ```
 
-9 steps:
 
 ## 1. Identify & Analyze Transactions:
 
