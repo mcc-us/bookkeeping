@@ -27,8 +27,7 @@ graph TD
 
 ## 2. Record Transactions To Journal:
 
-- Transactions are recorded chronologically.
-- Date, account titles, debits/credits amounts, & brief descriptions.
+![](/assets/mc-graw-accounting-course/example.journal.entry.png)
 
 ## 3. Post Transactions To General Ledger:
 
