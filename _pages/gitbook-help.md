@@ -7,23 +7,6 @@ layout: post
 More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
 
 
-### Tables
-
-~~~
-| nameA | nameB | nameC |
-| :---: |:----- | :---- |
-| A1    | B1    | C1    |
-
-~~~
-
-```markdown
-<div class="table-wrapper" markdown="block">
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-</div>
-```
-
 ### Add non-breaking space: 
 
 - `&nbsp;`
@@ -117,12 +100,20 @@ foo(3)
 ```
 ```
 
-```
-{% highlight javascript linenos %}
-# with line numbers
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+
+### Tables
+
+~~~
+| nameA | nameB | nameC |
+| :---: |:----- | :---- |
+| A1    | B1    | C1    |
+
+~~~
+
+```markdown
+<div class="table-wrapper" markdown="block">
+|title1|title2|title3|title4|title5|title6|title7|title8|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|8|
+</div>
 ```
