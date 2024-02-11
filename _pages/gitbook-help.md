@@ -1,5 +1,5 @@
 ---
-title: Gitbook Help
+title: gitbook help
 category: Jekyll
 layout: post
 ---
@@ -103,12 +103,12 @@ foo(3)
 
 ### Tables
 
-~~~
+```
 | nameA | nameB | nameC |
 | :---: |:----- | :---- |
 | A1    | B1    | C1    |
+```
 
-~~~
 
 ```markdown
 <div class="table-wrapper" markdown="block">

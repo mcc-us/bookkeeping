@@ -4,10 +4,14 @@ layout: post
 tags: drcr
 ---
 
+Double-entry accounting is a method used to track the assets, liabilities and equity.
 
-## Basics: 
+Every purchase, sale or transaction has two componenets, a debit and a credit.
 
-- **Double-entry bookkeeping**: Every transaction affects two (or more) accounts, a debit and a credit. The total Debits always equal the total Credits.
+In accounting terms, a debit occurs on the left hand side of a journal or ledger.
+
+- Double-entry bookkeeping requires that every transaction affects two (or more) accounts, a debit and a credit. The total Debits always equal the total Credits.
+- 
 - **Accounts**: Imagine accounts as containers for different financial elements like assets, liabilities, equity, income, and expenses.
 
 double-entry accounting also tracks assets, liabilities and equity.
