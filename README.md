@@ -7,7 +7,7 @@ permalink: /
 
 | :honeybee: Resources :honeybee: |
 |:---------:|
-| [McGraw-Course](https://connect.mheducation.com/connect/hmStudentCourseList.do), &nbsp; &nbsp; [AIPB](https://aipb.org), &nbsp; &nbsp; [NACPB](https://www.certifiedpublicbookkeeper.org) |
+| [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) |
 
  
 > #### Statements   
