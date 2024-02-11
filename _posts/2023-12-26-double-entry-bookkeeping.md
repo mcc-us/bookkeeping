@@ -1,5 +1,5 @@
 ---
-title: debit / credits basics
+title: double-entry bookkeeping
 layout: post
 tags: drcr
 ---
@@ -10,6 +10,7 @@ tags: drcr
 - **Double-entry bookkeeping**: Every transaction affects two (or more) accounts, a debit and a credit. The total Debits always equal the total Credits.
 - **Accounts**: Imagine accounts as containers for different financial elements like assets, liabilities, equity, income, and expenses.
 
+double-entry accounting also tracks assets, liabilities and equity.
 
 ## General Rules: ??????
 
