@@ -10,13 +10,12 @@ mermaid: true
 graph TD
     A[Analyze Transactions] --> B(Record Transaction To Journal)
     B --> C(Post Transaction To Ledger)
-    C --> D(Generate Trial Balance)
-    D --> E(Make Adjustments?)
-    E --> F(Generate Adjusted Trial Balance)
-    G --> H(Are Closing Entries Needed)
-    H --> I(Update Trial Balance)
-    I --> G(Generate Financial Statements)
-    F --> A
+    C --> D(Produce Trial Balance)
+    D --> E(Make Adjusting Entries?)
+    E --> F(Produce Adjusted Trial Balance)
+    F --> G(Are Closing Entries Needed?)
+    G --> H[Generate Financial Statements]
+    H --> A
 ```
 
 9 steps:
