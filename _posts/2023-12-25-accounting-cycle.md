@@ -20,45 +20,47 @@ graph TD
 ```
 
 
-## 1. Identify & Analyze Transactions:
+## 1. Identify & Analyze Transactions
 
 - Identify which accounts are impacted by transaction
 - Include purchases, sales, payments, receipts, etc.
 
-## 2. Record Transactions To Journal:
+## 2. Record Transactions To Journal
 
 ![](/assets/mc-graw-accounting-course/example.journal.entry.png)
 
-## 3. Post Transactions To General Ledger:
+## 3. Post Transactions To General Ledger
 
 - Individual account balances in the general ledger are updated based on the journal entries.
 
-## 4. Prepare Unadjusted Trial Balance:
+![](/assets/misc/post.2.ledger.jpg)
+
+## 4. Prepare Unadjusted Trial Balance
 
 - The Trial Balance lists all accounts in the ledger with their respective balances.  
 - The Trial Balance does not highlight the accouonting equation, but it shows all normal balances.  
 
 However, it might not fully reflect the current state due to accruals & prepayments.
 
-## 5. Make Adjusting Entries (If Needed):
+## 5. Make Adjusting Entries (If Needed)
 
 - For accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
 
-## 6. Prepare An Adjusted Trial Balance:
+## 6. Prepare An Adjusted Trial Balance
 
 - After incorporating adjustments, a new trial balance is generated,
 - This reflects a more accurate picture of the company's financial state at a specific point in time.
 
-## 7. Prepare Financial Statements:
+## 7. Prepare Financial Statements
 
 - Using the adjusted trial balance as a starting point, financial statements like the income statement, statement of equity and balance sheet are created.
 
-## 8. Close the Books (If Needed):
+## 8. Close the Books (If Needed)
 
 - This step is particularly relevant for periodic reporting (e.g., monthly, quarterly).  
 - Closing involves transferring temporary account balances (revenue, expense) to permanent accounts (retained earnings), preparing them for a new reporting period.
 
-## 9. Archive Records:
+## 9. Archive Records
 
 - All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
 
