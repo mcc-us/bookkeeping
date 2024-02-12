@@ -6,7 +6,6 @@ layout: post
 
 More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
 
-
 ### Add non-breaking space: 
 
 - `&nbsp;`
@@ -78,8 +77,6 @@ https://gist.github.com/rxaviers/7360908
 
 `[Relative link to a section inside a page](#local-urls)`
 
-
-
 ### Pictures
 
 `![lion](/assets/img/lion_head-144x144.png)`
@@ -88,18 +85,14 @@ Images can also be centered!
 
 `![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
 
-
 ### Code chunks 
 
-```
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
-```
-
 
 ### Tables
 
@@ -108,7 +101,6 @@ foo(3)
 | :---: |:----- | :---- |
 | A1    | B1    | C1    |
 ```
-
 
 ```markdown
 <div class="table-wrapper" markdown="block">
