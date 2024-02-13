@@ -12,7 +12,6 @@ tags: reporting
 
 
 > #### List all accounts in order
->
 > A, L, O(wners Equity), R, E  
 > Debits = Credits for Trial Balance.
 {: .block-tip }
@@ -56,8 +55,7 @@ tags: reporting
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
-> REPORTS NEED  
->  
+> REPORTS NEED 
 > Who, What, When(For a SPECIFIC TIME) 
 {: .block-tip }
 

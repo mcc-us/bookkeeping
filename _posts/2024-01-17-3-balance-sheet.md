@@ -4,10 +4,8 @@ title: 3 balance sheet
 tags: reporting
 ---
 
-A = L + E 
-
->#### NEED: 
->
+ 
+>#### A = L + E 
 >Total Equity from Statement of Equity
 {: .block-tip }
 
@@ -17,7 +15,6 @@ A = L + E
 4. Include Equity from Statement of Equity 
 
 > #### Reports NEED:
->
 > WHO, WHAT, WHEN (On Day / Date Time)
 {: .block-tip }
 
