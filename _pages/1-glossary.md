@@ -86,8 +86,7 @@ title: glossary
 
 14. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
     
-15. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement   
-   1. Consists of **Only Revenue and Expense accounts**     
+15. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement, consists of **Only Revenue and Expense accounts**     
 
 16. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
    
