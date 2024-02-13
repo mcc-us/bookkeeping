@@ -18,12 +18,6 @@ graph TD
 ```
 
 
-```mermaid
-flowchart LR
-   a --> b & c--> d
-```
-
-
 ## 1. Identify & Analyze Transactions
 
 - Identify which accounts are impacted by transaction
@@ -31,20 +25,18 @@ flowchart LR
 
 ## 2. Record Transactions To Journal
 
-![](/assets/mc-graw-accounting-course/example.journal.entry.png)
+![example journal entry](/assets/mc-graw-accounting-course/example.journal.entry.png)
 
 ## 3. Post Transactions To General Ledger
 
 - Individual account balances in the general ledger are updated based on the journal entries.
 
-![](/assets/misc/post.2.ledger.jpg)
+![example ledger](/assets/misc/post.2.ledger.jpg)
 
 ## 4. Prepare Unadjusted Trial Balance
 
 - The Trial Balance lists all accounts in the ledger with their normal balances.  
-- The accounting equation is not highlighted at this point, it simply shows all normal balances.  
-
-However, it might not fully reflect the current state due to accruals & prepayments.
+- The accounting equation is not highlighted at this point, it simply shows all normal balances. **However**, it might not fully reflect the current state due to accruals & prepayments.
 
 ## 5. Make Adjusting Entries (If Needed)
 
