@@ -55,7 +55,7 @@ title: glossary
 
 1. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
-2. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of $6,000 erroneously entered in the debit column on the trial balance. Total credits will be $6,000 too low and total debits $6,000 too high, for a total error of $12,000—double the $6,000 entered in the wrong column.
+2. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of \$6,000 erroneously entered in the debit column on the trial balance. Total credits will be \$6,000 too low and total debits \$6,000 too high, for a total error of \$12,00 double the \$6,000 entered in the wrong column.
 
 3. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
 
