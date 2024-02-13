@@ -9,117 +9,117 @@ title: glossary
 
 1. *Accounting Equation*: A = L + E   
 
-1. *Accounting Cycle*: **Record, process, report**
+2. *Accounting Cycle*: **Record, process, report**, [post](2023-12-25-accounting-cycle.html)
 
-1. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
+3. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
 
-1. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
+4. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
-1. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
+5. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
-1. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
+6. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
-1. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period. (**"updates to keep things accurate"**)   
+7. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period. (**"updates to keep things accurate"**)   
 
-1. *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses   
+8. *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses   
 
-1. *Audit Trail*: **"breadcrumbs leading to the source "**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.    
+9. *Audit Trail*: **"breadcrumbs leading to the source "**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.    
 
-1. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
+10. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 
-1. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time, **A = L + E**   
+11. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time, **A = L + E**   
 
-1. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation. (**Think: worth after depreciation**)   
+12. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation. (**Think: worth after depreciation**)   
 
-1. *Capital*: Financial investment in a business; **"Owner's equity"**   
+13. *Capital*: Financial investment in a business; **"Owner's equity"**   
 
-1. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
+14. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
 
-1. *Classification*: Grouping transactions into relevant accounts.   
+15. *Classification*: Grouping transactions into relevant accounts.   
 
-1. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.   
+16. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.   
 
-1. *Compound Entry*: A single journal entry affects multiple accounts, usually with debits and credits. (**One Entry, multiple impacts**)   
+17. *Compound Entry*: A single journal entry affects multiple accounts, usually with debits and credits. (**One Entry, multiple impacts**)   
 
-1. *Contra Account*: An account with an average balance opposite that of a related account.   
+18. *Contra Account*: An account with an average balance opposite that of a related account.   
 
-1. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
+19. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
 
-1. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
+20. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
 
-1. *Credit*: Think RIGHT hand
+21. *Credit*: Think RIGHT hand
 
-1. *Debit*: Think LEFT hand 
+22. *Debit*: Think LEFT hand 
 
-1. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
+23. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
 
-1. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+24. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
-2. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of \$6,000 erroneously entered in the debit column on the trial balance. Total credits will be \$6,000 too low and total debits \$6,000 too high, for a total error of \$12,00 double the \$6,000 entered in the wrong column.
+25. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of \$6,000 erroneously entered in the debit column on the trial balance. Total credits will be \$6,000 too low and total debits \$6,000 too high, for a total error of \$12,00 double the \$6,000 entered in the wrong column.
 
-3. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+26. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
 
-4. *Equity*: synonyms   
+27. *Equity*: synonyms   
     1. Ownership interest   
     2. Investment: Highlights the financial stake   
     3. Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.   
     4. Capital: Broad term referring to the funds invested in a business.   
     5. Net worth   
 
-5. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
+28. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
 
-6. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
+29. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
 
-7. *EBITDA*: **Earnings Before Interest, Tax, Depreciation & Amortization** is a financial metric used to assess a company's operational profitability. It represents the profit generated by the core business operations, excluding the impact of financing decisions (interest expense), government regulations (taxes), and non-cash expenses related to assets (depreciation and amortization).
+30. *EBITDA*: **Earnings Before Interest, Tax, Depreciation & Amortization** is a financial metric used to assess a company's operational profitability. It represents the profit generated by the core business operations, excluding the impact of financing decisions (interest expense), government regulations (taxes), and non-cash expenses related to assets (depreciation and amortization).
 
-8. *EBITDA margin*: (EBITDA divided by revenue) can provide insights into a company's operational efficiency and profitability.
+31. *EBITDA margin*: (EBITDA divided by revenue) can provide insights into a company's operational efficiency and profitability.
 
-9. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
+32. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
    
-10. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
+33. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
 
-11. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
+34. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
 
-12. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
+35. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
 
-13. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
+36. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
 
-14. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
+37. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
     
-15. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement, consists of **Only Revenue and Expense accounts**     
+38. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement, consists of **Only Revenue and Expense accounts**     
 
-16. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
+39. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
    
-17. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
+40. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
 
-18. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
+41. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
     
-19. *List of approved suppliers*: Used as an internal control.   
+42. *List of approved suppliers*: Used as an internal control.   
 
-20. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
+43. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
     
-21. *Normal Balance*: The normal balance of an account is its **increase** side.   
+44. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
-22. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
+45. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
 
-23. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
+46. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
 
-24. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
+47. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
 
-25. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
+48. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-26. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
+49. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
 
-27. *Slide*: An accidental **movement of a decimal point**.   
+50. *Slide*: An accidental **movement of a decimal point**.   
 
-28. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+51. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-29. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+52. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-30. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+53. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-31. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+54. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-32. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+55. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
 
-33. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+56. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
