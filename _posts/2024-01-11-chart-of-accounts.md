@@ -9,24 +9,17 @@ title: chart of accounts
 > Assets, Liabilities, Owner Equity, Revenue, Expenses
 {: .block-tip }
 
-Example: C.O.A.
+Example C.O.A.
 
-| Range | Account Type | Financial Report |
-|:-|:-|:-|
-| 100 – 199 | Assets | Balance Sheet |
-| 200 – 299 | Liabilities | Balance Sheet |
-| 300 – 399 | Equity | Balance Sheet |
-| 400 – 499 | Revenue | Profit & Loss |
-| 500 – 599 | Expenses-Cost of Goods | Profit & Loss |
-| 600 – 699 | Expenses-Operating | Profit & Loss |
-| 700 – 799 | Taxes Paid | Profit & Loss |
-| 800 – 899 | Expenses-Sundry | Profit & Loss |
-
+![Example C.O.A.](/assets/aipb/coa.example.png)
 
 > COA's should be printable and easy to reference bc it may be used often. 
 {: .block-tip }
 
-Small businesses may have 250.  
+
+- There is no rule for numbering accounts, but most charts of accounts are set up like the example above. You can add accounts to any section at any time. If you no longer use a particular account, do not assign that account’s number to another account in the same year or you may end up with an expense, revenue or liability posted to the same account. 
+
+- Many small businesses may have circa 250.  
 
 Other resources:   
 

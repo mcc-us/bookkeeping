@@ -4,7 +4,7 @@ layout: post
 tags: gaap  
 ---
 
-### GAAP Assumptions   
+### Assumptions   
 
 1. **Separate Entity** - Personal accounts must always be separated from business accounts.   
 2. **Going Concern** - Business will continue to cover its obligations and debts, etc.  
@@ -16,7 +16,7 @@ tags: gaap
 8. **Consistency** - Accounting methods are applied consistently within an entity and across periods.   
     
 
-### Major Principles  
+### Principles  
 
 1. **Historical Cost basis** - Past amounts or market value determine values of assets or liabilities.   
 2. **Revenue Recognition** - Revenue is recognized when it is earned (delivery of service or good) and realized (cost received).   
@@ -30,20 +30,18 @@ tags: gaap
 
 ### More GAAP
 
+- GAAP is developed by Financial Accounting Standards Board (FASB).  
 - The **SEC requires publicly traded companies to comply with GAAP.** 
 - GAAP recommends that publicly traded companies have their financial statements audited by independent auditors.   
-
-- GAAP is developed by Financial Accounting Standards Board (FASB).  
-- Standards can be changed by petitioning FASB. It's more common for the FASB to initiate changes based on research, public input, and emerging issues.  
-- **Exposure draft** describes proposed changes, **discussion memorandum** followed by **Accounting standards Codification** implementation  
-
-- Auditors produce report on the operation and financial position of the business   
-- Audits should be:  
-  - Timely, accurate and fair   
-  - Assets and liabilities should be objectively determinable  
+  - Standards can be changed by petitioning FASB. It's more common for the FASB to initiate changes based on research, public input, and emerging issues.  
+  - **Exposure draft** describes proposed changes, **discussion memorandum** followed by **Accounting standards Codification** implementation  
+  - Auditors produce report on the operation and financial position of the business   
+  - Audits should be:  
+    - Timely, accurate and fair   
+    - Assets and liabilities should be objectively determinable  
 
 
-#### Generally Accepted Accounting Principles, plays a crucial role in the financial world for several important reasons:
+#### GAAP is crucial for several reasons:
 
 1. Transparency and Consistency:
 
