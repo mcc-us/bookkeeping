@@ -9,7 +9,7 @@ title: glossary
 
 1. *Accounting Equation*: A = L + E   
 
-2. *Accounting Cycle*: **Record, process, report**, [post](2023-12-25-accounting-cycle.html)
+2. *Accounting Cycle*: **Record, process, report**, [See post](/2023-12-25-accounting-cycle.html)
 
 3. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
 
