@@ -6,8 +6,7 @@ tags: drcr
 
 Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*.
 
-> #### TIP
-> **A L O R E** = Assets, Liabilities, Owner Equity, Revenue, Expenses
+> #### A L O R E = Assets, Liabilities, Owner Equity, Revenue, Expenses
 {: .block-tip }
 
 Every transaction has two components, a debit side and a credit side.

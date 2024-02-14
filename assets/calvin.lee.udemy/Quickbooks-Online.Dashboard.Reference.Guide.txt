@@ -8,7 +8,7 @@ https://qbo-intuit.com/redir/testdrive 
 2. Create a Supplier:
 • On the left panel, select Expenses>Suppliers
 
-3. Access the Chart Of Accounts:
+3. Adding to the Chart Of Accounts:
 • On the left panel, select Menu>Transactions>Chart of Accounts>New(top-right)
 
 4. Access reports such as the Profit & Loss Statement:
@@ -28,6 +28,8 @@ https://qbo-intuit.com/redir/testdrive 
 
 9. Gear Icon on top-right give additional settings
 
+#### Customers: How to Set Up Customers, Send Invoices, …
+
 10. Create Product Lines & Services Lines to sell:
 • On the left panel, select Sales>Product and Services>New (top-right-green button) Allows you to set up $/hr.
 
@@ -43,6 +45,9 @@ https://qbo-intuit.com/redir/testdrive 
 14. Create Sales Receipt:
 • On the left panel, select “+ New”>Customers>Sales receipt
 
+#### Section: Supplies/Vendors Setup, etc
+
+Up Customers, Send Invoices, and...
 15. How to Input A Bill From A Supplier:
 • On the left panel, select “+ New”>Vendors>Bill, set bill number from invoice, choose the category of the expense,
 
@@ -64,4 +69,9 @@ https://qbo-intuit.com/redir/testdrive 
 • First obtain bank statement, On the top-right gear, Tools>Reconcile>Enter $ and dates
 
 4. Bank Feed - Matching Bank Transactions:
-• Bank Transactions>Goto Category or Match>Choose transaction>Match
+• Bank Transactions>Goto Category or Match>Choose transaction>Match>View>Match
+
+5. Bank Reconciliation - Reconciling Bank Accounts And Credit Card Accounts:
+• Bank Transactions>Goto Category or Match>Choose transaction>Match>View>Match
+
+6. 
