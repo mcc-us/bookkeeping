@@ -9,7 +9,7 @@ permalink: /
 |:---------:|
 | [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) &nbsp; &nbsp; [**Udemy**](https://www.udemy.com/)|
 ||
-| :poop: **In Progess** :poop: |     
+| :poop: **In Progess** :poop: |
 |[income](2024-01-17-1-income-statement)<br>
 [equity](2024-01-17-2-changes-in-equity)<br>
 [balance sheet](2024-01-17-3-balance-sheet)<br>
