@@ -4,7 +4,8 @@ title: 2 changes in equity
 tags: reporting
 ---
 
-> #### Equity Includes&nbsp;Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
+> #### Equity Includes
+> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .block-tip }
 
 
