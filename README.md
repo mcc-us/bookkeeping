@@ -7,7 +7,7 @@ permalink: /
 
 | :honeybee: Resources :honeybee: |
 |:---------:|
-| [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) &nbsp; &nbsp; [Udemy](https://www.udemy.com/)|
+| [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) &nbsp; &nbsp; [**Udemy**](https://www.udemy.com/)|
 
  
 > #### Statements   
@@ -20,8 +20,3 @@ permalink: /
 > [adjusting-entries](2024-01-25-6-adjusting-entries.md)  
 > [cheatsheet](2024-01-16-order-of-financial-statements)  
 {: .block-tip }
-
-## Favorites
-- [debit/credit](2023-12-27-youtube-debit-credits-explained)   
-- [dear=clip](2023-12-27-dear-clip)  
-- [worksheets](2024-01-16-worksheet-template)  
