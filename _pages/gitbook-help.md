@@ -71,6 +71,8 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 https://gist.github.com/rxaviers/7360908
 
+https://github-emoji-picker.rickstaa.dev/
+
 ### Links
 
 `[Absolute link to a page](https://mcc-us.github.io/2020-02-28-sample-markdown/)`
