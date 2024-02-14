@@ -5,9 +5,7 @@ tags: reporting
 ---
 
 
-> #### Income Statement
-> Revenue & Expenses -> Net Income/Loss
-> The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
+> #### Revenue & Expenses -> Net Income/Loss&nbsp;The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
 {: .block-tip }
 
 
@@ -16,8 +14,7 @@ Step 2: Use 3 columns; **Act, Amount, Total**
 Step 3: List Revenues, Expenses & total them      
 Step 5: Calculate Net & double underline bottom line   
 
-> #### Reports NEED
-> Who, What, When: Time Period
+> #### Reports NEED&nbsp;Who, What, When: Time Period
 {: .block-tip }
 
 Company Name   
@@ -38,7 +35,6 @@ For the Year Ending Dec. 31, 2024
 
 
 > #### Remember
->
 > Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
 {: .block-tip }
 
