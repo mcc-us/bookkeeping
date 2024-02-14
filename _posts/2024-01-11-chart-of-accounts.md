@@ -4,7 +4,6 @@ title: chart of accounts
 ---
 
 
-> ##### TIP  
 > A L O R E =  
 > Assets, Liabilities, Owner Equity, Revenue, Expenses
 {: .block-tip }
