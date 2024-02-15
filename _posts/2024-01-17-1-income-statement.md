@@ -50,6 +50,6 @@ For the Year Ending Dec. 31, 2024
 
 ### Sample Income Statements
 
-![Example 1](/assets/misc/sample-income-statement.webp)
+![Example 1](/assets/misc/sample-income-statement.webp){: .mx-auto.d-block :}
 
-![Example 2](/assets/misc/sample-income-statement2.webp)
+![Example 2](/assets/misc/sample-income-statement2.webp){: .mx-auto.d-block :}

@@ -35,6 +35,10 @@ tags: reporting
 
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 
+### Sample
+
+![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg)
+
 ### Alternative Names
 
 1. **Statement of Shareholders' Equity**   
