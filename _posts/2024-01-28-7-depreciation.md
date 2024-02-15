@@ -1,11 +1,26 @@
 ---
 layout: post
-title: depreciation
+title: 7 depreciation
 tags: depreciation
 math: true
 ---
 
 **Depreciation** is the act of reducing the book value, and expensing the assets usage generally over a year, for a fixed asset due to 'wear, tear and obselence'.
+
+Depreciating assets has significant tax implications in two key ways:
+
+1. Reducing Taxable Income
+
+- As an asset depreciates in value over time, the depreciation expense is deducted from your taxable income each year.
+- This lowers your taxable income, resulting in paying less income tax.
+- Essentially, it recognizes that the asset isn't generating its full purchase price every year, so you shouldn't be taxed on its full value either.
+
+2. Recapture Upon Disposal
+
+- When you sell or dispose of an asset, the tax treatment depends on the difference between the selling price and the asset's depreciated value:
+- Gain: If you sell the asset for more than its depreciated value, you might face capital gains tax on the difference (depending on asset type and holding period).
+- Loss: If you sell the asset for less than its depreciated value, the loss might be ordinary or capital, depending on the asset type and reason for disposal.
+- Recapture: In some cases, the depreciation you claimed in previous years gets "recaptured" as ordinary income, essentially reversing the initial tax benefit. This prevents excessive tax benefits from accelerated depreciation methods.
 
 ### Sample
 
