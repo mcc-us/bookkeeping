@@ -7,6 +7,10 @@ math: true
 
 **Depreciation** is the act of reducing the book value, and expensing the assets usage generally over a year, for a fixed asset due to 'wear, tear and obselence'.
 
+### Sample
+
+![Sample Depreciation Form](/assets/mc-graw-accounting-course/bs.showing.equip.minus.depreciation.png)
+
 ## A. straight line depreciation - 3 Steps
 
 As found in [straight line depreciation - youtube](https://www.youtube.com/watch?v=iruD9KTNnNc)
@@ -96,7 +100,7 @@ $\Large 2 ~x~ \frac{(Value)}{(Usefull ~ ~Years)} = \frac{2~x~\$50k }{5 yr} =$ **
 - *Switching to Straight Line*: In some cases, DDB depreciation might be switched to straight-line depreciation in later years to avoid depreciating the asset below its salvage value.
 
 
-#### C. Non linear depreciation
+### C. Non linear depreciation
 
 
 **4 alternative depreciations**

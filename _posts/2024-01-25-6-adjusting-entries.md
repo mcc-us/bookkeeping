@@ -6,13 +6,13 @@ tags: adjustments
 
 **_Adjustments or adjusting entries_ ARE** journal entries made to update acts for previously unrecorded items.     
 
-1. Prepaid Exp.-Insurance   
+1. Prepaid Exp.-{Insurance, Rent, Supplies, Advertising}  
 1. Depreciation   
 1. Accrueed Exp.-Interest   
 1. Accrued Revenue   
 1. Unearned Revenue   
   
-### Prepaid Expense 
+### Prepaid Expenses 
    
 - Adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
 
