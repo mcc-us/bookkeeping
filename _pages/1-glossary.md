@@ -3,125 +3,131 @@ layout: post
 title: glossary
 ---
 
-*The definitions are abbreviated and abridged.*  
+*Definitions are abbreviated and abridged.*  
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 1. *Accounts*: A "container" (bucket) that tracks specific assets, liabilities, equity, income, or expenses  
 
 2. *Accounting Equation*: A = L + E   
 
-2. *Accounting Cycle*: **Record, process, report**, [See post](https://mcc-us.github.io/2023-12-25-accounting-cycle.html)
+3. *Accounting Cycle*: **Record, process, report**, [See post](https://mcc-us.github.io/2023-12-25-accounting-cycle.html)
 
-3. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
+4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
 
-4. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
+5. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
-5. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
+6. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
-6. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
+7. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
-7. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period. (**"updates to keep things accurate"**)   
+8. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period. (**"updates to keep things accurate"**)   
 
-8. *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses   
+9.  *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses   
 
-9. *Audit Trail*: **"breadcrumbs leading to the source "**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.    
+10. *Audit Trail*: **"breadcrumbs leading to the source "**, A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.    
 
-10. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
+11. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 
-11. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time, **A = L + E**   
+12. *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time, **A = L + E**   
 
-12. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation. (**Think: worth after depreciation**)   
+13. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation. (**Think: worth after depreciation**)   
 
-13. *Capital*: Financial investment in a business; **"Owner's equity"**   
+14. *Capital*: Financial investment in a business; **"Owner's equity"**   
 
-14. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
+15. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
 
-15. *Classification*: Grouping transactions into relevant accounts.   
+16. *Classification*: Grouping transactions into relevant accounts.   
 
-16. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.   
+17. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.   
 
-17. *Compound Entry*: A single journal entry affects multiple accounts, usually with debits and credits. (**One Entry, multiple impacts**)   
+18. *Compound Entry*: A single journal entry affects multiple accounts, usually with debits and credits. (**One Entry, multiple impacts**)   
 
-18. *Contra Account*: An account with an average balance opposite that of a related account.   
+19. *Contra Account*: An account with an average balance opposite that of a related account.   
 
-19. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
+20. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
 
-20. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
+21. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. (**An entry to fix mistakes**) 
 
-21. *Credit*: Think RIGHT hand
+22. *Credit*: Think RIGHT hand
 
-22. *Debit*: Think LEFT hand 
+23. *Debit*: Think LEFT hand 
 
-23. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
+24. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
 
-24. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
+25. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
-25. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of \$6,000 erroneously entered in the debit column on the trial balance. Total credits will be \$6,000 too low and total debits \$6,000 too high, for a total error of \$12,00 double the \$6,000 entered in the wrong column.
+26. *Doubling error*: occurs when a transaction is entered twice, for example a credit balance in the debit column. Say that sales has a credit balance of \$6,000 erroneously entered in the debit column on the trial balance. Total credits will be \$6,000 too low and total debits \$6,000 too high, for a total error of \$12,00 double the \$6,000 entered in the wrong column.
 
-26. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
+27. *Drawing Account*: An account that records owner withdrawals from the business, reducing their equity.   
 
-27. *Equity*: synonyms   
+28. *Equity*: synonyms   
     1. Ownership interest   
     2. Investment: Highlights the financial stake   
     3. Net assets: Focuses on the difference between assets and liabilities, representing the residual value owned by shareholders.   
     4. Capital: Broad term referring to the funds invested in a business.   
     5. Net worth   
 
-28. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
-
-29. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
-
-30. *EBITDA*: **Earnings Before Interest, Tax, Depreciation & Amortization** is a financial metric used to assess a company's operational profitability. It represents the profit generated by the core business operations, excluding the impact of financing decisions (interest expense), government regulations (taxes), and non-cash expenses related to assets (depreciation and amortization).
-
-31. *EBITDA margin*: (EBITDA divided by revenue) can provide insights into a company's operational efficiency and profitability.
-
-32. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
+29. *Fair Market Value*: FMV is the price an informed and willing buyer pays an informed and willing seller for an asset, assuming neither is under undue pressure. 
    
-33. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
+30. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
 
-34. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
-
-35. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
-
-36. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
-
-37. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
+31. *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
     
-38. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement, consists of **Only Revenue and Expense accounts**     
+32. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense. (**Think: spreading out the cost of using something over time**)   
 
-39. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
+33. *EBITDA*: **Earnings Before Interest, Tax, Depreciation & Amortization** is a financial metric used to assess a company's operational profitability. It represents the profit generated by the core business operations, excluding the impact of financing decisions (interest expense), government regulations (taxes), and non-cash expenses related to assets (depreciation and amortization).
+
+34. *EBITDA margin*: (EBITDA divided by revenue) can provide insights into a company's operational efficiency and profitability.
+
+35. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
    
-40. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
+36. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
 
-41. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
+37. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
+
+38. *Fundamental accounting equation*: **A = L + E / DEAR-CLIP**   
+
+39. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. (**The first "bucket" for all transactions**)   
+
+40. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business.**   
     
-42. *List of approved suppliers*: Used as an internal control.   
+41. *Income Statement*: alias; Statement of Operations, Profit and Loss Statement, consists of **Only Revenue and Expense accounts**     
 
-43. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
+42. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
+   
+43. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
+
+44. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
     
-44. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
+45. *List of approved suppliers*: Used as an internal control.   
+
+46. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
     
-45. *Normal Balance*: The normal balance of an account is its **increase** side.   
+47. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
+    
+48. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
-46. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
+49. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
 
-47. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
+50. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
 
-48. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
+51. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
 
-49. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
+52. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-50. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
+53. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
 
-51. *Slide*: An accidental **movement of a decimal point**.   
+54. *Slide*: An accidental **movement of a decimal point**.   
 
-52. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+55. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-53. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+56. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-54. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+57. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-55. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+58. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-56. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+59. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
 
-57. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+60. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
