@@ -19,6 +19,8 @@ Step 5: Calculate Net & double underline bottom line
 > Who, What, When: Time Period
 {: .block-tip }
 
+### Report
+
 Company Name   
 Income Statement   
 For the Year Ending Dec. 31, 2024
@@ -44,3 +46,10 @@ For the Year Ending Dec. 31, 2024
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 - Find this example at Tony Bell @ accountingworkbook.com
+
+
+### Sample Income Statements
+
+![Example 1](/assets/misc/sample-income-statement.webp)
+
+![Example 2](/assets/misc/sample-income-statement2.webp)
