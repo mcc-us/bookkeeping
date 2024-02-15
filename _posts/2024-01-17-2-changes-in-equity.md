@@ -37,7 +37,7 @@ tags: reporting
 
 ### Sample
 
-![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg)
+![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg){: .mx-auto.d-block :}
 
 ### Alternative Names
 
