@@ -4,7 +4,7 @@ title: 2 changes in equity
 tags: reporting
 ---
 
-> #### Equity Includes
+> Equity Includes
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .block-tip }
 
@@ -37,7 +37,9 @@ tags: reporting
 
 ### Sample
 
-![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg){: .mx-auto.d-block :}
+| ![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg){: .mx-auto.d-block :} |
+|:-:|
+||
 
 ### Alternative Names
 

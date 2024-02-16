@@ -5,8 +5,8 @@ tags: reporting
 ---
 
  
->#### A = L + E
->Total Equity from Statement of Equity
+> A = L + E
+> Total Equity from Statement of Equity
 {: .block-tip }
 
 1. Prepare 6 column worksheet   
@@ -14,7 +14,7 @@ tags: reporting
 3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)  
 4. Include Equity from Statement of Equity 
 
-> #### Reports NEED
+> Reports NEED
 > WHO, WHAT, WHEN (On Day / Date Time)
 {: .block-tip }
 

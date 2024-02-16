@@ -11,7 +11,7 @@ tags: reporting
 4. Serve as an internal control.   
 
 
-> #### List all accounts in order
+> List all accounts in order
 > A, L, O(wners Equity), R, E  
 > Debits = Credits for Trial Balance.
 {: .block-tip }
