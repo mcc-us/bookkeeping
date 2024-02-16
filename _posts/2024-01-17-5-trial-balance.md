@@ -17,7 +17,7 @@ tags: reporting
 {: .block-tip }
 
 
-## 5 Steps
+### 5 Steps
 
 1. Enter the general ledger account names.   
 
@@ -36,7 +36,7 @@ tags: reporting
   4. Depreciation Expense—Equipment.     
 
 
-## Rules for Presentation:
+### Rules for Presentation:
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
    - Cash first
@@ -59,6 +59,7 @@ tags: reporting
 > Who, What, When(For a SPECIFIC TIME) 
 {: .block-tip }
 
+### Example Report
 
 Company Name   
 Trial Balance Statement   
@@ -83,7 +84,7 @@ For Dec. 31, 2024
 | | **Debits = Credits** | **DOUBLE UNDERLINE** |
 
 
-## Key benefits it offers:
+### Key benefits it offers:
 
 1. **Verifies Accuracy**: The fundamental purpose of a trial balance is to check for mathematical errors in the accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.
 

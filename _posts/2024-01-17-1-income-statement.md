@@ -19,7 +19,7 @@ Step 5: Calculate Net & double underline bottom line
 > Who, What, When: Time Period
 {: .block-tip }
 
-### Report
+### Example Report
 
 Company Name   
 Income Statement   

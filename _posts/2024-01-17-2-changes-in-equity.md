@@ -19,6 +19,7 @@ tags: reporting
 6.  +/- Common shares bought/sold  
 7. SUBTRACT: Dividends & Withdrawls  
 
+### Example Report
 
 **WHO**: *Co.*  
 **WHAT**: *Statement of Shareholders' Equity*  
@@ -35,7 +36,7 @@ tags: reporting
 
 ![Example Income Statement](/assets/tony-bell/equity.numbers.png)
 
-### Sample
+### Further Examples
 
 | ![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg){: .mx-auto.d-block :} |
 |:-:|
