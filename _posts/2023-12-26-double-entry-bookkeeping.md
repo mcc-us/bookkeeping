@@ -11,25 +11,23 @@ Double-entry accounting is a method used to track the categories: *Assets, Liabi
 
 Every transaction has two components, a debit side and a credit side.
 
+| Account ||
+|:--------|----------:|
+| Debit   | Credit    |
+
 In accounting terms, a debit refers to the part of a transaction on the left hand side of a journal or ledger table, while credit is on the right hand side.
 
-| Bank Account #x |Debit|Credit|
-|:-----|------:|-|
-| Date |  |  |
+| Example Entry |
+|:-----:|
+| ![Example Entry](/assets/mc-graw-accounting-course/example.journal.entry.png)  |
 
-- Double-entry bookkeeping requires that every transaction have a debit-side and a credit-side, and each transaction affects two (or more) accounts. 
+- Double-entry bookkeeping says that transaction may effect 2 or more accounts, just the same the debits must equal the credits. 
 - An **Account** is  container/bucket that tracks specific assets, liabilities, equity, income, or expenses. 
-- The total Debits always equal the total Credits.
 
-| Bank Account #x |||
-|:-----|------:|-|
-| Date | Debit | Credit |
-|  1/1/2030 | $100 | |
-|  1/2/2030 | | $100 |
 
 ---
 
-## ??????
+
 
 - **Using 'T-Accounts'**  
 
