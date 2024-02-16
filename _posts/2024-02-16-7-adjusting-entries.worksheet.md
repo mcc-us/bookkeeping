@@ -6,5 +6,5 @@ tags: adjustments
 
 |Preparation Of Adjusted Balance Sheet, fig5.8a|
 |:-:|
-|![Adjusted Balance Sheet](/assets/mc-graw-accounting-course/fig5.8a.preparation.of.bs.png)|
+|![Adjusted Balance Sheet](/assets/mc-graw-accounting-course/fig5.8f.preparation.of.bs.png)|
 
