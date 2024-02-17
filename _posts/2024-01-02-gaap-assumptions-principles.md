@@ -32,6 +32,21 @@ Links
 8. **Consistency** - Accounting methods are applied consistently within an entity and across periods.   
     
 
+10 GAAP Principles
+
+1. Principle of Regularity: GAAP-compliant accountants strictly adhere to established rules and regulations.
+1. Principle of Consistency: Consistent standards are applied throughout the financial reporting process.
+1. Principle of Sincerity: GAAP-compliant accountants are committed to accuracy and impartiality.
+1. Principle of Permanence of Methods: Consistent procedures are used in the preparation of all financial reports.
+1. Principle of Non-Compensation: All aspects of an organization's performance, whether positive or negative, are fully reported with no prospect of debt compensation.
+1. Principle of Prudence: Speculation does not influence the reporting of financial data.
+1. Principle of Continuity: Asset valuations assume the organization's operations will continue.
+1. Principle of Periodicity: Reporting of revenues is divided by standard accounting periods, such as fiscal quarters or fiscal years.
+1. Principle of Materiality: Financial reports fully disclose the organization's monetary situation.
+1. Principle of Utmost Good Faith: All involved parties are assumed to be acting honestly.
+
+
+
 ### Principles  
 
 1. **Historical Cost basis** - Past amounts or market value determine values of assets or liabilities.   
