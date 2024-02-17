@@ -4,30 +4,31 @@ title: going-concern-principle
 tags: gaap
 --- 
 
+The Going Concern Principle assumes that a company will continue operating into the foreseeable future unless there's substantial evidence to the contrary.
 
-The Going Concern Principle assumes that a company will continue to operate into the foreseeable future unless there's substantial evidence to the contrary.
+**Businesses that will be in it for the long haul will be stable into the future and retain a better value**
 
 ### Why is it a principle?
 
-This principle serves several purposes:
+The **Going Concern** principle serves several purposes:
 
-1. It provides a basis for valuation: If a company is assumed to cease operation soon, its assets would be worth their **liquidation value** (what you'd get by selling them off immediately). However, the Going Concern Principle allows valuing assets based on their expected future use, which is generally higher than their immediate sale price.
+1. It provides a basis for valuation. For example, If a company goes out of business, its assets would be lower than ordinarily, i.e., **liquidation value**, or **fire sale**. Therefore, the Going Concern Principle allows valuing assets based on their expected future use, which is generally higher than their **liquidation value**.
 
-1. It guides accounting practices: Knowing a company intends to continue operation **allows for CPAs to use accrual accounting**. Whereby expenses or revenue are recognized when incurred even if not paid yet. This reflects the ongoing economic activity better than just focusing on cash flows.
+1. It guides accounting practices: Knowing a company intends to continue operation **allows CPAs to use accrual accounting**. Whereby expenses or revenue are recognized when incurred, NOT when cash is exchanged. This reflects the ongoing economic activity better than just focusing on cash flows.
 
 1. It enables financial statement interpretation: assuming continuity allows users to interpret financial statements (e.g., debt levels) realistically, understanding risks and opportunities associated with a continued operation.
 
 ### Importance of the Principle:
 
-1. ??? Accuracy and relevance: Financial statements become more accurate and relevant when reflecting the expected continuation of the business.
+1. Accuracy: financial statements become more accurate and relevant when a business is stable.
 
-1. Comparability: Allows comparing companies across industries and time periods with a consistent assumption of going concern.
+1. Comparability: this allows comparisons of companies across industries and periods to be compared consistently.
 
-1. Decision-making: Investors, creditors, and management use financial statements for informed decisions, and the Going Concern Principle helps assess future viability and risks.
+1. Decision-making: Investors, creditors, and management use financial statements for informed decisions, and the Going Concern Principle helps stabilize future variability and risks.
 
 ### Derivation of the Principle:
 
-This principle isn't explicitly mentioned in historical accounting pronouncements but **emerged as a foundational assumption underpinning various accounting practices. It aligns with the broader economic rationale of businesses aiming for long-term sustainability and growth.**
+The **Going Concern** principle isn't explicitly mentioned in historical accounting pronouncements but **emerged as a foundational assumption as it aligns with long-term sustainability and growth.**
 
 ### Important Caveats:
 
@@ -38,4 +39,3 @@ This principle isn't explicitly mentioned in historical accounting pronouncement
 
 1. The principle focuses on the foreseeable future, not indefinitely. What counts as "foreseeable" depends on industry norms and specific circumstances.
 1. Different jurisdictions might have slight variations in interpreting and applying the Going Concern Principle.
-
