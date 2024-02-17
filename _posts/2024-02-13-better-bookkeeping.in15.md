@@ -1,7 +1,7 @@
 ---
 layout: post
 title: better bookkeeping in 15
-tags: 
+tags: aipb
 --- 
 
 Note: The text formatting is better when you download the pdf.
