@@ -4,6 +4,22 @@ layout: post
 tags: gaap  
 ---
 
+Links
+
+[netsuite.com](https://www.netsuite.com/portal/resource/articles/accounting/general-accepted-accounting-principles-gaap.shtml)
+
+[FASB Home](https://asc.fasb.org/Home)
+
+[Forbes.com](https://www.forbes.com/advisor/business/generally-accepted-accounting-principles-gaap-guide/)
+
+[accounting.com](https://www.accounting.com/resources/gaap/)
+
+[efinancemanagement.com](https://efinancemanagement.com/financial-accounting/all-10-gaap-principles)
+
+| 10-Accounting-GAAPs |
+|:-:|
+|![GAAP](/assets/misc/10-Accounting-GAAPs-943x1024.png.webp)|
+
 ### Assumptions   
 
 1. **Separate Entity** - Personal accounts must always be separated from business accounts.   
