@@ -5,17 +5,15 @@ tags: gaap
 --- 
 
 
-The Going Concern Principle: A Deep Dive
-
 The Going Concern Principle assumes that a company will continue to operate into the foreseeable future unless there's substantial evidence to the contrary.
 
 ### Why is it a principle?
 
-This principle serves several essential purposes:
+This principle serves several purposes:
 
 1. It provides a basis for valuation: If a company is assumed to cease operation soon, its assets would be worth their **liquidation value** (what you'd get by selling them off immediately). However, the Going Concern Principle allows valuing assets based on their expected future use, which is generally higher than their immediate sale price.
 
-1. Guides accounting practices: Knowing a company intends to continue operation **allows for using accrual accounting**, where expenses are recognized when incurred even if not paid yet, and vice versa for revenue. This reflects the ongoing economic activity better than just focusing on cash flows.
+1. It guides accounting practices: Knowing a company intends to continue operation **allows for CPAs to use accrual accounting**. Whereby expenses or revenue are recognized when incurred even if not paid yet. This reflects the ongoing economic activity better than just focusing on cash flows.
 
 1. It enables financial statement interpretation: assuming continuity allows users to interpret financial statements (e.g., debt levels) realistically, understanding risks and opportunities associated with a continued operation.
 
