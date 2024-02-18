@@ -5,6 +5,14 @@ tags: closingAccounts
 ---
 
 
+The Closing Process
+
+The seventh step in the accounting cycle is to journalize and post closing entries. Closing entries are journal entries that:
+
+- transfer the results of operations (net income or net loss) to owner’s equity,
+
+- reduce revenue, expense, and drawing account balances to zero.
+
 ## Flowchart:   
 
 Closing accounts & entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.
