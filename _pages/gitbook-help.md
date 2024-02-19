@@ -87,6 +87,10 @@ Images can also be centered!
 
 `![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
 
+|ImageTitle|
+|:-:|
+|![abc](/assets/a.png)|
+
 ### Code chunks 
 
 ```javascript
