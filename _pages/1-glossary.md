@@ -52,7 +52,7 @@ title: glossary
 
 23. *Debit*: Think LEFT hand 
 
-24. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets & Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
+24. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets / Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
 
 25. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
