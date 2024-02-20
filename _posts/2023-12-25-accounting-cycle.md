@@ -38,6 +38,10 @@ graph TD
 - The Trial Balance lists all accounts in the ledger with their normal balances.  
 - The accounting equation is not highlighted at this point, it simply shows all normal balances. **However**, it might not fully reflect the current state due to accruals & prepayments.
 
+|Unadjusted-Trial-Balance|
+|:-:|
+|![Unadjusted-Trial-Balance](/assets/misc/Unadjusted-Trial-Balance.png)|
+
 ## 5. Make Adjusting Entries (If Needed)
 
 - For accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
