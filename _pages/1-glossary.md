@@ -52,7 +52,11 @@ title: glossary
 
 23. *Debit*: Think LEFT hand 
 
+<<<<<<< HEAD
 24. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets / Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
+=======
+24. *DEA-LER*: Dividends, Expenses, Assets / Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
+>>>>>>> 3a2d0b0 (glossary mod)
 
 25. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
@@ -67,8 +71,6 @@ title: glossary
     4. Capital: Broad term referring to the funds invested in a business.   
     5. Net worth   
 
-29. *Fair Market Value*: FMV is the price an informed and willing buyer pays an informed and willing seller for an asset, assuming neither is under undue pressure. 
-   
 30. *DEAR-CLIP*: **Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables**   
 
 31. *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
@@ -79,7 +81,7 @@ title: glossary
 
 34. *EBITDA margin*: (EBITDA divided by revenue) can provide insights into a company's operational efficiency and profitability.
 
-35. *Fair market value*: The current value of an asset or the price the asset would bring if sold on the open market.   
+35. *Fair market value*: FMV is the price an informed and willing buyer pays an informed and willing seller for an asset, assuming neither is under undue pressure. 
    
 36. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. **Think of An economic stake in a company**, expecting financial rewards.   
 
