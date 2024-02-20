@@ -5,7 +5,6 @@ tags: qbo
 --- 
 
 
-
 ## Quickbooks-Online Dashboard Reference Guide
 
 taken from Udemy course
@@ -35,7 +34,7 @@ The Chart of Accounts: adding accounts in QuickBooks Online
 1. Creating Customers And Maintaining Customer Information:
    - On the left panel, select Sales>Customers
 
-# Section 4: Suppliers / Vendors
+## Section 4: Suppliers / Vendors
 
 bank feed, linking to, adding transactions, matching transactions, bank reconciliation
 
@@ -83,7 +82,7 @@ bank feed, linking to, adding transactions, matching transactions, bank reconcil
 3. Recording an Expense in QuickBooks;
    - On the left panel, select “+ New”>Vendors>Expense, 
 
-# Section 5: Reconciling Bank Act
+## Section 5: Reconciling Bank Act
 
 - Bank rules and receipts, using Amazon business apps to import expenses and receipts...
 
@@ -110,7 +109,7 @@ bank feed, linking to, adding transactions, matching transactions, bank reconcil
 - Tags for categorization
   
  
-# Section 6: Payroll Overview: Using Payroll to pay employees
+## Section 6: Payroll Overview: Using Payroll to pay employees
 
 
 - How to use QuickBooks Online Payroll can help with payroll taxes, and paying by check or direct deposit, track benefits, add contractors
@@ -122,7 +121,7 @@ bank feed, linking to, adding transactions, matching transactions, bank reconcil
    - On the left panel, select Payroll/Employees/Run Payroll (On Right), pay by paper check or direct deposit.
 
 
-# Section 7 TAXES
+## Section 7 TAXES
 
 1. Sales taxes overview
    - On the left panel, select Taxes/Get Started/Add biz address/Add state info /Review info / Save
