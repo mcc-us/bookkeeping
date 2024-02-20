@@ -9,15 +9,14 @@ tags: qbo
 
 taken from Udemy course
 
+https://qbo-intuit.com/redir/testdrive 
+
 [QBO Test drive](https://qbo.intuit.com/redir/testdrive)
 
-
-### QuickBooks-Online, How to Add...:
+- QuickBooks-Online, How to Add...:
 
 ![List of Actions](/assets/calvin.lee.udemy/QBO-adding-new.png)
 
-
-https://qbo-intuit.com/redir/testdrive 
 
 ## Section 2: Using QBO 
 
@@ -126,7 +125,6 @@ bank feed, linking to, adding transactions, matching transactions, bank reconcil
 1. Sales taxes overview
    - On the left panel, select Taxes/Get Started/Add biz address/Add state info /Review info / Save
    - QBO can help you file and pay sales taxes/Select filing frequency (monthly/quarterly/yearly)
-
 
 1. Overview: Filing sales tax returns - accrual vs cash basis different countries/governments may require a biz to submit taxes based on when the money is received and not earned and vice versa.
 
