@@ -21,14 +21,14 @@ layout: post
 
 ![example ledger](/assets/misc/post.2.ledger.jpg)
 
-## 4. Prepare Unadjusted Trial Balance
+## 4. Prepare Worksheet of Unadjusted Trial Balance
 
 - The Trial Balance lists all accounts in the ledger with their normal balances.  
 - The accounting equation is not highlighted at this point, it simply shows all normal balances. **However**, it might not fully reflect the current state due to accruals & prepayments.
 
-|Unadjusted-Trial-Balance|
+|Worksheet of Trial-Balance|
 |:-:|
-|![Unadjusted-Trial-Balance](/assets/misc/Unadjusted-Trial-Balance.png)|
+|![Worksheet](/assets/mc-graw-accounting-course/images/worksheet.TB.plus.adjustments.png)|
 
 ## 5. Make Adjusting Entries (If Needed)
 
