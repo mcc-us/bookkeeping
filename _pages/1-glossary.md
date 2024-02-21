@@ -122,7 +122,7 @@ $$A.T. =  \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
    1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​
    1. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
 
-1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0. $$Q.R. = \frac{Current~ Assets~ - ~Inventory}{Current~ Liabilities}$$
+1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$\large Q.R. = \frac{Current~ Assets~ - ~Inventory~ - Prepaid Expenses}{Current~ Liabilities}$$
 
 54. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
