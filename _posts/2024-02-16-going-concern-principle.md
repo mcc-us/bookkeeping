@@ -9,7 +9,7 @@ The Going Concern Principle assumes that a company will continue operating into 
 > **Businesses that are in it for the long haul will be more stable into the future and retain a better value.**
 {: .block-tip }
 
-### The **Going Concern** principle serves several purposes:
+### The Going Concern principle serves several purposes:
 
 1. It provides a basis for valuation. For example, If a company goes out of business, its assets would be lower than ordinarily, i.e., **liquidation value**, or **fire sale**. Therefore, the Going Concern Principle allows valuing assets based on their expected future use, which is generally higher than their **liquidation value**.
 
