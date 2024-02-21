@@ -52,11 +52,7 @@ title: glossary
 
 23. *Debit*: Think LEFT hand 
 
-<<<<<<< HEAD
-24. *DEA-LER*: Acronym for 'Dividends, Expenses, Assets / Liabilities, Equity, Revenue'; 1-3=Debits, 4-6=Credits   
-=======
 24. *DEA-LER*: Dividends, Expenses, Assets / Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
->>>>>>> 3a2d0b0 (glossary mod)
 
 25. *Double-declining-depreciation*: Rate is twice simple linear Depreciation.   
 
@@ -118,6 +114,11 @@ title: glossary
 52. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
    
 53. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
+
+1. *Quick Assets*: $$Q.A. = TCA - Inventory - PE$$where TCA = Total current assets, PE = Prepaid expenses​
+
+1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets. Q.R. > 1.0 , $$Q.R. = \frac{Current~ Assets~ - ~Inventory}{Current~ Liabilities}$$
+
 
 54. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
