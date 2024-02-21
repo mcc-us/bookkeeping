@@ -1,0 +1,70 @@
+Step 1.
+
+Step 2.
+Step 3.
+Step 4.
+
+Step 5.
+
+Step 6.
+
+Step 7.
+
+Step 8.
+
+Step 9.
+
+Analyze transactions. Analyze source documents to determine their effects on the basic
+accounting equation. The data about transactions appears on a variety of source documents
+such as:
+
+e sales slips,
+o purchase invoices,
+o credit memorandums,
+
+check stubs.
+
+Journalize the transactions. Record the effects of the transactions in a journal.
+Post the journal entries. Transfer data from the journal to the general ledger accounts.
+
+Prepare a worksheet. At the end of each period, prepare a worksheet.
+
+o Use the Trial Balance section to prove the equality of debits and credits in the general
+ledger.
+
+o Use the Adjustments section to enter changes in account balances that are needed to
+present an accurate and complete picture of the financial affairs of the business.
+
+o Use the Adjusted Trial Balance section to verify the equality of debits and credits after the
+adjustments. Extend the amounts from the Adjusted Trial Balance section to the Income
+Statement and Balance Sheet sections.
+
+o Use the Income Statement and Balance Sheet sections to prepare the financial statements.
+
+Prepare financial statements. Prepare financial statements to report information to owners,
+managers, and other interested parties.
+
+o The income statement shows the results of operations for the period.
+
+o The statement of owner's equity reports the changes in the owner’s financial interest during
+the period.
+
+o The balance sheet shows the financial position of the business at the end of the period.
+
+Journalize and post the adjusting entries. Use the worksheet to journalize and post adjusting
+entries. The adjusting entries are a permanent record of the changes in account balances
+shown on the worksheet.
+
+Journalize and post the closing entries. Journalize and post the closing entries to:
+
+e transfer net income or net loss to owner's equity;
+reduce the balances of the revenue, expense, and drawing accounts to zero.
+
+Prepare a postclosing trial balance. The postclosing trial balance shows that the general ledger
+is in balance after the closing entries are posted. It is also used to verify that there are zero
+balances in revenue, expense, and drawing accounts.
+
+Interpret the financial information. Use financial statements to understand and communicate
+financial information and to make decisions. Accountants, owners, managers, and other
+interested parties interpret financial statements by comparing such things as profit, revenue,
+and expenses from one accounting period to the next.
