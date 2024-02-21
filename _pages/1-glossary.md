@@ -16,6 +16,9 @@ title: glossary
 
 5. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
+1. *Acid Test*: commonly known as the Quick Ratio:
+$$A.T. =  \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
+
 6. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
 7. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
@@ -115,16 +118,17 @@ title: glossary
    
 53. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
-1. *Quick Assets*: $$Q.A. = TCA - Inventory - PE$$where TCA = Total current assets, PE = Prepaid expenses​
+1. *Quick Assets*: 
+   1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​
+   1. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
 
-1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets. Q.R. > 1.0 , $$Q.R. = \frac{Current~ Assets~ - ~Inventory}{Current~ Liabilities}$$
-
+1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0. $$Q.R. = \frac{Current~ Assets~ - ~Inventory}{Current~ Liabilities}$$
 
 54. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-55. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **Scrap value**   
+55. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **"Scrap value"**   
 
-56. *Slide*: An accidental **movement of a decimal point**.   
+56. *Slide*: An accidental movement of a decimal point.   
 
 57. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
