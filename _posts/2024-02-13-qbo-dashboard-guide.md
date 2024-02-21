@@ -25,6 +25,9 @@ The Chart of Accounts: adding accounts in QBO
 
 1. Tags for categorization
 
+1. Access reports such as the Profit & Loss Statement:
+   - On the left panel, select Reports>Reports
+
 ## Section 3: Customers: 
 
 > Set up Invoices, Estimates, Get Paid, Adjustments to invoices, Receipt of payments, Sales receipts
@@ -33,31 +36,11 @@ The Chart of Accounts: adding accounts in QBO
 1. Creating Customers And Maintaining Customer Information:
    - On the left panel, select Sales>Customers
 
-
-## Section 4: Suppliers / Vendors
-
-1. Create a Supplier:
-   - On the left panel, select Expenses>Suppliers
-
-1. Access reports such as the Profit & Loss Statement:
-   - On the left panel, select Reports>Reports
-
 1. Create a Customer Invoice And Email It!:
    - On the left panel, select “+ New”>Invoice
 
 1. Create a Sales Receipt:
    - On the left panel, select “+ New”>Customers>Sales Receipt
-
-1. Create a Bill From A Vendor:
-   - On the left panel, select “+ New”>Bill
-
-1. Record a Payment To A Supplier:
-   - On the left panel, select “+ New”>Pay bills
-
-1. See the Gear Icon on top-right gives additional settings
-
-1. Create Product Lines & Services Lines to sell:
-    - On the left panel, select Sales>Product and Services>New (top-right-green button) Allows you to set up $/hr.
 
 1. Create Estimate:
    - On the left panel, select “+ New”>Customers>Estimate
@@ -70,6 +53,22 @@ The Chart of Accounts: adding accounts in QBO
 
 1. Create Sales Receipt:
    - On the left panel, select “+ New”>Customers>Sales Receipt
+
+## Section 4: Suppliers / Vendors
+
+1. Create a Supplier:
+   - On the left panel, select Expenses>Suppliers
+
+1. Create a Bill From A Vendor:
+   - On the left panel, select “+ New”>Bill
+
+1. Record a Payment To A Supplier:
+   - On the left panel, select “+ New”>Pay bills
+
+1. See the Gear Icon on top-right gives additional settings
+
+1. Create Product Lines & Services Lines to sell:
+    - On the left panel, select Sales>Product and Services>New (top-right-green button) Allows you to set up $/hr.
 
 1. How to Input A Bill From A Supplier:
    - On the left panel, select “+ New”>Vendors>Bill, set the bill number from the invoice, choose the category of the expense,
