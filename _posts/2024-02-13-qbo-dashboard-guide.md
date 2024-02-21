@@ -7,9 +7,9 @@ tags: qbo
 
 ## Quickbooks-Online Dashboard Reference Guide
 
-taken from Udemy course
+See Udemy course
 
-[QBO Test drive - https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com/redir/testdrive)
+QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com/redir/testdrive)
 
 - QBO, How to Add...:
 
