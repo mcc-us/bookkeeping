@@ -6,21 +6,21 @@ tags: closing
 ---
 
 
-## 6-1 Journalize and post closing entries.
+### 6-1 Journalize and post closing entries.
 
-- Journalizing and posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. There are four steps in the closing process:
+Journalizing and posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. There are four steps in the closing process:
 
-1. The balance of the revenue account is transferred to the Income Summary account.
+1. The balance of the **Revenue** account is transferred to the **Income Summary** account.
 
 - Debit Revenue
 - Credit Income Summary
 
-2. The balances of the expense accounts are transferred to the Income Summary account.
+2. The balances of the **Expense accounts are transferred to the **Income Summary** account.
 
 - Debit Income Summary
 - Credit Expenses
 
-3. The balance of the Income Summary account—net income or net loss—is transferred to the owner’s capital account.
+3. The balance of the **Income Summary** account—net income or net loss—is transferred to the **Owner’s Capital** account.
 
 - If Income Summary has a credit balance:
 
@@ -32,22 +32,22 @@ tags: closing
    - Debit Owner's Capital
    - Credit Income Summary
 
-4. The drawing account is closed to the owner’s capital account.
+1. The **Drawing** account is closed to the **Owner’s Capital** account.
 
 - Debit Owner’s Capital
 - Credit Drawing
 
 After the closing entries have been posted, the capital account reflects the results of operations for the period. The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
 
-## 6-2 Prepare a postclosing trial balance.
+### 6-2 Prepare a postclosing trial balance.
 
-Preparing the postclosing trial balance is the eighth step in the accounting cycle. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period—asset, liability, and the owner’s capital accounts. The temporary accounts—revenue, expenses, drawing, and Income Summary—apply only to one accounting period and do not appear on the postclosing trial balance.
+Preparing the post-closing trial balance is the eighth step in the accounting cycle. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period—asset, liability, and the owner’s capital accounts. The temporary accounts—revenue, expenses, drawing, and Income Summary—apply only to one accounting period and do not appear on the postclosing trial balance.
 
-## 6-3 Interpret financial statements.
+### 6-3 Interpret financial statements.
 
 - The ninth step in the accounting cycle is interpreting the financial statements. Business decisions must be based on accurate and timely financial information.
 
-## 6-4 Review the steps in the accounting cycle.
+### 6-4 Review the steps in the accounting cycle.
 
 - The accounting cycle consists of a series of steps that are repeated in each fiscal period. These steps are designed to classify, record, and summarize the data needed to produce financial information. The steps of the accounting cycle are:
 
@@ -69,4 +69,4 @@ Preparing the postclosing trial balance is the eighth step in the accounting cyc
 
    9. Interpret the financial information.
 
-## 6-5 Define the accounting terms new to this chapter.
+### 6-5 Define the accounting terms new to this chapter.
