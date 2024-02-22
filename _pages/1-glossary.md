@@ -96,48 +96,52 @@ $$A.T. =  \large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabili
 
 42. *Income Summary*: A special owner’s equity account that is used only in the closing process to summarize the results of operations
    
-43. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
+43. *Intangible Assets*: Businesses pigeonhole intangible assets into two main categories **Identifiable and Unidentifiable**.
+    1. An **identifiable intangible** asset may be a patent, copyright, trademark, algorithm or domain name that can be bought or sold. Therefore, it can be separated from a business.
+    2.  An **unidentifiable intangible** asset can’t be separated from a business. That means a business can’t buy or sell an unidentifiable asset. Examples of unidentifiable assets are brand recognition, corporate reputation and client relationships and lists.
+
+44. *Internal Control*: Policies/procedures implemented to **safeguard assets, ensure accurate financial records, and comply with laws and regulations**.   
    
-44. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
+45. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry. (**Record of original entry**)   
 
-45. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
+46. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles. (**Putting transactions into words & numbers)**   
     
-46. *List of approved suppliers*: Used as an internal control.   
+47. *List of approved suppliers*: Used as an internal control.   
 
-47. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
+48. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
     
-48. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
+49. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
     
-49. *Normal Balance*: The normal balance of an account is its **increase** side.   
+50. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
-50. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
+51. *Permanent Account*: Accounts carried over to the next accounting period that reflect long-term financial standing **assets, liabilities, and equity**.   
 
-51. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
+52. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
    
-52. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
+53. *Posting*: Transferring recorded transactions from the general journal to individual accounts in the general ledger. **Posting = transferring data from a journal to a ledger**.    
    
-53. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
+54. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
-1. *Quick Assets*: 
+55. *Quick Assets*: 
    1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​
-   1. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
+   2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
 
-1. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$\large Q.R. = \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$
+56. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$\large Q.R. = \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$
 
-54. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
+57. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-55. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **"Scrap value"**   
+58. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation. **"Scrap value"**   
 
-56. *Slide*: An accidental movement of a decimal point.   
+59. *Slide*: An accidental movement of a decimal point.   
 
-57. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+60. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-58. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+61. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-59. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+62. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-60. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+63. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-61. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+64. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
 
-62. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+65. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
