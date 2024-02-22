@@ -6,21 +6,21 @@ tags: closing
 ---
 
 
-### 6-1 Journalize and post closing entries.
+### 6-1 Journalize & post closing entries.
 
-Journalizing and posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. There are four steps in the closing process:
+Journalizing and posting the closing entries is the **seventh step in the accounting cycle**. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, called the *'Income Summary'*, is used. There are four steps in the closing process:
 
-1. The balance of the **Revenue** account is transferred to the **Income Summary** account.
+**1.** The **Revenue** account is transferred to the **Income Summary** account.
 
 - Debit Revenue
 - Credit Income Summary
 
-2. The balances of the **Expense accounts are transferred to the **Income Summary** account.
+**2.** The **Expense** accounts are transferred to the **Income Summary** account.
 
 - Debit Income Summary
 - Credit Expenses
 
-3. The balance of the **Income Summary** account—net income or net loss—is transferred to the **Owner’s Capital** account.
+**3.** The **Income Summary** account (**net income or net loss**) is transferred to the **Owner’s Capital** account.
 
 - If Income Summary has a credit balance:
 
@@ -32,7 +32,7 @@ Journalizing and posting the closing entries is the seventh step in the accounti
    - Debit Owner's Capital
    - Credit Income Summary
 
-1. The **Drawing** account is closed to the **Owner’s Capital** account.
+**4.** The **Drawing** account is closed to the **Owner’s Capital** account.
 
 - Debit Owner’s Capital
 - Credit Drawing
@@ -41,11 +41,11 @@ After the closing entries have been posted, the capital account reflects the res
 
 ### 6-2 Prepare a postclosing trial balance.
 
-Preparing the post-closing trial balance is the eighth step in the accounting cycle. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period—asset, liability, and the owner’s capital accounts. The temporary accounts—revenue, expenses, drawing, and Income Summary—apply only to one accounting period and do not appear on the postclosing trial balance.
+Preparing the post-closing trial balance is the **eighth step in the accounting cycle**. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period: *asset, liability, and the owner’s capital accounts*. The temporary accounts (*revenue, expenses, drawing, and Income Summary*) apply only to one accounting period and do not appear on the postclosing trial balance.
 
 ### 6-3 Interpret financial statements.
 
-- The ninth step in the accounting cycle is interpreting the financial statements. Business decisions must be based on accurate and timely financial information.
+The **ninth step in the accounting cycle** is interpreting the financial statements. Business decisions must be based on accurate and timely financial information.
 
 ### 6-4 Review the steps in the accounting cycle.
 
