@@ -8,10 +8,9 @@ tags: drcr
 **Draw out T-accounts for each account in a transaction.**  
 
 | Cash ||
-|-------:|--------:|
+|:------ |--------:|
 | Debit  | Credit  |
 | 1,000  |     500 |
-|||
 | Balance = $500 | |
 
 **Label the left side "Debit" and the right "Credit."**
