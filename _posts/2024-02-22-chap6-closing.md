@@ -8,24 +8,29 @@ tags: closing
 
 ### 6-1 Journalize & post closing entries.
 
-Journalizing and posting the closing entries is the **seventh step in the accounting cycle**. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, called the *'Income Summary'*, is used. There are four steps in the closing process:
+Closing entries is the **seventh step in the accounting cycle**. 
+
+- Closing entries transfer **Revenue & Expenses** to **Owner’s equity** and reduce the revenue and expense accounts to zero. 
+- The worksheet provides the data necessary for the closing entries.  Revenue comes from Fees Income, etc, and the Expenses are combined and transfered in one compound entry.
+- A temporary owner's equity account, called the **Income Summary**, is used. 
+- There are four steps in the closing process:
 
 > #### R.E.I.D. = Revenue > Expenses > Income Summary > Drawings
 {: .block-tip }
 
-![](/assets/mc-graw-accounting-course/closing.process.chapter6.png)
+![](/assets/mc-graw-accounting-course/images/closing.process.4.steps.png)
 
 **1.** The **Revenue** account is transferred to the **Income Summary** account.
 
-- Debit Revenue
-- Credit Income Summary
+![](/assets/mc-graw-accounting-course/images/chap6-REV.png)
 
 **2.** The **Expense** accounts are transferred to the **Income Summary** account.
 
-- Debit Income Summary
-- Credit Expenses
+![](/assets/mc-graw-accounting-course/images/chap6-EXP.png)
 
 **3.** The **Income Summary** account (**net income or net loss**) is transferred to the **Owner’s Capital** account.
+
+![](/assets/mc-graw-accounting-course/images/chap6-IS.png)
 
 - If Income Summary has a credit balance:
 
@@ -39,8 +44,7 @@ Journalizing and posting the closing entries is the **seventh step in the accoun
 
 **4.** The **Drawing** account is closed to the **Owner’s Capital** account.
 
-- Debit Owner’s Capital
-- Credit Drawing
+![](/assets/mc-graw-accounting-course/images/chap6-DRAW.png)
 
 After the closing entries have been posted, the capital account reflects the results of operations for the period. The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
 
