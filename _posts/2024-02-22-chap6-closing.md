@@ -10,7 +10,7 @@ tags: closing
 
 Journalizing and posting the closing entries is the **seventh step in the accounting cycle**. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, called the *'Income Summary'*, is used. There are four steps in the closing process:
 
-> #### REID = Revenue > Expenses > Income Summary > Drawings
+> #### R.E.I.D. = Revenue > Expenses > Income Summary > Drawings
 {: .block-tip }
 
 ![](/assets/mc-graw-accounting-course/closing.process.chapter6.png)
