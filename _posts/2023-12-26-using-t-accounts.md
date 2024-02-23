@@ -7,9 +7,12 @@ tags: drcr
 
 **Draw out T-accounts for each account in a transaction.**  
 
-| Account ||
-|:--------|----------:|
-| Debit   | Credit    |
+| Cash ||
+|-------:|--------:|
+| Debit  | Credit  |
+| 1,000  |     500 |
+|||
+| Balance = $500 | |
 
 **Label the left side "Debit" and the right "Credit."**
 - This can help you solidify the pairing as you see the impact on each account.  
@@ -23,7 +26,7 @@ tags: drcr
 | Debit + | Credit (-)|
 
 
-**Liabilities increase with Credits, decrease with Debits** 
+**Liabilities & Equities increase with Credits, decrease with Debits** 
 
 || Liabilities |
 |:----------|--------:|
