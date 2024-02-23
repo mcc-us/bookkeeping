@@ -1,6 +1,6 @@
 ---
 layout: post
-title: business types
+title: 3 business types
 tags: businessTypes
 ---
 
@@ -9,15 +9,13 @@ To better understand accounting, we need to understand three major types of busi
 
 It is important to know who to ask for help and guiandance when issues regarding cash flow and managerial dicsions are needed.
 
-## 3 Main Types
-
 ### 1. Sole Proprietor 
 
 - One owner is solely responsible to all debts and taxes.
 - Separate entity assumption - 'keep company and personal finances separate.
   - *Remember: Do not pierce the corporate veil.*
 - Business dies when owner does or when sold
-- Easy to form
+- Easy to form: 'DBA'-Doing Business As
 
 ### 2A. Partnerships 
 

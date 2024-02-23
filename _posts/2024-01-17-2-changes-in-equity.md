@@ -10,15 +10,19 @@ tags: reporting
 
 **Prepare a statement of equity**
 
-1. Report: Who, What, When (FOR Period Ending)
-2. Set-up 3 column worksheet: Act, Amount, Total
-3. ADD: Capital + Common Shares at beginning of period  
-4. ADD: Retained Earning at beginning of period  
-5.  +/- Net Income/Loss  
-6.  +/- Common shares bought/sold  
-7. SUBTRACT: Dividends & Withdrawls  
+1. Set-up 3 column worksheet: Act, Amount, Total
+2. ADD: Capital + Common Shares at beginning of period  
+3. ADD: Retained Earning at beginning of period  
+4.  +/- Net Income/Loss  
+5.  +/- Common shares bought/sold  
+6. SUBTRACT: Dividends & Withdrawls  
+
 
 ### Example Report
+
+> Reports NEED
+> Who, What, When: Time Period
+{: .block-tip }
 
 **WHO**: *Co.*  
 **WHAT**: *Statement of Shareholders' Equity*  
