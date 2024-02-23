@@ -4,7 +4,7 @@ layout: post
 tags: drcr
 ---
 
-Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. ALORE are the main categories that transactions fall into.
+Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. "ALORE" are the main categories that transactions fall into.
 
 > #### A L O R E = Assets, Liabilities, Owner Equity, Revenue, Expenses
 {: .block-tip }
