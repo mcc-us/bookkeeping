@@ -18,35 +18,20 @@ Closing entries is the **seventh step in the accounting cycle**.
 > #### R.E.I.D. = Revenue > Expenses > Income Summary > Drawings
 {: .block-tip }
 
-![](/assets/mc-graw-accounting-course/images/closing.process.4.steps.png)
+![](/assets/mc-graw-accounting-course/images/closing.fig.6.2.all.4.steps.png)
 
-**1.** The **Revenue** account is transferred to the **Income Summary** account.
+**1. All Revenue** accounts are transferred to the **Income Summary** account.
 
-![](/assets/mc-graw-accounting-course/images/chap6-REV.png)
+**2.** All **Expense** accounts are transferred to the **Income Summary** account.
 
-**2.** The **Expense** accounts are transferred to the **Income Summary** account.
+**3.** The **Income Summary** account (*WHETHER it be a Net Income or loss*) is transferred to the **Owner’s Capital**.
 
-![](/assets/mc-graw-accounting-course/images/chap6-EXP.png)
+**4.** The **Drawing** account is zeroed out and transfered to the **Owner’s Capital** account.
 
-**3.** The **Income Summary** account (**net income or net loss**) is transferred to the **Owner’s Capital** account.
 
-![](/assets/mc-graw-accounting-course/images/chap6-IS.png)
+After the closing entries have been posted, the capital account reflects the results of operations for the period, EITHER A NET GAIN or LOSS.
 
-- If Income Summary has a credit balance:
-
-   - Debit Income Summary
-   - Credit Owner’s Capital
-
-- If Income Summary has a debit balance:
-
-   - Debit Owner's Capital
-   - Credit Income Summary
-
-**4.** The **Drawing** account is closed to the **Owner’s Capital** account.
-
-![](/assets/mc-graw-accounting-course/images/chap6-DRAW.png)
-
-After the closing entries have been posted, the capital account reflects the results of operations for the period. The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
+The revenue and expense accounts (with zero balances) are ready to accumulate data for the next period.
 
 ### 6-2 Prepare a postclosing trial balance.
 
