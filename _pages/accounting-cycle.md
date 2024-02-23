@@ -1,5 +1,5 @@
 ---
-title: accounting cycle
+title: the accounting cycle
 category: 
 layout: post
 ---
@@ -13,7 +13,7 @@ layout: post
 
 ## 2. Record Transactions To Journal
 
-![example journal entry](/assets/mc-graw-accounting-course/example.journal.entry.png)
+![example journal entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)
 
 ## 3. Post Transactions To General Ledger
 
