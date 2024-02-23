@@ -21,10 +21,12 @@ layout: post
 
 ![example ledger](/assets/misc/post.2.ledger.jpg)
 
-## 4. Prepare Worksheet of Unadjusted Trial Balance
+## 4. Prepare Worksheet of Un/adjusted Trial Balance
 
-- The Trial Balance lists all accounts in the ledger with their normal balances.  
-- The accounting equation is not highlighted at this point, it simply shows all normal balances. **However**, it might not fully reflect the current state due to accruals & prepayments.
+- Trial balances do not concern themselves with ALORE.
+- The accounting equation is not highlighted at this point, it simply shows all normal balances.
+- Instead, the Trial balance lists all accounts in the journal/ledger with their *normal balances*.  
+
 
 |Worksheet of Trial-Balance|
 |:-:|
