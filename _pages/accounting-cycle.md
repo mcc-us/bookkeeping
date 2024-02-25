@@ -27,10 +27,9 @@ layout: post
 - The accounting equation is not highlighted at this point, it simply shows all normal balances.
 - Instead, the Trial balance lists all accounts in the journal/ledger with their *normal balances*.  
 
-
 |Worksheet of Trial-Balance|
 |:-:|
-|![Worksheet](/assets/mc-graw-accounting-course/images/worksheet.TB.plus.adjustments.png)|
+|![Worksheet](/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
 ## 5. Make Adjusting Entries (If Needed)
 
@@ -41,12 +40,16 @@ layout: post
 - After incorporating adjustments, a new trial balance is generated,
 - This reflects a more accurate picture of the company's financial state at a specific point in time.
 
+|Worksheet of Trial-Balance|
+|:-:|
+|![Worksheet](/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
+
 ## 7. Close the Books (If Needed)
 
 - This step is particularly relevant for periodic reporting (e.g., monthly, quarterly).  
 - Closing involves transferring temporary account balances (revenue, expense) to permanent accounts (retained earnings), preparing them for a new reporting period.
 
-## 8. Prepare Financial Statements
+## 8. Prepare (Official) Financial Statements
 
 - Using the adjusted trial balance as a starting point, financial statements like the income statement, statement of equity and balance sheet are created.
 
