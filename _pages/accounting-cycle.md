@@ -21,7 +21,7 @@ layout: post
 
 ![example ledger](/assets/misc/post.2.ledger.jpg)
 
-## 4. Prepare Worksheet of Un/adjusted Trial Balance
+## 4. Prepare Worksheet of Trial Balance(s)
 
 - Trial balances do not concern themselves with ALORE.
 - The accounting equation is not highlighted at this point, it simply shows all normal balances.
