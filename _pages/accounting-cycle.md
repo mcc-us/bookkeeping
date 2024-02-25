@@ -35,12 +35,12 @@ layout: post
 
 - For accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
 
-## 6. Prepare Adjusted Trial Balance
+## 6. Complete Adjusted Trial Balance, Income Statement & Balance Sheet
 
 - After incorporating adjustments, a new trial balance is generated,
 - This reflects a more accurate picture of the company's financial state at a specific point in time.
 
-|Worksheet of Trial-Balance|
+|Complete Worksheet|
 |:-:|
 |![Worksheet](/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
