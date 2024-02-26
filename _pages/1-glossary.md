@@ -16,7 +16,7 @@ title: glossary
 
 5. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
-1. *Acid Test*: commonly known as the Quick Ratio:
+1. *Acid Test*: commonly known as the Quick Ratio:   
 $$A.T. =  \large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
 
 6. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
@@ -122,11 +122,11 @@ $$A.T. =  \large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabili
    
 54. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
-55. *Quick Assets*: 
-   1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​
-   2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
+55. *Quick Assets*:   
+    1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​   
+    2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
 
-56. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$\large Q.R. = \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$
+56. *Quick Ratio*: descibes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$\large Q.R. = \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
 
 57. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
