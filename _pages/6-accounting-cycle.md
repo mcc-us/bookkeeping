@@ -48,11 +48,11 @@ layout: post
 
 - Closing may occur monthly, quarterly or yearly.   
 
-- 4 Steps 
-    **1.** Transfer **All Revenue** accounts **Income Summary** account.
-    **2.** Transfer **All Expense** accounts **Income Summary** account.
-    **3.** Transfer **Income Summary** account to the **Owner’s Capital**.
-    **4.** Transfer **Drawing** account to **Owner’s Capital** account.
+- 4 Steps   
+    **1.** Transfer **All Revenue** accounts **Income Summary** account.  
+    **2.** Transfer **All Expense** accounts **Income Summary** account.  
+    **3.** Transfer **Income Summary** account to the **Owner’s Capital**.  
+    **4.** Transfer **Drawing** account to **Owner’s Capital** account.  
 
 ## 8. Prepare (Official) Financial Statements
 
