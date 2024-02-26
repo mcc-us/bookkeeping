@@ -46,13 +46,18 @@ layout: post
 
 ## 7. Close the Books (If Needed)
 
-- Closing may occur monthly, quarterly or yearly.   
+Simplistic Overview:   
+1. Rev & Exp to Income Summary,   
+2. Income Summary & Drawings to Capital  
 
 - 4 Steps   
     **1.** Transfer **All Revenue** accounts **Income Summary** account.  
     **2.** Transfer **All Expense** accounts **Income Summary** account.  
     **3.** Transfer **Income Summary** account to the **Owner’s Capital**.  
     **4.** Transfer **Drawing** account to **Owner’s Capital** account.  
+
+- Closing may occur monthly, quarterly or yearly.   
+
 
 ## 8. Prepare (Official) Financial Statements
 
