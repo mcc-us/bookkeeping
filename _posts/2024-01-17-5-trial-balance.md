@@ -11,9 +11,9 @@ tags: reporting
 4. Serve as an internal control.   
 
 
-> List all accounts in order
-> A, L, O(wners Equity), R, E  
-> Debits = Credits for Trial Balance.
+> List all accounts in order:  
+> A, L, O(wners Equity), R, E   
+> Debits = Credits for Trial Balance.  
 {: .block-tip }
 
 
@@ -21,7 +21,7 @@ tags: reporting
 
 1. Enter the general ledger account names.   
 
-2. Enter the ending balance of each account in Debit or Credit column.   
+2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.   
 
 3. Total the Debit and Credit columns to determine IF trial balance is in balance.   
 
@@ -29,7 +29,7 @@ tags: reporting
 
 5. Double underscore Trial Balance columns to show that the work in that column is complete.   
 
-**NOTE: Trial Balance has 4 new accounts**:  
+**NOTE: Trial Balance adds 4 accounts**:  
   1. Accumulated Depreciation—Equipment,  
   2. Supplies Expense,  
   3. Rent Expense,  
@@ -55,8 +55,8 @@ tags: reporting
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
-> REPORTS NEED 
-> Who, What, When(For a SPECIFIC TIME) 
+> REPORTS NEED:  
+> Who, What, When(For a SPECIFIC TIME)  
 {: .block-tip }
 
 ### Example Report
