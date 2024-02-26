@@ -10,12 +10,11 @@ tags: reporting
 
 **Prepare a statement of equity**
 
-1. Set-up 3 column worksheet: Act, Amount, Total
-2. ADD: Capital + Common Shares at beginning of period  
-3. ADD: Retained Earning at beginning of period  
-4.  +/- Net Income/Loss  
-5.  +/- Common shares bought/sold  
-6. SUBTRACT: Dividends & Withdrawls  
+1. ADD: Capital + Common Shares at beginning of period  
+2. ADD: Retained Earning at beginning of period  
+3.  +/- Net Income/Loss  
+4.  +/- Common shares bought/sold  
+5. SUBTRACT: Dividends & Drawings (Owner Withdrawls)  
 
 
 ### Example Report
