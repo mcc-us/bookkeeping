@@ -20,7 +20,7 @@ tags: reporting
 
 ### Example Report
 
-> Reports NEED
+> Reports NEED:<br>
 > Who, What, When: Time Period
 {: .block-tip }
 

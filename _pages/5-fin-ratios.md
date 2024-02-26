@@ -3,7 +3,7 @@ layout: post
 title: 4 financial ratios
 tags: reporting
 ---
-S
+
 3 Common Financial Ratios   
  
 1. Current Ratio = Current Assets / Current Liabilities   
@@ -14,7 +14,7 @@ S
    
    - *Present as %*    
 
-3. Equity Ratio = Total S.E. / Total Assets   
+3. Equity Ratio = Total Shareholders Equity / Total Assets   
    
    - *Present as %*   
    - Equity ratio = 1 - Debt ratio 
