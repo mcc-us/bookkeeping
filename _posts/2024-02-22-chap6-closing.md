@@ -8,15 +8,15 @@ tags: closing
 
 ### 6-1 Journalize & post closing entries.
 
-Closing entries is the **seventh step in the accounting cycle**. 
+Closing entries is the **seventh step in the accounting cycle**.    
 
-**1.** Transfer **All Revenue** accounts **Income Summary** account.
+**1.** Transfer **All Revenue** accounts **Income Summary** account.   
 
-**2.** Transfer **All Expense** accounts **Income Summary** account.
+**2.** Transfer **All Expense** accounts **Income Summary** account.   
 
-**3.** Transfer **Income Summary** account to the **Owner’s Capital**.
+**3.** Transfer **Income Summary** account to the **Owner’s Capital**.   
 
-**4.** Transfer **Drawing** account to **Owner’s Capital** account.
+**4.** Transfer **Drawing** account to **Owner’s Capital** account.   
 
 - There are four steps in the closing process:
 
