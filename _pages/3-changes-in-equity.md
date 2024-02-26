@@ -41,9 +41,9 @@ tags: reporting
 
 ### Further Examples
 
-| ![Example Statement of Equity](/assets/misc/Statement-of-Owners-Equity-Example.jpg){: .mx-auto.d-block :} |
+| ![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
 |:-:|
-||
+| ![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
 
 ### Alternative Names
 
@@ -56,4 +56,4 @@ tags: reporting
 7. **Condensed Statement of Changes in Shareholders' Equity**   
 8. **Schedule of Changes in Shareholders' Equity**   
    
-- Find this example at Tony Bell @ accountingworkbook.com
+- Find an example at Tony Bell @ accountingworkbook.com or Youtube
