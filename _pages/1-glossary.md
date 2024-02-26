@@ -16,10 +16,10 @@ title: glossary
 
 5. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
-1. *Acid Test*: commonly known as the Quick Ratio:   
-$$A.T. =  \large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
+6. *Acid Test*: commonly known as the Quick Ratio:   
+$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
 
-6. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
+7. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
 7. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
