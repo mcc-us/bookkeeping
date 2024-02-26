@@ -42,8 +42,6 @@ For the Year Ending Dec. 31, 2024
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
 
-
-
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
 
 - Find this example at Tony Bell @ accountingworkbook.com
@@ -51,6 +49,6 @@ For the Year Ending Dec. 31, 2024
 
 ### Sample Income Statements
 
-![Example 1](/assets/misc/sample-income-statement.webp){: .mx-auto.d-block :}
-
-![Example 2](/assets/misc/sample-income-statement2.webp){: .mx-auto.d-block :}
+| Example Income Statement |
+|:-:|
+| ![Example 1](/assets/misc/sample-income-statement.webp) |
