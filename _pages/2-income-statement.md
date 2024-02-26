@@ -10,16 +10,20 @@ tags: reporting
 {: .block-tip }
 
 
-Step 1: **Obtain Revenue & Expense accounts**     
-Step 2: Use 3 columns; **Act, Amount, Total**   
-Step 3: List Revenues, Expenses & total them      
-Step 5: Calculate Net & double underline bottom line   
+Step 1: Use 3 columns; **Act, Amount, Total**      
+Step 2: List **Revenues, Expenses**; List '*Current then Non-Current Rev & Exp   
+Step 4: Total & Calculate Net then double underline bottom line   
 
-> Reports NEED
-> Who, What, When: Time Period
-{: .block-tip }
 
 ### Example Report
+
+> Reports NEED:   
+> Who, What, When: Time Period   
+{: .block-tip }
+
+> Remember:   
+> Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.  
+{: .block-tip }
 
 Company Name   
 Income Statement   
@@ -38,9 +42,6 @@ For the Year Ending Dec. 31, 2024
 | Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
 
 
-> Remember
-> Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.
-{: .block-tip }
 
 
 ![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
