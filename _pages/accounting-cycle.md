@@ -46,13 +46,19 @@ layout: post
 
 ## 7. Close the Books (If Needed)
 
-- This step is particularly relevant for periodic reporting (e.g., monthly, quarterly).  
-- 4 Step Process 
-    - Closing involves transferring temporary account balances (revenue, expense) to permanent accounts (retained earnings), preparing them for a new reporting period.
+- Closing may occur monthly, quarterly or yearly.   
+
+- 4 Steps 
+    **1.** Transfer **All Revenue** accounts **Income Summary** account.
+    **2.** Transfer **All Expense** accounts **Income Summary** account.
+    **3.** Transfer **Income Summary** account to the **Owner’s Capital**.
+    **4.** Transfer **Drawing** account to **Owner’s Capital** account.
 
 ## 8. Prepare (Official) Financial Statements
 
-- Using the adjusted trial balance as a starting point, financial statements like the income statement, statement of equity and balance sheet are created.
+1. Income Statement
+2. Statement of Equity
+3. Balance Sheet
 
 ## 9. Interpret & Archive Records
 
