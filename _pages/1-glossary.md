@@ -53,6 +53,8 @@ $$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabili
 
 22. *Credit*: Think RIGHT hand
 
+1. *Current Asset*: A current asset is a resource a company expects to use, sell, or convert to cash within one year.   
+
 23. *Debit*: Think LEFT hand 
 
 24. *DEA-LER*: Dividends, Expenses, Assets / Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
@@ -111,6 +113,8 @@ $$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabili
 48. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal. **The record of final entry**   
     
 49. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
+
+1. *Non-Current Asset*: A non-current (or long term) asset is a resource a company expects to use, sell, or convert to cash in longer than one year.
     
 50. *Normal Balance*: The normal balance of an account is its **increase** side.   
 
