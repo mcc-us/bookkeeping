@@ -6,7 +6,7 @@ tags: reporting
 
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
-> Net Income/Loss <- Revenue & Expenses  
+> Net Income/Loss <- Revenue - Expenses  
 {: .block-tip }
 
 
@@ -35,7 +35,7 @@ For the Year Ending Dec. 31, 2024
 | Revenue | | |
 | Shuttle Rides | | $50,000 |
 | Expenses | | |
-| Fuel | $11,000 | |
+| Fuel | $14,000 | |
 | Wages | 30,000 | |
 | SUBTRACT Total Expenses | | 44,000 |
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
