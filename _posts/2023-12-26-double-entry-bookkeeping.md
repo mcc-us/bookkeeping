@@ -4,7 +4,7 @@ layout: post
 tags: drcr
 ---
 
-Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. "ALORE" are the main categories that transactions fall into.
+Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. "*ALORE*" are the 5 main categories that transactions fall into.
 
 > **A L O R E = Assets, Liabilities, Owner Equity, Revenue, Expenses**
 {: .block-tip }
@@ -13,17 +13,17 @@ Every transaction has two components:
 - a debit side (on the left) and 
 - a credit side (on the right)
 
-| Account ||
+| T-table example ||
 |:--------|----------:|
 | Debit   | Credit    |
 
-In accounting, Debit and Credit ONLY refer to the left or right side of a T-table, journal or ledger.
-In one sense, they do not hold any other meaning.
+In accounting, Debit and Credit ONLY refer to the left or right side of a T-table, journal or ledger. See [T-table](T-table), Journal or Ledger.
+
 
 | Example Transaction |
 |:-----:|
-| ![Example Entry](/assets/mc-graw-accounting-course/example.journal.entry.png)  |
+| ![Example Entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)  |
 
-- Double-entry bookkeeping states that transaction may effect 2 or more accounts.  
-- An **Account** is container/bucket that tracks specific assets, liabilities, equity, income, or expenses. 
-
+- Double-entry bookkeeping states that a transaction may effect 2 or more accounts. 
+  -  *For example*; when a business buys a car it may pay 10% with cash and the remainder with a bank loan. 
+ 

@@ -1,10 +1,11 @@
 ---
-title: using t-accounts
+title: using t-tables & accounts
 layout: post
 tags: drcr
 ---
 
-
+- An **Account** is container/bucket that tracks specific assets, liabilities, equity, income, or expenses.
+- 
 **Draw out T-accounts for each account in a transaction.**  
 
 | Cash ||
