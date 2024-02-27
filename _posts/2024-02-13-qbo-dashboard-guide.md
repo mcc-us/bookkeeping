@@ -149,6 +149,8 @@ The Chart of Accounts: adding accounts in QBO
    
 ### Section 8: Examples & Practice: Sales & Customers
 
+Stopped before watching 36
+
 36. Injecting capital (money) to start a company:
 
    
