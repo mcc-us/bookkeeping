@@ -29,7 +29,7 @@ For the date 12/31/24
 |A/R|1,000| |Wages Payable|1,600| |
 |Office Supplies|500| |*Tot.Cur.Liabilities*| |3,800|
 |**Tot.Current Assets**| |$6,500 |**L.T. Liabilities**| | |
-|**L.T. Assets**| | |Bank Loan| |45,000|
+|**L.T. Assets**| | |Bank Loan|45,000||
 |Equipment, net|30,000| |**Tot.Liabilities**| |48,800|
 |Building, net|100,000| |**Equity**|| |
 |**Tot. L.T. Assets**| |130,000 |Common shares|60,000| |

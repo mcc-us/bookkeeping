@@ -130,5 +130,26 @@ The Chart of Accounts: adding accounts in QBO
 1. Recording sales tax in a sales transaction
    - On top right <+New>/Customer/Invoice/add info/
 
-STOPPED 31
+32. Recording sales tax in an expense transaction
+   -  On the left panel, select <New>/Vendors/Expense/{New window}/Select Payee/Payment act./Select Act. category/from Cat. details/amount/Is tax applicable?/Select Product service or item/Add notes/Attach contract or quote, etc./Save 
+   
+33. Sales Tax Summary report, how to find taxable sales
+   - On left side click Reports/{you can use search box, example taxable}/Choose taxable sales summary or detail/
+   - It is possible to drill down into details by clicking any sales item.
+   - It is possible to choose different periods...
+   - Reports can be saved!
+   - Groupby...
+   
+34. Sales Tax Liability report, to help file taxes
+   - On left side click Reports/Search <Sales Tax Liability Report>/...
+   
+35. Recording sales tax payment, how to file taxes!
+   - On left side click Taxes module/Goes to Sales Tax Center/Sales Tax Owed/Choose Accounting Basis: Accrual or Cash/choose period/
+   - Good for quarterly tax payments
+   
+### Section 8: Examples & Practice: Sales & Customers
 
+36. Injecting capital (money) to start a company:
+
+   
+   
