@@ -4,7 +4,8 @@ title: 2 changes in equity
 tags: reporting
 ---
 
-> **Equity** = Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
+> **Equity** =   
+> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .block-tip }
 
 
@@ -19,8 +20,7 @@ tags: reporting
 
 ### Example Report
 
-> Reports NEED:<br>
-> Who, What, When: Time Period
+> Reports NEED: Who, What, When: Time Period
 {: .block-tip }
 
 **WHO**: *Co.*  

@@ -13,8 +13,7 @@ tags: reporting
 3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)  
 4. Include Equity from Statement of Equity 
 
-> Reports NEED:<br>
-> WHO, WHAT, WHEN (On Day / Date Time)
+> Reports NEED: Who, What, When (On Day / Date Time)
 {: .block-tip }
 
 ### Example Report
@@ -38,9 +37,4 @@ For the date 12/31/24
 | | | |**Tot. Equity**| |87,700|
 |**Grand Tot. Assets** | |$136,500|**Tot. L+E**| |$136,500|
 
--**L.T. = Long term**  
-
-### Example Report
-
-![Example Income Statement](/assets/tony-bell/balance.sheet.numbers.png)   
-
+**L.T. = Long term**  

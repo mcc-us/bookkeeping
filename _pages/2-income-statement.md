@@ -4,15 +4,16 @@ title: 1 income statement
 tags: reporting
 ---
 
+The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
-> Revenue & Expenses -> Net Income/Loss  
-> The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.
+> Net Income/Loss <- Revenue & Expenses  
 {: .block-tip }
 
 
-Step 1: Use 3 columns; **Act, Amount, Total**      
-Step 2: List **Revenues, Expenses**; List '*Current then Non-Current Rev & Exp   
-Step 4: Total & Calculate Net then double underline bottom line   
+1. Use 3 columns; **Act, Amount, Total**      
+2. List **Revenues, Expenses**   
+3. Total & Calculate Net   
+4. Double underline 'bottom line' or Net  
 
 
 ### Example Report
@@ -32,23 +33,10 @@ For the Year Ending Dec. 31, 2024
 | Act | Amount | Total |
 |----:|-------:|------:|
 | Revenue | | |
-| Shuttle Rides | | $69,300 |
+| Shuttle Rides | | $50,000 |
 | Expenses | | |
 | Fuel | $11,000 | |
-| Depreciation | 2,000 | |
-| Ins. | 4,000 | |
 | Wages | 30,000 | |
-| Total Expenses | | 47,000 |
-| Net Income | | $20,700 <br> **DOUBLE UNDERLINE** |
+| SUBTRACT Total Expenses | | 44,000 |
+| Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
-
-![Example Income Statement](/assets/tony-bell/prepare-income-statement.png)
-
-- Find this example at Tony Bell @ accountingworkbook.com
-
-
-### Sample Income Statements
-
-| Example Income Statement |
-|:-:|
-| ![Example 1](/assets/misc/sample-income-statement.webp) |
