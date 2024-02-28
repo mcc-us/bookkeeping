@@ -1,6 +1,6 @@
 ---
 layout: post
-title: changes in equity
+title: Statement of Equity
 tags: reporting
 ---
 
