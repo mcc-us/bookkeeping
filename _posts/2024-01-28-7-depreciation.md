@@ -5,9 +5,9 @@ tags: depreciation
 math: true
 ---
 
-**Depreciation** is the act of reducing the book value, and expensing the assets usage generally over a year, for a fixed asset due to 'wear, tear and obselence'.
+**Depreciation** is the act of reducing a fixed (long-term, non-current) asset, and expensing the asset usage over time (months to years) due to 'wear, tear and obselence'.
 
-Depreciating assets has significant tax implications in two key ways:
+Depreciating assets has significant income and tax implications in two key ways:
 
 1. Reducing Taxable Income
 
