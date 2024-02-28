@@ -8,24 +8,27 @@ layout: post
 
 ## 1. Identify & Analyze Transactions
 
-- Identify which accounts are impacted by transaction
-- Include purchases, sales, payments, receipts, etc.
+- Identify which accounts are impacted by the transaction. What are the account names & numbers?
+- What accounts are increasing or decreasing? What accounts are the source of funds and what are the destination of the funds?
+- Include date(s), notes for purchases, sales, payments, receipts, etc.
 
 ## 2. Record Transactions To Journal
 
+- Entries should have three lines: debit, credit and description lines.
+
 ![example journal entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)
 
-## 3. Post Transactions To General Ledger
+## 3. Post Transactions From Journal To Ledger
 
-- Individual account balances in the general ledger are updated based on the journal entries.
+- Transactions listed in the Journal are transfered to their respective Ledger accounts.
+- Each account has its own ledger for tracking.
 
 ![example ledger](/assets/misc/post.2.ledger.jpg)
 
 ## 4. Prepare Worksheet of Trial Balance(s)
 
-- Trial balances do not concern themselves with ALORE.
-- The accounting equation is not highlighted at this point, it simply shows all normal balances.
-- Instead, the Trial balance lists all accounts in the journal/ledger with their *normal balances*.  
+- The accounting equation is not highlighted at this point.
+- Instead, the Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, gerneally Assets, followed by Liabilities, Revenue, and Expenses. 
 
 |Worksheet of Trial-Balance|
 |:-:|
@@ -33,7 +36,8 @@ layout: post
 
 ## 5. Make Adjusting Entries (If Needed)
 
-- For accuracy, adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
+- Adjustments are made for unrecorded expenses, accrued revenues, prepaid expenses, depreciation, etc., bringing the account balances closer to their actual economic value.
+- Mistaken entries are also dealt with at this time.
 
 ## 6. Complete Adjusted Trial Balance, Income Statement & Balance Sheet
 
@@ -46,18 +50,18 @@ layout: post
 
 ## 7. Close the Books (If Needed)
 
-Simplistic Overview:   
-1. Rev & Exp to Income Summary,   
+Overview:   
+1. Revenue & Expenses to Income Summary,   
 2. Income Summary & Drawings to Capital  
-
-- 4 Steps   
-    **1.** Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
-    **2.** Transfer **All Expense (Debit Side)** accounts **Income Summary (Credit Side)** account.  
-    **3.** Transfer **Income Summary (Can be Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
-    **4.** Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
-
 - Closing may occur monthly, quarterly or yearly.   
 
+---
+
+- 4 Steps   
+    1. Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
+    2. Transfer **All Expense (Debit Side)** accounts **Income Summary (Credit Side)** account.  
+    3. Transfer **Income Summary (Can be Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
+    4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
 
 ## 8. Prepare (Official) Financial Statements
 

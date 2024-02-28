@@ -10,13 +10,16 @@ tags: reporting
 
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  
-3. Gather Current Liabilities & Long-term Liabilities (NOT Expenses)  
+3. Gather Current Liabilities & Long-term Liabilities   
 4. Include Equity from Statement of Equity 
+
+>No Expenses Included Here.
+{: .block-warning }
+
+### Example Report
 
 > Reports NEED: Who, What, When (On Day / Date Time)
 {: .block-tip }
-
-### Example Report
 
 Co.    
 Balance Sheet   
