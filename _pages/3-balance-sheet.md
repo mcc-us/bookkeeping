@@ -4,7 +4,7 @@ title: balance sheet
 tags: reporting
 ---
 
-> A = L + E:<br>
+> **A = L + E**:<br>
 > Asset = Liabilities + Equity
 {: .block-tip }
 
