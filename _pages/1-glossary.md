@@ -14,7 +14,7 @@ title: glossary
 
 4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).   
 
-5. *Accrual basis of accounting assumption*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
+5. *Accrual accounting*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
 6. *Acid Test*: commonly known as the Quick Ratio:<br>$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
 
