@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 financial ratios
+title: financial ratios
 tags: reporting
 ---
 

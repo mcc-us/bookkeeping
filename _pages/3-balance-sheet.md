@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 balance sheet
+title: balance sheet
 tags: reporting
 ---
 
