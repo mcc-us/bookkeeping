@@ -1,39 +1,35 @@
 ---
 layout: post
-title: 5 trial balances
+title: Trial Balances
 tags: reporting
 ---
 
-
+Purpose:   
 1. Trial balances promote accuracy,   
 2. Identify potential issues,   
 3. Facilitate financial statement preparation,  
 4. Serve as an internal control.   
 
-
-> List all accounts in order:  
-> A, L, O(wners Equity), R, E   
-> Debits = Credits for Trial Balance.  
-{: .block-tip }
-
-
-### 5 Steps
+### 4 Steps
 
 1. Enter the general ledger account names.   
+   1. Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
 
 2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.   
 
-3. Total the Debit and Credit columns to determine IF trial balance is in balance.   
+3. Determine IF trial balance is in balance by totaling the Debit and Credit columns.   
 
-4. Net differences between debits & credits, and write in balance(s).  
-
-5. Double underscore Trial Balance columns to show that the work in that column is complete.   
+4. Double underscore Trial Balance columns to show that the work in that column is complete.   
 
 **NOTE: Trial Balance adds 4 accounts**:  
   1. Accumulated Depreciation—Equipment,  
   2. Supplies Expense,  
   3. Rent Expense,  
   4. Depreciation Expense—Equipment.     
+
+|Example Trial Balance|
+|:-:|
+|![](/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
 
 ### Rules for Presentation:
@@ -53,35 +49,6 @@ tags: reporting
    -  mortgages payable.   
 
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
-
-
-> REPORTS NEED:  
-> Who, What, When(For a SPECIFIC TIME)  
-{: .block-tip }
-
-### Example Report
-
-Company Name   
-Trial Balance Statement   
-For Dec. 31, 2024
-
-| Act | Debit | Credit |
-|:---|-------:|------:|
-| Cash | $950 | |
-| Supplies | 200 |  |
-| A/R | 0 | |
-| Equipment | 4,000 | |
-| A/P |  | $400 |
-| Bank Loan Payable |  | 5,000 |
-| Common Shares | | 1,000 |
-| Retained Earnings |  30,000 | |
-| Dividends | | 0 |
-| Fees |  | 1250 |
-| Rent Exp. |   | 600 |
-| Tele Exp. |   | 400 |
-| Salaries Exp. |   | 1000 |
-| Totals | $7,650 | $7,650 |
-| | **Debits = Credits** | **DOUBLE UNDERLINE** |
 
 
 ### Key benefits it offers:
