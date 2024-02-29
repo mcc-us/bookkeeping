@@ -11,7 +11,8 @@ tags: reporting
 1. Prepare 6 column worksheet   
 2. Gather Current Assets & Long-term Assets  
 3. Gather Current Liabilities & Long-term Liabilities   
-4. Include Equity from Statement of Equity 
+4. Include Equity from Statement of Equity  
+5. Balance: Assets = Liabilities + Equity
 
 >No Expenses Included Here.
 {: .block-warning }

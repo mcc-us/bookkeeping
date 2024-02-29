@@ -25,17 +25,14 @@ tags: adjustments
 
 | Type | Setup | Adjustment |
 |:-----|:------|:-----------|
-| Pre-paid accounts | dr: prepaid-act.<br>&nbsp;&nbsp;&nbsp;cr: cash| act-expense<br>&nbsp;&nbsp;&nbsp;prepaid-act.|
-| Prepaid Exp/Asset | Pre-paid Expense (asset) | Expense |
+| Pre-paid accounts | dr: pre-paid-act.<br>&nbsp;&nbsp;&nbsp;cr: cash| act-expense<br>&nbsp;&nbsp;&nbsp;pre-paid-act.|
+| Pre-paid Expense/Asset | Pre-paid Expense (asset) | Expense |
 
 
-1. Depreciation exp.
-
-2. Accrued exp.
-
-3. Accrued rev.
-
-4. Unearned rev.
+1. Depreciation Expense
+2. Accrued Expense
+3. Accrued Revenue
+4. Unearned Revenue
 
 
 ### Table of examples

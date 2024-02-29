@@ -8,39 +8,21 @@ tags: closing
 
 Journalizing & posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. 
 
-**There are four steps in the closing process**:
+**Four steps in the closing process**:
 
-#### 1. The *Revenue* account is *transferred* to the *Income Summary*.
 
-- Debit Revenue
+Overview:   
+1. Revenue & Expenses to Income Summary,   
+2. Income Summary & Drawings to Capital  
+- Closing may occur monthly, quarterly or yearly.   
 
-- Credit Income Summary
+---
 
-#### 2. *All Expense* accounts are *transferred* to the *Income Summary*.
-
-- Debit Income Summary
-
-- Credit Expenses
-
-#### 3. The *Income Summary* account is *transferred* to the *Owner’s Capital*.
-
-If {NET LOSS or Income Summary has a credit balance}:
-
-- Debit Income Summary
-
-- Credit Owner’s Capital
-
-If {NET INCOME or Income Summary has a debit balance}:
-
-- Debit Owner's Capital
-
-- Credit Income Summary
-
-#### 4. The *Drawing* account is closed to *Owner’s Capital*.
-
-- Debit Owner’s Capital
-
-- Credit Drawing
+- 4 Steps   
+    1. Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
+    2. Transfer **All Expense (Debit Side)** accounts **Income Summary (Credit Side)** account.  
+    3. Transfer **Income Summary (Net Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
+    4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
 
 - After the closing entries have been posted, the capital account reflects the Net Gain or Loss of operations for that period. 
 

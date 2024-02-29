@@ -60,7 +60,7 @@ Overview:
 - 4 Steps   
     1. Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
     2. Transfer **All Expense (Debit Side)** accounts **Income Summary (Credit Side)** account.  
-    3. Transfer **Income Summary (Can be Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
+    3. Transfer **Income Summary (Net Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
     4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
 
 ## 8. Prepare (Official) Financial Statements
