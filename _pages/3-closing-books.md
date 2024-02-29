@@ -6,7 +6,7 @@ tags: closing
 
 
 > R.E.I.D. = Revenue, Expenses, Income Summary, Drawings to Capital account.
-> {: .block-tip }
+{: .block-tip }
 
 Overview:   
 1. Revenue & Expenses to Income Summary,   
