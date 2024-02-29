@@ -4,19 +4,18 @@ layout: post
 tags: closing
 ---
 
-### 6-1 Journalize & Post Closing Entries.
+McGraw Hill chap6-1 
 
-Journalizing & posting the closing entries is the seventh step in the accounting cycle. Closing entries transfer the results of operations to owner’s equity and reduce the balances of the revenue and expense accounts to zero. The worksheet provides the data necessary for the closing entries. A temporary owner's equity account, Income Summary, is used. 
+### Journalize & Post Closing Entries
 
-**Four steps in the closing process**:
-
+Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
+- Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.
 
 Overview:   
 1. Revenue & Expenses to Income Summary,   
 2. Income Summary & Drawings to Capital  
 - Closing may occur monthly, quarterly or yearly.   
 
----
 
 - 4 Steps   
     1. Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
