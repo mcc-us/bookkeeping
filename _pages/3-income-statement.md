@@ -4,11 +4,11 @@ title: Income Statement
 tags: reporting
 ---
 
-The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
 > Net Income/Loss <- Revenue - Expenses  
 {: .block-tip }
 
+The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
 1. Use 3 columns; **Act, Amount, Total**      
 2. List **Revenues, Expenses**   
