@@ -15,6 +15,9 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 3. Total & Calculate Net   
 4. Double underline 'bottom line' or Net  
 
+> Do Not include Drawings with Income Statement
+> {: .block-warning }
+
 
 ### Example Report
 
