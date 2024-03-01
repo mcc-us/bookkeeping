@@ -10,7 +10,8 @@ tags: reporting
 1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
 <br>
 1. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$
-<br><br>
+<br>
+
 1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x No. Days per period
 
 ### Solvency Ratios
