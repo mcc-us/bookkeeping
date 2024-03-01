@@ -18,7 +18,7 @@ Example C.O.A. Numbering
 
 - There is no rule for numbering accounts, but most charts of accounts are set up like the example above. You can add accounts to any section at any time. If you no longer use a particular account, do not assign that account’s number to another account in the same year or you may end up with an expense, revenue or liability posted to the same account. 
 
-- Many small businesses may have circa 250.  
+- Many small businesses may have ~250.  
 
 Other resources:   
 
