@@ -16,7 +16,7 @@ tags: reporting
 
 ### Solvency Ratios
 
-1. Debt/Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$: *Present as %*  
+1. Debt-to-Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$: *Present as %*  
 <br>
 1. Equity Ratio = $\Large\frac{Total~ Shareholders~ Equity}{Total~ Assets}$: *Present as %*  
 <br> 
@@ -24,9 +24,16 @@ tags: reporting
 
 ### Financial Leverage
 
-1. Debt/Capital Ratio = $\Large\frac{Debt}{Debt~ +~ Equity}$  
+1. Debt-to-Capital Ratio = $\Large\frac{Debt}{Debt~ +~ Equity}$  
 <br>
-1. Debt/Asset Ratio = $\Large\frac{Total~ Debt}{Total~ Assets}$  
+1. Debt-to-Asset Ratio = $\Large\frac{Total~ Debt}{Total~ Assets}$  
 <br>
 1. Financial Leverage Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$  
 
+2. Debt-to-Equity Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$
+
+3. Debt-to-EBITDA Ratio = $\Large\frac{Total~ Debt}{EBITDA}$
+
+EBITDA = Earnings Before Interest Taxes Depreciation & Amortization
+
+1. Asset-to-Equity Ratio = $\Large\frac{Total~ Assets}{Total~ Equity}$
