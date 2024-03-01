@@ -14,7 +14,7 @@ title: Glossary
 
 4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).  
 
-5. *Accounts receivable ledger*: A subsidiary ledger containing detailed records of individual customer credit accounts. 
+5. *Accounts receivable ledger*: A subsidiary/auxiliary ledger containing detailed records of individual customer credit accounts. 
 
 6. *Accrual accounting*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
@@ -40,15 +40,15 @@ title: Glossary
 
 17. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
 
-18. *Classification*: Grouping transactions into relevant accounts.   
+18. *Classification*: Grouping transactions into relevant accounts. See Cahrt of Accounts.  
 
 19. *Closing Journal Entries*: Closing entries transfer temporary account balances, like revenue and expenses, into permanent accounts like retained earnings, resetting temporary accounts to zero and preparing them for the next period.   
 
 20. *Compound Entry*: A single journal entry affects multiple accounts, usually with debits and credits. **One transaction, multiple accounts**     
 
-21. *Contra Account*: An account with an average balance opposite that of a related account.   
+21. *Contra Account*: An account with an average balance opposite that of a related account. 
 
-22. *Contra Asset Account*: A contra account reduces the balance of an asset account. 
+22. *Contra Asset Account*: A contra account reduces the balance of an asset account, for example, *Accumulated Deprection-Equipment*. 
 
 23. *Contra revenue account*: An account with a debit balance that reduces revenue, typically for sales returns, allowances, or discounts.
 
@@ -62,7 +62,7 @@ title: Glossary
 
 28. *Credit terms*: The specific credit sales conditions, including the time a customer has to pay and any applicable penalties for late payments.
 
-29. *Current Asset*: A current asset is a resource a company expects to use, sell, or convert to cash within one year.   
+29. *Current Asset*: A current asset is a resource a company expects to use, sell, or convert to cash within one year. See also *Non-Current Asset*   
 
 30. *Debit*: Think LEFT hand 
 
