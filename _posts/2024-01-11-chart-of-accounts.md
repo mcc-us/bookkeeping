@@ -3,12 +3,12 @@ layout: post
 title: chart of accounts
 ---
 
+Example C.O.A. Numbering
 
-> A L O R E =  
-> Assets, Liabilities, Owner Equity, Revenue, Expenses
-{: .block-tip }
-
-Example C.O.A.
+|A L O R E |||||
+|:-|:-|:-|:-|:-|
+|Assets|Liabilities|Owner Equity|Revenue|Expenses|
+|100|200|300|400|500|
 
 ![Example C.O.A.](/assets/aipb/coa.example.png)
 
