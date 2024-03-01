@@ -1,6 +1,6 @@
 ---
 layout: post
-title: glossary
+title: Glossary
 ---
 
 *Definitions are abbreviated and abridged.*  
