@@ -54,7 +54,7 @@ title: Glossary
 
 24. *Control account*: An account in the general ledger that summarizes the balances of all accounts in a specific subsidiary ledger.
 
-25. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry. **An entry to fix mistakes** 
+25. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry, **an entry to fix mistakes** 
 
 26. *Credit*: Think RIGHT hand
 
@@ -189,6 +189,11 @@ title: Glossary
    
 87. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-88. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**.    
+88. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
 
-89. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+89. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
+    1.  Prepaid rent: rent payed in advance for several months,  
+    2.  Tuition fees: When a student pays tuition for a semester before classes begin,  
+    3.  Advance payment for services: When a client pays a consultant or contractor upfront for a project not yet completed.
+
+90. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   

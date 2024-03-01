@@ -4,7 +4,6 @@ layout: post
 tags: closing
 ---
 
-
 > R.E.I.D. = Revenue, Expenses, Income Summary, Drawings to Capital account.
 {: .block-tip }
 
@@ -19,7 +18,3 @@ Overview:
     3. Transfer **Income Summary (Net Gain or Loss)** account to the **Owner’s Capital** account.  
     4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
 
-
-### 6-2 Prepare The Postclosing Trial Balance.
-
-Preparing the postclosing trial balance is the eighth step in the accounting cycle. A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period—asset, liability, and the owner’s capital accounts. The temporary accounts—revenue, expenses, drawing, and Income Summary—apply only to one accounting period and do not appear on the postclosing trial balance.

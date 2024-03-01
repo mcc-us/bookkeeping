@@ -6,33 +6,30 @@ tags: adjustments
 
 **_Adjustments or adjusting entries_ ARE** journal entries made to update acts for previously unrecorded items.     
 
-1. Prepaid Exp.-{Insurance, Rent, Supplies, Advertising}  
-1. Depreciation   
-1. Accrueed Exp.-Interest   
+1. Prepaid Expenses - { Insurance, Rent, Supplies, Advertising }  
+1. Depreciation / Accumulated Depreciation   
+1. Accrueed Expense-Interest   
 1. Accrued Revenue   
 1. Unearned Revenue   
   
 ### Prepaid Expenses 
    
-- Adjustments recognize expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
+![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
-- "Prepaid expense account" are commonly used for:
+- Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
+
+- Common Prepaid expenses are:
   - Pre-paid Rent
   - Pre-paid Insurance
   - Pre-paid Advertising
   - Pre-paid Supplies, etc.
   - For example: Auto insurance is prepaid for a yr but has not **expired** by end of period/yr.
 
-| Type | Setup | Adjustment |
-|:-----|:------|:-----------|
-| Pre-paid accounts | dr: pre-paid-act.<br>&nbsp;&nbsp;&nbsp;cr: cash| act-expense<br>&nbsp;&nbsp;&nbsp;pre-paid-act.|
-| Pre-paid Expense/Asset | Pre-paid Expense (asset) | Expense |
-
-
 1. Depreciation Expense
-2. Accrued Expense
-3. Accrued Revenue
-4. Unearned Revenue
+
+![depreciation adjustment example](/assets/mc-graw-accounting-course/images/depreciation.example.png)
+
+
 
 
 ### Table of examples
