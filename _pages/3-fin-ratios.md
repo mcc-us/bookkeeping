@@ -4,25 +4,21 @@ title: Financial Ratios
 tags: reporting
 ---
 
-Common Financial Ratios   
- 
+
 ### Liquidity Ratios
 
-1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$ : Ratio > 1.5 is good     
+1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
 <br>
 1. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$
-<br>
+<br><br>
 1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x No. Days per period
 
 ### Solvency Ratios
 
-1. Debt/Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$ 
-   
-   - *Present as %*  
-
-1. Equity Ratio = $\Large\frac{Total~ Shareholders~ Equity}{Total~ Assets}$   
-   
-   - *Present as %*   
+1. Debt/Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$: *Present as %*  
+<br>
+1. Equity Ratio = $\Large\frac{Total~ Shareholders~ Equity}{Total~ Assets}$: *Present as %*  
+<br> 
    - Equity ratio = 1 - Debt ratio 
 
 ### Financial Leverage
