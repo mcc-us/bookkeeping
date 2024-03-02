@@ -9,12 +9,12 @@ tags: adjustments
 - Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
 
 1. Prepaid Expenses - { Insurance, Rent, Supplies, Advertising }  
-1. Depreciation / Accumulated Depreciation   
-1. Accrueed Expense-Interest   
-1. Accrued Revenue   
-1. Unearned Revenue   
+2. Depreciation / Accumulated Depreciation   
+3. Accrueed Expense-Interest   
+4. Accrued Revenue   
+5. Unearned Revenue   
   
-### Prepaid Expenses 
+### 1. Prepaid Expenses 
    
 ![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
@@ -27,13 +27,12 @@ tags: adjustments
   - For example: Auto insurance is prepaid but **expires** monthly.
 
 
-### Depreciation Expense
+### 2. Depreciation Expense
 
 ![depreciation adjustment example](/assets/mc-graw-accounting-course/images/depreciation.example.png)
 
----
 
-### Accrued Expense 
+### 3. Accrued Expense 
 
 ![](/assets/misc/accrued.expense.example.png)
 
@@ -41,29 +40,37 @@ tags: adjustments
   - Salaries
   - Utilities
 
-**Example 2 Journal Entry**:
-- Debits an expense account (e.g., Salaries Expense) for the total wages earned.
-- Credits a liability account (e.g., Salaries Payable) for the same amount.
+**Example 3 Journal Entry**:
+- Debit expense account (e.g., Salaries Expense)
+- &nbsp;&nbsp;&nbsp;Credit liability account (e.g., Salaries Payable)
 
 ---
 
-### Accrued Revenue
+### 4. Accrued Revenue
 
-Accrued Revenue represents income a business has earned, but hasn't yet received payment for. 
+Accrued Revenue represents income earned, but hasn't yet received payment for. 
 
-For example:
+*Accrued Revenue*: you've earned the $5,000 for your consulting services. However, you haven't received the payment yet because of the client's payment terms.
 
-- you complete a consulting project for a client and send them an invoice for $5,000. However, the client's payment terms are net 30, meaning they have 30 days to pay the invoice.
+*Accounting Treatment*: To reflect the income earned in your financial statements for January, you need to record accrued revenue. This involves:
 
-Accrued Revenue: In this scenario, you've earned the $5,000 fee for your consulting services completed on January 31st. However, you haven't received the payment yet because of the client's payment terms.
-
-Accounting Treatment: To reflect the income earned in your financial statements for January, you need to record accrued revenue. This involves:
-
-Journal Entry: Make a journal entry that:
-- Debits an asset account (e.g., Accounts Receivable) for the amount earned ($5,000).
-- Credits a revenue account (e.g., Consulting Revenue) for the same amount.
+**Example 4 Journal Entry**:
+- Debit asset account (e.g., Accounts Receivable)   
+- &nbsp;&nbsp;&nbsp;Credit revenue account (e.g., Consulting Revenue)
 
 
+### 5. Deferred Revenue   
+
+Scenario: You operate a magazine subscription service. On December 1st, a customer purchases a one-year subscription for $48. However, the subscription doesn't start until the January 1st.
+
+Unearned Revenue: In this scenario, you receive $48 from the customer in December. However, you haven't "earned" the full revenue yet because you haven't provided all 12 issues of the magazine.
+
+Accounting Treatment: On December 1st, you would record the $48 as unearned revenue. This account represents a liability, reflecting the money received but not yet earned.
+
+As time passes, you gradually "earn" the revenue:
+
+    January: When you mail the January issue, you would record $4 (48 / 12 issues) as earned revenue (debiting an income account like "Magazine Subscriptions Revenue") and decrease unearned revenue by $4 (crediting the unearned revenue account).
+    February-December: You would repeat the process every month, recognizing $4 in earned revenue and decreasing unearned revenue by $4 until the full subscription period ends in December.
 
 
 ---
