@@ -30,8 +30,6 @@ tags: gaap
 
 1. **Conservatism** - Uncertainties are acknowledged cautiously to avoid overstating assets, income, or financial strength.   
 
-#### Plus
-
 1. **Consistency** - Accounting methods are applied consistently within an entity and across periods.   
 
 1. **Accrual Accounting** - This is a fundamental concept of GAAP that separates revenue and expense recognition from cash flow.
