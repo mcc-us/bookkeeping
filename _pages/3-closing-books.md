@@ -18,3 +18,4 @@ Overview:
     3. Transfer **Income Summary (Net Gain or Loss)** account to the **Owner’s Capital** account.  
     4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
 
+![](/assets/mc-graw-accounting-course/images/closing.fig.6.2.all.4.steps.png)

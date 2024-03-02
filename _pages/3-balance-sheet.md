@@ -15,7 +15,7 @@ tags: reporting
 5. Balance: Assets = Liabilities + Equity
 
 >No Expenses Included Here.
-{: .block-warning }
+{: .block-danger }
 
 ### Example Report
 
