@@ -24,7 +24,7 @@ tags: adjustments
   - Pre-paid Insurance
   - Pre-paid Advertising
   - Pre-paid Supplies, etc.
-  - For example: Auto insurance is prepaid for a yr but has not **expired** by end of period/yr.
+  - For example: Auto insurance is prepaid but **expires** monthly.
 
 
 ### Depreciation Expense

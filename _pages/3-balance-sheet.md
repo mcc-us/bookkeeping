@@ -8,13 +8,12 @@ tags: reporting
 > Asset = Liabilities + Equity
 {: .block-tip }
 
-1. Prepare 6 column worksheet   
-2. Gather Current Assets & Long-term Assets  
-3. Gather Current Liabilities & Long-term Liabilities   
+1. 6 column worksheet   
+2. Display Current Assets & Long-term Assets  
+3. Display Current Liabilities & Long-term Liabilities   
 4. Include Equity from Statement of Equity  
-5. Balance: Assets = Liabilities + Equity
 
->No Expenses Included Here.
+> Expenses NOT Included
 {: .block-danger }
 
 ### Example Report
