@@ -15,7 +15,7 @@ tags: reporting
   
 2. Net income & owner contributions 
    - Add net income, or the total profit after taxes and business expenses
-   - Add owner contributions, or capital invested during that period
+   - Add owner contributions, capital invested during that period
    - This **represents the total assets**.
   
 3. Net loss & withdrawals 
