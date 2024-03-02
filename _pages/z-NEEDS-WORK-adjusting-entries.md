@@ -31,7 +31,6 @@ tags: adjustments
 
 
 
-
 ### Table of examples
 
 | Type | Setup | Adjustment |
