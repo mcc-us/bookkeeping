@@ -8,13 +8,12 @@ tags: adjustments
 
 - Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
 
-1. Prepaid Expenses - { Insurance, Rent, Supplies, Advertising }  
+1. Prepaid Expenses - { *Insurance, Rent, Supplies, Advertising* }  
 2. Depreciation / Accumulated Depreciation   
 3. Accrueed Expense-Interest   
 4. Accrued Revenue   
 5. Deferred Revenue 
 
-[Deferred Revenue](#5-Deferred-Revenue)  
   
 ### 1 Prepaid Expenses 
    
@@ -61,7 +60,7 @@ Accrued Revenue represents income earned, but hasn't yet received payment for.
 - &nbsp;&nbsp;&nbsp;Credit revenue account (e.g., Consulting Revenue)
 
 
-### 5 Deferred Revenue   
+### 5. Deferred Revenue   
 
 Scenario: You operate a magazine subscription service. On December 1st, a customer purchases a one-year subscription for $48. However, the subscription doesn't start until the January 1st.
 
