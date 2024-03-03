@@ -77,7 +77,9 @@ As time passes, you gradually "earn" the revenue:
 - February-December: You would repeat the process every month, recognizing \$4 in earned revenue and decreasing unearned revenue by \$4 until the full subscription period ends in December.
 
 
-### Five common types of adjustments can vary depending on the business. 
+### Five common adjustments 
+
+they can vary depending on the business. 
 
 1. *Depreciation Expenses*: This adjustment allocates the cost of an asset over its useful life as an expense. It ensures the asset's cost isn't recognized all at once but gradually spread over time. It benefits the business as the investment is being used.
 
