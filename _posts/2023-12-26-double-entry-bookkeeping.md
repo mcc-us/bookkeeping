@@ -14,7 +14,7 @@ Every transaction has two components:
 - a credit side (on the right)
 
 | T-table example ||
-|:--------|----------:|
+|:-------:|:---------:|
 | Debit   | Credit    |
 
 In accounting, Debit and Credit ONLY refer to the left or right side of a T-table, journal or ledger. See [T-table](T-table), Journal or Ledger.
