@@ -154,7 +154,7 @@ title: Glossary
 70. *Post-closing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
 71. *Quick Assets*:   
-    1. **Q.A. = TCA - Inventory - PE** where TCA = Total current assets, PE = Prepaid expenses​   
+    1. **Q.A. = TCA - Inventory - PE**, where TCA = Total current assets, PE = Prepaid expenses​   
     2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
 
 72. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
