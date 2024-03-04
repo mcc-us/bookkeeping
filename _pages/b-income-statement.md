@@ -5,10 +5,11 @@ tags: reporting
 ---
 
 
+The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
+
 > Net Income/Loss <- Revenue - Expenses  
 {: .block-tip }
 
-The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
 1. 3 columns; **Act, Amount, Total**      
 2. List **Revenues, Expenses**   
@@ -16,7 +17,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 4. Double underline 'bottom line' or Net  
 
 > Do Not include Drawings with Income Statement
-> {: .block-danger }
+{: .block-danger }
 
 
 ### Example Report

@@ -77,7 +77,7 @@ As time passes, you gradually "earn" the revenue:
 - February-December: You would repeat the process every month, recognizing \$4 in earned revenue and decreasing unearned revenue by \$4 until the full subscription period ends in December.
 
 
-### Five common adjustments 
+### Discussion
 
 they can vary depending on the business. 
 

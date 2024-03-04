@@ -4,11 +4,11 @@ title: D. Trial Balances
 tags: reporting
 ---
 
-Purpose:   
-1. Trial balances promote accuracy,   
-2. Identify potential issues,   
-3. Facilitate financial statement preparation,  
-4. Serve as an internal control.   
+- Purpose:   
+   - Trial balances promote accuracy,   
+   - Identify potential issues,   
+   - Facilitate financial statement preparation,  
+   - Serve as an internal control.   
 
 ### 4 Steps
 

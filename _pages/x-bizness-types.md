@@ -1,19 +1,23 @@
 ---
 layout: post
-title: 3 Business Types
+title: Business Types
 tags: businessTypes
 ---
 
 
-To better understand accounting, we need to understand three major types of businesses. This is important because, this tells the accountant or bookkeeper who is ultimately in charge of making decisions and who is liable for any costs and ownership. 
+We need to understand three major types of businesses. This tells the accountant or bookkeeper who is ultimately in charge of making decisions and who is liable for any costs and ownership. 
 
-It is important to know who to ask for help and guiandance when issues regarding cash flow and managerial dicsions are needed.
+> It is important to know who to ask for help and guiandance when issues regarding cash flow and managerial decisions are needed.
+{: .block-danger }
+
+> Do not pierce the corporate veil.
+{: .block-danger }
 
 ### 1. Sole Proprietor 
 
 - One owner is solely responsible to all debts and taxes.
 - Separate entity assumption - 'keep company and personal finances separate.
-  - *Remember: Do not pierce the corporate veil.*
+  - 
 - Business dies when owner does or when sold
 - Easy to form: 'DBA'-Doing Business As
 
