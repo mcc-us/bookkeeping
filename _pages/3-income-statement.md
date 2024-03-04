@@ -10,13 +10,13 @@ tags: reporting
 
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
-1. Use 3 columns; **Act, Amount, Total**      
+1. 3 columns; **Act, Amount, Total**      
 2. List **Revenues, Expenses**   
 3. Total & Calculate Net   
 4. Double underline 'bottom line' or Net  
 
 > Do Not include Drawings with Income Statement
-> {: .block-warning }
+> {: .block-danger }
 
 
 ### Example Report

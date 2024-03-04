@@ -14,17 +14,16 @@ tags: reporting
    - The opening balance is the value of all assets at the beginning of an accounting period.
   
 2. Net income & owner contributions 
-   - Add net income, or the total profit after taxes and business expenses, in addition to
-   - Add owner contributions, or capital invested into the company during that period.
+   - Add net income, or the total profit after taxes and business expenses
+   - Add owner contributions, capital invested during that period
    - This **represents the total assets**.
   
 3. Net loss & withdrawals 
-   - Subtract all losses incurred for that period,   
-   - Subtreact owner withdrawals to cover any business expenses. 
+   - Subtract all losses for that period   
+   - Subtract owner withdrawals  
    - This represents the company’s **total liabilities**. 
   
-4. Ending balance 
-   - The company’s liabilities are subtracted from the assets equal **ending equity balance** or **total retained earnings** for that accounting period.
+4. **Opening balance + Assets - Liabilities = Equity** balance or total retained earnings for that period.
 
 
 ---
