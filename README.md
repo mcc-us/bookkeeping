@@ -11,5 +11,5 @@ permalink: /
 ||
 | [Accounting Work Book](2024-02-26-fin-workbook) |
 ||
-| :hatching_chick: **In Progess** :hatching_chick: |
-|[income](2024-01-17-1-income-statement)<br>|
+| :hatching_chick: **TO DO** :hatching_chick: |
+|Sales Taxes|
