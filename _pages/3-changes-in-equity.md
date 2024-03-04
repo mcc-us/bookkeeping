@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statement of Equity
+title: C. Statement of Equity
 tags: reporting
 ---
 
