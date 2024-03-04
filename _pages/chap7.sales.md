@@ -1,3 +1,9 @@
+---
+layout: post
+title: Chapter 7 Sales
+tags: sales
+---
+
 ## Chapter 7 Sales
 
 ### Recording Sales for cash or on account
