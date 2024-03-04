@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Balance Sheet
+title: G. Balance Sheet
 tags: reporting
 ---
 
@@ -11,6 +11,9 @@ tags: reporting
 1. Display Current Assets & Long-term Assets  
 2. Display Current Liabilities & Long-term Liabilities   
 3. Include Equity from Statement of Equity  
+
+> Include Drawings PRE-CLOSING
+{: .block-tip }
 
 > Expenses NOT Included
 {: .block-danger }

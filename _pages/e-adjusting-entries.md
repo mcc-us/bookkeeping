@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 adjusting entries
+title: E. Adjusting Entries
 tags: adjustments
 ---
 

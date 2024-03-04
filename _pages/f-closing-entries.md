@@ -1,5 +1,5 @@
 ---
-title: Closing The Books
+title: F. Closing Entries
 layout: post
 tags: closing
 ---
