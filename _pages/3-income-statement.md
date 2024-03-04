@@ -16,7 +16,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 4. Double underline 'bottom line' or Net  
 
 > Do Not include Drawings with Income Statement
-> {: .block-danger }
+> {: .block-dangers }
 
 
 ### Example Report
