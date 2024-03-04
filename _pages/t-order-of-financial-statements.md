@@ -25,7 +25,7 @@ What order are financial statements prepared?
 - 4 Columns: Asset Act, Amount, (L+E)Act, Amount  
 - A = L + SE  
 
-### 5. 3 Financial Ratios   
+### 5. Financial Ratios   
 
-- Current, Debt & Equity ratios  
+- [See Post](_pages/y-fin-ratios.md)
 
