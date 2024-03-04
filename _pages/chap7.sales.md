@@ -1,6 +1,6 @@
-## Chapter 7 Sales, A/R & Cash
+## Chapter 7 Sales
 
-### Recording Sales for cash or on account (A/R)
+### Recording Sales for cash or on account
 
 ![](/assets/mc-graw-accounting-course/chap7.pix/cash.discounts.on.sales.png)
 
