@@ -14,6 +14,9 @@ tags: reporting
 <br>
 
 1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x No. Days per period   
+<br>
+
+1. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$  
 
 ### Solvency Ratios
 
@@ -33,11 +36,14 @@ tags: reporting
 <br>
 
 3. Financial Leverage Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$    
+<br>
 
 4. Debt-to-Equity Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$   
+<br>
 
 5. Debt-to-EBITDA Ratio = $\Large\frac{Total~ Debt}{EBITDA}$   
 
    EBITDA = Earnings Before Interest Taxes Depreciation & Amortization   
+<br>
 
 6. Asset-to-Equity Ratio = $\Large\frac{Total~ Assets}{Total~ Equity}$   
