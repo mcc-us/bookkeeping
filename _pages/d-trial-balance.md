@@ -10,7 +10,7 @@ tags: reporting
    - Facilitate financial statement preparation,  
    - Serve as an internal control.   
 
-### 4 Steps
+**4 Steps**
 
 1. Enter the general ledger account names.   
    1. Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses

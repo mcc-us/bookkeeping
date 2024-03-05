@@ -50,7 +50,7 @@ layout: post
 
 ## 7. Close the Books (If Needed)
 
-### Journalize & Post Closing Entries
+**Journalize & Post Closing Entries**
 
 Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
 - Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.
