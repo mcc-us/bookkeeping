@@ -16,7 +16,7 @@ title: Glossary
 
 5. *Accounts payable ledger*: A subsidiary ledger that contains a separate account for each creditor
 
-5. *Accounts receivable ledger*: A subsidiary/auxiliary ledger containing detailed records of individual customer credit accounts. 
+6. *Accounts receivable ledger*: A subsidiary/auxiliary ledger containing detailed records of individual customer credit accounts. 
 
 6. *Accrual accounting*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
