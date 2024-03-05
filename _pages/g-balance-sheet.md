@@ -18,7 +18,7 @@ tags: reporting
 > Expenses NOT Included
 {: .block-danger }
 
-### Example Report
+**Example Report**
 
 > Reports NEED: Who, What, When (On Day / Date Time)
 {: .block-tip }

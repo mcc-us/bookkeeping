@@ -20,7 +20,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 {: .block-danger }
 
 
-### Example Report
+**Example Report**
 
 > Reports NEED:   
 > Who, What, When: Time Period   

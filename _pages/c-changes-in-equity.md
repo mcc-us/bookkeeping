@@ -8,7 +8,7 @@ tags: reporting
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
 {: .block-tip }
 
-### Four key components
+**Four key components**
 
 1. Opening balance 
    - The opening balance is the value of all assets at the beginning of an accounting period.
@@ -41,7 +41,7 @@ tags: reporting
 > Reports NEED: Who, What, When: Time Period
 {: .block-tip }
 
-### Example Report
+**Example Report**
 
 **WHO**: *Co.*  
 **WHAT**: *Statement of Equity*  
@@ -49,7 +49,7 @@ tags: reporting
 
 ????
 
-#### More Examples
+**More Examples**
 
 | ![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
 |:-:|
