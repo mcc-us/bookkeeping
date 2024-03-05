@@ -6,13 +6,15 @@ title: Glossary
 *Definitions are abbreviated and abridged.*  
 
 
-1. *Accounts*: A "container" (bucket) that tracks specific assets, liabilities, equity, income, or expenses
+1. *Accounts*: A "container" (bucket) that tracks specific assets, liabilities, equity, income, or expenses.
 
 2. *Accounting Equation*: $A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$             
 
 3. *Accounting Cycle*: **Post, Journalize, Worksheet, Adjust, Close, Report**, [See 9 Steps](https://mcc-us.github.io/pages/2-accounting-cycle/)
 
-4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).  
+4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).
+
+5. *Accounts payable ledger*: A subsidiary ledger that contains a separate account for each creditor
 
 5. *Accounts receivable ledger*: A subsidiary/auxiliary ledger containing detailed records of individual customer credit accounts. 
 
@@ -36,7 +38,9 @@ title: Glossary
 
 15. *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation.<br>- Book Value = Equipment - Accumulated Depreciation      
 
-16. *Capital*: Financial investment in a business; **Owner's equity**   
+16. *Capital*: Financial investment in a business; **Owner's equity**
+
+1. *Cash discount*: A reduction in the price of a good or service given to a customer for paying their bill promptly.   
 
 17. *Chart of Accounts*: A master list of all accounts used by a company, organized by category and code for easy reference.   
 
@@ -55,6 +59,8 @@ title: Glossary
 24. *Control account*: An account in the general ledger that summarizes the balances of all accounts in a specific subsidiary ledger.
 
 25. *Correcting Entry*: An entry made to fix or adjust an error in a previous entry.
+
+1. *Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
 
 26. *Credit*: Think RIGHT hand
 
@@ -94,6 +100,8 @@ title: Glossary
 41. *Fair market value*: FMV is the price an informed and willing buyer pays an informed and willing seller for an asset, assuming neither is under undue pressure. 
    
 42. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. An economic stake in a company, expecting financial rewards.   
+
+1. *Freight In account*: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
 
 43. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
 
@@ -153,6 +161,30 @@ title: Glossary
    
 70. *Post-closing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
+1. *Purchase allowance*: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
+
+1. *Purchase invoice*: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
+
+1. *Purchase order*: A formal document sent by a buyer to a seller that specifies the items to be purchased, their quantities, and the agreed-upon price.
+
+1. *Purchase requisition*: An internal document used by a department within a company to request the purchase of goods or services.
+
+1. *Purchase return*: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
+
+1. *Purchases account*: A general ledger account that records the total cost of goods purchased by a business during a specific period.
+
+1. *Purchases discount*: A reduction in the price of goods purchased received by a buyer for paying their bill early.
+
+1. *Purchases Returns and Allowances account*: A general ledger account used to record purchase allowances and purchase returns.
+
+1. *Receiving report*: A document used to document the quantity and condition of goods received from a supplier.
+
+1. *Sales discount*: A reduction in the price of a good or service offered by a seller to a customer for paying their bill promptly.
+
+1. *Sales invoice*: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
+
+1. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
+
 71. *Quick Assets*:   
     1. **Q.A. = TCA - Inventory - PE**, where TCA = Total current assets, PE = Prepaid expenses​   
     2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
@@ -169,7 +201,9 @@ title: Glossary
 
 77. *Sales Returns and Allowances*: A contra revenue account combining sales returns and allowances to calculate net sales.
 
-78. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.   
+78. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.
+
+1. *Schedule of accounts payable*: A list of all balances owed to creditors
 
 79. *Service business*: A business that sells services
 
