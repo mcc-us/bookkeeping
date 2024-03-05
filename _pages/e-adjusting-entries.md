@@ -51,13 +51,11 @@ tags: adjustments
 
 Accrued Revenue represents income earned, but hasn't yet received payment for. 
 
+![](/assets/misc/what-is-accrued-revenue.jpg)
+
 *Accrued Revenue*: you've earned the $5,000 for your consulting services. However, you haven't received the payment yet because of the client's payment terms.
 
 *Accounting Treatment*: To reflect the income earned in your financial statements for January, you need to record accrued revenue. This involves:
-
-**Example 4 Journal Entry**:
-- Debit asset account (e.g., Accounts Receivable)   
-- &nbsp;&nbsp;&nbsp;Credit revenue account (e.g., Consulting Revenue)
 
 
 ### 5. Deferred Revenue   
