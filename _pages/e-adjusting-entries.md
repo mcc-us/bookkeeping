@@ -60,19 +60,7 @@ Accrued Revenue represents income earned, but hasn't yet received payment for.
 
 ### 5. Deferred Revenue   
 
-- *Debit* Deferred revenue account
-- &nbsp;&nbsp;&nbsp;&nbsp;*Credit* Account revenue
-
-Scenario: You operate a magazine subscription service. On December 1st, a customer purchases a one-year subscription for $48. However, the subscription doesn't start until the January 1st.
-
-Unearned Revenue: In this scenario, you receive $48 from the customer in December. However, you haven't "earned" the full revenue yet because you haven't provided all 12 issues of the magazine.
-
-Accounting Treatment: On December 1st, you would record the $48 as unearned revenue. This account represents a liability, reflecting the money received but not yet earned.
-
-As time passes, you gradually "earn" the revenue:
-
-- January: When you mail the January issue, you would record \$4 (48 / 12 issues) as earned revenue (debiting an income account like "Magazine Subscriptions Revenue") and decrease unearned revenue by \$4 (crediting the unearned revenue account).
-- February-December: You would repeat the process every month, recognizing \$4 in earned revenue and decreasing unearned revenue by \$4 until the full subscription period ends in December.
+![](/assets/misc/what-is-deferred-revenue.jpg)
 
 
 ### Discussion
