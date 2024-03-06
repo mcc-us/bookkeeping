@@ -1,7 +1,6 @@
 ---
-title: using t-tables & accounts
+title: NEEDS-WORK-chap-3-t-accounts
 layout: post
-tags: drcr
 ---
 
 - An **Account** is container/bucket that tracks specific assets, liabilities, equity, income, or expenses.  
