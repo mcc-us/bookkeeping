@@ -7,23 +7,23 @@ tags: sales
 
 ### New Sales Accounts   
 
-![](/assets/mc-graw-accounting-course/chap7.pix/chap7.1.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
 ### Sales for cash or A/R, NO Tax
 
-![](/assets/mc-graw-accounting-course/chap7.pix/1.sales.w.NO.tax.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
 
 ### Sales for cash or A/R, WITH 8% Tax
 
-![](/assets/mc-graw-accounting-course/chap7.pix/2.sales.w.tax.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
 
 ### Cash, A/R - Returns & Allowances WITH 9% Tax
 
-![](/assets/mc-graw-accounting-course/chap7.pix/3.Cash.AR.sales.return.allowances.taxed.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
 
 
