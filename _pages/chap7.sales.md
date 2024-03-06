@@ -5,7 +5,7 @@ tags: sales
 ---
 
 
-### New Sales Accounts   
+### New Sales Accounts (Dr/Cr)  
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
@@ -18,7 +18,6 @@ tags: sales
 ### Sales for cash or A/R, WITH 8% Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
-
 
 
 ### Cash, A/R - Returns & Allowances WITH 9% Tax

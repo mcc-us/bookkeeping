@@ -25,7 +25,7 @@ Step 2: Label the left-hand side of the **T-table** "*Debit*" and the right side
 | Assets increase when placed on the Debit(left) side. | Assets decrease when placed on the Credit(right) side. |
 
 - Therefore "Debiting $100" increases the amount of cash in the account. 
-- "Crediting $100", or placing values on the right side subtracts $100 from your account.
+- "Crediting \$100", or placing values on the right side subtracts $100 from your account.
 
 #### Example 2
 
@@ -38,4 +38,4 @@ Liabilities & Equities increase with Credits, decrease with Debits**
 If your business was to borrow $100 from a another business 
 then 
 - "Crediting $100" (on the right) increases the amount you OWE the other business. 
-- "Debiting $100", or placing values on the left side subtracts $100 from the amount you OWE..
+- "Debiting \$100", or placing values on the left side subtracts $100 from the amount you OWE..
