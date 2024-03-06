@@ -4,24 +4,37 @@ title: Chapter 7 Sales
 tags: sales
 ---
 
-## Chapter 7 Sales
 
-### Recording Sales for cash or on account
-
-![](/assets/mc-graw-accounting-course/chap7.pix/cash.discounts.on.sales.png)
-
-
-New Sales Accounts   
+### New Sales Accounts   
 
 ![](/assets/mc-graw-accounting-course/chap7.pix/chap7.1.png)
 
 
-Overview
+### Sales for cash or A/R, NO Tax
+
+![](/assets/mc-graw-accounting-course/chap7.pix/1.sales.w.NO.tax.png)
+
+
+### Sales for cash or A/R, WITH 8% Tax
+
+![](/assets/mc-graw-accounting-course/chap7.pix/2.sales.w.tax.png)
+
+
+
+### Cash, A/R - Returns & Allowances WITH 9% Tax
+
+![](/assets/mc-graw-accounting-course/chap7.pix/3.Cash.AR.sales.return.allowances.taxed.png)
+
+
+
+
+
+### Overview
 
 ![](/assets/mc-graw-accounting-course/chap7.pix/chap7.review.png)
 
 
-Credit card sales
+### Credit card sales
 
 ![](/assets/mc-graw-accounting-course/chap7.pix/credit.card.sales.transactions.png)
 
