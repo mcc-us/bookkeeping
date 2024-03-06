@@ -3,6 +3,8 @@ layout: post
 title: Glossary II
 ---
 
+Definitions from mcgraw-hill
+
 1.  *Absorption costing*: The accounting procedure whereby all manufacturing costs, including fixed costs, are included in the cost of goods manufactured
 1.  *Accelerated method of depreciation*: A method of depreciating an asset’s cost that allocates greater amounts of depreciation to an asset’s early years of useful life
 1.  *Account balance*: The difference between the amounts recorded on the two sides of an account
