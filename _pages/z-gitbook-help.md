@@ -79,6 +79,19 @@ https://github-emoji-picker.rickstaa.dev/
 
 `[Relative link to a section inside a page](#local-urls)`
 
+
+### Bookmark Links on the Same Page
+
+If you want to link to a heading on the same page, first add an ID tag to the header like this:
+
+```## Headings with ID Tags {#someIdTag}```
+
+Then reference it with a normal Markdown link:
+
+```[Some link](#someIdTag)```
+
+
+
 ### Pictures
 
 `![lion](/assets/img/lion_head-144x144.png)`

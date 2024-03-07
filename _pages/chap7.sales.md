@@ -25,13 +25,26 @@ tags: sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
 
+### 7.2 Compute trade discounts
+
+A "trade discount" is a reduction from list price.
+
+|A "trade discount" is a reduction from list price.||
+|:-|-:|
+| List Price | $100 |
+| Less 25% discount (100 * 0.25)| 25 |
+| Invoice Price | $75 |
+
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
 
 
+### Cash discount on sales with returns
 
-### Overview
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/5.cash.discouont.on.sales.returns.png)
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.review.png)
+### Reporting Net Sales
 
+Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
 ### Credit card sales
 
@@ -115,4 +128,9 @@ These transactions are recorded in the general journal.
 ### 7.6 Record the payment of sales taxes.
 
 - Every business that collects sales taxes from its customers is responsible for accurately reporting and paying the amount of sales taxes collected to the appropriate government agency.
+
+
+### Overview
+
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.review.png)
 
