@@ -46,6 +46,12 @@ A "trade discount" is a reduction from list price.
 
 Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
+
+### Schedule of Accounts for Customers Accounts Receivable
+
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
+
+
 ### Credit card sales
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/credit.card.sales.transactions.png)
@@ -64,7 +70,7 @@ State Tax forms
 
 
 
-Schedule of Accounts for Customers Accounts Receivable
+### Schedule of Accounts for Customers Accounts Receivable
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
