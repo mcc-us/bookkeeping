@@ -10,7 +10,7 @@ title: Glossary
 
 2. *Accounting Equation*: $A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$             
 
-3. *Accounting Cycle*: **Post, Journalize, Worksheet, Adjust, Close, Report**, [See 9 Steps](https://mcc-us.github.io/pages/2-accounting-cycle/)
+3. *Accounting Cycle*: **Post, Journalize, Worksheet, Adjust, Close, Report**, [See Accounting Cycle](https://mcc-us.github.io/pages/a-accounting-cycle/)
 
 4. *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner's equity on the right (see also Report form balance sheet).
 

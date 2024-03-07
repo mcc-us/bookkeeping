@@ -70,25 +70,23 @@ Definitions from mcgraw-hill
 61. *Capital stock ledger*: A subsidiary ledger that contains a record of each stockholder’s purchases, transfers, and current balance of shares owned; also called stockholders’ ledger
 62. *Capital stock transfer journal*: A record of stock transfers used for posting to the stockholders’ ledger
 63. *Capitalized costs*: All costs recorded as part of an asset’s costs
-64. *Carrying value of bonds*: The balance of the **Bonds Payable** account plus the **Premium on Bonds Payable** account minus the **Discount on Bonds Payable** account; also called *book value of bonds*
+64. *Carrying value of bonds*: The balance of the *Bonds Payable* account plus the *Premium on Bonds Payable* account minus the *Discount on Bonds Payable* account; also called *book value of bonds*
 65. *Cash*: In accounting, currency, coins, checks, money orders, and funds on deposit in a bank
 66. *Cash discount*: A discount offered by suppliers for payment received within a specified period of time
 67. *Cash equivalents*: Assets that are easily convertible into known amounts of cash
 68. *Cash payments journal*: A special journal used to record transactions involving the payment of cash
 69. *Cash receipts journal*: A special journal used to record and post transactions involving the receipt of cash
 70. *Cash register proof*: A verification that the amount of currency and coins in a cash register agrees with the amount shown on the cash register audit tape
-
-Cash Short or Over account An account used to record any discrepancies between the amount of currency and coins in the cash register and the amount shown on the audit tape
-
-1.  *Cashier’s check*: A draft on the issuing bank’s own funds
-2.  *Certified Bookkeeper (CB)*: A designation that assures an individual possesses the level of knowledge and skill needed to carry out all key functions through the adjusted trial balance, including payroll
-3.  *Certified public accountant (CPA)*: An independent accountant who provides accounting services to the public for a fee
-4.  *Charge-account sales*: Sales made through the use of open-account credit or one of various types of credit cards
-5.  *Chart of accounts*: A list of the accounts used by a business to record its financial transactions
-6.  *Classification*: A means of identifying each account as an asset, liability, or owner’s equity
-7.  *Classified financial statement*: A format by which revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group
-8.  *Closing entries*: Journal entries that transfer the results of operations (net income or net loss) to owner’s equity and reduce the revenue, expense, and drawing account balances to zero
-9.  *Collateral trust bonds*: Bonds secured by the pledge of securities, such as stocks or bonds of other companies
+71. *Cash Short or Over account*: An account used to record any discrepancies between the amount of currency and coins in the cash register and the amount shown on the audit tape
+1. *Cashier’s check*: A draft on the issuing bank’s own funds
+2. *Certified Bookkeeper (CB)*: A designation that assures an individual possesses the level of knowledge and skill needed to carry out all key functions through the adjusted trial balance, including payroll
+3. *Certified public accountant (CPA)*: An independent accountant who provides accounting services to the public for a fee
+4. *Charge-account sales*: Sales made through the use of open-account credit or one of various types of credit cards
+5. *Chart of accounts*: A list of the accounts used by a business to record its financial transactions
+6. *Classification*: A means of identifying each account as an asset, liability, or owner’s equity
+7. *Classified financial statement*: A format by which revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group
+8. *Closing entries*: Journal entries that transfer the results of operations (net income or net loss) to owner’s equity and reduce the revenue, expense, and drawing account balances to zero
+9. *Collateral trust bonds*: Bonds secured by the pledge of securities, such as stocks or bonds of other companies
 10. *Combined journal*: A journal that combines features of the general journal and the special journals in a single record
 11. *Commercial draft*: A note issued by one party that orders another party to pay a specified sum on a specified date
 12. *Commission basis*: A method of paying employees according to a percentage of net sales
