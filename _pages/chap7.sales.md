@@ -89,13 +89,12 @@ Time on video 22:50
 
 
 
-### Chapter 7 Summary
+### Chapter 7 How-To
 
-- You learned to record various sales and cash receipts transactions for a merchandising business. 
-- You also used new accounts to record sales and cash receipts transactions of merchandising companies. 
-- Additionally, you learned to calculate amounts owed by individual credit customers using the accounts receivable ledger.
+- Record various sales and cash receipts transactions for a merchandising business. 
+- Use new accounts to record sales and cash receipts transactions of merchandising companies. 
+- Calculate amounts owed for credit customers using the accounts receivable ledger.
 
-Learning Objectives
 
 ### 7.1 Record sales on account, credit card sales, sales returns, sales allowances, an&d cash receipt transactions
 
