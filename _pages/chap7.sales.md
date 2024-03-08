@@ -15,12 +15,12 @@ tags: sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
 
-### Sales for cash or A/R, WITH 8% Tax
+### Sales for Cash or A/R, WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### Cash, A/R - Returns & Allowances WITH 9% Tax
+### Returns & Allowances for Cash or A/R, WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
