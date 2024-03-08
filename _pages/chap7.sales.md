@@ -46,6 +46,13 @@ A "trade discount" is a reduction from list price.
 
 Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
+| Net Sales Calculations||
+|:-|-:|
+|Total Sales|100|
+|Subtract Returns/Allowances|-5|
+|Subtract Discounts|-2|
+|Net Sales|93|
+
 
 ### Schedule of Accounts for Customers Accounts Receivable Ledger 
 
