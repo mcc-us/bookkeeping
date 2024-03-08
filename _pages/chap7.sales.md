@@ -52,19 +52,12 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
 
-### Credit card sales
+### Credit card sales via A/R
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/credit.card.sales.transactions.png)
-
-
-Sales with Taxes
-
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/credit.terms.sales.discounbt.definitions.png)
-
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/customer.sales.slip.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/credit.card.sales.via.AR.png)
 
 
-State Tax forms
+### State Tax forms
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/sales.taxes.state.form.png)
 
@@ -74,6 +67,9 @@ State Tax forms
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
+### Trade Discounts with Double Deductions
+
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
 Returns of Damaged and Returned goods
 
