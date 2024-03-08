@@ -51,17 +51,17 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
 Time on video 22:50
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
 
 ### Credit card sales via A/R
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/credit.card.sales.via.AR.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
 
 ### State Tax forms
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/sales.taxes.state.form.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
 
 
 
@@ -69,23 +69,19 @@ Time on video 22:50
 
 - Procedure for Keeping track of customer sales:
 
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/act.recvable.2.schedule.2.ar.balsnce.png)
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
 
-
-
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
 ### Trade Discounts with Double Deductions
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
-Returns of Damaged and Returned goods
+### Returns of Damaged and Returned goods
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/account.customer.balance.ledger.png)
 
 
-Recording Sales Returns and Sales Allownances
-
+### Recording Sales Returns and Sales Allownances
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
