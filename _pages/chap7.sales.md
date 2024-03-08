@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter 7 Sales
+title: Chapter 7:Sales
 tags: sales
 ---
 
@@ -47,7 +47,9 @@ A "trade discount" is a reduction from list price.
 Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
 
-### Schedule of Accounts for Customers Accounts Receivable
+### Schedule of Accounts for Customers Accounts Receivable Ledger 
+
+Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
@@ -64,6 +66,12 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 
 
 ### Schedule of Accounts for Customers Accounts Receivable
+
+- Procedure for Keeping track of customer sales:
+
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/act.recvable.2.schedule.2.ar.balsnce.png)
+
+
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/schedule.of.accounts.receivable.7.5.png)
 
