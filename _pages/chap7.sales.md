@@ -76,12 +76,12 @@ Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
-### Returns of Damaged and Returned goods
+### Returns of Damaged & Returned goods
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/account.customer.balance.ledger.png)
 
 
-### Recording Sales Returns and Sales Allownances
+### Returns & Sales Allownances
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
