@@ -17,87 +17,50 @@ Transportation In account
 ---
 
 - Cash discount: A reduction in the price of a good or service given to a customer for paying their bill promptly.
-    Image of Cash discount accounting Opens in a new window
-    www.double-entry-bookkeeping.com
-- Cash discount accounting
-
-
+  
 - Cost of goods sold (COGS): The direct costs associated with producing the goods or services sold by a business during a specific period.
-    Image of Cost of goods sold accounting Opens in a new window
-    www.investopedia.com
-    Cost of goods sold accounting
-
+ 
 - Freight In account: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
-    Image of Freight In account Opens in a new window
-    www.principlesofaccounting.com
-    Freight In account
 
 - Purchase allowance: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
-    Image of Purchase allowance accounting Opens in a new window
-    www.double-entry-bookkeeping.com
-    Purchase allowance accounting
 
 - Purchase invoice: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
-    Image of Purchase invoice accounting Opens in a new window
-    discuss.frappe.io
-    Purchase invoice accounting
+
 
 - Purchase order: A formal document sent by a buyer to a seller that specifies the items to be purchased, their quantities, and the agreed-upon price.
-    Image of Purchase order accounting Opens in a new window
-    www.patriotsoftware.com
-    Purchase order accounting
+ 
 
 - Purchase requisition: An internal document used by a department within a company to request the purchase of goods or services.
-    Image of Purchase requisition accounting Opens in a new window
-    www.netsuite.com
-    Purchase requisition accounting
+  
 
 - Purchase return: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
-    Image of Purchase return accounting Opens in a new window
-    www.double-entry-bookkeeping.com
-    Purchase return accounting
+ 
 
 - Purchases account: A general ledger account that records the total cost of goods purchased by a business during a specific period.
-    Image of Purchases account accounting Opens in a new window
-    www.double-entry-bookkeeping.com
-    Purchases account accounting
+ 
 
 - Purchases discount: A reduction in the price of goods purchased received by a buyer for paying their bill early.
-    Image of Purchases discount accounting Opens in a new window
-    www.bookstime.com
-    Purchases discount accounting
+  
 
-Purchases Returns and Allowances account: A general ledger account used to record purchase allowances and purchase returns.
-    Image of Purchases Returns and Allowances account Opens in a new window
-    www.wizeprep.com
-    Purchases Returns and Allowances account
+Purchases Returns & Allowances account: A general ledger account used to record purchase allowances and purchase returns.
+  
 
 - Receiving report: A document used to document the quantity and condition of goods received from a supplier.
-    Image of Receiving report accounting Opens in a new window
-    help.hotschedules.com
-    Receiving report accounting
+  
 
 - Sales discount: A reduction in the price of a good or service offered by a seller to a customer for paying their bill promptly.
-    Image of Sales discount accounting Opens in a new window
-    www.double-entry-bookkeeping.com
-    Sales discount accounting
+ 
 
 - Sales invoice: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
-    Image of Sales invoice accounting Opens in a new window
-    www.zendesk.com
-    Sales invoice accounting
+  
 
 - Transportation In account: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
-    Image of Transportation In account Opens in a new window
-    www.researchgate.net
-    Transportation In account
+  
 
-Accounts payable ledger
-A subsidiary ledger that contains a separate account for each creditor
+Accounts payable ledger: A subsidiary ledger that contains a separate account for each creditor
 
 
-Schedule of accounts payable
-A list of all balances owed to creditors
+Schedule of accounts payable: A list of all balances owed to creditors
 
 
 
