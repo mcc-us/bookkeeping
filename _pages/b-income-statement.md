@@ -29,7 +29,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
 {: .block-tip }
 
-Company Name   
+The Shuttle Ride Company   
 Income Statement   
 For the Year Ending Dec. 31, 2024
 

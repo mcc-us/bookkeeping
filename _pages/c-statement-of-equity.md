@@ -10,20 +10,20 @@ tags: reporting
 
 **Four key components**
 
-1. Opening balance 
-   - The opening balance is the value of all assets at the beginning of an accounting period.
+1. Opening balance = value of all assets at the beginning of accounting period
   
-2. Net income & owner contributions 
+2. ADD: Net income & owner contributions 
    - Add net income, or the total profit after taxes and business expenses
    - Add owner contributions, capital invested during that period
    - This **represents the total assets**.
   
-3. Net loss & withdrawals 
+3. SUBTRACT: Net loss & withdrawals 
    - Subtract all losses for that period   
    - Subtract owner withdrawals  
    - This represents the company’s **total liabilities**. 
   
-4. **Opening balance + Assets - Liabilities = Equity** balance or total retained earnings for that period.
+4. **Opening balance + Assets - Liabilities = Equity**
+   -  Total retained earnings for that period.
 
 
 ---
