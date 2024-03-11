@@ -156,9 +156,38 @@ The Chart of Accounts: adding accounts in QBO
    - To follow up goto Chart of Acts & check for DR. as well as a CR for 'Share Capital'
 
 
-37. Purchasing Inventory
+37. Purchasing Inventory on account
+   - On top right <+New>/Journal entry (screen)/ Enter into acct./Add: Inventory asset 
    - Ex. DR Inventory $1k
    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR A/P $1k
+   - /Add description/Save & close.
+
+To Double check: Goto Chart of Accts by using Accounting on bottom left. 
+
+
+38. Making sales to customers:
+   - Ex. you sell $100 receving cash
+   - DR Asset/cash 
+   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR sales/revenue $100
+   - On top right <+New>/
+   - There are several ways to enter sales, Invoice + receive payment OR 'Sales receipt' 
+   - QBO sets up Invoice like register.
+   - Companies can sell 1. Non-inventory 2. Service 3. Bundle both parts and service
+   - 
+
+
+39. Promoting your business Via Advertising Exp.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
