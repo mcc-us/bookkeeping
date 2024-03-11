@@ -157,7 +157,8 @@ The Chart of Accounts: adding accounts in QBO
 
 
 37. Purchasing Inventory
-
+   - Ex. DR Inventory $1k
+   - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR A/P $1k
 
 
 
