@@ -4,7 +4,7 @@ category:
 layout: post
 ---
 
-![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.png)
+![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.85.png)
 
 ## 1. Identify & Analyze Transactions
 

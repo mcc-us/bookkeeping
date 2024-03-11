@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Chapter 8 Purchases, Accounts Payable and Cash payments
+title: Chapter 8 Purchases, A/P & Cash payments
 tags: sales
 ---
-
-## Chapter 8 Purchases, Accounts Payable and Cash payments
-
 
 
 ### Record purchases of merchandise on credit in a general journal.
