@@ -20,7 +20,7 @@ title: Glossary
 
 6. *Accrual accounting*: States that the effects of all transactions and other events are recognized in the accounting records when they occur, RATHER than when cash or its equivalent are exchanged.   
 
-7. *Acid Test*: commonly known as the Quick Ratio:<br>$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
+7. *Acid Test*: A measure of immediate liquidity; the ratio of quick assets to current liabilities, aka the Quick Ratio:<br>$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
 
 8. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
    
