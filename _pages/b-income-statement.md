@@ -26,8 +26,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Who, What, When: Time Period   
 {: .block-tip }
 
-> Remember:   
-> Place Dollar signs at the top of each column and at the bottom line. Do not use dollar signs on ALL values.  
+> Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
 {: .block-tip }
 
 Company Name   
@@ -35,12 +34,12 @@ Income Statement
 For the Year Ending Dec. 31, 2024
 
 | Act | Amount | Total |
-|----:|-------:|------:|
+|:----|-------:|------:|
 | Revenue | | |
-| Shuttle Rides | | $50,000 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shuttle Rides | | $50,000 |
 | Expenses | | |
-| Fuel | $14,000 | |
-| Wages | 30,000 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuel | $14,000 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wages | 30,000 | |
 | SUBTRACT Total Expenses | | 44,000 |
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 

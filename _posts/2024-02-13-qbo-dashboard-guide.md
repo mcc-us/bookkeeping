@@ -152,7 +152,7 @@ The Chart of Accounts: adding accounts in QBO
 Stopped before watching 36
 
 36. Injecting capital (money) to start a company:
-   - DR into bank account and then CR to Equity act
+   - DR Asset/bank account and then CR to Equity act
    - On top right <+New>/Journal entry/Choose line #1/Bank act checking or savings
 
 
