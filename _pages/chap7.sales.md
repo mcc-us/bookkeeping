@@ -54,7 +54,7 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 |Net Sales|93|
 
 
-### Schedule of Accounts for Customers Accounts Receivable Ledger 
+### Schedule of Accounts / Customer Accounts Receivable Ledger 
 
 Time on video 22:50
 
@@ -82,10 +82,6 @@ Time on video 22:50
 ### Trade Discounts with Double Deductions
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
-
-### Returns of Damaged & Returned goods
-
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/account.customer.balance.ledger.png)
 
 
 ### Returns & Sales Allownances
