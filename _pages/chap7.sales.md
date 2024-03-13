@@ -74,7 +74,7 @@ Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
-```
+<!--
 ### State Tax forms
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
@@ -85,7 +85,7 @@ Time on video 22:50
 - Procedure for Keeping track of customer sales:
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
-```
+-->
 
 ### Trade Discounts with Double Deductions
 
@@ -97,7 +97,7 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
 
-```
+<!--
 ### 7.4 Post from the journal to the ledger accounts and to the subsidiary ledger.
 
 - Transactions are posted from the journal to the ledger accounts as discussed in Chapter 4. 
@@ -115,4 +115,4 @@ Time on video 22:50
 ### Overview
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.review.png)
-```
+-->
