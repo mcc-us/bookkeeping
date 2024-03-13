@@ -50,6 +50,7 @@ A Sale or Trade discount is a reduction from list price.
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/5.cash.discouont.on.sales.returns.png)
 
+<!--
 ### Reporting Net Sales
 
 Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
@@ -60,7 +61,7 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 |Subtract Returns/Allowances|-5|
 |Subtract Discounts|-2|
 |Net Sales|93|
-
+-->
 
 ### Schedule of Accounts / Customer Accounts Receivable Ledger 
 
@@ -69,7 +70,7 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
 
-### Credit card sales via A/R
+### Credit Card Sales via A/R
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
@@ -86,12 +87,12 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
 -->
 
-### Trade Discounts with Double Deductions
+### Double Trade Discounts
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
 
-### Returns & Sales Allownances
+### Returns & Sales Allowances
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
