@@ -4,7 +4,13 @@ title: Chapter 7:Sales
 tags: sales
 ---
 
-
+**How-To**
+- Sales w & w/o Taxes. 
+- Returns & Allowances for Cash or A/R, WITH Tax 
+- Calculate amounts owed for credit customers using the accounts receivable ledger.
+- Compute trade discounts
+- Sales Discounts, ex. 1/30, 2/15, n/30
+  
 ### New Sales Accounts (Dr/Cr)  
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
@@ -40,6 +46,9 @@ A "trade discount" is a reduction from list price.
 
 ### Cash discount on sales with returns
 
+- credit terms
+   - Many businesses offer discounts to customers for early payment of invoices. These are known as credit terms.
+
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/5.cash.discouont.on.sales.returns.png)
 
 ### Reporting Net Sales
@@ -71,7 +80,6 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
 
 
-
 ### Schedule of Accounts for Customers Accounts Receivable
 
 - Procedure for Keeping track of customer sales:
@@ -89,28 +97,6 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
 
-
-
-
-### Chapter 7 How-To
-
-- Record various sales and cash receipts transactions for a merchandising business. 
-- Use new accounts to record sales and cash receipts transactions of merchandising companies. 
-- Calculate amounts owed for credit customers using the accounts receivable ledger.
-
-
-### 7.1 Record sales on account, credit card sales, sales returns, sales allowances, an&d cash receipt transactions
-
-Companies sell products in several ways:
-1. for cash, 
-2. on account, and 
-3. to customers paying with credit cards. 
-4. Companies may also allow customers to return products for credit or for a cash refund. 
-
-These transactions are recorded in the general journal. 
-
-- For transactions including sales tax, the sales tax liability is recorded at the time of the sale: 
-   - this ensures company records reflect the appropriate amount of sales tax liability.
 
 ### 7.2 Compute trade discounts
 
