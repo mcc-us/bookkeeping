@@ -11,7 +11,7 @@ tags: sales
 - Compute trade discounts
 - Sales Discounts, ex. 1/30, 2/15, n/30
   
-### Sales Accounts (Dr/Cr)  
+### Dr/Cr Sales Accounts 
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
@@ -31,18 +31,18 @@ tags: sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
 
-### 7.2 Compute trade discounts
+### 7.2 Compute Sales/Trade discounts
 
-A "trade discount" is a reduction from list price.
-
-|A "trade discount" is a reduction from list price.||
-|:-|-:|
-| List Price | $100 |
-| Less 25% discount (100 * 0.25)| 25 |
-| Invoice Price | $75 |
+A Sale or Trade discount is a reduction from list price.
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
 
+
+|Sales discount of 1% reduction from list price.|*1/15, n/30*|
+|:-|-:|
+| List Price | $2000 |
+| Less 1% discount (2000 * 0.01)| 20 |
+| A/R Price | $1980 |
 
 ### Cash discount on sales with returns
 
