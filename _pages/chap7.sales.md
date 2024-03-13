@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Chapter 7:Sales
-tags: sales
+title: 7:Sales
 ---
 
 **How-To**
