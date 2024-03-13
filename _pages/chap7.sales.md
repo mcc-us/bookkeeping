@@ -11,17 +11,17 @@ tags: sales
 - Compute trade discounts
 - Sales Discounts, ex. 1/30, 2/15, n/30
   
-### New Sales Accounts (Dr/Cr)  
+### Sales Accounts (Dr/Cr)  
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
-### Sales for cash or A/R, NO Tax
+### Cash & A/R Sales w/ NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
 
-### Sales for Cash or A/R, WITH Tax
+### Cash & A/R Sales WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
