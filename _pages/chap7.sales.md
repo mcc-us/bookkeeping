@@ -16,7 +16,7 @@ tags: sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
-### Cash & A/R Sales w/ NO Tax
+### Cash & A/R Sales NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
