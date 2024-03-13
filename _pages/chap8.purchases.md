@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Chapter 8 Purchases, A/P & Cash payments
-tags: sales
+title: 8:Purchases, A/P & Cash
 ---
 
 
