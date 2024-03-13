@@ -31,7 +31,7 @@ tags: sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
 
-### 7.2 Compute Sales/Trade discounts
+### Trade/Sales Discounts
 
 A Sale or Trade discount is a reduction from list price.
 
