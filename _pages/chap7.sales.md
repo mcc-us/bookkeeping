@@ -42,7 +42,7 @@ A Sale or Trade discount is a reduction from list price.
 |:-|-:|
 | List Price | $2000 |
 | Less 1% discount (2000 * 0.01)| 20 |
-| A/R Price | $1980 |
+| Cash Price | $1980 |
 
 ### Cash discount on sales with returns
 
