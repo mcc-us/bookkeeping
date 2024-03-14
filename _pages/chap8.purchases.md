@@ -3,13 +3,14 @@ layout: post
 title: 8:Purchases
 ---
 
-| Terms |||
+| Accounts |||
 |:-|:-|:-|
-|cash discount-**CR**|cost of goods sold|Freight In Account-**DR**|
-|purchase allowance-**CR**|purchase invoice|purchase order| 
-|purchase requisition|purchase return-**CR**|Purchases account-**DR**|
-|purchases discount-**CR**|Purchases Returns & Allowances-**CR**|receiving report|
-|sales discount-**CR**|sales invoice|transportation In Account-**DR**|
+|cash discount-**CR**|Freight In Account-**DR**|purchase allowance-**CR**|
+|purchase return-**CR**|Purchases account-**DR**|purchases discount-**CR**
+|sales discount-**CR**|Purchases Returns & Allowances-**CR**|transportation In Account-**DR**|
+|**Terms**|||
+|purchase invoice|purchase order|purchase requisition|
+|receiving report|sales invoice||cost of goods sold|
 
 ### Record purchases of merchandise on credit in a general journal.
 
@@ -33,31 +34,14 @@ title: 8:Purchases
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-53-03.png)
 
 
-### Post from the general journal to the general ledger accounts.
+### Post from the general journal to the general ledger accounts
 
-### Post transactions to the accounts payable subsidiary ledger.
+### Post transactions to the accounts payable subsidiary ledger
 
-### Prepare a schedule of accounts payable.
+### Prepare a schedule of accounts payable
 
-### Demonstrate a knowledge of the procedures for effective internal control of purchases.
+### Effective internal control of purchases
 
-### Appendix: Record transactions for a retailer using the perpetual inventory system.
-
-### Define the accounting terms new to this chapter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Appendix: Record transactions for a retailer using the perpetual inventory system
 
 
