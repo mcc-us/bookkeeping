@@ -4,16 +4,20 @@ title: 7:Sales
 ---
 
 **How-To**
-- Sales w & w/o Taxes. 
+
+- Sales w & w/o Taxes.
 - Returns & Allowances for Cash or A/R, WITH Tax 
 - Calculate amounts owed for credit customers using the accounts receivable ledger.
 - Compute trade discounts
 - Sales Discounts, ex. 1/30, 2/15, n/30
   
-### Dr/Cr Sales Accounts 
+### Dr/Cr Sales Accounts
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
+*Sales Tax Payable & Credit Card Expense = Expenses*
+
+Remember: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue//Sales$$
 
 ### Sales NO Tax
 
