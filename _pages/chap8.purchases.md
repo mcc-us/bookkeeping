@@ -19,10 +19,15 @@ Terms
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/)
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-43-35.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-45-05.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-52-03.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-06-34.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-53-03.png)
 
 
 ### Post from the general journal to the general ledger accounts.
