@@ -1,6 +1,6 @@
 cash discount
 cost of goods sold
-Freight In account
+Freight In Account
 purchase allowance
 purchase invoice
 purchase order
@@ -12,7 +12,7 @@ Purchases Returns and Allowances
 receiving report
 sales discount
 sales invoice
-Transportation In account
+Transportation In Account
 
 ---
 
@@ -22,7 +22,7 @@ Transportation In account
  
 - Freight In account: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
 
-- Purchase allowance: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
+- Purchase Allowance: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
 
 - Purchase invoice: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
 
@@ -36,13 +36,13 @@ Transportation In account
 - Purchase return: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
  
 
-- Purchases account: A general ledger account that records the total cost of goods purchased by a business during a specific period.
+- Purchases Account: A general ledger account that records the total cost of goods purchased by a business during a specific period.
  
 
 - Purchases discount: A reduction in the price of goods purchased received by a buyer for paying their bill early.
   
 
-Purchases Returns & Allowances account: A general ledger account used to record purchase allowances and purchase returns.
+Purchases Returns & Allowances Account: A general ledger account used to record purchase allowances and purchase returns.
   
 
 - Receiving report: A document used to document the quantity and condition of goods received from a supplier.
