@@ -16,7 +16,7 @@ title: 7:Sales
 
 Sales = Revenue
 
-$A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$    
+$A = L + E$<br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$    
 
 ### Cash & A/R Sales NO Tax
 
