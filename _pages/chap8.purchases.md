@@ -3,10 +3,13 @@ layout: post
 title: 8:Purchases
 ---
 
-
-Terms
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/chap8.terms.txt)
+| Terms |||
+|:-|:-|:-|
+|cash discount-**CR**|cost of goods sold|Freight In Account-**DR**|
+|purchase allowance-**CR**|purchase invoice|purchase order| 
+|purchase requisition|purchase return-**CR**|Purchases account-**DR**|
+|purchases discount-**CR**|Purchases Returns & Allowances-**CR**|receiving report|
+|sales discount-**CR**|sales invoice|transportation In Account-**DR**|
 
 ### Record purchases of merchandise on credit in a general journal.
 

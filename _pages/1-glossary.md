@@ -106,7 +106,7 @@ title: Glossary
 46. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. An economic stake in a company, expecting financial rewards.   
 
 47. *Freight In account*: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
-
+     
 48. *Footing*: A calculation and sum written showing debits or credits of a column to check for accuracy.   
 
 49. *Fundamental accounting equation*: **A = L + E**  See also: DEAR-CLIP   
@@ -179,7 +179,7 @@ title: Glossary
 
 82. *Purchases discount*: A reduction in the price of goods purchased received by a buyer for paying their bill early.
 
-83. *Purchases Returns and Allowances account*: A general ledger account used to record purchase allowances and purchase returns.
+83. *Purchases Returns & Allowances account*: A general ledger account used to record purchase allowances and purchase returns.
 
 84. *Receiving report*: A document used to document the quantity and condition of goods received from a supplier.
 
@@ -211,9 +211,9 @@ title: Glossary
 
 97. *Service business*: A business that sells services
 
-98. *Schedule of accounts receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
+98. *Schedule of Accounts Receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
    
-99. *Slide*: An accidental movement of a decimal point.   
+99.  *Slide*: An accidental movement of a decimal point.   
 
 100. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
