@@ -15,7 +15,7 @@ title: 7:Sales
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
-Sales = Revenue, Credit Card Expense & Tax = Expenses
+*Sales Tax Payable & Credit Card Expense = Expenses*
 
 Remember: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue//Sales$$
 
