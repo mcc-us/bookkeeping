@@ -8,7 +8,7 @@ title: Glossary
 
 1. *Accounts*: Written records, like a container/bucket, that track specific assets, liabilities, equity, income, or expenses.  of the assets, liabilities, and owner’s equity of a business
 
-2. *Accounting Equation*: $A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$             
+2. *Accounting Equation*: $A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$    
 
 3. *Accounting Cycle*: **Post, Journalize, Worksheet, Adjust, Close, Report**, [See Accounting Cycle](https://mcc-us.github.io/pages/a-accounting-cycle/)
 

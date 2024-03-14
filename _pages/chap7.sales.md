@@ -14,6 +14,9 @@ title: 7:Sales
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
+Sales = Revenue
+
+$A = L + E$ <br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$    
 
 ### Cash & A/R Sales NO Tax
 
