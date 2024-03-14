@@ -14,9 +14,9 @@ title: 7:Sales
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
-Sales = Revenue
+Sales = Revenue, Credit Card Expense & Tax = Expenses
 
-$A = L + E$<br>aka: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue$$    
+Remember: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue//Sales$$    
 
 ### Cash & A/R Sales NO Tax
 
