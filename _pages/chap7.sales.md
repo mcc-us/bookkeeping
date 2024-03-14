@@ -15,24 +15,27 @@ title: 7:Sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
-### Cash & A/R Sales NO Tax
+### Sales NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
 
-### Cash & A/R Sales WITH Tax
+### Sales WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### Returns & Allowances for Cash or A/R, WITH Tax
+### Returns & Allowances WITH Tax, Cash or A/R
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
 
-### Trade/Sales Discounts
+### Sales/Trade Discounts
 
 A Sale or Trade discount is a reduction from list price.
+   - **1/10** = 1% OFF, if < 10 days
+   - **2/15** = 2% OFF, if < 15 days
+   - **n/30** - No discount, Payment expected by 30 days
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
 
