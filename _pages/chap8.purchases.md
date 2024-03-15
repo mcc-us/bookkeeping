@@ -6,11 +6,11 @@ title: 8:Purchases
 | Accounts |||
 |:-|:-|:-|
 |cash discount-**CR**|Freight In Account-**DR**|purchase allowance-**CR**|
-|purchase return-**CR**|Purchases account-**DR**|purchases discount-**CR**
+|purchase return-**CR**|Purchases account-**DR**|purchases discount-**CR**|
 |sales discount-**CR**|Purchases Returns & Allowances-**CR**|transportation In Account-**DR**|
 |**Terms**|||
 |purchase invoice|purchase order|purchase requisition|
-|receiving report|sales invoice||cost of goods sold|
+|receiving report|sales invoice|cost of goods sold|
 
 ### Record purchases of merchandise on credit in a general journal.
 
