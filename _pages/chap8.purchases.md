@@ -5,9 +5,9 @@ title: 8:Purchases
 
 | Accounts |||
 |:-|:-|:-|
-|cash discount-**CR**|Freight In Account-**DR**|purchase allowance-**CR**|
-|purchase return-**CR**|Purchases account-**DR**|purchases discount-**CR**|
-|sales discount-**CR**|Purchases Returns & Allowances-**CR**|transportation In Account-**DR**|
+|Cash discount-**CR**|Freight-in-**DR**|Purchase allowances-**CR**|
+|Purchase returns-**CR**|Purchases account-**DR**|Purchases discount-**CR**|
+|Sales discount-**CR**|Purchases Returns & Allowances-**CR**|Transportation-in-**DR**|
 |**Terms**|||
 |purchase invoice|purchase order|purchase requisition|
 |receiving report|sales invoice|cost of goods sold|

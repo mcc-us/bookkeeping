@@ -1,5 +1,5 @@
 ---
-title: NEEDS-WORK-chap-3-t-accounts
+title: chap3.NEEDS-WORK
 layout: post
 ---
 
