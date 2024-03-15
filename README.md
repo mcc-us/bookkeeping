@@ -12,4 +12,14 @@ permalink: /
 | [Accounting Work Book](2024-02-26-fin-workbook) |
 ||
 | :hatching_chick: **TO DO** :hatching_chick: |
-|Sales Taxes|
+|8. Accounting for Purchases. Accounts Payable, & Cash Payments|
+||
+|9. Cash|
+||
+|10. Payroll Computations, Records and Payment|
+||
+|11. Payroll Taxes, Deposits, Reports|
+||
+|12. Accural, Deferrals, and the Worksheet|
+||
+|13. Financial Statements and Closing Procedures|
