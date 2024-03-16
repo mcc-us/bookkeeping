@@ -1,5 +1,5 @@
 ---
-title: double-entry bookkeeping
+title: 3.1:double-entry bookkeeping
 layout: post
 tags: drcr
 ---

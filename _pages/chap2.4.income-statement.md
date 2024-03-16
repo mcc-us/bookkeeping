@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B. Income Statement
+title: 2.4:Income Statement
 tags: reporting
 ---
 
