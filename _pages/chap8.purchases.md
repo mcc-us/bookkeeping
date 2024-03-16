@@ -3,6 +3,12 @@ layout: post
 title: 8:Purchases
 ---
 
+
+### Record purchases of merchandise on credit in a general journal.
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
+
+
 | Accounts |||
 |:-|:-|:-|
 |Cash discount-**CR**|Freight-in-**DR**|Purchase allowances-**CR**|
@@ -11,10 +17,6 @@ title: 8:Purchases
 |**Terms**|||
 |purchase invoice|purchase order|purchase requisition|
 |receiving report|sales invoice|cost of goods sold|
-
-### Record purchases of merchandise on credit in a general journal.
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
 
 ### Compute the net delivered cost of purchases.
