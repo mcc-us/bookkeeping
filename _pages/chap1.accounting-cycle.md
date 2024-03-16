@@ -8,6 +8,8 @@ layout: post
 |:-:|
 |![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.png)|
 
+*If this is your first time encountering this, use this list as a roadmap, because it is only an outline.*
+
 ## 1. Identify & Analyze Transactions
 
 - Identify which accounts are impacted by the transaction. What are the account names & numbers?
