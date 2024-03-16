@@ -57,18 +57,14 @@ layout: post
 **Journalize & Post Closing Entries**
 
 Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
-- Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.
+- Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.   
 
-Overview:   
-1. Revenue & Expenses to Income Summary,   
-2. Income Summary & Drawings to Capital  
-- Closing may occur monthly, quarterly or yearly.   
+**4 Steps**      
 
-- 4 Steps   
-    1. Transfer **All Revenue (Credit Side)** accounts **Income Summary (Debit Side)** account.  
-    2. Transfer **All Expense (Debit Side)** accounts **Income Summary (Credit Side)** account.  
-    3. Transfer **Income Summary (Net Gain or Loss)** account to the **Owner’s Capital (Credit Side)**.  
-    4. Transfer **Drawing (Debit Side)** account to **Owner’s Capital (Credit Side)** account.  
+1. Transfer **All Revenue (Cr)** accounts to **Income Summary (Dr)**.  
+2. Transfer **All Expense (Dr)** accounts to **Income Summary (Cr)**.  
+3. Transfer **Income Summary (Net Gain or Loss)** to **Owner’s Capital (Cr)**.  
+4. Transfer **Drawing (Dr)** account to **Owner’s Capital (Cr)**.  
 
 
 - After the closing entries have been posted, the capital account reflects the Net Gain or Loss of operations for that period. 
@@ -77,9 +73,10 @@ Overview:
   
 ## 8. Prepare (Official) Financial Statements
 
-1. Income Statement
-2. Statement of Equity
-3. Balance Sheet
+1. Trial Balance
+2. Income Statement
+3. Statement of Equity
+4. Balance Sheet
 
 ## 9. Interpret & Archive Records
 
