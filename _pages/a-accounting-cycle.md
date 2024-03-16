@@ -1,5 +1,5 @@
 ---
-title: A. Accounting Cycle
+title: 1:Accounting Cycle
 category: 
 layout: post
 ---
