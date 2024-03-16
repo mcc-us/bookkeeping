@@ -30,8 +30,8 @@ The revenue and expense accounts (*with zero balances*) are ready to accumulate 
 ![](/assets/mc-graw-accounting-course/images/closing.fig.6.2.all.4.steps.png)
 
 
-### 6-2 Prepare a postclosing trial balance.
+### 6-2 Prepare a post-closing trial balance.
 
 Post-closing trial balance is the **eighth step in the accounting cycle**. 
 
-A postclosing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period: *asset, liability, and the owner’s capital accounts*. The temporary accounts (*revenue, expenses, drawing, and Income Summary*) apply only to one accounting period and do not appear on the postclosing trial balance.
+A post-closing trial balance is prepared to test the equality of total debit and credit balances in the general ledger after the adjusting and closing entries have been recorded. This report lists only permanent accounts open at the end of the period: *asset, liability, and the owner’s capital accounts*. The temporary accounts (*revenue, expenses, drawing, and Income Summary*) apply only to one accounting period and do not appear on the post-closing trial balance.

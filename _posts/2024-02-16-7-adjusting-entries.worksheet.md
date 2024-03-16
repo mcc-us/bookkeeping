@@ -4,7 +4,7 @@ title: adjusting entries worksheet
 tags: adjustments
 ---
 
-### Example Report
+**Example Report**
 
 |Preparation Of Adjusted Balance Sheet, fig5.8f|
 |:-:|
