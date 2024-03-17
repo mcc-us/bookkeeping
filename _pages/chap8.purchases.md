@@ -4,10 +4,9 @@ title: 8:Purchases
 ---
 
 
-For example:
-- Purchases ARE Expenses
+**Purchases ARE Expenses**
 
-$$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
+$$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
 
 ### Record purchases of merchandise on credit in a general journal.
 
