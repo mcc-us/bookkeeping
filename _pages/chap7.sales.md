@@ -21,8 +21,8 @@ For example:
 - Sales Tax Payable is A LIABILITY,
 - Sales is A REVENUE,
 
-$$Assets + \large \frac{Expenses}{Credit~ Card~ Exp.} =$$ 
-$$= \large \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \large \frac{Revenue}{Sales}$$
+$$\small Assets + \large \frac{Expenses}{Credit~ Card~ Exp.} =$$ <br>
+$$= \large \frac{Liabilities}{Sales~ Tax~ Payable} + \small{Owner's~ Equity} + \large \frac{Revenue}{Sales}$$
 
 ### Sales NO Tax
 
