@@ -33,6 +33,7 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/freight%20in.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
 ### Purchases Returns & Allowances
 
@@ -47,9 +48,8 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ### Find Net delivered cost of purchases.
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-52-03.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/1.net.delivery.costs.png)
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
 
 ### Accounts payable ledger
