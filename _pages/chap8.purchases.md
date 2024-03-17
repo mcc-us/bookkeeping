@@ -41,13 +41,30 @@ $$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
+
+### Accounts payable ledger
+
+A subsidiary ledger that contains a separate account for each creditor
+
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-06-34.png)
+
+
+### Schedule of accounts payable
+A list of all balances owed to creditors
+
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/schedule.of.acct.payable.png)
+
+---
+
+
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-43-35.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-45-05.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-52-03.png)
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-06-34.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-53-03.png)
 
