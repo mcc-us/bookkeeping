@@ -4,12 +4,14 @@ title: 8:Purchases
 ---
 
 
+For example:
+- Purchases ARE Expenses
+
+$$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
+
 ### Record purchases of merchandise on credit in a general journal.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
-
-For example:
-$$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
 
 | Accounts |||
 |:-|:-|:-|
@@ -34,6 +36,9 @@ $$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/purcahse.allowances.redux.png)
 
 
+### The Many Purchase Discounts
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20from%202024-03-15%2012-09-06.png)
 
 ### Find Net delivered cost of purchases.
 
