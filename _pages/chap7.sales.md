@@ -15,9 +15,9 @@ title: 7:Sales
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
-*Sales Tax Payable & Credit Card Expense = Expenses*
 
-Remember: $$Assets + Expenses = Liabilities + Owner's~ Equity + Revenue//Sales$$
+For example:
+$$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \frac{Revenue}{Sales}$$
 
 ### Sales NO Tax
 

@@ -8,6 +8,8 @@ title: 8:Purchases
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
+For example:
+$$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \frac{Revenue}{Sales}$$
 
 | Accounts |||
 |:-|:-|:-|
