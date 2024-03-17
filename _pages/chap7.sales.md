@@ -17,7 +17,11 @@ title: 7:Sales
 
 
 For example:
-$$Assets + \large \frac{Expenses}{Credit~ Card~ Expense} = \large \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \large \frac{Revenue}{Sales}$$
+- Credit Card Expense is AN EXPENSE,
+- Sales Tax Payable is A LIABILITY,
+- Sales is A REVENUE,
+
+$$Assets + \large \frac{Expenses}{Credit~ Card~ Exp.} = \large \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \large \frac{Revenue}{Sales}$$
 
 ### Sales NO Tax
 
