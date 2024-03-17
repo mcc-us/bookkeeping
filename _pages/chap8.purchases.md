@@ -9,7 +9,7 @@ title: 8:Purchases
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
 For example:
-$$Assets + \frac{Expenses}{Purchases} = \frac{Liabilities}{A} + Owner's~ Equity + \frac{Revenue}{B}$$
+$$Assets + \Large \frac{Expenses}{Purchases} = Liabilities + Equity + Revenue$$
 
 | Accounts |||
 |:-|:-|:-|
