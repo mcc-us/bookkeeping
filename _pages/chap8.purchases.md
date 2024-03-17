@@ -23,7 +23,19 @@ $$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 |receiving report|sales invoice|cost of goods sold|
 
 
-### Compute the net delivered cost of purchases.
+### Basic Purchases Transactions
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/basic.purchase.transactions.png)
+
+### Purchases Returns & Allowances
+
+![](/assets/mc-graw-accounting-course/)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/purcahse.allowances.redux.png)
+
+
+
+### Find Net delivered cost of purchases.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-52-03.png)
 
