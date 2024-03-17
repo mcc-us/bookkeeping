@@ -28,6 +28,12 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/basic.purchase.transactions.png)
 
+
+### Freight Costs
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/freight%20in.png)
+
+
 ### Purchases Returns & Allowances
 
 ![](/assets/mc-graw-accounting-course/)
