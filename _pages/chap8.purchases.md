@@ -9,14 +9,16 @@ title: 8:Purchases
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
 For example:
-$$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Owner's~ Equity + \frac{Revenue}{Sales}$$
+$$Assets + \frac{Expenses}{Purchases} = \frac{Liabilities}{A} + Owner's~ Equity + \frac{Revenue}{B}$$
 
 | Accounts |||
 |:-|:-|:-|
 |Cash discount-**CR**|Freight-in-**DR**|Purchase allowances-**CR**|
 |Purchase returns-**CR**|Purchases account-**DR**|Purchases discount-**CR**|
 |Sales discount-**CR**|Purchases Returns & Allowances-**CR**|Transportation-in-**DR**|
+
 |**Terms**|||
+|:-|:-|:-|
 |purchase invoice|purchase order|purchase requisition|
 |receiving report|sales invoice|cost of goods sold|
 
