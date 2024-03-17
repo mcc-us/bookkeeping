@@ -23,7 +23,7 @@ For example:
 
 $$\small Assets + \large \frac{Expenses}{Credit~ Card~ Exp.} =$$
 <br> 
-$$= \large \frac{Liabilities}{Sales~ Tax~ Payable} + \small{Owner's~ Equity} + \large \frac{Revenue}{Sales}$$  
+$$= \large \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \large \frac{Revenue}{Sales}$$  
 
 ### Sales NO Tax
 

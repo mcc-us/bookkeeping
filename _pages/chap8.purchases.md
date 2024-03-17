@@ -9,7 +9,7 @@ title: 8:Purchases
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
 For example:
-$$Assets + \Large \frac{Expenses}{Purchases} = Liabilities + Equity + Revenue$$
+$$Assets + \Large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
 
 | Accounts |||
 |:-|:-|:-|
