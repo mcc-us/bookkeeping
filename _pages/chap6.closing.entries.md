@@ -1,5 +1,5 @@
 ---
-title: 6:Closing Entries
+title: 6: Closing Entries
 layout: post
 tags: closing
 ---

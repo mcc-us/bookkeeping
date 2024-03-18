@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8:Purchases
+title: 8: Purchases
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: chap3.NEEDS-WORK
+title: chap3: NEEDS-WORK
 layout: post
 ---
 

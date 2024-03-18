@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.6:Balance Sheet
+title: 2.6: Balance Sheet
 tags: reporting
 ---
 

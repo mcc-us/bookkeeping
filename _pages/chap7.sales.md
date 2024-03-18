@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7:Sales
+title: 7: Sales
 ---
 
 
