@@ -3,20 +3,22 @@ layout: post
 title: 7:Sales
 ---
 
+
 **Credit Card Expense is an EXPENSE,**
 **Sales Tax Payable is a LIABILITY,**
 **Sales is a REVENUE**
 
 $$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
 
+---
   
 **How-To**
 
 - Sales w & w/o Taxes.
-- Returns & Allowances for Cash or A/R, WITH Tax 
+- Sales Returns & Allowances 
 - Calculate amounts owed for credit customers using the accounts receivable ledger.
-- Compute trade discounts
-- Sales Discounts, ex. 1/30, 2/15, n/30
+- Trade & Sales discount, ex. 1/30, 2/15, n/30, Trade discounts: 20% & 10%
+
   
 ### Dr/Cr Sales Accounts
 

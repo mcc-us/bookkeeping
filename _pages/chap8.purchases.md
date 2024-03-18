@@ -8,6 +8,7 @@ title: 8:Purchases
 
 $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
 
+---
 
 ### Record purchases of merchandise on credit in a general journal.
 
