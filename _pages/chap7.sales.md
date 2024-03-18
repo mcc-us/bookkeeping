@@ -4,9 +4,9 @@ title: 7:Sales
 ---
 
 
-**Credit Card Expense is an EXPENSE,**
-**Sales Tax Payable is a LIABILITY,**
-**Sales is a REVENUE**
+**Credit Card Expense = EXPENSE,**  
+**Sales Tax Payable = LIABILITY,**  
+**Sales = REVENUE**  
 
 $$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
 
