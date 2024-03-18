@@ -4,7 +4,7 @@ title: 8:Purchases
 ---
 
 
-**Purchases ARE Expenses**
+**Purchases = Expenses**
 
 $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
 
@@ -14,11 +14,10 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
 
-| Accounts |||
-|:-|:-|:-|
-|Cash discount-**CR**|Freight-in-**DR**|Purchase allowances-**CR**|
-|Purchase returns-**CR**|Purchases account-**DR**|Purchases discount-**CR**|
-|Sales discount-**CR**|Purchases Returns & Allowances-**CR**|Transportation-in-**DR**|
+| Accounts ||
+|:-|:-|
+|Cash discount-**CR**|Purchases discount-**CR**|
+
 
 |**Terms**|||
 |:-|:-|:-|
