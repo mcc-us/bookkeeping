@@ -10,7 +10,6 @@ permalink: /
 | [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) &nbsp; &nbsp; [**Udemy**](https://www.udemy.com/)|
 ||
 | :hatching_chick: **TO DO** :hatching_chick: |
-|8. Accounting for Purchases. Accounts Payable, & Cash Payments|
 |9. Cash|
 |10. Payroll Computations, Records and Payment|
 |11. Payroll Taxes, Deposits, Reports|
