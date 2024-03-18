@@ -1,6 +1,5 @@
 ---
 title: gitbook help
-category: Jekyll
 layout: post
 ---
 

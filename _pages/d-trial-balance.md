@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D. Trial Balances
+title: D-Trial Balances
 tags: reporting
 ---
 
