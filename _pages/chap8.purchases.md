@@ -25,18 +25,18 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 |receiving report|sales invoice|cost of goods sold|
 
 
-### Basic Purchases Transactions
+### Purchases w/ NO Freight, NO Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/basic.purchase.transactions.png)
 
 
-### Freight Costs
+### Purchases w/ Freight Costs
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/freight%20in.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
-### Purchases Returns & Allowances
+### Purchase Returns & Allowances
 
 ![](/assets/mc-graw-accounting-course/)
 
@@ -47,18 +47,18 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20from%202024-03-15%2012-09-06.png)
 
+
 ### Find Net delivered cost of purchases.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/1.net.delivery.costs.png)
 
-
-
-### Accounts payable ledger
-
-A subsidiary ledger that contains a separate account for each creditor
-
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-06-34.png)
+|Transaction|$|
+|:-|-:|
+|Total Purchases|$23,315|
+|ADD Freight-In|1,564|
+|LESS Purchase Returns & Allowances|476|
+|LESS Purchase Discounts|124|
+|Net Delivered Cost of Purchases|$24,280|
 
 
 ### Schedule of accounts payable
@@ -74,20 +74,8 @@ A list of all balances owed to creditors
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-45-05.png)
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-52-03.png)
-
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2014-53-03.png)
-
-
-### Post from the general journal to the general ledger accounts
-
-### Post transactions to the accounts payable subsidiary ledger
-
-### Prepare a schedule of accounts payable
 
 ### Effective internal control of purchases
 
 ### Appendix: Record transactions for a retailer using the perpetual inventory system
-
 
