@@ -3,6 +3,13 @@ layout: post
 title: 7:Sales
 ---
 
+**Credit Card Expense is an EXPENSE,**
+**Sales Tax Payable is a LIABILITY,**
+**Sales is a REVENUE**
+
+$$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
+
+  
 **How-To**
 
 - Sales w & w/o Taxes.
@@ -16,12 +23,6 @@ title: 7:Sales
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
-For example:
-- Credit Card Expense is AN EXPENSE,
-- Sales Tax Payable is A LIABILITY,
-- Sales is A REVENUE,
-
-$$\normalsize Assets + \large \frac{Expenses}{Credit~ Card~ Exp.} = \large \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \large \frac{Revenue}{Sales}$$  
 
 ### Sales NO Tax
 
