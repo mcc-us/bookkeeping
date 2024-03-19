@@ -26,7 +26,7 @@ $$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{
 
 
 
-### Sales, Cash or A/R, NO Tax
+### Sales, NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
@@ -38,8 +38,11 @@ $$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{
 
 ### Returns & Allowances WITH Tax, Cash or A/R
 
+**Which one is better?**
+
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/3.Cash.AR.sales.return.allowances.taxed.png)
 
+![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
 ### Sales/Trade Discounts
 
@@ -105,10 +108,6 @@ Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
-
-### Returns & Sales Allowances
-
-![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
 
 <!--

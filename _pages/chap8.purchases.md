@@ -35,8 +35,11 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ### Purchases w/ Freight Costs
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/202.fob.png)
+
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
 
 ### Purchase Returns & Allowances
 
@@ -50,6 +53,10 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/7.eom.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/100.purchase.w.discount.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/205.purchase.discounts.w.discount.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
 
 ### Trade Discounts
 
@@ -74,10 +81,22 @@ A list of all balances owed to creditors
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
 
+
 ---
 
 
 ### Effective internal control of purchases
 
-### Appendix: Record transactions for a retailer using the perpetual inventory system
+### Appendix: Transactions Using the Perpetual Inventory System
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/207.cost.of.goods.acct.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/208.cost.of.goods.transactions.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/209.cost.goods.merch.sales.png)
+
+---
+
+EOF
