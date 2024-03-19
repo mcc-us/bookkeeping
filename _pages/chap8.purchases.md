@@ -90,7 +90,7 @@ A list of all balances owed to creditors
 
 ### Effective internal control of purchases
 
-### Appendix: Transactions Using the Perpetual Inventory System
+### Using Perpetual Inventory Systems
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 
