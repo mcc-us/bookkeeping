@@ -62,6 +62,9 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
+|Trade Discounts|$|
+|:-|-:|
+|Discounts (20%, 10% = 0.8 x 0.9 = 0.72)<br>6000 x 0.72 = |4320|
 
 ### Find Net delivered cost of purchases.
 
