@@ -10,11 +10,14 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ---
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/1.objectives.png)
+
+
 ### Record purchases of merchandise on credit in a general journal.
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/new.acts.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
 
-| Accounts ||
+| Additional Accounts ||
 |:-|:-|
 |Cash discount-**CR**|Purchases discount-**CR**|
 
@@ -27,30 +30,28 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ### Purchases w/ NO Freight, NO Allowances
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/basic.purchase.transactions.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
 
 
 ### Purchases w/ Freight Costs
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/freight%20in.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/freightin.png)
 
 ### Purchase Returns & Allowances
 
-![](/assets/mc-graw-accounting-course/)
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/purcahse.allowances.redux.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 
-### The Many Purchase Discounts
+### Purchase Discounts w/ CASH
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20from%202024-03-15%2012-09-06.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.png)
 
+![](/assets/mc-graw-accounting-course/chap8.purchases/7.eom.png)
 
 ### Find Net delivered cost of purchases.
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/1.net.delivery.costs.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/8.net.delivery.costs.png)
 
 |Transaction|$|
 |:-|-:|
@@ -64,15 +65,9 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 ### Schedule of accounts payable
 A list of all balances owed to creditors
 
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/schedule.of.acct.payable.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/9.schedule.of.acct.payable.png)
 
 ---
-
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-43-35.png)
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/Screenshot%20at%202024-03-05%2013-45-05.png)
 
 
 ### Effective internal control of purchases
