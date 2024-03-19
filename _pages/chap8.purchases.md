@@ -28,7 +28,7 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 |receiving report|sales invoice|cost of goods sold|
 
 
-### Purchases w/ NO Freight, NO Allowances
+### Purchases, NO Freight, NO Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
 
@@ -43,11 +43,18 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 
-### Purchase Discounts w/ CASH
+### Discounts & Returns
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.w.return.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/7.eom.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/100.purchase.w.discount.png)
+
+### Trade Discounts
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/9.using.trade.discounts.png)
+
 
 ### Find Net delivered cost of purchases.
 
