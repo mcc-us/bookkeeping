@@ -64,7 +64,7 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 |Trade Discounts|$|
 |:-|-:|
-|Discounts (20%, 10% = 0.8 x 0.9 = 0.72)<br>6000 x 0.72 = |4320|
+|Discounts (20%, 10% = 0.8 x 0.9 = 0.72): 6000 x 0.72 = |4320|
 
 ### Find Net delivered cost of purchases.
 
