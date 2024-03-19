@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 108-Purchases
+title: G-Purchases
 ---
 
 

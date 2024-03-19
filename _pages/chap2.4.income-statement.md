@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 102-Income Statement
+title: B-Income Statement
 tags: reporting
 ---
 

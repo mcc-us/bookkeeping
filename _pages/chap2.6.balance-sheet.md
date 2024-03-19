@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 102-Balance Sheet
+title: B-Balance Sheet
 tags: reporting
 ---
 

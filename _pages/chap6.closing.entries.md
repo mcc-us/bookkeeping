@@ -1,5 +1,5 @@
 ---
-title: 106-Closing Entries
+title: E-Closing Entries
 layout: post
 ---
 

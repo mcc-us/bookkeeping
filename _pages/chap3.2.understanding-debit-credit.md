@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 103-Understanding Debit & Credits
+title: C-Understanding Debit & Credits
 tags: drcr
 ---
 

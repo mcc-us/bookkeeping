@@ -1,5 +1,5 @@
 ---
-title: 101-Accounting Cycle
+title: A-Accounting Cycle
 category: 
 layout: post
 ---

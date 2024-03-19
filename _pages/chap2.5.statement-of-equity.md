@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 102-Statement of Equity
+title: B-Statement of Equity
 tags: reporting
 ---
 
