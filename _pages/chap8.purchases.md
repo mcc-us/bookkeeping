@@ -53,12 +53,12 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 
 ### Trade Discounts
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/9.using.trade.discounts.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
 
 ### Find Net delivered cost of purchases.
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/8.net.delivery.costs.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/9.net.delivery.costs.png)
 
 |Transaction|$|
 |:-|-:|
@@ -72,7 +72,7 @@ $$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity 
 ### Schedule of accounts payable
 A list of all balances owed to creditors
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/9.schedule.of.acct.payable.png)
+![](/assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
 
 ---
 
