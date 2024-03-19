@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 05-Adjusting Entries
-tags: adjustments
+title: 105-Adjusting Entries
 ---
 
 - Adjustments or adjusting entries are journal entries made to update acts for previously unrecorded items.     

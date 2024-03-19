@@ -1,7 +1,6 @@
 ---
-title: 06-Closing Entries
+title: 106-Closing Entries
 layout: post
-tags: closing
 ---
 
 > R.E.I.D. = Revenue, Expenses, Income Summary, Drawings to Capital account.
