@@ -4,9 +4,13 @@ title: G-Purchases
 ---
 
 
-**Purchases = Expenses**
+**Purchases = Expenses**  
+**Freight = Expenses**  
 
-$$Assets + \large \frac{Expenses}{Purchases} \normalsize = Liabilities + Equity + Revenue$$
+$$Assets + \large \frac{Expenses}{\begin{bmatrix}
+Purchases \\
+Freight \\
+\end{bmatrix}} \normalsize = Liabilities + Equity + Revenue$$
 
 ---
 

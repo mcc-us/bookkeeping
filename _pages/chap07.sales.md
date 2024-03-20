@@ -4,11 +4,16 @@ title: F-Sales
 ---
 
 
-**Credit Card Expense = EXPENSE,**  
+**Credit Card Expense = EXPENSE,**    
 **Sales Tax Payable = LIABILITY,**  
 **Sales = REVENUE**  
+**Sales Discount & Returns & Allowances are Contra-Revenue = Expenses**
 
-$$\normalsize Assets + \frac{Expenses}{Credit~ Card~ Exp.} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
+$$\normalsize Assets + \frac{Expenses}{\begin{bmatrix}
+Credit~ Card~ Expense \\
+Sales~ Discount \\
+Sales~ Returns~\&~ Allowances \\
+\end{bmatrix}} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
 
 ---
   
