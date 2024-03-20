@@ -4,8 +4,8 @@ title: G-Purchases
 ---
 
 
-**Purchases = Expenses**
-**Freight = Expenses**
+**Purchases = Expenses**  
+**Freight = Expenses**  
 
 $$Assets + \large \frac{Expenses}{\begin{bmatrix}
 Purchases \\
