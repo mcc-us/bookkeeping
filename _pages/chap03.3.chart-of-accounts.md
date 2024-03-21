@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C-Chart of Accounts
+title: C3-Chart of Accounts
 ---
 
 Example C.O.A. Numbering
