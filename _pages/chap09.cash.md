@@ -46,6 +46,8 @@ Cash and Cash equivalents - Assets that are easily convertible into known amount
 
 cash fund is register amount in till
 
+---
+
 ## Cash Shortfall or Overages
 
 Cash Short or Over account - A temp. account used to record any discrepancies between the amount of currency and coins in a cash register or during audits, etc.
@@ -61,7 +63,6 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 
 ---
 
-
 ## Petty Cash & Internal Controls
 
 Petty cash voucher - A form used to record the payments made from a petty cash fund
@@ -70,8 +71,9 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/13.internal.controls.for.petty.cash.png)
 
-![](/assets/mc-graw-accounting-course/chap9.cash/6.petty.cash.info.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
+### Opening a Petty Cash Act
+
+![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/8.petty-cash-log.jpg)
 
@@ -101,7 +103,7 @@ Promissory note - A written promise to pay a specified amount of money on a spec
 
 ## Debit Cards
 
-Endorsement - A written authorization that transfers ownership of a check
+Endorsement - A written authorization that transfers ownership of a check ???
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
 
@@ -117,36 +119,27 @@ Restrictive endorsement - A signature that transfers a check to a specific party
 
 
 
-![Post Dated check Info](20)
+Post Dated check Info?
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
 
 
-## Reconcilation of Checks and accounts
+
+## Reconciling Checking Accounts
 
 
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
 
-
-![errors in reconcilation](21)
-
-![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
-
-
-
-
-
-![more cash controls](25)
-
-
-
-![banking internal controls](25)
+???
 
 
 ---
 
 ## Chapter Questions
+
+
+![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
