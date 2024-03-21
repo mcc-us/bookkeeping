@@ -58,11 +58,11 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 
 ---
 
-### 4.entry.of.promissary.note.png
+## 4.entry.of.promissary.note.png
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-### 5.paying.off.promissary.notes.w.interest
+## 5.paying.off.promissary.notes.w.interest
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
@@ -74,7 +74,7 @@ Petty cash voucher - A form used to record the payments made from a petty cash f
 
 Petty cash analysis sheet - A form used to record transactions involving petty cash
 
-### Opening a Petty Cash Act
+## Opening a Petty Cash Act
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
@@ -84,7 +84,7 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
-### Internal Controls for Petty Cash
+## Internal Controls for Petty Cash
 
 **Follow these internal control procedures for petty cash:**
 
@@ -152,7 +152,6 @@ Post Dated check Info?
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
 
 ???
-
 
 ---
 
