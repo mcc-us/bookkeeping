@@ -3,14 +3,18 @@ layout: post
 title: H-Cash
 --- 
 
-## Chapter 9 Cash Cash Transactions
+## Chapter 9 Cash Transactions
 
+
+## Terms
 
 Cash and Cash equivalents - Assets that are easily convertible into known amounts of cash
 
 cash fund is register amount in till
 
-Cash Short or Over account - An account used to record any discrepancies between the amount of currency and coins in the cash register and the amount shown on the audit tape
+## Cash Shortfall or Overages
+
+Cash Short or Over account - An temp. account used to record any discrepancies between the amount of currency and coins in the cash register (bank, etc.) and the amount shown during audits or register tape
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)
 
