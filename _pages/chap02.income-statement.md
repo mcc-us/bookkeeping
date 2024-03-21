@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B-Income Statement
+title: B1-Income Statement
 tags: reporting
 ---
 

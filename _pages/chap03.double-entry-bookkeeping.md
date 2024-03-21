@@ -1,5 +1,5 @@
 ---
-title: C-Double-Entry Bookkeeping
+title: C1-Double-Entry Bookkeeping
 layout: post
 tags: drcr
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B-Statement of Equity
+title: B2-Statement of Equity
 tags: reporting
 ---
 
