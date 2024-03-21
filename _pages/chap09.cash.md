@@ -9,31 +9,31 @@ title: H-Cash
 
 1. Cash account shortages or overages 
 
-   - Cash register discrepancies should be recorded using the expense account `Cash Short or Over`.
-  
-2. Demonstrate a knowledge of procedures for a petty cash fund.
+   - Cash register discrepancies should be recorded using the expense account `Cash Short or Over.`   
 
-   - A petty cash voucher is prepared for each samll payment and signed by the person receiving the money. Usually, one person in charge of the fund records expenditures on a petty cash analysis sheet.
+2. Demonstrate a knowledge of procedures for a petty cash fund.   
 
-3. Demonstrate a knowledge of internal control routines for cash.
+   - A petty cash voucher is prepared for each samll payment and signed by the person receiving the money. Usually, one person in charge of the fund records expenditures on a petty cash analysis sheet.   
 
-   - All businesses need a system of internal controls to protect cash from theft and mishandling and ensure accurate cash transaction records. A checking account is essential to store cash safely and make payments efficiently. For maximum control over outgoing cash, all payments should be made by check except those from carefully controlled special-purpose cash funds, such as petty cash funds. 
+3. Demonstrate a knowledge of internal control routines for cash.   
 
-4. 'Write a check, endorse, prepare a bank deposit slip, and maintain a checkbook balance. 
+   - All businesses need a system of internal controls to protect cash from theft and mishandling and ensure accurate cash transaction records. A checking account is essential to store cash safely and make payments efficiently. For maximum control over outgoing cash, all payments should be made by check except those from carefully controlled special-purpose cash funds, such as petty cash funds.    
 
-   - Check writing requires careful attention to detail. If a standard checkbook is used, the stub should be completed before the check so that it will be remembered. The stub gives the data needed to journalize the payment.
+4. 'Write a check, endorse, prepare a bank deposit slip, and maintain a checkbook balance.    
 
-5. Reconcile the monthly bank statement.
+   - Check writing requires careful attention to detail. If a standard checkbook is used, the stub should be completed before the check so that it will be remembered. The stub gives the data needed to journalize the payment.   
 
-   - A bank statement should be immediately reconciled with the cash balance in the firm's financial records. Usually, differences are due to deposits in transit, outstanding checks, and bank service charges. Still, many factors can cause a lack of agreement between the bank balance and the book balance.
+5. Reconcile the monthly bank statement.   
 
-6. Record any adjusting entries required from the bank reconciliation.
+   - A bank statement should be immediately reconciled with the cash balance in the firm's financial records. Usually, differences are due to deposits in transit, outstanding checks, and bank service charges. Still, many factors can cause a lack of agreement between the bank balance and the book balance.   
 
-   - Some differences between the bank balance and the book balance may require that the firm's records be adjusted after the bank statement is reconciled. Journal entries are recorded and then posted to correct the Cash account balance and the checkbook balance.
+6. Record any adjusting entries required from the bank reconciliation.   
 
-7. Understand how businesses use online banking to manage cash activities.
+   - Some differences between the bank balance and the book balance may require that the firm's records be adjusted after the bank statement is reconciled. Journal entries are recorded and then posted to correct the Cash account balance and the checkbook balance.   
 
-8. Many businesses now use online banking to receive and make cash payments.
+7. Understand how businesses use online banking to manage cash activities.   
+
+8. Many businesses now use online banking to receive and make cash payments.   
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/1.chap9.cash.objectives.png)
 
@@ -48,7 +48,7 @@ cash fund is register amount in till
 
 ## Cash Shortfall or Overages
 
-Cash Short or Over account - An temp. account used to record any discrepancies between the amount of currency and coins in the cash register (bank, etc.) and the amount shown during audits or register tape
+Cash Short or Over account - A temp. account used to record any discrepancies between the amount of currency and coins in a cash register or during audits, etc.
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)
 
