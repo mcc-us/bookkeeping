@@ -74,8 +74,6 @@ Petty cash voucher - A form used to record the payments made from a petty cash f
 
 Petty cash analysis sheet - A form used to record transactions involving petty cash
 
-![](/assets/mc-graw-accounting-course/chap9.cash/13.internal.controls.for.petty.cash.png)
-
 ### Opening a Petty Cash Act
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
