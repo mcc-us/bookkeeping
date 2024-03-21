@@ -72,6 +72,9 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/6.petty.cash.info.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
+
+![](/assets/mc-graw-accounting-course/chap9.cash/8.petty-cash-log.jpg)
+
 ![](/assets/mc-graw-accounting-course/chap9.cash/10.petty.cash.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
