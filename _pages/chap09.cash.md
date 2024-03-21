@@ -51,21 +51,15 @@ cash fund is register amount in till
 Cash Short or Over account - A temp. account used to record any discrepancies between the amount of currency and coins in a cash register or during audits, etc.
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)
-
-
 ![](/assets/mc-graw-accounting-course/chap9.cash/2.cash.overage.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/3.cash.acts.png)
+
+---
+
 ![](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/5.promissary.note.payoff.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/6.petty.cash.info.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/10.petty.cash.sheet.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
-
-
-Promissory note - A written promise to pay a specified amount of money on a specific date
+---
 
 
 ## Petty Cash & Internal Controls
@@ -75,28 +69,31 @@ Petty cash voucher - A form used to record the payments made from a petty cash f
 Petty cash analysis sheet - A form used to record transactions involving petty cash
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/13.internal.controls.for.petty.cash.png)
+
+![](/assets/mc-graw-accounting-course/chap9.cash/6.petty.cash.info.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/10.petty.cash.sheet.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
+
+---
+
+Promissory note - A written promise to pay a specified amount of money on a specific date
+
+
 ![](/assets/mc-graw-accounting-course/chap9.cash/14.cash.controls.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
 
+---
 
-
-## Section Questions
-
+## Banking Procedures
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
 
 
-
-
-## Banking Procedures
-
-
 ![](/assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
-
 
 
 ## Debit Cards
@@ -119,9 +116,6 @@ Restrictive endorsement - A signature that transfers a check to a specific party
 
 ![Post Dated check Info](20)
 
-![](/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
-
-![](/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
 
@@ -146,4 +140,14 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 
 ![banking internal controls](25)
 
+
+---
+
+## Chapter Questions
+
+![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
+
+![](/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
 
