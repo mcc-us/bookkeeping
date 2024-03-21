@@ -58,8 +58,13 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 
 ---
 
-![](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/5.promissary.note.payoff.png)
+### 4.entry.of.promissary.note.png
+
+![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
+
+### 5.paying.off.promissary.notes.w.interest
+
+![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
