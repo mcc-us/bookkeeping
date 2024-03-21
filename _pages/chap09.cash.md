@@ -86,6 +86,24 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
+### Internal Controls for Petty Cash
+
+**Follow these internal control procedures for petty cash:**
+
+1. Assign one person to control the petty cash fund. This person has sole control, and is the only one authorized to make payments to/from the fund.
+
+2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**
+
+3. Limit the petty cash amount to cover ~1 month.
+
+4. Keep petty cash in a safe, a locked cash box, or a locked drawer.
+
+5. Obtain a petty cash voucher for each payment. The voucher should be signed by the person who receives the money and should show the payment details. This provides an audit trail for the fund.
+
+6. Use petty cash only for small payments where checks cannot be conveniently made.
+
+7. Keep all receipts
+   
 ---
 
 Promissory note - A written promise to pay a specified amount of money on a specific date
