@@ -19,7 +19,9 @@ title: I-Payroll
 
 - Instructions for computing these taxes are provided by the government.
 
-- If required, state disability and other income taxes can also be deducted. Other deductions may include court orders for various items.
+- If required, state disability and other income taxes can also be deducted. 
+
+- Other deductions may include court orders for various items.
 
 - Voluntary deductions can also be made.
 
@@ -27,8 +29,7 @@ title: I-Payroll
 
 3. Determine employee deductions for social security tax - Social security tax is levied equally on both the employer and the employee. It is a percentage of the employee's gross wages up to a maximum wage base limit during a calendar year.
 
-4. Determine employee deductions for Medicare tax - The Medicare tax is levied equally on both the employer and the employee. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals:
-The business does not match the amount.
+4. Determine employee deductions for Medicare tax - The Medicare tax is levied equally on both the employer and the employee. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals: The business does not match the amount.
 
 5. Understand employee deductions for income tax - Income taxes are deducted from an employee's paycheck by the employer and then paid to the government periodically. The employee's W-4, Publication 15, Circular E, and other IRS guidance are used to determine the amount of federal income tax to withhold.
 
@@ -37,6 +38,24 @@ The business does not match the amount.
 7. Journalize payroll transactions in the general journal - The payroll register prepares a general journal entry to record payroll expenses and liability amounts. A separate journal entry records payments to employees.
 
 8. Maintain an earnings record for each employee - At the beginning of each year, the employer sets up an individual earnings record for each employee. The amounts in the payroll register are posted to the individual earnings records throughout the year so that the firm has detailed payroll information for each employee. At the end of the year, employers provide reports that show gross earnings and total deductions to each employee.
+
+---
+
+Federal laws require that detailed payroll records be maintained for all categories of employees. The employer must keep a record of:
+
+1. employee's name, 
+2. address, 
+3. Social Security number
+4. date of birth;
+5. hours worked each day and week, 
+6. wages paid at the regular
+7. overtime rates (certain exceptions exist for employees who earn salaries);
+8. cumulative wages paid throughout the year;
+9. amount of income tax, 
+10. social security tax, and 
+11. Medicare tax withheld for each pay period:
+12. Proof that the employee is a U.S. citizen or has a valid work permit;
+13. Cost of employer-sponsored health insurance coverage if provided by the employer.
 
 ---
 
