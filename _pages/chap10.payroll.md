@@ -38,9 +38,6 @@ The business does not match the amount.
 
 8. Maintain an earnings record for each employee - At the beginning of each year, the employer sets up an individual earnings record for each employee. The amounts in the payroll register are posted to the individual earnings records throughout the year so that the firm has detailed payroll information for each employee. At the end of the year, employers provide reports that show gross earnings and total deductions to each employee.
 
-
-![](/assets/mc-graw-accounting-course/chap10.payroll/1.chap10.objectives.png)
-
 ---
 
 ![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)
