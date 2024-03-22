@@ -7,13 +7,11 @@ Chapter 9 Cash Transactions
 
 ## Objectives
 
-1. Cash account shortages or overages 
-   - Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
+1. **Expense account**: `Cash Short/Over` - Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
 
-2. Understand a petty cash fund.   
-   - A petty cash voucher is prepared for each samll payment and signed by the person receiving the money. In general, one person is in charge of the fund records expenditures on a `petty cash analysis/sheet`.   
+2. Petty cash fund - In general, one person is in charge of the `petty cash analysis/sheet` fund & expenditures.  
 
-3. Understand internal control routines for cash.   
+3. Internal control routines for cash.   
    - All businesses need a system to protect cash from theft and mishandling and ensure accurate cash records. A checking account is essential to store cash safely and make payments efficiently. 
    - For maximum control over outgoing cash, all payments should be made by check except those from carefully controlled special-purpose cash funds, such as petty cash funds.    
 
@@ -21,8 +19,10 @@ Chapter 9 Cash Transactions
    - **Checks requires careful attention to detail.** 
    - If a standard checkbook is used, the stub should be completed before the check so that it will be remembered. The stub gives the data needed to journalize the payment.   
 
-5. Reconcile the bank statement **MONTHLY**.   
-   - A bank statement should be immediately reconciled with the cash balance in the firm's financial records. Usually, differences are due to deposits in transit, outstanding checks, and bank service charges. Still, many factors can cause a lack of agreement between the bank balance and the book balance.   
+5. Reconcile bank statements **MONTHLY**.   
+   - Reconcile bank statement with the cash balance in the firm's financial records. 
+   - Differences are (usually) due to deposits in transit, outstanding checks, and bank service charges.
+   - Still, many factors can cause a lack of agreement between the bank balance and the book balance.   
 
 6. Record any adjusting entries required from the bank reconciliation.   
    - Some differences between the bank balance and the book balance may require that the firm's records be adjusted after the bank statement is reconciled. Journal entries are recorded and then posted to correct the Cash account balance and the checkbook balance.   
