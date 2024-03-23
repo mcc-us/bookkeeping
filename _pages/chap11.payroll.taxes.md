@@ -15,9 +15,9 @@ New Acct
 3. Medicare Tax Payable
 4. Employee Income Tax Payable
 
-$$Assets + \large \frac{Expenses}{\begin{bmatrix}
+$$Assets + \frac{Expenses}{\begin{bmatrix}
 Payroll~ Taxes~ Expense \\
-\end{bmatrix}} \normalsize = \frac{Liabilities}{\begin{bmatrix}
+\end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
 S. S.~ Tax~ Payable \\
 Medicare~ Tax~ Payable \\
 Employee~ Income~ Tax~ Payable \\
