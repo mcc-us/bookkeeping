@@ -6,9 +6,7 @@ title: J-Payroll Taxes
 
 Chap 11 Payroll Taxes
 
-## New Accts
-
-New Acct
+## Payroll Tax Expense & Liability Accounts
 
 1. Payroll Taxes Expense
 2. Social Security Tax Payable
