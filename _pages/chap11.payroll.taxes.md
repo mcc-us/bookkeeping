@@ -44,7 +44,7 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
 
 
-## Payment of Payroll taxes
+## Payment of Payroll Taxes
 
 - *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, ow a 10% penalty is possible
 
@@ -52,7 +52,7 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
 
 
-## SS and Medicare Taxes
+## SS & Medicare Taxes
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
@@ -61,12 +61,12 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 
 
-## Recording payment of taxes withheld
+## Recording Payment of Taxes Withheld
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
 
 
-## Quarterly summary of Earning records
+## Quarterly Summary of Earning Records
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
 
@@ -82,20 +82,22 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/9.company.wide.tax.and.pay.schedule.png)
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/10.when.to.file.png)
+
 https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 
-## Wage and Tax Statement, Form W-2
+## Wage & Tax Statement, Form W-2
 
 - Wage and Tax Statement, Form W-2 - Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
 
 - Withholding statement - See Wage and Tax Statement, Form W-2
 
+---
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
 
 
-## Transmittal of Wage and Tax Statements, Form W-3
+## Transmittal of Wage & Tax Statements, Form W-3
 
 - Transmittal of Wage and Tax Statements, Form W-3 - Preprinted government form submitted with Forms W-2 to the Social Security Administration
 
@@ -105,10 +107,8 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 ## Section 2
 
-![](chap11.objectives2.png)
 
-
-## Unemployment insurance program
+## Unemployment Insurance Program
 
 - Unemployment insurance program - A program that provides unemployment compensation through a tax levied on employers
 
@@ -117,9 +117,9 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 - Merit rating system - See Experience rating system
 
-![](computing.unemployment.taxes.png)
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/computing.unemployment.taxes.png)
 
-![](reporting.quarter.unemployment.taxes.png)
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/reporting.quarter.unemployment.taxes.png)
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/13.w2.info.png)
 
@@ -128,5 +128,5 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 ## Questions
 
-(chap11.section1.q.png)
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
 
