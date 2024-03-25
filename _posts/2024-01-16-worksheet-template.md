@@ -1,7 +1,6 @@
 ---
 layout: post
-title: worksheet templates
-tags:  worksheet
+title: Worksheet Templates
 ---
 
 ## Portrait
