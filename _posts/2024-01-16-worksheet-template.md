@@ -3,6 +3,18 @@ layout: post
 title: Worksheet Templates
 ---
 
+## Landscape
+
+<div class="pdf-container">
+    <iframe src="/assets/worksheets/work.sheet.landscape.pdf" 
+        title="portrait-worksheet" 
+        height="400" 
+        width="700" 
+        allowfullscreen="false">
+    </iframe>
+</div>
+
+
 ## Portrait
 
 <div class="pdf-container">
@@ -14,16 +26,6 @@ title: Worksheet Templates
     </iframe>
 </div>
 
-## Landscape
-
-<div class="pdf-container">
-    <iframe src="/assets/worksheets/work.sheet.landscape.pdf" 
-        title="portrait-worksheet" 
-        height="400" 
-        width="712" 
-        allowfullscreen="false">
-    </iframe>
-</div>
 
 ## General
 
