@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C2-Understanding Debit & Credits
+title: C2-Debit & Credits
 tags: drcr
 ---
 
