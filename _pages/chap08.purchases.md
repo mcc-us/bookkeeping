@@ -14,7 +14,21 @@ Freight \\
 
 ---
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/1.objectives.png)
+OBJECTIVES
+
+1. Record purchases of merchandise on credit
+
+2. Compute net delivered cost of purchases
+
+3. Post from the general journal to the general ledger accounts.
+
+4. Post transactions to the accounts payable subsidiary ledger.
+
+5. Prepare a schedule of accounts payable.
+
+6. Demonstrate a knowledge of the procedures for effective internal control of purchases.
+
+7. Record transactions for a retailer using the perpetual inventory system.
 
 
 ### Record purchases of merchandise on credit in a general journal.
