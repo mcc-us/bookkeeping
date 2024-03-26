@@ -7,9 +7,9 @@ Chapter 9 Cash Transactions
 
 ## Objectives
 
-1. **Expense account**: `Cash Short/Over` - Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
+1. **Expense account**: `Cash Short/Over`
 
-2. Petty cash fund - In general, one person is in charge of the `petty cash analysis/sheet` fund & expenditures.  
+2. Petty cash fund
 
 3. Internal control routines for cash.   
    - All businesses need a system to protect cash from theft and mishandling and ensure accurate cash records. A checking account is essential to store cash safely and make payments efficiently. 
@@ -43,6 +43,8 @@ cash fund is register amount in till
 
 ## Cash Shortfall or Overages
 
+ Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
+
 Cash Short or Over account - A temp. account used to record any discrepancies between the amount of currency and coins in a cash register or during audits, etc.
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)
@@ -62,6 +64,8 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 ---
 
 ## Petty Cash & Internal Controls
+
+In general, one person is in charge of the `petty cash analysis/sheet` fund & expenditures.  
 
 Petty cash voucher - A form used to record the payments made from a petty cash fund
 
