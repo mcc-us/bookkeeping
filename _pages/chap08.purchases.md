@@ -32,17 +32,15 @@ Purchase~ Returns~ \&~ Allowances \\
 **Accounts**
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
--->
 
----
 
 
 ### 1. Purchases, NO Freight, NO Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
+-->
 
-
-### 2. Purchases w/ Freight Costs
+### 1. Purchases w/ Freight Costs
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/202.fob.png)
 
@@ -50,12 +48,12 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
 
-### 3. Purchase Returns & Allowances
+### 2. Purchase Returns & Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 
-### 4. Discounts & Returns
+### 3. Discounts & Returns
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.w.return.png)
 
@@ -67,7 +65,7 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
 
-### 5. Trade Discounts
+### 4. Trade Discounts
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
@@ -75,7 +73,7 @@ Purchase~ Returns~ \&~ Allowances \\
 |:-|-:|
 |Discounts (20%, 10% = 0.8 x 0.9 = 0.72): 6000 x 0.72 = |4320|
 
-### 6. Find Net delivered cost of purchases.
+### 5. Find Net delivered cost of purchases.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/9.net.delivery.costs.png)
 
@@ -88,7 +86,7 @@ Purchase~ Returns~ \&~ Allowances \\
 |Net Delivered Cost of Purchases|$24,280|
 
 
-### 7. Schedule of accounts payable
+### 6. Schedule of accounts payable
 A list of all balances owed to creditors
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
@@ -96,9 +94,9 @@ A list of all balances owed to creditors
 
 ---
 
-### 8. Effective internal control of purchases
+### 7. Effective internal control of purchases
 
-### 9. Using Perpetual Inventory Systems
+### 8. Using Perpetual Inventory Systems
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 

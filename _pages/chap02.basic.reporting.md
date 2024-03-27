@@ -100,7 +100,7 @@ For the Year Ending Dec. 31, 2024
 | ![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
 -->
 
-### Alternative Names
+**Alternative Names**
 
 1. Statement of Shareholders' Equity   
 2. Changes in Shareholders' Equity   
