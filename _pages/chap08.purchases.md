@@ -6,22 +6,25 @@ title: G-Purchases
 
 **How-To**
 
-- Record purchases of merchandise on credit
-- Compute net delivered cost of purchases
-- Post from the general journal to the general ledger accounts.
-- Post transactions to the accounts payable subsidiary ledger.
-- Prepare a schedule of accounts payable.
-- Demonstrate a knowledge of the procedures for effective internal control of purchases.
-- Record transactions for a retailer using the perpetual inventory system.
+- Record Purchases, Purchase Discounts, Purchase Returns & Allowances  
+- Net delivered cost of purchases  
+- Accounts payable subsidiary ledger & a schedule of accounts payable  
+- Knowledge of the procedures for effective internal control of purchases  
+- Knowledge of perpetual inventory system  
+
+---
 
 
 Purchases = Expenses   
 Freight = Expenses   
 
-$$Assets + \large \frac{Expenses}{\begin{bmatrix}
+$$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
 Freight \\
-\end{bmatrix}} \normalsize = Liabilities + Equity + Revenue$$
+\end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
+Purchase~ Discounts \\
+Purchase~ Returns~ &~ Allowances \\
+\end{bmatrix}} + Equity + Revenue$$
 
 
 **Accounts**
