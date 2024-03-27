@@ -3,7 +3,8 @@ layout: post
 title: F-Sales
 ---
 
-  
+Chap 7
+
 **How-To**
 
 - Sales w & w/o Taxes, Sales Returns & Allowances 

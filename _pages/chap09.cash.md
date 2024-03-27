@@ -3,7 +3,7 @@ layout: post
 title: H-Cash Transactions
 --- 
 
-Chapter 9 Cash Transactions
+Chapter 9
 
 **How Tto**
 

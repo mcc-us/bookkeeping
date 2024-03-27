@@ -3,6 +3,7 @@ layout: post
 title: G-Purchases
 ---
 
+Chap 8
 
 **How-To**
 

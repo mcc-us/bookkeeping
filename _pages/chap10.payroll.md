@@ -4,7 +4,7 @@ title: I-Payroll
 --- 
 
 
-10 Payroll Computations, Records and Payment   
+Chap 10   
 
 **How To**
 
