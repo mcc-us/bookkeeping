@@ -9,8 +9,8 @@ Chap 8
 
 - Record Purchases, Purchase Discounts, Purchase Returns & Allowances  
 - Net delivered cost of purchases  
-- Accounts payable subsidiary ledger & a schedule of accounts payable  
-- Knowledge of the procedures for effective internal control of purchases  
+- Accounts payable subsidiary ledger & schedule of accounts payable  
+- Effective internal control of purchases  
 - Knowledge of perpetual inventory system  
 
 ---
@@ -23,18 +23,16 @@ $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
 Freight \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
+Cash~ discount \\
 Purchase~ Discounts \\
 Purchase~ Returns~ \&~ Allowances \\
 \end{bmatrix}} + Equity + Revenue$$
 
-
+<!--
 **Accounts**
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
-
-| Additional Accounts ||
-|:-|:-|
-|Cash discount-**CR**|Purchases discount-**CR**|
+-->
 
 ---
 
