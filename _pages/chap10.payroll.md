@@ -6,7 +6,7 @@ title: I-Payroll
 
 10 Payroll Computations, Records and Payment   
 
-## Objectives
+**How To**
 
 1. Explain significant Federal laws relating to employee earnings and withholding. Several federal laws affect payroll:
 
@@ -74,7 +74,7 @@ Federal laws require that detailed payroll records be maintained for all categor
 ![](/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)
 ![](/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)
 
-## Questions
+### Questions
 
 ![](/assets/mc-graw-accounting-course/chap10.payroll/c%20hap10.section1a.q.png)
 ![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.sectiojn1b.q.png)

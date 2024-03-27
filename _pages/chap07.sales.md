@@ -3,11 +3,21 @@ layout: post
 title: F-Sales
 ---
 
+  
+**How-To**
 
-**Credit Card Expense = EXPENSE,**    
-**Sales Tax Payable = LIABILITY,**  
-**Sales = REVENUE**  
-**Sales Discount & Returns & Allowances are Contra-Revenue = Expenses**
+- Sales w & w/o Taxes, Sales Returns & Allowances 
+- Credit customers using the accounts receivable ledger.
+- Trade & Sales discount, ex. 1/30, 2/15, n/30, Trade discounts: 20% & 10%
+
+---
+
+**Accounts**
+
+Credit Card Expense = EXPENSE    
+Sales Tax Payable = LIABILITY   
+Sales = REVENUE   
+Sales Discount & Returns & Allowances are Contra-Revenue = Expenses 
 
 $$\normalsize Assets + \frac{Expenses}{\begin{bmatrix}
 Credit~ Card~ Expense \\
@@ -15,33 +25,24 @@ Sales~ Discount \\
 Sales~ Returns~\&~ Allowances \\
 \end{bmatrix}} = \frac{Liabilities}{Sales~ Tax~ Payable} + \normalsize Equity + \frac{Revenue}{Sales}$$  
 
----
   
-**How-To**
-
-- Sales w & w/o Taxes.
-- Sales Returns & Allowances 
-- Calculate amounts owed for credit customers using the accounts receivable ledger.
-- Trade & Sales discount, ex. 1/30, 2/15, n/30, Trade discounts: 20% & 10%
-
-  
-### Dr/Cr Sales Accounts
+**Dr/Cr Sales Accounts**
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 
 
 
-### Sales, NO Tax
+### 1 Sales, NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
 
 
-### Sales WITH Tax
+### 2 Sales WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### Returns & Allowances WITH Tax, Cash or A/R
+### 3 Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
 
@@ -49,7 +50,7 @@ Sales~ Returns~\&~ Allowances \\
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
-### Sales/Trade Discounts
+### 4 Sales/Trade Discounts
 
 A Sale or Trade discount is a reduction from list price.
    - **1/10** = 1% OFF, if < 10 days
@@ -65,7 +66,7 @@ A Sale or Trade discount is a reduction from list price.
 | Less 1% discount (2000 * 0.01)| 20 |
 | Cash Price | $1980 |
 
-### Cash discount on sales with returns
+### 5 Cash discount on sales with returns
 
 - credit terms
    - Many businesses offer discounts to customers for early payment of invoices. These are known as credit terms.
@@ -85,14 +86,14 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 |Net Sales|93|
 -->
 
-### Schedule of Accounts / Customer Accounts Receivable Ledger 
+### 6 Schedule of Accounts / Customer Accounts Receivable Ledger 
 
 Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
 
-### Credit Card Sales via A/R
+### 7 Credit Card Sales via A/R
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
@@ -109,7 +110,7 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
 -->
 
-### Double Trade Discounts
+### 8 Double Trade Discounts
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 

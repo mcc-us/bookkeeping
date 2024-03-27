@@ -12,7 +12,7 @@ layout: post
 >
 > [accountinghowto.com](https://accountinghowto.com/normal-balance-accounting/)
 
-#### Example 1
+### Example 1
 
 Step 1: Let's consider cash first. It is an asset therefore the Debit side increases that account, and the Credit side decreqases the account.
 Step 3: Draw out T-accounts for an account in a transaction.**  
@@ -26,7 +26,7 @@ Step 2: Label the left-hand side of the **T-table** "*Debit*" and the right side
 - Therefore "Debiting $100" increases the amount of cash in the account. 
 - "Crediting \$100", or placing values on the right side subtracts $100 from your account.
 
-#### Example 2
+### Example 2
 
 Liabilities & Equities increase with Credits, decrease with Debits** 
 

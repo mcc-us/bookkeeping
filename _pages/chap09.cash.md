@@ -5,10 +5,9 @@ title: H-Cash Transactions
 
 Chapter 9 Cash Transactions
 
-## Objectives
+**How Tto**
 
 1. **Expense account**: `Cash Short/Over`
-
 2. Petty cash fund
 
 3. Internal control routines for cash.   
@@ -33,15 +32,8 @@ Chapter 9 Cash Transactions
 
 ---
 
-## Terms
 
-Cash and Cash equivalents - Assets that are easily convertible into known amounts of cash
-
-cash fund is register amount in till
-
----
-
-## Cash Shortfall or Overages
+### 1 Cash Shortfall or Overages
 
  Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
 
@@ -53,17 +45,17 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 
 ---
 
-## 4.entry.of.promissary.note.png
+### 2 entry.of.promissary.note.png
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-## 5.paying.off.promissary.notes.w.interest
+## 3 paying.off.promissary.notes.w.interest
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
-## Petty Cash & Internal Controls
+### 4 Petty Cash & Internal Controls
 
 In general, one person is in charge of the `petty cash analysis/sheet` fund & expenditures.  
 
@@ -71,7 +63,7 @@ Petty cash voucher - A form used to record the payments made from a petty cash f
 
 Petty cash analysis sheet - A form used to record transactions involving petty cash
 
-## Opening a Petty Cash Act
+### 5 Opening a Petty Cash Act
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
@@ -81,7 +73,7 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
-## Internal Controls for Petty Cash
+### 6 Internal Controls for Petty Cash
 
 **Follow these internal control procedures for petty cash:**
 
@@ -109,7 +101,7 @@ Promissory note - A written promise to pay a specified amount of money on a spec
 
 ---
 
-## Banking Procedures
+### 7 Banking Procedures
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
@@ -119,7 +111,7 @@ Promissory note - A written promise to pay a specified amount of money on a spec
 ![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
-## Debit Cards
+### 8 Debit Cards
 
 Endorsement - A written authorization that transfers ownership of a check ???
 
@@ -143,7 +135,7 @@ Post Dated check Info?
 
 
 
-## Reconciling Checking Accounts
+### 9 Reconciling Checking Accounts
 
 
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
@@ -152,7 +144,7 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 
 ---
 
-## Chapter Questions
+### 10 Chapter Questions
 
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
