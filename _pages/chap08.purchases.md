@@ -24,7 +24,7 @@ Purchases \\
 Freight \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
 Purchase~ Discounts \\
-Purchase~ Returns~ &~ Allowances \\
+Purchase~ Returns~ \&~ Allowances \\
 \end{bmatrix}} + Equity + Revenue$$
 
 
