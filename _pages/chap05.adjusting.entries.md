@@ -14,7 +14,7 @@ title: D-Adjusting Entries
 5. Deferred Revenue 
 
 
-### 1 Prepaid Expenses 
+### 1. Prepaid Expenses 
    
 ![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
