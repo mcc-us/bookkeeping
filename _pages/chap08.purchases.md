@@ -104,6 +104,8 @@ A list of all balances owed to creditors
 
 WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/watch?v=30BoifG_904)
 
+[This too](https://www.youtube.com/watch?v=OB6RDzqvNbk)
+
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
