@@ -3,13 +3,24 @@ layout: post
 title: D-Adjusting Entries
 ---
 
-- Adjustments or adjusting entries are journal entries made to update acts for previously unrecorded items.     
+- Adjustments or adjusting entries are for previously unrecorded items.     
+   - Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
 
-- Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
+
+$$Assets + \frac{Expenses}{\begin{bmatrix}
+Prepaid~ Expenses \\
+e.g.~ Prepaid~ Insurance \\
+e.g.~ Prepaid~ Supplies \\
+Accrued~ Expense-Interest \\
+\end{bmatrix}} = Liabilities + Equity + \frac{Revenue}{\begin{bmatrix}
+Accrued~ Revenue \\
+Deferred~ Revenue \\
+\end{bmatrix}}$$  
+
 
 1. Prepaid Expenses - { *Insurance, Rent, Supplies, Advertising* }  
-2. Depreciation / Accumulated Depreciation   
-3. Accrueed Expense-Interest   
+2. ???? Depreciation / Accumulated Depreciation   ?????????  
+3. Accrued Expense-Interest   
 4. Accrued Revenue   
 5. Deferred Revenue 
 
