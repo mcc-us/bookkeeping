@@ -16,15 +16,11 @@ Sales Tax Payable = LIABILITY
 Sales = REVENUE   
 Sales Discount **&** Returns & Allowances are Contra-Revenue = EXPENSE 
 
-$$
-\begin{flushleft}
-Assets + \frac{Expenses}{\begin{bmatrix}
+$$Assets + \frac{Expenses}{\begin{bmatrix}
 Credit~ Card~ Expense \\
 Sales~ Discount \\
 Sales~ Returns~\&~ Allowances \\
-\end{bmatrix}} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{Sales}
-\end{flushleft}
-$$  
+\end{bmatrix}} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{Sales}$$  
 
 <!--  
 **Dr/Cr Sales Accounts**
