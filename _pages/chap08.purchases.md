@@ -12,7 +12,8 @@ title: G-Purchases
 
 ---
 
-**Treat Purchases like an Asset or Expense**    
+- Treat Purchases like an Asset or Expense, Freight is an Expense   
+
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
