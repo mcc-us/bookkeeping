@@ -61,7 +61,7 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
 
-### 4. Trade Discounts
+### 4. Trade & Early Cash Discounts
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
