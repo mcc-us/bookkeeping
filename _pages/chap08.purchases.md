@@ -29,8 +29,6 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/2.purchase.acts.png)
 
-
-
 ### 1. Purchases, NO Freight, NO Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/3.basic.purchase.transactions.png)
@@ -43,10 +41,10 @@ In General:
 
 2. The buyer is billed directly by the transportation company for the freight charge. The buyer issues a check directly to the freight company.
 
-
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
+
 
 ### 2. Purchase Returns & Allowances
 
