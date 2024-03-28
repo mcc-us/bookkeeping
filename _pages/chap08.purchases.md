@@ -7,17 +7,14 @@ Chap 8
 
 **How-To**
 
-- Record Purchases, Purchase Discounts, Purchase Returns & Allowances  
+- Purchases, Discounts, Returns & Allowances  
 - Net delivered cost of purchases  
-- Accounts payable subsidiary ledger & schedule of accounts payable  
 - Effective internal control of purchases  
 - Knowledge of perpetual inventory system  
 
 ---
 
-
-Purchases = Expenses   
-Freight = Expenses   
+**Treat Purchases like an Asset or Expense**    
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
