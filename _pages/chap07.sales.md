@@ -3,7 +3,7 @@ layout: post
 title: F-Sales
 ---
 
-**Chap 7 How-To**
+**Chap 7 - How-To**
 - Sales w & w/o Taxes, Sales Returns & Allowances 
 - Using Credit & Trade & Sales discount (ex. 1/30, n/30) & Trade discounts: 20% & 10%
 

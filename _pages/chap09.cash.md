@@ -3,9 +3,7 @@ layout: post
 title: H-Cash Transactions
 --- 
 
-Chapter 9
-
-**How Tto**
+**Chap 9 - How To**
 
 1. **Expense account**: `Cash Short/Over`
 2. Petty cash fund

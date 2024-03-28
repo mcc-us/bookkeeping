@@ -4,7 +4,7 @@ title: J-Payroll Taxes
 --- 
 
 
-Chap 11 Payroll Taxes
+**Chap 11 - Payroll Taxes**
 
 ## Payroll Tax Expense & Liability Accounts
 

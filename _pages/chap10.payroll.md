@@ -4,9 +4,7 @@ title: I-Payroll
 --- 
 
 
-Chap 10   
-
-**How To**
+**Chap 10 - How To**
 
 1. Explain significant Federal laws relating to employee earnings and withholding. Several federal laws affect payroll:
 

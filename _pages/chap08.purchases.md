@@ -3,9 +3,7 @@ layout: post
 title: G-Purchases
 ---
 
-Chap 8
-
-**How-To**
+** Chap 8 - How-To**
 
 - Purchases, Discounts, Returns & Allowances  
 - Net delivered cost of purchases  

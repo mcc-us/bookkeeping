@@ -3,7 +3,7 @@ title: E-Closing Entries
 layout: post
 ---
 
-Chap 6
+**Chap 6 - How To**
 
 > R.E.I.D. = Revenue, Expenses, Income Summary, Drawings to Capital account.
 {: .block-tip }
