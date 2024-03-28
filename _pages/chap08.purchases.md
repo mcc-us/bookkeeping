@@ -102,6 +102,8 @@ A list of all balances owed to creditors
 
 ### 8. Using Perpetual Inventory Systems
 
+WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/watch?v=30BoifG_904)
+
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
