@@ -38,7 +38,11 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ### 1. Purchases w/ Freight Costs
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/202.fob.png)
+In General: 
+1. The seller pays the freight charge and includes it on the invoice. The invoice includes the price of the goods and the freight charge. **Most Often**
+
+2. The buyer is billed directly by the transportation company for the freight charge. The buyer issues a check directly to the freight company.
+
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
@@ -63,11 +67,12 @@ Purchase~ Returns~ \&~ Allowances \\
 
 ### 4. Trade & Early Cash Discounts
 
-![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
-
 |Trade Discounts|$|
 |:-|-:|
 |Discounts (20%, 10% = 0.8 x 0.9 = 0.72): 6000 x 0.72 = |4320|
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
+
 
 ### 5. Find Net delivered cost of purchases.
 
