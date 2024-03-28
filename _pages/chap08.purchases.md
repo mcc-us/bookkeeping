@@ -37,13 +37,11 @@ Purchase~ Returns~ \&~ Allowances \\
 ### 1. Purchases w/ Freight Costs
 
 In General: 
-1. The seller pays the freight charge and includes it on the invoice. The invoice includes the price of the goods and the freight charge. **Most Often**
+1. **Most Often**, the seller pays the freight charge & includes it on the invoice.
 
 2. The buyer is billed directly by the transportation company for the freight charge. The buyer issues a check directly to the freight company.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
 
 
 ### 2. Purchase Returns & Allowances
@@ -51,17 +49,24 @@ In General:
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 
+>**Purchase Terms**
+> Terms are negoiated but some common ones are:
+> n/30 - Due in 30 days
+> n/10 EOM - Due 10 after End of Month
+> 1/10 - 1 % for cash or <= 10 days
+{: .block-tip }
+
+
 ### 3. Discounts & Returns
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/6.purchase.w.discount.w.return.png)
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/7.eom.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/100.purchase.w.discount.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/205.purchase.discounts.w.discount.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
+
 
 ### 4. Trade & Early Cash Discounts
 
@@ -98,6 +103,8 @@ A list of all balances owed to creditors
 ### 8. Using Perpetual Inventory Systems
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
+
+![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/207.cost.of.goods.acct.png)
 
