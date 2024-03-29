@@ -8,11 +8,6 @@ title: J-Payroll Taxes
 
 ## Payroll Tax Expense & Liability Accounts
 
-1. Payroll Taxes Expense
-2. Social Security Tax Payable
-3. Medicare Tax Payable
-4. Employee Income Tax Payable
-
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Payroll~ Taxes~ Expense \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
