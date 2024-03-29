@@ -50,11 +50,11 @@ In General:
 
 
 >**Purchase Terms**
-> Terms are negoiated but some common ones are:
-> n/30 - Due in 30 days
-> n/10 EOM - Due 10 after End of Month
-> 1/10 - 1 % for cash or <= 10 days
-{: .block-tip }
+> Terms are negoiated but some common ones are:  
+> n/30 - Due in 30 days  
+> n/10 EOM - Due 10 after End of Month  
+> 1/10 - 1 % for cash or <= 10 days  
+{: .block-tip }  
 
 
 ### 3. Discounts & Returns
