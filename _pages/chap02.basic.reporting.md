@@ -173,7 +173,7 @@ For the Year Ending Dec. 31, 2024
 |![](/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
 
-### Rules for Presentation:
+**Rules for Presentation:**
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
    - Cash first
@@ -192,7 +192,7 @@ For the Year Ending Dec. 31, 2024
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
-### Key benefits it offers:
+**Key benefits it offers:**
 
 1. **Verifies Accuracy**: The fundamental purpose of a trial balance is to check for mathematical errors in the accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.
 
