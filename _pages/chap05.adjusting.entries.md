@@ -73,7 +73,7 @@ Accrued Revenue represents income earned, but hasn't yet received payment for.
 ![](/assets/misc/what-is-deferred-revenue.jpg)
 
 
-### Discussion
+**Discussion**
 
 they can vary depending on the business. 
 
