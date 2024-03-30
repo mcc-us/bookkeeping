@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 7 depreciation
+title: depreciation NEEDS WORK
 tags: depreciation
 math: true
 ---
+
 
 **Depreciation** is the act of reducing a fixed (long-term, non-current) asset, and expensing the asset usage over time (months to years) due to 'wear, tear and obselence'.
 

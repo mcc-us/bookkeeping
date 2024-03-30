@@ -1,7 +1,6 @@
 ---
 layout: post
-title: going-concern-principle
-tags: gaap
+title: Going Concern Principle
 --- 
 
 The Going Concern Principle assumes that a company will continue operating into the foreseeable future unless there's substantial evidence to the contrary.
