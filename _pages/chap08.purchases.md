@@ -5,14 +5,12 @@ title: G-Purchases
 
 **Chap 8 - How-To**
 
-- Purchases, Discounts, Returns & Allowances  
-- Net delivered cost of purchases  
-- Effective internal control of purchases  
-- Knowledge of perpetual inventory system  
+- Purchases, Discounts, Returns & Allowances, Net delivered cost of purchases   
+- Internal controls, perpetual inventory system    
 
 ---
 
-- Treat Purchases like an Asset or Expense, Freight is an Expense   
+- Treat Purchases like an Asset or Expense, & Freight is an Expense   
 
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}

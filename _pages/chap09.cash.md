@@ -43,25 +43,26 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 
 ---
 
-### 2. entry.of.promissary.note.png
+### 2. Promissary notes
+
+
+*Promissory note* - A written promise to pay a specified amount of money on a specific date
+
+
+- Lending Money
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-## 3. paying.off.promissary.notes.w.interest
+- Paying off promissary notes with interest
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
-### 4. Petty Cash & Internal Controls
+### 3. Petty Cash 
 
-In general, one person is in charge of the `petty cash analysis/sheet` fund & expenditures.  
 
-Petty cash voucher - A form used to record the payments made from a petty cash fund
-
-Petty cash analysis sheet - A form used to record transactions involving petty cash
-
-### 5. Opening a Petty Cash Act
+**Opening a Petty Cash Act**
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
@@ -71,11 +72,10 @@ Petty cash analysis sheet - A form used to record transactions involving petty c
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
-### 6. Internal Controls for Petty Cash
+**Internal Controls for Petty Cash**
 
-**Follow these internal control procedures for petty cash:**
 
-1. Assign one person to control the petty cash fund. This person has sole control, and is the only one authorized to make payments to/from the fund.
+1. One person is in charge of the `petty cash analysis/sheet` fund & expenditures.  This person has sole control, and is the only one authorized to make payments to/from the fund.
 
 2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**
 
@@ -99,7 +99,7 @@ Promissory note - A written promise to pay a specified amount of money on a spec
 
 ---
 
-### 7. Banking Procedures
+### 4. Banking Procedures
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
@@ -109,7 +109,7 @@ Promissory note - A written promise to pay a specified amount of money on a spec
 ![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
-### 8. Debit Cards
+### 5. Debit Cards
 
 Endorsement - A written authorization that transfers ownership of a check ???
 
@@ -133,7 +133,7 @@ Post Dated check Info?
 
 
 
-### 9. Reconciling Checking Accounts
+### 6. Reconciling Checking Accounts
 
 
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
@@ -142,7 +142,7 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 
 ---
 
-### 10. Chapter Questions
+### 7. Chapter Questions
 
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
