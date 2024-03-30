@@ -145,16 +145,17 @@ For the Year Ending Dec. 31, 2024
 ### 4. Trial Balances
 
 
-- Purpose:   
-   - Trial balances promote accuracy,   
-   - Identify potential issues,   
-   - Facilitate financial statement preparation,  
-   - Serve as an internal control.   
+**Purpose:**    
+- Trial balances promote accuracy,   
+- Identify potential issues,   
+- Facilitate financial statement preparation,  
+- Serve as an internal control.   
+- More [Info](https://mcc-us.github.io/2024-01-29-trial-bal-v-bal-sheet.html)
 
 **4 Steps**
 
 1. Enter the general ledger account names.   
-   1. Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
+   - Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
 
 2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.   
 
@@ -163,10 +164,10 @@ For the Year Ending Dec. 31, 2024
 4. Double underscore Trial Balance columns to show that the work in that column is complete.   
 
 **NOTE: Trial Balance adds 4 accounts**:  
-  1. Accumulated Depreciation—Equipment,  
-  2. Supplies Expense,  
-  3. Rent Expense,  
-  4. Depreciation Expense—Equipment.     
+1. Accumulated Depreciation—Equipment,  
+2. Supplies Expense,  
+3. Rent Expense,  
+4. Depreciation Expense—Equipment.     
 
 |Example Trial Balance|
 |:-:|
