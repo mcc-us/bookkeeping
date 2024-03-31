@@ -49,11 +49,11 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 *Promissory note* - A written promise to pay a specified amount of money on a specific date
 
 
-- Lending Money
+**Lending Money**
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-- Paying off promissary notes with interest
+**Paying off promissary notes with interest**
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
