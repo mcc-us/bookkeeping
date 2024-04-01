@@ -33,13 +33,15 @@ title: H-Cash
 
 ### 1. Cash Shortfall or Overages
 
- Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
+Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
 
-Cash Short or Over account - A temp. account used to record any discrepancies between the amount of currency and coins in a cash register or during audits, etc.
+Cash Short or Over account - A temp. account used to record any discrepancies
 
-![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/2.cash.overage.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/3.cash.acts.png)
+|Register: Cash Short/Over|
+|:-:|
+|![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)|
+|![](/assets/mc-graw-accounting-course/chap9.cash/2.cash.overage.png)|
+|![](/assets/mc-graw-accounting-course/chap9.cash/3.cash.acts.png)|
 
 ---
 
@@ -64,8 +66,6 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 **Opening a Petty Cash Act**   
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
-
-![](/assets/mc-graw-accounting-course/chap9.cash/8.petty-cash-log.jpg)
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/10.petty.cash.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
