@@ -5,37 +5,21 @@ title: H-Cash
 
 **Chap 9 - How To**
 
-1. **Expense account**: `Cash Short/Over`
-2. Petty cash fund
-
-3. Internal control routines for cash.   
-   - All businesses need a system to protect cash from theft and mishandling and ensure accurate cash records. A checking account is essential to store cash safely and make payments efficiently. 
-   - For maximum control over outgoing cash, all payments should be made by check except those from carefully controlled special-purpose cash funds, such as petty cash funds.    
-
-4. Writing, endorsing, and preparing bank checks, deposit slip, and maintaining a checkbook balance.    
-   - **Checks requires careful attention to detail.** 
-   - If a standard checkbook is used, the stub should be completed before the check so that it will be remembered. The stub gives the data needed to journalize the payment.   
-
-5. Reconcile bank statements **MONTHLY**.   
-   - Reconcile bank statement with the cash balance in the firm's financial records. 
-   - Differences are (usually) due to deposits in transit, outstanding checks, and bank service charges.
-   - Still, many factors can cause a lack of agreement between the bank balance and the book balance.   
-
-6. Record any adjusting entries required from the bank reconciliation.   
-   - Some differences between the bank balance and the book balance may require that the firm's records be adjusted after the bank statement is reconciled. Journal entries are recorded and then posted to correct the Cash account balance and the checkbook balance.   
-
-7. Understand how businesses use online banking to manage cash activities.   
-
-8. Many businesses now use online banking to receive and make cash payments.   
+1. Petty cash fund - *Expense account* => `Cash Short/Over`
+2. Internal Control for cash  
+   - Protect your cash by using checking accounts.  
+   - For maximum control, *all* payments should be made by check except small amount using petty cash.
+3. Writing, endorsing, and preparing bank checks, deposit slip, and maintaining a checkbook balance.    
+4. Reconcile bank statements **MONTHLY** - Most differences are (usually) due to "deposits in transit", "outstanding checks", and "bank service charges."
+5. Record any adjusting entries required from the bank reconciliation.   
+6. Understand how businesses use online banking to receive and make cash payments.   
 
 ---
 
 
 ### 1. Cash Shortfall or Overages
 
-Cash register discrepancies should be recorded using the **Expense account**: `Cash Short/Over.`   
-
-Cash Short or Over account - A temp. account used to record any discrepancies
+Cash Short or Over account is a temp. account used to record any cash discrepancies
 
 |Register: Cash Short/Over|
 |:-:|
@@ -72,19 +56,13 @@ Cash Short or Over account - A temp. account used to record any discrepancies
 
 **Replenishing the Fund**
 
-- The total vouchers plus the cash on hand should always equal the amount of the fund — $175 for Maxx-Out Sporting Goods.  
-
-- Replenish the petty cash fund at the end of each month or sooner if the fund is low. Refer to (2) Figure 9.3 and note that the amount in the petty cash fund on February 2 is $15.25.  
-
 1. Total the columns on the petty cash analysis sheet.   
-2. Prove the petty cash fund by adding cash on hand and total payments. This should equal the petty cash fund balance ($15.25 + $159.75 = $175.00).   
-3. Write a check to restore the petty cash fund to its original balance.   
+2. Total vouchers/receipts **+** cash on hand should **=** the amount of the fund — ($15.25 + $159.75 = $175.00).   
+3. Write a check to replenish the petty cash fund at the end of each month or sooner if the fund is low. See RED box above.   
 4. Prepare the journal entry to record the check.   
 
-The journal entry to record the replenishment of the petty cash fund at February 28, using check number should enter check number, if used.   
 
-
-**Internal Controls for Petty Cash**   
+### 4. Internal Controls for Petty Cash  
 
 
 1. One person is in charge of the `petty cash analysis/sheet` fund & expenditures.  This person has sole control, and is the only one authorized to make payments to/from the fund.   
@@ -101,10 +79,6 @@ The journal entry to record the replenishment of the petty cash fund at February
 
 7. Keep all receipts
    
----
-
-Promissory note - A written promise to pay a specified amount of money on a specific date
-
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/14.cash.controls.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
