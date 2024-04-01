@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H-Cash Transactions
+title: H-Cash
 --- 
 
 **Chap 9 - How To**
