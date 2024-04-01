@@ -42,7 +42,7 @@ In General:
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
 
-### 2. Purchase Returns & Allowances
+### 2. Returns & Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
@@ -75,7 +75,7 @@ In General:
 ![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
 
 
-### 5. Find Net delivered cost of purchases.
+### 5. Net delivered cost of purchases.
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/9.net.delivery.costs.png)
 
@@ -96,9 +96,9 @@ A list of all balances owed to creditors
 
 ---
 
-### 7. Effective internal control of purchases
+### 7. Internal control of purchases
 
-### 8. Using Perpetual Inventory Systems
+### 8. Perpetual Inventory Systems
 
 WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/watch?v=30BoifG_904)
 

@@ -46,14 +46,13 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 ### 2. Promissary notes
 
 
-*Promissory note* - A written promise to pay a specified amount of money on a specific date
+*Promissory note* - A written promise to pay a specified amount of money on a specific date   
 
-
-**Lending Money**
+**Lending Money**   
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-**Paying off promissary notes with interest**
+**Paying off promissary notes with interest**   
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
@@ -62,7 +61,7 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 ### 3. Petty Cash 
 
 
-**Opening a Petty Cash Act**
+**Opening a Petty Cash Act**   
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
@@ -72,12 +71,12 @@ Cash Short or Over account - A temp. account used to record any discrepancies be
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
 
-**Internal Controls for Petty Cash**
+**Internal Controls for Petty Cash**   
 
 
-1. One person is in charge of the `petty cash analysis/sheet` fund & expenditures.  This person has sole control, and is the only one authorized to make payments to/from the fund.
+1. One person is in charge of the `petty cash analysis/sheet` fund & expenditures.  This person has sole control, and is the only one authorized to make payments to/from the fund.   
 
-2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**
+2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**   
 
 3. Limit the petty cash amount to cover ~1 month.
 
