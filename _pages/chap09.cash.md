@@ -144,9 +144,8 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 
 ### 7. Chapter Questions
 
-
-![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
