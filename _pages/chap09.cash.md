@@ -67,9 +67,22 @@ Cash Short or Over account - A temp. account used to record any discrepancies
 
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
-![](/assets/mc-graw-accounting-course/chap9.cash/10.petty.cash.sheet.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/12.replenish.petty.cash.png)
+
+
+**Replenishing the Fund**
+
+- The total vouchers plus the cash on hand should always equal the amount of the fund — $175 for Maxx-Out Sporting Goods.  
+
+- Replenish the petty cash fund at the end of each month or sooner if the fund is low. Refer to (2) Figure 9.3 and note that the amount in the petty cash fund on February 2 is $15.25.  
+
+1. Total the columns on the petty cash analysis sheet.   
+2. Prove the petty cash fund by adding cash on hand and total payments. This should equal the petty cash fund balance ($15.25 + $159.75 = $175.00).   
+3. Write a check to restore the petty cash fund to its original balance.   
+4. Prepare the journal entry to record the check.   
+
+The journal entry to record the replenishment of the petty cash fund at February 28, using check number should enter check number, if used.   
+
 
 **Internal Controls for Petty Cash**   
 
