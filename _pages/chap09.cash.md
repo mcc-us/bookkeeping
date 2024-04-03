@@ -7,7 +7,7 @@ title: H-Cash
 
 1. Petty cash fund - *Expense account* => `Cash Short/Over`
 2. Protect your cash by using checking accounts, *all* payments should be made by check except small amount using petty cash.
-3. Reconcile bank statements **MONTHLY** - 
+3. Reconcile bank statements **MONTHLY**   
 4. Most differences are (usually) due to "deposits in transit", "outstanding checks", and "bank service charges."
 5. Record any adjusting entries required from the bank reconciliation.   
 6. Understand how businesses use online banking to receive and make cash payments.   
@@ -55,8 +55,8 @@ title: H-Cash
 **Replenishing the Fund**
 
 1. Total the columns on the petty cash analysis sheet.   
-2. Total vouchers/receipts **+** cash on hand should **=** the amount of the fund — ($15.25 + $159.75 = $175.00).   
-3. Write a check to replenish the petty cash fund at the end of each month or sooner if the fund is low. See RED box above.   
+2. Total vouchers/receipts **+** cash on hand should **=** the amount of the fund, $(15.25 + 159.75 = 175.00)$.   
+3. Write a check to replenish the petty cash fund at the end of each month or sooner if the fund is low. *See RED box above*.   
 4. Prepare the journal entry to record the check.   
 
 
@@ -77,8 +77,30 @@ title: H-Cash
 
 7. Keep all receipts
    
+---
+
+### Cash Controls
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/14.cash.controls.png)
+
+Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations. 
+
+**The following are essential cash receipt controls:**
+
+1. Have only designated employees receive and handle cash whether it consists of checks and money orders, or currency and coins. These employees should be carefully chosen for reliability and accuracy and should be carefully trained. In some businesses, employees who handle cash are bonded. Bonding is the process by which employees are investigated by an insurance company. Employees who pass the background check can be bonded; that is, the employer can purchase insurance on the employees. If the bonded employees steal or mishandle cash, the business is insured against the loss.
+
+1. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
+
+2. Make a record of all cash receipts as the funds come into the business. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
+
+3. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
+
+1. Deposit cash receipts in the bank promptly—every day or several times a day. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
+
+1. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
+
+1. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
+
 ![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
 
 ---
