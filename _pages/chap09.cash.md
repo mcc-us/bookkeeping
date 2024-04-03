@@ -6,20 +6,18 @@ title: H-Cash
 **Chap 9 - How To**
 
 1. Petty cash fund - *Expense account* => `Cash Short/Over`
-2. Internal Control for cash  
-   - Protect your cash by using checking accounts.  
-   - For maximum control, *all* payments should be made by check except small amount using petty cash.
-3. Writing, endorsing, and preparing bank checks, deposit slip, and maintaining a checkbook balance.    
-4. Reconcile bank statements **MONTHLY** - Most differences are (usually) due to "deposits in transit", "outstanding checks", and "bank service charges."
+2. Protect your cash by using checking accounts, *all* payments should be made by check except small amount using petty cash.
+3. Reconcile bank statements **MONTHLY** - 
+4. Most differences are (usually) due to "deposits in transit", "outstanding checks", and "bank service charges."
 5. Record any adjusting entries required from the bank reconciliation.   
 6. Understand how businesses use online banking to receive and make cash payments.   
 
 ---
 
 
-### 1. Cash Shortfall or Overages
+### 1. Cash Shortfall or Overages 
 
-Cash Short or Over account is a temp. account used to record any cash discrepancies
+- Cash Register `Cash Short or Over` account is a temp. account used to record any discrepancies.
 
 |Register: Cash Short/Over|
 |:-:|
