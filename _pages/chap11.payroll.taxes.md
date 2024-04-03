@@ -9,7 +9,7 @@ title: J-Payroll Taxes
 ## Payroll Tax Expense & Liability Accounts
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
-Payroll~ Taxes~ Expense \\
+Payroll~ Tax~ Expense \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
 S. S.~ Tax~ Payable \\
 Medicare~ Tax~ Payable \\
