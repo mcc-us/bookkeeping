@@ -11,7 +11,7 @@ layout: post
 
 **4 Steps**    
 
-1. **Debit Revenu**e**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit Income Summary**  
+1. **Debit Revenue**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit Income Summary**  
 2. **Debit Income Summary**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit All Expenses**  
 3. **Transfer Income Summary (Net Gain or Loss) to the Owner’s Capital**  
 4. **Debit Owner’s Capital**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit Drawings**  
