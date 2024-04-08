@@ -52,7 +52,7 @@ title: H-Cash
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
 
-**Replenishing the Fund**
+**Replenishing Petty Cash Fund**
 
 1. Total the columns on the petty cash analysis sheet.   
 2. Total vouchers/receipts **+** cash on hand should **=** the amount of the fund, $(15.25 + 159.75 = 175.00)$.   
