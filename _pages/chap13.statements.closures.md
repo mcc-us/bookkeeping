@@ -87,10 +87,11 @@ test
 
 #### Plant & Equipment
 
-Asset
-- (accumulated depreciation)
-==
-Book value
+|Plant & Equipment||
+|-|:-|
+||Asset|
+|-|(accumulated depreciation)|
+|=|Book value|
 
 
 
