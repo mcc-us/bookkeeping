@@ -30,9 +30,9 @@ title: L-Financial Statements and Closing Procedures
 |=|**Net sales**|
 
 
-### Cost Of Goods Calculation
+### Cost Of Goods Calculation, COGS
 
-|Cost Of Goods||
+|Net delivered cost of purchases||
 |-|:-|
 ||Purchases|
 |+|Freight in|
@@ -44,13 +44,26 @@ title: L-Financial Statements and Closing Procedures
 
 |Cost Of Goods Sold||
 |-|:-|
-||Beginning merch Invenmtory|
-|+|Net delivered cost of purchases|
-|=||
-||total merch avaiable for sale|
+||Beginning merch Inventory|
+|+|Net delivered cost of purchases, See Above|
 |-|(Ending merch inventory)|
-|=||
-||Cost Of Goods Sold|
+|=|Cost Of Goods Sold|
+
+**OR**
+
+|Cost Of Goods||
+|-|:-|
+||Beginning Inventory|
+|+|Purchases during period|
+|-|Ending Inventory|
+|=|COGS|
+
+[**See Investopedia.com**](https://www.investopedia.com/terms/c/cogs.asp#toc-formula-and-calculation-of-cost-of-goods-sold-cogs)
+- COGS includes all of the costs and expenses directly related to the production of goods.
+- COGS excludes indirect costs such as overhead + sales + marketing.
+- COGS is deducted from revenues (sales) in order to calculate gross profit and gross margin. Higher COGS results in lower margins.
+- The value of COGS will change depending on the accounting standards used in the calculation.
+- COGS differs from operating expenses (OPEX) in that OPEX includes expenditures that are not directly tied to the production of goods or service.
 
 
 #### Gross Profit
@@ -69,6 +82,18 @@ title: L-Financial Statements and Closing Procedures
 ||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipement exp, also called wharehouse exps.*|
 |+|Gen Administrative Exp|
 |=|**Total Operating Exp**|
+
+**Common examples of OPEX**:
+
+1. **Selling Expenses**: Costs associated with marketing, advertising, and selling your products or services. Examples include sales commissions, marketing materials, and salaries for salespeople.
+   
+2. **General & Administrative Expenses (G&A)**: These are ongoing costs required to run the overall business, not directly tied to production. Examples include rent, utilities, office supplies, salaries for administrative staff, and accounting fees.
+
+3. **Research & Development (R&D)**: This includes expenses related to developing new products or services. Examples include salaries for R&D personnel, materials used in prototyping, and patent filing fees.
+
+4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.
+
+OPEX includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, but excludes the direct costs of making the products or providing the services you sell (reflected in COGS).
 
 
 #### Net Income/Loss Of Operations
