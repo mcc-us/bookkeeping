@@ -5,6 +5,14 @@ tags: reporting
 ---
 
 
+### Basics
+
+1. Revenue + Gains - Expenses - Losses = Net Income/Loss
+
+2. Begining Balance + Investments - Distributions = Ending Balalnces
+
+3. Revenue (Sales, Fees Earned) - Expenses = Operating Profit
+
 ### Liquidity Ratios
 
 1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
