@@ -4,28 +4,22 @@ title: I-Payroll
 --- 
 
 
-**Chap 10 - How To**
+**Chap 10 - Payroll**
 
-1. Explain significant Federal laws relating to employee earnings and withholding. Several federal laws affect payroll:
+1. Federal Wage & Hour Law limits 40 hours per week
 
-- The Federal Wage and Hour Law limits the number of hours per week a non-exempt employee can work at the regular pay rate, to 40 hours. Greater than 40 hours per week, an employer involved in interstate commerce must pay one and one-half times the regular rate.
+2. Overtime = 1.5 x hourly (By law)
 
-- Federal laws require that the employer withhold at least three taxes from the employee's pay: 
-  1. the employee's share of social security tax, 
-  2. the employee's share of Medicare tax, and 
-  3. federal income tax. 
+3. Social security tax = 6.2%, *Paid by both Employer and Employee, Maxes out @ $142,800*
 
-- Instructions for computing these taxes are provided by the government.
+4. Medicare tax = 1.45%
 
-- If required, state disability and other income taxes can also be deducted. 
+5. Federal laws require that the employer withhold at least three taxes from the employee's pay: 
+  1. Social security tax = 6.2%, 
+  2. Medicare tax = 1.45%,  
+  3. Federal income tax. 
 
-- Other deductions may include court orders for various items.
 
-- Voluntary deductions can also be made.
-
-2. Compute gross earnings - To compute gross earnings for an employee, it is necessary to know whether the employee is paid using an hourly rate basis, a salary basis, a commission basis, or a piece-rate basis.
-
-3. Determine employee deductions for social security tax - Social security tax is levied equally on both the employer and the employee. It is a percentage of the employee's gross wages up to a maximum wage base limit during a calendar year.
 
 4. Determine employee deductions for Medicare tax - The Medicare tax is levied equally on both the employer and the employee. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals: The business does not match the amount.
 
