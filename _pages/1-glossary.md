@@ -113,125 +113,127 @@ title: Glossary
     
 51. *GAAP*: Generally accepted accounting principles, a set of ethical and practical guidelines.
 
-52. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. **The first book for all transactions**.   
-
-53. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business**.     
+52. *Gains*: Increases in a company's wealth from non-core business activities, such as selling assets at a profit. 
     
-54. *Income Statement*: Consists of **Only Revenue and Expense accounts**, aka: Statement of Operations, Profit and Loss Statement     
+53. *General Journal*: The chronological record of all transactions before they are categorized and distributed to individual accounts. **The first book for all transactions**.   
 
-55. *Income Summary*: A particular owner's equity account that is used only in the closing process to summarize the results of operations
+54. *General Ledger*: The central accounting record containing individual accounts for assets, liabilities, equity, income, and expenses. **The diary of a business**.     
+    
+55. *Income Statement*: Consists of **Only Revenue and Expense accounts**, aka: Statement of Operations, Profit and Loss Statement     
+
+56. *Income Summary*: A particular owner's equity account that is used only in the closing process to summarize the results of operations
    
-56. *Intangible Assets*: Businesses pigeonhole intangible assets into two main categories **Identifiable and Unidentifiable**.
+57. *Intangible Assets*: Businesses pigeonhole intangible assets into two main categories **Identifiable and Unidentifiable**.
     1. An **identifiable intangible** asset may be a patent, copyright, trademark, algorithm, or domain name that can be bought or sold. Therefore, it can be separated from a business.
     2. An **unidentifiable intangible** asset can't be separated from a business. That means a company can't buy or sell an unidentifiable asset. Unidentifiable assets include brand recognition, corporate reputation, client relationships, and lists.
 
-57. *Internal Control*: Policies/procedures implemented to safeguard assets, ensure accurate financial records, and comply with laws and regulations.   
+58. *Internal Control*: Policies/procedures implemented to safeguard assets, ensure accurate financial records, and comply with laws and regulations.   
    
-58. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry, **Record of first entry**.   
+59. *Journal*: A formal record of financial transactions in chronological order, typically with debits and credits for each Entry, **Record of first entry**.   
 
-59. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles, **Putting transactions into words & numbers**.   
+60. *Journalizing*: Analyzing and recording transactions in a journal using debits and credits according to accounting principles, **Putting transactions into words & numbers**.   
     
-60. *List of approved suppliers*: Used as an internal control.   
+61. *List of approved suppliers*: Used as an internal control.   
 
-61. *List price*: The suggested or manufacturer's recommended retail price for a product.
+62. *List price*: The suggested or manufacturer's recommended retail price for a product.
 
-62. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal, **Record of final entry**.   
+63. *Ledger*: A collection of individual accounts categorized by function (assets, liabilities, equity, income, expenses) that records the balances and activity details of each Account based on entries in the general journal, **Record of final entry**.   
     
-63. *Manufacturing business*: A business that sells goods that it has produced
+64. *Manufacturing business*: A business that sells goods that it has produced
    
-64. *Merchandising business*: A business that sells goods purchased for resale   
+65. *Merchandising business*: A business that sells goods purchased for resale   
 
-65. *Merchandise inventory*: Goods a merchandising business holds for resale, typically purchased from a supplier.
+66. *Merchandise inventory*: Goods a merchandising business holds for resale, typically purchased from a supplier.
 
-66. *Net sales*: The total revenue from sales after subtracting sales returns, allowances, and discounts.
+67. *Net sales*: The total revenue from sales after subtracting sales returns, allowances, and discounts.
     
-67. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
+68. *Net30*: The most common payment term is Net 30. A Net 30 payment term means the merchant expects the buyer to make payment in full within 30 days of the invoice date. Other common invoice payment terms are Net 60, 1/10 Net 30 (1/10, n/30) and Due on receipt, [QBO-Net30](https://quickbooks.intuit.com/r/e-commerce/what-do-net30-and-other-invoice-payment-terms-mean/)
 
-68. *Non-Current Asset*: A non-current (or long-term) asset is a resource a company expects to use, sell, or convert to cash in longer than one year.
+69. *Non-Current Asset*: A non-current (or long-term) asset is a resource a company expects to use, sell, or convert to cash in longer than one year.
     
-69. *Normal Balance*: The normal balance of an account is its **increase** side.  
+70. *Normal Balance*: The normal balance of an account is its **increase** side.  
 
-70. *Open-account credit*: A system allowing customers to purchase goods or services with a promise to pay later. 
+71. *Open-account credit*: A system allowing customers to purchase goods or services with a promise to pay later. 
 
-71. *Periodic inventory system*: Inventory levels are only physically counted and updated periodically, often at the end of an accounting period.
+72. *Periodic inventory system*: Inventory levels are only physically counted and updated periodically, often at the end of an accounting period.
 
-72. *Permanent Account*: Accounts carried over to the next accounting period reflect long-term financial standing **assets, liabilities, and equity**. 
+73. *Permanent Account*: Accounts carried over to the next accounting period reflect long-term financial standing **assets, liabilities, and equity**. 
 
-73. *Perpetual inventory system*: A system that continuously tracks inventory on hand through real-time updates after each sale or purchase.  
+74. *Perpetual inventory system*: A system that continuously tracks inventory on hand through real-time updates after each sale or purchase.  
 
-74. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
+75. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.   
    
-75. *Posting*: Transferring recorded transactions from the journal to individual accounts in the  ledger. **Posting = transfers data from journal to ledger**.     
+76. *Posting*: Transferring recorded transactions from the journal to individual accounts in the  ledger. **Posting = transfers data from journal to ledger**.     
    
-76. *Post-closing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
+77. *Post-closing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
 
-77. *Purchase allowance*: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
+78. *Purchase allowance*: A reduction in the invoice price of goods purchased due to factors like damage, defects, or incorrect quantities.
 
-78. *Purchase invoice*: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
+79. *Purchase invoice*: A document sent by a seller to a buyer that details the items purchased, their quantities, and the total amount due.
 
-79. *Purchase order*: A formal document sent by a buyer to a seller that specifies the items to be purchased, their quantities, and the agreed-upon price.
+80. *Purchase order*: A formal document sent by a buyer to a seller that specifies the items to be purchased, their quantities, and the agreed-upon price.
 
-80. *Purchase requisition*: An internal document used by a department within a company to request the purchase of goods or services.
+81. *Purchase requisition*: An internal document used by a department within a company to request the purchase of goods or services.
 
-81. *Purchase return*: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
+82. *Purchase return*: The return of goods to a seller by a buyer, typically due to damage, defects, or incorrect quantities.
 
-82. *Purchases account*: A general ledger account that records the total cost of goods purchased by a business during a specific period.
+83. *Purchases account*: A general ledger account that records the total cost of goods purchased by a business during a specific period.
 
-83. *Purchases discount*: A reduction in the price of goods purchased received by a buyer for paying their bill early.
+84. *Purchases discount*: A reduction in the price of goods purchased received by a buyer for paying their bill early.
 
-84. *Purchases Returns & Allowances account*: A general ledger account used to record purchase allowances and purchase returns.
+85. *Purchases Returns & Allowances account*: A general ledger account used to record purchase allowances and purchase returns.
 
-85. *Receiving report*: A document used to document the quantity and condition of goods received from a supplier.
+86. *Receiving report*: A document used to document the quantity and condition of goods received from a supplier.
 
-86. *Sales discount*: A reduction in the price of a good or service offered by a seller to a customer for paying their bill promptly.
+87. *Sales discount*: A reduction in the price of a good or service offered by a seller to a customer for paying their bill promptly.
 
-87. *Sales invoice*: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
+88. *Sales invoice*: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
 
-88. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
+89. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
 
-89. *Quick Assets*:   
+90. *Quick Assets*:   
     1. **Q.A. = TCA - Inventory - PE**, where TCA = Total current assets, PE = Prepaid expenses​   
     2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
 
-90. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
+91. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
 
-91. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
+92. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-92. *Sales allowance*: A reduction in the price of goods or services granted to a customer, usually for damaged items or dissatisfaction.   
+93. *Sales allowance*: A reduction in the price of goods or services granted to a customer, usually for damaged items or dissatisfaction.   
 
-93. *Sales Discounts*: A reduced amount for an invoice that is offered to customers who pay early. (Contra revenue account)
+94. *Sales Discounts*: A reduced amount for an invoice that is offered to customers who pay early. (Contra revenue account)
 
-94. *Sales return*: The physical return of previously purchased goods to the seller for a refund or exchange.
+95. *Sales return*: The physical return of previously purchased goods to the seller for a refund or exchange.
 
-95. *Sales Returns and Allowances*: A contra revenue account combining sales returns and allowances to calculate net sales.
+96. *Sales Returns and Allowances*: A contra revenue account combining sales returns and allowances to calculate net sales.
 
-96. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.
+97. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.
 
-97. *Schedule of accounts payable*: A list of all balances owed to creditors
+98. *Schedule of accounts payable*: A list of all balances owed to creditors
 
-98. *Service business*: A business that sells services
+99.  *Service business*: A business that sells services
 
-99. *Schedule of Accounts Receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
+100. *Schedule of Accounts Receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
    
-100. *Slide*: An accidental movement of a decimal point.   
+101. *Slide*: An accidental movement of a decimal point.   
 
-101. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+102. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-102. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+103. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-103. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
+104. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
    
-104. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+105. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-105. *Trade discount*: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
+106. *Trade discount*: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
    
-106. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+107. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-107. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
+108. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
 
-108. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
+109. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
     1.  Prepaid rent: rent payed in advance for several months,  
     2.  Tuition fees: When a student pays tuition for a semester before classes begin,  
     3.  Advance payment for services: When a client pays a consultant or contractor upfront for a project not yet completed.
 
-109. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+110. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
