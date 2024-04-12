@@ -3,6 +3,14 @@ layout: post
 title: B-Basic Reporting
 ---
 
+**Common Procedure for Financial Statements:**
+
+1. [Income Statement](#1-Income-Statement)
+2. Statement of Equity
+3. Trail Balance -> Adjustments -> Adjusted Balance
+4. Statement of Cash Flow
+5. Income Statements Vs Cash Flow Statements
+
 
 ### 1. Income Statement
 
@@ -115,34 +123,7 @@ For the Year Ending Dec. 31, 2024
 
 ---
 
-### 3. Balance Sheet
-
-
-
-> **A = L + E**:<br>
-> Asset = Liabilities + Equity
-{: .block-tip }
-
-1. Display Current Assets & Long-term Assets  
-2. Display Current Liabilities & Long-term Liabilities   
-3. Include Equity from Statement of Equity  
-
-> Include Drawings PRE-CLOSING
-{: .block-tip }
-
-> Expenses NOT Included
-{: .block-danger }
-
-**Example Report**
-
-> Reports NEED: Who, What, When (On Day / Date Time)
-{: .block-tip }
-
-![](/assets/misc/Balance-Sheet-Template-03.jpg)
-
----
-
-### 4. Trial Balances
+### 3A. Trial Balances
 
 
 **Purpose:**    
@@ -173,8 +154,35 @@ For the Year Ending Dec. 31, 2024
 |:-:|
 |![](/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
+---
 
-**Rules for Presentation:**
+### 3B. Balance Sheet
+
+
+> **A = L + E**:<br>
+> Asset = Liabilities + Equity
+{: .block-tip }
+
+1. Display Current Assets & Long-term Assets  
+2. Display Current Liabilities & Long-term Liabilities   
+3. Include Equity from Statement of Equity  
+
+> Include Drawings PRE-CLOSING
+{: .block-tip }
+
+> Expenses NOT Included
+{: .block-danger }
+
+**Example Report**
+
+> Reports NEED: Who, What, When (On Day / Date Time)
+{: .block-tip }
+
+![](/assets/misc/Balance-Sheet-Template-03.jpg)
+
+---
+
+### 3C. Rules for Presenting Balances
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
    - Cash first
@@ -208,12 +216,12 @@ For the Year Ending Dec. 31, 2024
 6. **Communication Tool**: The trial balance can be used as a communication tool for stakeholders like managers, investors, or auditors. It provides a concise overview of the company's financial standing, facilitating discussions and decision-making.
 
 
-### Statement of Cash Flows
+### 4. Statement of Cash Flows
 
 Statement of cash flows is a statement that lists the cash inflows and outflows for the business for a period of time.
 
 
-### Income Statements Vs Cash Flow Statements
+### 5. Income Statements Vs Cash Flow Statements
 
 The income statement and statement of cash flow are both important financial statements, but they provide different information:
 
