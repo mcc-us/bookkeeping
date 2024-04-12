@@ -5,11 +5,16 @@ layout: post
 
 **Chap 6 - How To**
 
-> #### R.E.I.D. = Revenue + Expenses -> Income Summary + Drawings -> Capital
+> #### REID = Revenue + Expenses -> Income Summary + Drawings -> Capital
 {: .block-tip }
 
+1. Revenue
+2. Expenses
+3. Income Summary
+4. Drawings
 
-**4 Steps**    
+
+**Ledger Account**    
 
 1. **Debit Revenue**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit Income Summary**  
 2. **Debit Income Summary**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit All Expenses**  
