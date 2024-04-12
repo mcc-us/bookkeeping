@@ -89,17 +89,17 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 1. Have only designated employees receive and handle cash whether it consists of checks and money orders, or currency and coins. These employees should be carefully chosen for reliability and accuracy and should be carefully trained. In some businesses, employees who handle cash are bonded. Bonding is the process by which employees are investigated by an insurance company. Employees who pass the background check can be bonded; that is, the employer can purchase insurance on the employees. If the bonded employees steal or mishandle cash, the business is insured against the loss.
 
-1. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
+2. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
 
-2. Make a record of all cash receipts as the funds come into the business. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
+3. Make a record of all cash receipts as the funds come into the business. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
 
-3. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
+4. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
 
-1. Deposit cash receipts in the bank promptly—every day or several times a day. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
+5. Deposit cash receipts in the bank promptly—every day or several times a day. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
 
-1. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
+6. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
 
-1. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
+7. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
 
@@ -132,11 +132,9 @@ Endorsement - A written authorization that transfers ownership of a check ???
 Restrictive endorsement - A signature that transfers a check to a specific party for a stated purpose
 
 
-
 Post Dated check Info?
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
-
 
 
 ### 6. Reconciling Checking Accounts
@@ -148,7 +146,9 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 
 ---
 
+
 ### 7. Chapter Questions
+
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)

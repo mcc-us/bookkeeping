@@ -13,6 +13,7 @@ title: B-Basic Reporting
 - [4. Statement of Cash Flows](#4-statement-of-cash-flows)
 - [5. Income Statements Vs Cash Flow Statements](#5-income-statements-vs-cash-flow-statements)
 
+---
 
 ### 1. Income Statement
 
@@ -55,6 +56,7 @@ For the Year Ending Dec. 31, 2024
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
 ---
+
 
 ### 2. Statement of Equity
 
@@ -125,6 +127,7 @@ For the Year Ending Dec. 31, 2024
 
 ---
 
+
 ### 3A. Trial Balances
 
 
@@ -158,6 +161,7 @@ For the Year Ending Dec. 31, 2024
 
 ---
 
+
 ### 3B. Balance Sheet
 
 
@@ -184,7 +188,9 @@ For the Year Ending Dec. 31, 2024
 
 ---
 
+
 ### 3C. Rules for Presenting Balances
+
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
    - Cash first
@@ -220,10 +226,12 @@ For the Year Ending Dec. 31, 2024
 
 ### 4. Statement of Cash Flows
 
+
 Statement of cash flows is a statement that lists the cash inflows and outflows for the business for a period of time.
 
 
 ### 5. Income Statements Vs Cash Flow Statements
+
 
 The income statement and statement of cash flow are both important financial statements, but they provide different information:
 
