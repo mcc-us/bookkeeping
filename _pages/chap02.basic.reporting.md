@@ -5,11 +5,13 @@ title: B-Basic Reporting
 
 **Common Procedure for Financial Statements:**
 
-1. [Income Statement](#1-Income-Statement)
-2. Statement of Equity
-3. Trail Balance -> Adjustments -> Adjusted Balance
-4. Statement of Cash Flow
-5. Income Statements Vs Cash Flow Statements
+- [1. Income Statement](#1-income-statement)
+- [2. Statement of Equity](#2-statement-of-equity)
+- [3A. Trial Balances](#3a-trial-balances)
+- [3B. Balance Sheet](#3b-balance-sheet)
+- [3C. Rules for Presenting Balances](#3c-rules-for-presenting-balances)
+- [4. Statement of Cash Flows](#4-statement-of-cash-flows)
+- [5. Income Statements Vs Cash Flow Statements](#5-income-statements-vs-cash-flow-statements)
 
 
 ### 1. Income Statement
