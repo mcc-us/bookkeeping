@@ -5,19 +5,19 @@ title: H-Cash
 
 **Chap 9 - How To**
 
-1. Petty cash fund - *Expense account* => `Cash Short/Over`
-2. Protect your cash by using checking accounts, *all* payments should be made by check except small amount using petty cash.
+1. Petty cash fund - *Expense account* => `Cash Short/Over`, `Cash Variance`  
+2. Protect cash by using checking accounts, *all* payments should use checks except small amount using petty cash.
 3. Reconcile bank statements **MONTHLY**   
-4. Most differences are (usually) due to "deposits in transit", "outstanding checks", and "bank service charges."
-5. Record any adjusting entries required from the bank reconciliation.   
-6. Understand how businesses use online banking to receive and make cash payments.   
+4. *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
+5. Record adjusting entries required from the bank reconciliation.   
+6. Knowledge of online banking basics.   
 
 ---
 
 
 ### 1. Cash Shortfall or Overages 
 
-- Cash Register `Cash Short or Over` account is a temp. account used to record any discrepancies.
+- Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
 
 |Register: Cash Short/Over|
 |:-:|
@@ -27,7 +27,7 @@ title: H-Cash
 
 ---
 
-### 2. Promissary notes
+### 2. Promissory notes
 
 
 *Promissory note* - A written promise to pay a specified amount of money on a specific date   
@@ -36,7 +36,7 @@ title: H-Cash
 
 ![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
-**Paying off promissary notes with interest**   
+**Paying off promissory notes with interest**   
 
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
@@ -91,11 +91,11 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 2. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
 
-3. Make a record of all cash receipts as the funds come into the business. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
+3. Record all cash receipts in and out. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
 
 4. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
 
-5. Deposit cash receipts in the bank promptly—every day or several times a day. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
+5. Deposit cash receipts in the bank promptly, *every day or several times a day*. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
 
 6. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
 
