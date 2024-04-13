@@ -55,6 +55,8 @@ For the Year Ending Dec. 31, 2024
 | SUBTRACT Total Expenses | | 44,000 |
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
+*Income Statements: Display Revenues & Expenses appear alphabetically.*
+
 ---
 
 

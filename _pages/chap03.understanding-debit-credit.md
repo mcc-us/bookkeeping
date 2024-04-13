@@ -9,9 +9,9 @@ title: C-Debit & Credits
 
 **In General**:
 
-- **DEBITS** (aka **Dr**) represent the flow of funds **To A Destination**
+- **DEBITS** (**Dr**) represent the flow of funds **To A Destination**
 
-- **CREDITS** (aka **Cr**) represent the flow of funds **From A Source**
+- **CREDITS** (**Cr**) represent the flow of funds **From A Source**
 
 It's important to understand that debits and credits represent **changes to specific accounts**, e.g. assets, liabilities, etc.
 
@@ -24,8 +24,14 @@ Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 
 Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. "*ALORE*" are the 5 main categories that transactions fall into.
 
-> **A L O R E = Assets, Liabilities, Owner Equity, Revenue, Expenses**
+> **D E A L E R = Divedends, Expenses, Assets, Liabilities, Equity, Revenue**
 {: .block-tip }
+
+| Debits: <br> Accounts ADD on Left |=| Credits: <br> Accounts ADD on Right |
+|:----------|:-:|:-|
+| **D**ividends + <br> **E**xpenses + <br> **A**ssets |=| **L**iabilities + <br> **E**quity + <br> **R**evenue |
+
+
 
 Every transaction has two components:
 - a debit side (on the left) and 
@@ -43,7 +49,7 @@ In accounting, Debit and Credit ONLY refer to the left or right side of a T-tabl
 | ![Example Entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)  |
 
 - Double-entry bookkeeping states that a transaction may effect 2 or more accounts. 
-  -  *For example*; when a business buys a car it may pay 10% with cash and the remainder with a bank loan. 
+  -  *For example*; Money comes from account & goes into another. 
  
 
 ---
