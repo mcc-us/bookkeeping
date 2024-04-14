@@ -196,34 +196,34 @@ For the Year Ending Dec. 31, 2024
 
 1. Balance sheet assets are arranged on the bases of liquidity. 
    - Cash first
-   - marketable securities, 
-   - accounts receivable, 
-   - supplies, 
-   - inventory, 
-   - prepaid items then 
-   - fixed assets (which appear in the order of longevity).     
+   - marketable securities,  
+   - accounts receivable,  
+   - supplies,  
+   - inventory,  
+   - prepaid items   
+   - fixed assets (which appear in the order of longevity)     
 
 2. Liability accounts appear based on their earliest due date.   
-   -  A/P appears first followed by 
-   -  bank notes payable and 
-   -  mortgages payable.   
+   -  A/P  
+   -  bank notes payable
+   -  mortgages payable   
 
 3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
 
 
 **Key benefits it offers:**
 
-1. **Verifies Accuracy**: The fundamental purpose of a trial balance is to check for mathematical errors in the accounting records. By ensuring the total debits equal the total credits, you gain confidence that the basic recording of transactions is correct. This saves time and effort compared to manually rechecking every entry.
+1. **Verifies Accuracy**: The purpose of a Trial-Balance is to check for mathematical errors. By ensuring the total debits equal the total credits, you gain confidence that transactions are recorded correctly. This saves time compared to manually rechecking every entry.
 
-2. **Identifies Potential Issues**: While a balanced trial balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, it indicates an error somewhere in your system, prompting you to investigate and rectify the issue before proceeding further.
+2. **Identifies Potential Issues**: While a balanced Trial-Balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, it indicates an error, prompting further investigation.
 
-3. **Provides Overview of Financial Position**: The trial balance summarizes the balances of all the accounts, offering a snapshot of the financial position at a specific point in time. You can quickly see your total assets, liabilities, equity, income, and expenses, gaining a high-level understanding of your business's financial health.
+3. **Provides Overview of Financial Position**: The Trial-Balance offers a snapshot of the `financial position` at a specific point in time. Seeing total assets, liabilities, equity, income, and expenses one gains a high-level understanding.
 
-4. **Aids in Financial Statement Preparation**: The trial balance forms the foundation for preparing financial statements such as the balance sheet and income statement. By having all the balances readily available, you can easily transfer them to the appropriate statements, saving time and ensuring consistency.
+4. **Aids in Financial Statement Preparation**: The Trial-Balance forms the foundation for preparing financial statements such as the balance sheet and income statement. By having all the balances readily available, you can easily transfer them to the appropriate statements, saving time and ensuring consistency.
 
-5. **Internal Control Tool**: Regularly preparing trial balances serves as a form of internal control. It promotes discipline and accuracy in daily bookkeeping and helps prevent errors and fraud from going undetected.
+5. **Internal Control Tool**: Regularly preparing Trial-Balance serves as a form of internal control. It promotes discipline and accuracy in daily bookkeeping and helps prevent errors and fraud from going undetected.
 
-6. **Communication Tool**: The trial balance can be used as a communication tool for stakeholders like managers, investors, or auditors. It provides a concise overview of the company's financial standing, facilitating discussions and decision-making.
+6. **Communication Tool**: The Trial-Balance can be used as a communication tool for stakeholders like managers, investors, or auditors. It provides a concise overview of the company's financial standing, facilitating discussions and decision-making.
 
 
 ### 4. Statement of Cash Flows
@@ -248,7 +248,7 @@ See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and
 
 **Statement of Cash Flow**:
 
-- Focus: Tracks the movement of cash in and out of the business over a specific period.
+- Focus: Tracks the `cash in & out` of the business over a specific period.
 - Records: Cash inflows from operating, investing, and financing activities, and cash outflows for the same categories.
 - Basis: **Uses a cash basis approach**, focusing on actual cash receipts and disbursements.
 - Example: In the previous scenario, the statement of cash flow wouldn't record the sale until the customer pays in cash.
