@@ -235,6 +235,12 @@ Statement of cash flows is a statement that lists the cash inflows and outflows 
 ### 5. Income Statements Vs Cash Flow Statements
 
 
+**In essence**:
+
+- The income statement shows how much money a company earned (profitability).
+- The statement of cash flow shows how much money a company has on hand (liquidity).
+
+
 The income statement and statement of cash flow are both important financial statements, but they provide different information:
 
 See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate](https://openstax.org/books/principles-financial-accounting/pages/2-1-describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate)
@@ -248,17 +254,14 @@ See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and
 
 **Statement of Cash Flow**:
 
-- Focus: Tracks the `cash in & out` of the business over a specific period.
+- Focus: Tracks the `cash in & out` of a business over a specific period.
 - Records: Cash inflows from operating, investing, and financing activities, and cash outflows for the same categories.
 - Basis: **Uses a cash basis approach**, focusing on actual cash receipts and disbursements.
 - Example: In the previous scenario, the statement of cash flow wouldn't record the sale until the customer pays in cash.
 
 **An analogy**:
 
-- Income Statement: Think of it like a company's scorecard for a game. It shows how many points (revenue) were scored and how many points (expenses) were given up, resulting in the final score (net income).
+- Income Statement: Think of it like a company's scorecard. It shows how many dollars (revenue) were acquired and number of dollars (expenses) were used up, resulting in the final net income.   
+
 - Statement of Cash Flow: Imagine the cash register tape for the game. It details all the cash received from ticket sales (operating inflow) and cash spent on refreshments (operating outflow) during the game.
 
-**In essence**:
-
-- The income statement shows how much money a company earned (profitability).
-- The statement of cash flow shows how much money a company has on hand (liquidity).
