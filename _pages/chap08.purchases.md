@@ -16,6 +16,8 @@ title: G-Purchases
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
 Freight \\
+Credit Card Exp \\
+Cost Of Goods \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
 Cash~ discount \\
 Purchase~ Discounts \\
@@ -107,8 +109,6 @@ WATCH this [Perpetual Inventory Accounting by Edspira](https://www.youtube.com/w
 ![](/assets/mc-graw-accounting-course/chap8.purchases/201.merch.inventory.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/203.merch.w.freight.png)
-
-![](/assets/mc-graw-accounting-course/chap8.purchases/207.cost.of.goods.acct.png)
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/208.cost.of.goods.transactions.png)
 

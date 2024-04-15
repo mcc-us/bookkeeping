@@ -15,9 +15,11 @@ title: H-Cash
 ---
 
 
-### 1. Cash Shortfall or Overages 
+### 1. Cash Sales & Cash Variance 
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
+
+![](/assets/mc-graw-accounting-course/chap9.cash/1a.cash.sales.png)
 
 |Register: Cash Short/Over|
 |:-:|
