@@ -61,7 +61,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ```
 <div class="pdf-container">
-    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" title="business-types-test" height="400" width="712" allowFullScreen="true">
+    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 ```

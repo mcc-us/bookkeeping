@@ -73,9 +73,14 @@ Example C.O.A. Numbering
 
 - Many small businesses may have ~250.  
 
-Other resources:   
+Other resources:  
+
 
 - [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)   
 - [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)   
 
 
+<div class="pdf-container">
+    <iframe src="/assets/misc/nahb-chart-of-accounts-2016.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
