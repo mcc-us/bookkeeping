@@ -17,19 +17,23 @@ Employee~ Income~ Tax~ Payable \\
 \end{bmatrix}} + Equity + Revenue$$
 
 
-# This NEEDS a Flowchart or timeline chart for Taxes
+# This NEEDS a chart??
 
 ## Terms
 
-- Employer's Annual Federal Unemployment Tax Return, Form 940
-- Employer's Quarterly Federal Tax Return, Form 941
-- experience rating system
-- merit rating system
-- Transmittal of Wage and Tax Statements, Form W-3
-- unemployment insurance program
-- Wage and Tax Statement, Form W-2
-- withholding statement
-- back period
+- Experience rating system: Adjusts insurance premiums based on a company's past history of claims (fewer claims = lower premiums).
+
+- Merit rating system: Rewards individual employees with lower insurance premiums based on their safety record or performance.
+
+- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W-2 (Wage and Tax Statement) to the Social Security Administration.
+
+- Unemployment insurance program: Government-funded program that provides temporary financial assistance to qualified workers who lose their jobs through no fault of their own.
+
+- Wage and Tax Statement, Form W-2: An annual form employers send to employees summarizing their wages, taxes withheld, and other earnings information for tax filing purposes.
+
+- Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W-2).
+
+- Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
 
