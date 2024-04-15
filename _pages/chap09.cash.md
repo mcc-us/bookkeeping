@@ -15,7 +15,19 @@ title: H-Cash
 ---
 
 
-### 1. Cash Sales & Cash Variance 
+### Petty Cash 
+
+
+**Opening a Petty Cash Act** requires a trasfer of funds from cash to petty cash.
+
+![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
+
+Petty Cash must have an **Analysis Sheet** to mark down purchases. 
+
+![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
+
+
+### Cash Sales & Cash Variance 
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
 
@@ -43,16 +55,6 @@ title: H-Cash
 ![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
-
-### 3. Petty Cash 
-
-
-**Opening a Petty Cash Act**   
-
-![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
-
-![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
-
 
 **Replenishing Petty Cash Fund**
 
