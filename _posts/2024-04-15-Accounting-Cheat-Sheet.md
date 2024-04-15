@@ -15,3 +15,13 @@ John Gillingham - Accounting Cheatsheet - COOL
     <iframe src="/assets/misc/2015-5-1-Learn_Debits_and_Credits__PDF2_John_Gillingham_all_rights_reserved.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
+
+
+
+General-Accounting-Cheat-Sheet
+
+<div class="pdf-container">
+    <iframe src="/assets/misc/2015-5-1-General-Accounting-Cheat-Sheet.pdf" 
+    height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
