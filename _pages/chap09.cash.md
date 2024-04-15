@@ -15,7 +15,7 @@ title: H-Cash
 ---
 
 
-### Petty Cash 
+### 1. Petty Cash 
 
 
 **Opening a Petty Cash Act** requires a trasfer of funds from cash to petty cash.
@@ -29,7 +29,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
 
-### Cash Sales & Cash Variance 
+### 2. Cash Sales & Cash Variance 
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
 
@@ -43,7 +43,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-### Promissory notes
+### 3. Promissory notes
 
 
 *Promissory note* - A written promise to pay a specified amount of money on a specific date   
@@ -77,10 +77,8 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 7. Keep all Receipts & Change
    
----
 
-### Cash Controls
-
+**MORE Cash Controls**
 
 Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations. 
 
@@ -111,7 +109,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 ---
 
-### 4. Banking Procedures
+### 5. Banking Procedures
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
@@ -121,7 +119,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 ![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
-### 5. Debit Cards
+### 6. Debit Cards
 
 Endorsement - A written authorization that transfers ownership of a check ???
 
@@ -143,7 +141,7 @@ Post Dated check Info?
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
 
-### 6. BANK RECONCILIATION
+### 7. BANK RECONCILIATION
 
 |Reconcilation Process|
 |:-|
@@ -162,7 +160,7 @@ Dishonored (NSF) check - A check returned to the depositor unpaid because of ins
 ---
 
 
-### 7. Chapter Questions
+### 8. Chapter Questions
 
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
