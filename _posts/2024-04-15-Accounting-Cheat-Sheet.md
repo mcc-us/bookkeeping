@@ -17,11 +17,10 @@ John Gillingham - Accounting Cheatsheet - COOL
 </div>
 
 
-
 General-Accounting-Cheat-Sheet
 
 <div class="pdf-container">
-    <iframe src="/assets/misc/2015-5-1-General-Accounting-Cheat-Sheet.pdf" 
+    <iframe src="/assets/misc/General-Accounting-Cheat-Sheet.pdf" 
     height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
