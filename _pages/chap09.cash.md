@@ -137,7 +137,16 @@ Post Dated check Info?
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
 
-### 6. Reconciling Checking Accounts
+### 6. BANK RECONCILIATION
+
+|Reconcilation Process|
+|:-|
+|$ Balance per bank|
+|ADD &nbsp;&nbsp;&nbsp;Deposits in transit|
+|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Outstanding checks|
+|ADD / SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Errors, fees, returned items|
+|**= Equals**|
+|$ Balance per books|
 
 
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
