@@ -20,6 +20,8 @@ title: H-Cash
 
 **Opening a Petty Cash Act** requires a trasfer of funds from cash to petty cash.
 
+**Replenshing Petty Cash is same as Opening**.
+
 ![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
 
 Petty Cash must have an **Analysis Sheet** to mark down purchases. 
@@ -31,17 +33,17 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
 
-![](/assets/mc-graw-accounting-course/chap9.cash/1a.cash.sales.png)
 
-|Register: Cash Short/Over|
-|:-:|
-|![](/assets/mc-graw-accounting-course/chap9.cash/1.cash.shortage.png)|
+
+|Cash Register Sales w/ Cash Short/Over|
+|:-|
+|![](/assets/mc-graw-accounting-course/chap9.cash/1a.cash.sales.png)|
 |![](/assets/mc-graw-accounting-course/chap9.cash/2.cash.overage.png)|
-|![](/assets/mc-graw-accounting-course/chap9.cash/3.cash.acts.png)|
+
 
 ---
 
-### 2. Promissory notes
+### Promissory notes
 
 
 *Promissory note* - A written promise to pay a specified amount of money on a specific date   
@@ -56,18 +58,12 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-**Replenishing Petty Cash Fund**
-
-1. Total the columns on the petty cash analysis sheet.   
-2. Total vouchers/receipts **+** cash on hand should **=** the amount of the fund, $(15.25 + 159.75 = 175.00)$.   
-3. Write a check to replenish the petty cash fund at the end of each month or sooner if the fund is low. *See RED box above*.   
-4. Prepare the journal entry to record the check.   
-
 
 ### 4. Internal Controls for Petty Cash  
 
 
-1. One person is in charge of the `petty cash analysis/sheet` fund & expenditures.  This person has sole control, and is the only one authorized to make payments to/from the fund.   
+1. **One person is in charge** of the `petty cash analysis/sheet` fund & expenditures.
+   1. This person has sole control, and is the only one authorized to make payments to/from the fund.   
 
 2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**   
 
@@ -79,31 +75,37 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 6. Use petty cash only for small payments where checks cannot be conveniently made.
 
-7. Keep all receipts
+7. Keep all Receipts & Change
    
 ---
 
 ### Cash Controls
 
-![](/assets/mc-graw-accounting-course/chap9.cash/14.cash.controls.png)
 
 Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations. 
 
 **The following are essential cash receipt controls:**
 
-1. Have only designated employees receive and handle cash whether it consists of checks and money orders, or currency and coins. These employees should be carefully chosen for reliability and accuracy and should be carefully trained. In some businesses, employees who handle cash are bonded. Bonding is the process by which employees are investigated by an insurance company. Employees who pass the background check can be bonded; that is, the employer can purchase insurance on the employees. If the bonded employees steal or mishandle cash, the business is insured against the loss.
+1. Have only designated employees receive and handle cash,
+   1. Consisting of checks and money orders, or currency and coins. 
 
-2. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
+2. Choose employees should be carefully chosen for reliability and accuracy and should be carefully trained.
+   1. Some businesses **bond** employees. Bonding is insuraning.
+   2. If the bonded employees steal or mishandle cash, the business is insured against the loss.
 
-3. Record all cash receipts in and out. For currency and coins, this record is the audit tape in a cash register or duplicate copies of numbered sales slips. The use of a cash register provides an especially effective means of control because the machine automatically produces a tape showing the amounts entered. This tape is locked inside the cash register until it is removed by a supervisor.
+3. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
 
-4. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
+4. The use of a cash register provides an effective means of control, 
+   1. Tape showing the amounts. 
+   2. Tape is locked inside the cash register until removed by a supervisor.
 
-5. Deposit cash receipts in the bank promptly, *every day or several times a day*. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
+5. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
 
-6. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
+6. Deposit cash receipts in the bank promptly, *every day or several times a day*. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
 
-7. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
+7. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
+
+8. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
 
