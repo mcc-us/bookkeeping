@@ -58,8 +58,26 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
+### 4. BANK RECONCILIATION
 
-### 4. Internal Controls for Petty Cash  
+|Step|Reconcilation Process|
+|-:|:-|
+|1|$ Balance per bank|
+|2|ADD &nbsp;&nbsp;&nbsp;Deposits in transit|
+|3|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Outstanding checks|
+|4|ADD / SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Errors, fees, returned items|
+|**= Equals**|
+|Final|$ Balance per books|
+
+
+Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
+
+![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
+
+
+---
+
+### 5. Internal Controls for Petty Cash  
 
 
 1. **One person is in charge** of the `petty cash analysis/sheet` fund & expenditures.
@@ -109,7 +127,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 ---
 
-### 5. Banking Procedures
+### 6. Banking Procedures
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
@@ -119,7 +137,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 ![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
-### 6. Debit Cards
+### 7. Debit Cards
 
 Endorsement - A written authorization that transfers ownership of a check ???
 
@@ -135,30 +153,7 @@ Endorsement - A written authorization that transfers ownership of a check ???
 
 Restrictive endorsement - A signature that transfers a check to a specific party for a stated purpose
 
-
-Post Dated check Info?
-
-![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
-
-
-### 7. BANK RECONCILIATION
-
-|Reconcilation Process|
-|:-|
-|$ Balance per bank|
-|ADD &nbsp;&nbsp;&nbsp;Deposits in transit|
-|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Outstanding checks|
-|ADD / SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Errors, fees, returned items|
-|**= Equals**|
-|$ Balance per books|
-
-
-Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
-
-???
-
 ---
-
 
 ### 8. Chapter Questions
 
