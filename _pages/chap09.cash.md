@@ -6,12 +6,12 @@ title: H-Cash
 **Chap 9 - How To**
 
 1. Petty cash fund - *Expense account* => `Cash Short/Over`, `Cash Variance`  
-2. Protect cash by using checking accounts, *all* payments should use checks except small amount using petty cash.
-3. Reconcile bank statements **MONTHLY**   
-4. *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
-5. Record adjusting entries required from the bank reconciliation.   
-6. Knowledge of online banking basics.   
-
+2. Cash register usage
+3. Reconcile bank statements **MONTHLY**
+   1. *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
+4. Record adjusting entries to ledger required from the bank reconciliation.   
+  
+  
 ---
 
 
