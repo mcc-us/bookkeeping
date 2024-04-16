@@ -58,7 +58,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-### 4. BANK RECONCILIATION
+### 4. BANK RECONCILIATION Process
 
 |Step|Reconcilation Process|
 |-:|:-|
@@ -73,6 +73,17 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
+
+**& Adjusting Financial Ledgers / Records**
+
+![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
+
+
+![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.steps.1st.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/23.recon.steps.2nd.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/25.more.cash.controls.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/26.banking.internal.controls.png)
+
 
 
 ---
