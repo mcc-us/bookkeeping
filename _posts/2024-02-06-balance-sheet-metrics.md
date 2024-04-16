@@ -1,7 +1,6 @@
 ---
 layout: post
-title: balance sheet metrics
-tags: 
+title: Example Balance Sheet Metrics
 --- 
 
 
