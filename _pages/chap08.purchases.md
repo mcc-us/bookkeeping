@@ -16,8 +16,7 @@ title: G-Purchases
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
 Freight \\
-Credit Card Exp \\
-Cost Of Goods \\
+Cost~ Of~ Goods \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
 Cash~ discount \\
 Purchase~ Discounts \\
