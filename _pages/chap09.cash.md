@@ -8,10 +8,10 @@ title: H-Cash
 1. Petty cash fund - *Expense account* => `Cash Short/Over`, `Cash Variance`  
 2. Cash register usage
 3. Reconcile bank statements **MONTHLY**
-   1. *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
+   - *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
 4. Record adjusting entries to ledger required from the bank reconciliation.   
   
-  
+
 ---
 
 
