@@ -58,15 +58,15 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-### 4. BANK RECONCILIATION Process
+### 4. Bank Reconciliation Process
 
 |Step|Reconcilation Process|
 |-:|:-|
 |1|$ Balance per bank|
-|2|ADD &nbsp;&nbsp;&nbsp;Deposits in transit|
+|2|ADD &nbsp;&nbsp;&nbsp;Deposits in transit \| Incorrect check charges|
 |3|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Outstanding checks|
-|4|ADD / SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Errors, fees, returned items|
-|**= Equals**|
+|4|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Bank Errors or Fees & returned items|
+|=|**Equals**|
 |Final|$ Balance per books|
 
 
