@@ -1,7 +1,6 @@
 ---
 layout: post
-title: adjusting entries worksheet
-tags: adjustments
+title: Adjusting Entries Worksheet, Example
 ---
 
 **Example Report**
