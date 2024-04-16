@@ -5,7 +5,7 @@ title: temporary v permanent accounts
 
 ## Key Differences:
 
-1. *Temporary accounts*: Measures short-term performance, usually <= year.   
+1. *Temporary accounts*: Measures short-term performance, usually <= year, commonly expenses or revenues.   
 
 2. *Permanent accounts*: Measures log-term performance, usually acts that carry over to subsequent periods.  
 
