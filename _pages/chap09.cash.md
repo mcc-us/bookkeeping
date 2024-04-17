@@ -33,12 +33,9 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 - Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
 
-
-
 |Cash Register Sales w/ Cash Short/Over|
 |:-|
-|![](/assets/mc-graw-accounting-course/chap9.cash/1a.cash.sales.png)|
-|![](/assets/mc-graw-accounting-course/chap9.cash/2.cash.overage.png)|
+|![](/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
 
 
 ---
@@ -70,7 +67,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 |Final|$ Balance per books|
 
 
-Dishonored (NSF) check - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called an NSF check
+- *Dishonored (NSF) check* - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called `NSF check`
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
