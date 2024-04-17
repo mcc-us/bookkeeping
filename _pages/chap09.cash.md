@@ -22,7 +22,7 @@ title: H-Cash
 
 **Replenshing Petty Cash is same as Opening**.
 
-![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/7.seting.up.petty.cash.png)
+![Opening a Petty Cash Act](/assets/mc-graw-accounting-course/chap9.cash/q3.exercises.png)
 
 Petty Cash must have an **Analysis Sheet** to mark down purchases. 
 
@@ -31,7 +31,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ### 2. Cash Sales & Cash Variance 
 
-- Cash Register `Cash Short or Over`, `Cash Variance` account is a temp. account used to record any discrepancies.
+- Cash Register `Cash Short or Over`, `Cash Variance` account is a temporary account used to record any discrepancies.
 
 |Cash Register Sales w/ Cash Short/Over|
 |:-|
@@ -66,12 +66,48 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 |=|**Equals**|
 |Final|$ Balance per books|
 
+---
 
-- *Dishonored (NSF) check* - A check returned to the depositor unpaid because of insufficient funds in the drawer’s account; also called `NSF check`
+![](/assets/mc-graw-accounting-course/chap9.cash/q4.exer.A.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q5.exer.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q6.exer.A.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/q6.exer.B.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q7.exer.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q8.exA.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/q8.exB.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q9.exA.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/q9.exer.A.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap9.cash/q10.exer.png)
+
+---
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
+
+
+
+
+<!--
 **& Adjusting Financial Ledgers / Records**
+
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
 
@@ -80,10 +116,12 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ![](/assets/mc-graw-accounting-course/chap9.cash/23.recon.steps.2nd.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/25.more.cash.controls.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/26.banking.internal.controls.png)
+-->
 
 
 
----
+
+
 
 ### 5. Internal Controls for Petty Cash  
 
@@ -147,21 +185,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 ### 7. Debit Cards
 
-Endorsement - A written authorization that transfers ownership of a check ???
 
-![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.png)
-
-
-![](/assets/mc-graw-accounting-course/chap9.cash/22.recon.steps.1st.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/23.recon.steps.2nd.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/25.more.cash.controls.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/26.banking.internal.controls.png)
-
-
-
-Restrictive endorsement - A signature that transfers a check to a specific party for a stated purpose
-
----
 
 ### 8. Chapter Questions
 
