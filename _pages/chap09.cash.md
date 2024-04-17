@@ -28,6 +28,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
 
 ### 2. Cash Sales & Cash Variance 
 
@@ -37,6 +38,11 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 |:-|
 |![](/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
 
+**A Balance found on:**
+
+|Debit (DR)|Credit (Cr)|
+|:-|:-|
+|**Expense** on Account|**Income** on Account|
 
 ---
 
