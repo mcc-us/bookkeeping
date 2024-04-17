@@ -78,7 +78,7 @@ Definitions from mcgraw-hill
 69. *Cash payments journal*: A special journal used to record transactions involving the payment of cash
 70. *Cash receipts journal*: A special journal used to record and post transactions involving the receipt of cash
 71. *Cash register proof*: A verification that the amount of currency and coins in a cash register agrees with the amount shown on the cash register audit tape
-72. *Cash Short or Over account*: An account used to record any discrepancies between the amount of currency and coins in the cash register and the amount shown on the audit tape
+72. *Cash Short or Over account*: An account used to record any discrepancies between the amount of currency and coins in the cash register and the amount shown on the audit tape - *See Also: Cash Variance*
 73. *Cashier’s check*: A draft on the issuing bank’s own funds
 74. *Certified Bookkeeper (CB)*: A designation that assures an individual possesses the level of knowledge and skill needed to carry out all key functions through the adjusted trial balance, including payroll
 75. *Certified public accountant (CPA)*: An independent accountant who provides accounting services to the public for a fee
@@ -159,8 +159,8 @@ Definitions from mcgraw-hill
 150. *Double-declining-balance (DDB) method*: A method of depreciation that uses a rate equal to twice the straight-line rate and applies that rate to the book value of the asset at the beginning of the year
 151. *Double-entry system*: An accounting system that involves recording the effects of each transaction as debits and credits
 152. *Draft*: A written order that requires one party (a person or business) to pay a stated sum of money to another party
-153. *Drawee*: The bank on which a check is written
-154. *Drawer*: The person or firm issuing a check
+153. **Drawee**: The bank on which a check is written
+154. **Drawer**: The person or firm issuing a check
 155. *Drawing account*: A special type of owner’s equity account set up to record the owner’s withdrawal of cash from the business
 156. *Economic entity*: A business or organization whose major purpose is to produce a profit for its owners
 157. *Electronic funds transfer (EFT)*: An electronic transfer of money from one account to another
