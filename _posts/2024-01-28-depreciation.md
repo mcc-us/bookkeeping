@@ -6,7 +6,7 @@ math: true
 ---
 
 
-**Depreciation** is the act of reducing a fixed (long-term, non-current) asset, and expensing the asset usage over time (months to years) due to 'wear, tear and obselence'.
+**Depreciation** is the act of reducing a fixed (long-term, non-current) asset, and expensing the asset usage over time (months to years) due to 'wear, tear and obsolesce'.
 
 Depreciating assets has significant income and tax implications in two key ways:
 
@@ -49,7 +49,7 @@ As found in [straight line depreciation - youtube](https://www.youtube.com/watch
 
 - Annual depreciation expense:
 
-= $\Large \frac{(initial~ - salvage~ value)}{(usefull  ~years)} = \frac{\$50k ~-~\$10k}{5 yr} =$ \$8k / yr
+= $\Large \frac{(initial~ - salvage~ value)}{(useful  ~years)} = \frac{\$50k ~-~\$10k}{5 yr} =$ \$8k / yr
 
 **Depreciable cost / year = $8,000**
 

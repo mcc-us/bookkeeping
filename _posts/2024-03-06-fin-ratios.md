@@ -9,7 +9,7 @@ tags: reporting
 
 1. Revenue + Gains - Expenses - Losses = Net Income/Loss
 
-2. Begining Balance + Investments - Distributions = Ending Balalnces
+2. Beginning Balance + Investments - Distributions = Ending Balances
 
 3. Revenue (Sales, Fees Earned) - Expenses = Operating Profit
 

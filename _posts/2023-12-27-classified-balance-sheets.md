@@ -8,7 +8,7 @@ title: Classified Balance Sheets
 
 1. **Balance Sheet**: summarizes a company's **assets, liabilities, and equity**. It lists each category (assets, liabilities, equity) with subtotals, but the details within each category might be limited.
 
-2. **Classified Balance Sheet**: lists subcategories of **assets, liabilities, equity**. Providing a more detialed undetrstanding.
+2. **Classified Balance Sheet**: lists subcategories of **assets, liabilities, equity**. Providing a more detailed understanding.
 
 ![](/assets/misc/classified.bs.png)
 

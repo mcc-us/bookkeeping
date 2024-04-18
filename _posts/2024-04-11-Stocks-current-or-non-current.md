@@ -10,7 +10,7 @@ Common stock is NOT considered a current or non-current asset. Common stock fall
 
 **Here's why**:
 
-- Current and Non-Current Assets: These categories represent resources a company owns and expects to convert into cash within a specific timeframe (typically one year) for current assets and longer than one year for non-current assets.
+- Current and Non-Current Assets: These categories represent resources a company owns and expects to convert into cash within a specific time frame (typically one year) for current assets and longer than one year for non-current assets.
 
 - Owner's Equity: This section reflects the claims of the owners on the company's assets. Common stock represents ownership shares in a corporation, and these shares don't translate directly into cash for the company itself.
 

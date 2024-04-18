@@ -7,7 +7,7 @@ tags: businessTypes
 
 We need to understand three major types of businesses. This tells the accountant or bookkeeper who is ultimately in charge of making decisions and who is liable for any costs and ownership. 
 
-> It is important to know who to ask for help and guiandance when issues regarding cash flow and managerial decisions are needed.
+> It is important to know who to ask for help and guidance when issues regarding cash flow and managerial decisions are needed.
 {: .block-danger }
 
 > Do not pierce the corporate veil.

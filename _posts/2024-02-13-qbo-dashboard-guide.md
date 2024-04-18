@@ -166,7 +166,7 @@ To Double check: Goto Chart of Accts by using Accounting on bottom left.
 
 
 38. Making sales to customers:
-   - Ex. you sell $100 receving cash
+   - Ex. you sell $100 receiving cash
    - DR Asset/cash 
    - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CR sales/revenue $100
    - On top right <+New>/
