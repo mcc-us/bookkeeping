@@ -26,8 +26,6 @@ title: H-Cash
 
 Petty Cash must have an **Analysis Sheet** to mark down purchases. 
 
-![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
-
 <img src="https://mcc-us.github.io/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png" width="75%" />
 
 ### 2. Cash Sales & Cash Variance 
