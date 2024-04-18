@@ -28,19 +28,13 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 <img src="https://mcc-us.github.io/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png" width="75%" />
 
-### 2. Cash Sales & Cash Variance 
+### 2. Cash Short/Over (Cash Variance)
 
-- Cash Register `Cash Short or Over`, `Cash Variance` account is a temporary account used to record any discrepancies.
+- Cash Register `Cash Short / Over`, `Cash Variance` account is a temporary account used to record any discrepancies.
 
 |Cash Register Sales w/ Cash Short/Over|
 |:-|
 |![](/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
-
-**A Balance found on:**
-
-|Debit (DR)|Credit (Cr)|
-|:-|:-|
-|**Expense** on Account|**Income** on Account|
 
 ---
 
