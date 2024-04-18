@@ -36,7 +36,7 @@ title: L-Financial Statements and Closing Procedures
 |-|:-|
 ||Purchases|
 |+|Freight in|
-|-|(purchases reutrns and allowances)|
+|-|(purchases returns and allowances)|
 |-|(Purchase discounts)|
 |=|**Net delivered cost of purchases**|
 
@@ -44,9 +44,9 @@ title: L-Financial Statements and Closing Procedures
 
 |Cost Of Goods Sold||
 |-|:-|
-||Beginning merch Inventory|
+||Beginning merchandise Inventory|
 |+|Net delivered cost of purchases, See Above|
-|-|(Ending merch inventory)|
+|-|(Ending merchandise inventory)|
 |=|Cost Of Goods Sold|
 
 **OR**
@@ -79,7 +79,7 @@ title: L-Financial Statements and Closing Procedures
 
 |Operating Expenses||
 |-|:-|
-||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipement exp, also called wharehouse exps.*|
+||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipment exp, also called warehouse exps.*|
 |+|Gen Administrative Exp|
 |=|**Total Operating Exp**|
 
@@ -117,9 +117,5 @@ test
 ||Asset|
 |-|(accumulated depreciation)|
 |=|Book value|
-
-
-
-
 
 

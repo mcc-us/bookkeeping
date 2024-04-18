@@ -19,7 +19,7 @@ title: B-Basic Reporting
 
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
-> Net Income/Loss <- Revenue - Expenses  
+> Net Income/Loss = Revenue - Expenses  
 {: .block-tip }
 
 
@@ -64,7 +64,7 @@ For the Year Ending Dec. 31, 2024
 
 
 > **Equity** =   
-> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawls
+> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals
 {: .block-tip }
 
 **Four key components**
@@ -91,7 +91,7 @@ For the Year Ending Dec. 31, 2024
 |2. ADD: Retained Earning at beginning of period|
 |3.  +/- Net Income/Loss|
 |4.  +/- Common shares bought/sold|
-|5. SUBTRACT: Dividends & Drawings (Owner Withdrawls)|
+|5. SUBTRACT: Dividends & Drawings (Owner Withdrawals)|
 
 ---
 

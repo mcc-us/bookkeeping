@@ -22,9 +22,9 @@ Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 ### 2. Double-Entry Bookkeeping
 
 
-Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*. "*ALORE*" are the 5 main categories that transactions fall into.
+Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*.
 
-> **D E A L E R = Divedends, Expenses, Assets, Liabilities, Equity, Revenue**
+> **D E A L E R = Dividends, Expenses, Assets, Liabilities, Equity, Revenue**
 {: .block-tip }
 
 | Debits: <br> Accounts ADD on Left |=| Credits: <br> Accounts ADD on Right |

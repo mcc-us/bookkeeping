@@ -32,11 +32,9 @@ title: Glossary
    
 13. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
-14. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period.     
+14. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period.
 
-15. *ALORE*: = Assets, Liabilities, Owner's Equity, Revenue, Expenses   
-
-16. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.       
+15. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.       
 
 17. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 

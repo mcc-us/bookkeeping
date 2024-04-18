@@ -18,7 +18,7 @@ title: H-Cash
 ### 1. Petty Cash 
 
 
-**Opening a Petty Cash Act** requires a trasfer of funds from cash to petty cash.
+**Opening a Petty Cash Act** requires a transfer of funds from cash to petty cash.
 
 **Replenshing Petty Cash is same as Opening**.
 
@@ -53,17 +53,17 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 **Lending Money**   
 
-![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
+![4.entry.of.promissory.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
 **Paying off promissory notes with interest**   
 
-![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
+![5.paying.off.promissory.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
 ### 4. Bank Reconciliation Process
 
-|Step|Reconcilation Process|
+|Step|Reconciliation Process|
 |-:|:-|
 |1|$ Balance per bank|
 |2|ADD &nbsp;&nbsp;&nbsp;Deposits in transit \| Incorrect check charges|
@@ -158,7 +158,7 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
    1. Consisting of checks and money orders, or currency and coins. 
 
 2. Choose employees should be carefully chosen for reliability and accuracy and should be carefully trained.
-   1. Some businesses **bond** employees. Bonding is insuraning.
+   1. Some businesses **bond** employees. Bonding is insuring a person.
    2. If the bonded employees steal or mishandle cash, the business is insured against the loss.
 
 3. Keep cash receipts in a cash register, a locked cash drawer, or a safe.

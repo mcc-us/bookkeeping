@@ -117,7 +117,7 @@ Time on video 22:50
 ### 7.4 Post from the journal to the ledger accounts and to the subsidiary ledger.
 
 - Transactions are posted from the journal to the ledger accounts as discussed in Chapter 4. 
-- The accounts of individual credit customers are kept in a subsidiary ledger called the **Accounts Receivable Ledger**. Daily postings are made to this ledger from the general journal. ‘The balance of each customer's account is computed after eash posting so that the amount owed is known at all times.
+- The accounts of individual credit customers are kept in a subsidiary ledger called the **Accounts Receivable Ledger**. Daily postings are made to this ledger from the general journal. ‘The balance of each customer's account is computed after each posting so that the amount owed is known at all times.
 
 ### 7.5 Prepare a schedule of accounts receivable.
 
