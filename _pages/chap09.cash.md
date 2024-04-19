@@ -11,12 +11,14 @@ title: H-Cash
    - *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."
 4. Record adjusting entries to ledger required from the bank reconciliation.   
   
+
 ---
+
 
 ### 1. Petty Cash 
 
 
-**Opening a Petty Cash Act** requires a transfer of funds from cash to petty cash.
+**Opening a Petty Cash Act** requires a trasfer of funds from cash to petty cash.
 
 **Replenshing Petty Cash is same as Opening**.
 
@@ -24,16 +26,22 @@ title: H-Cash
 
 Petty Cash must have an **Analysis Sheet** to mark down purchases. 
 
-<img src="https://mcc-us.github.io/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png" width="75%" />
+![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
-### 2. Cash Short/Over (Cash Variance)
 
-- Cash Register `Cash Short / Over`, `Cash Variance` account is a temporary account used to record any discrepancies.
+### 2. Cash Sales & Cash Variance 
+
+- Cash Register `Cash Short or Over`, `Cash Variance` account is a temporary account used to record any discrepancies.
 
 |Cash Register Sales w/ Cash Short/Over|
-|:-:|
+|:-|
 |![](/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
-**Cash Till - Tape**|
+
+**A Balance found on:**
+
+|Debit (DR)|Credit (Cr)|
+|:-|:-|
+|**Expense** on Account|**Income** on Account|
 
 ---
 
@@ -44,18 +52,17 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 **Lending Money**   
 
-![4.entry.of.promissory.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
+![4.entry.of.promissary.note.png](/assets/mc-graw-accounting-course/chap9.cash/4.entry.of.promissary.note.png)
 
 **Paying off promissory notes with interest**   
 
-![5.paying.off.promissory.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
+![5.paying.off.promissary.notes.w.interest](/assets/mc-graw-accounting-course/chap9.cash/5.paying.off.promissary.notes.w.interest.png)
 
 ---
 
 ### 4. Bank Reconciliation Process
-21:35
 
-|Step|Reconciliation Process|
+|Step|Reconcilation Process|
 |-:|:-|
 |1|$ Balance per bank|
 |2|ADD &nbsp;&nbsp;&nbsp;Deposits in transit \| Incorrect check charges|
@@ -66,45 +73,41 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-**Question 4**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q4.exer.A.png)
 
 ---
 
-**Question 5**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q5.exer.png)
 
 ---
 
-**Question 6**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q6.exer.A.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/q6.exer.B.png)
 
 ---
 
-**Question 7**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q7.exer.png)
 
 ---
 
-**Question 8**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q8.exA.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/q8.exB.png)
 
 ---
 
-**Question 9**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q9.exA.png)
 ![](/assets/mc-graw-accounting-course/chap9.cash/q9.exer.A.png)
 
 ---
 
-**Question 10**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q10.exer.png)
 
 ---
 
-**Reconciliation Example**
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
+
+
+
 
 
 <!--
@@ -121,5 +124,83 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 -->
 
 
-See Also: [Internal Controls for Petty Cash](_posts/2024-04-18-cash-equivalents.md)   
+
+
+
+
+### 5. Internal Controls for Petty Cash  
+
+
+1. **One person is in charge** of the `petty cash analysis/sheet` fund & expenditures.
+   1. This person has sole control, and is the only one authorized to make payments to/from the fund.   
+
+2. Write petty cash fund checks to the person in charge of the fund, **NOT CASH.**   
+
+3. Limit the petty cash amount to cover ~1 month.
+
+4. Keep petty cash in a safe, a locked cash box, or a locked drawer.
+
+5. Obtain a petty cash voucher for each payment. The voucher should be signed by the person who receives the money and should show the payment details. This provides an audit trail for the fund.
+
+6. Use petty cash only for small payments where checks cannot be conveniently made.
+
+7. Keep all Receipts & Change
+   
+
+**MORE Cash Controls**
+
+Cash is most easily stolen, lost, or mishandled. It is important to protect all cash receipts to make sure that funds are available to pay expenses and other obligations. 
+
+**The following are essential cash receipt controls:**
+
+1. Have only designated employees receive and handle cash,
+   1. Consisting of checks and money orders, or currency and coins. 
+
+2. Choose employees should be carefully chosen for reliability and accuracy and should be carefully trained.
+   1. Some businesses **bond** employees. Bonding is insuraning.
+   2. If the bonded employees steal or mishandle cash, the business is insured against the loss.
+
+3. Keep cash receipts in a cash register, a locked cash drawer, or a safe.
+
+4. The use of a cash register provides an effective means of control, 
+   1. Tape showing the amounts. 
+   2. Tape is locked inside the cash register until removed by a supervisor.
+
+5. Before a bank deposit is made, check the funds to be deposited against the record made when the cash was received. The employee who checks the deposit is someone other than the one who receives or records the cash.
+
+6. Deposit cash receipts in the bank promptly, *every day or several times a day*. Deposit the funds intact—do not make payments directly from the cash receipts. The person who makes the bank deposit is someone other than the one who receives and records the funds.
+
+7. Enter cash receipts transactions in the accounting records promptly. The person who records cash receipts is not the one who receives or deposits the funds.
+
+8. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
+
+![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
+
+---
+
+### 6. Banking Procedures
+
+![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
+
+
+![](/assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
+
+
+### 7. Debit Cards
+
+
+
+### 8. Chapter Questions
+
+
+![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
+
+![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
+
+![](/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
+![](/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
 
