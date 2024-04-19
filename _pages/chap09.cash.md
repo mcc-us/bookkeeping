@@ -53,6 +53,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ---
 
 ### 4. Bank Reconciliation Process
+21:35
 
 |Step|Reconciliation Process|
 |-:|:-|
@@ -88,7 +89,6 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 **Question 8**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q8.exA.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/q8.exB.png)
 
 ---
 
@@ -103,7 +103,7 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
-**Reconcialiation Example**
+**Reconciliation Example**
 ![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
 
 
