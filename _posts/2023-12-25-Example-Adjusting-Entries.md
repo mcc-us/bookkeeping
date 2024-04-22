@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EXAMPLE Adjusting Worksheet
+title: EXAMPLE Adjusting Entries
 ---
 
 **Example Report**
