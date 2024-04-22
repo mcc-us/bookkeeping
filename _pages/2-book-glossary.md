@@ -8,7 +8,7 @@ Definitions from mcgraw-hill
 1.  *Absorption costing*: The accounting procedure whereby all manufacturing costs, including fixed costs, are included in the cost of goods manufactured
 1.  *Accelerated method of depreciation*: A method of depreciating an asset’s cost that allocates greater amounts of depreciation to an asset’s early years of useful life
 1.  *Account balance*: The difference between the amounts recorded on the two sides of an account, the **NET**.
-2.  *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner’s equity on the righ. See also: Report form balance sheet  
+2.  *Account form balance sheet*: A balance sheet that lists assets on the left and liabilities and owner’s equity on the right. See also: Report form balance sheet  
 3.  *Accounting*: The process by which financial information about a business is recorded, classified, summarized, interpreted, and communicated to owners, managers, and other interested parties
 4.  *Accounting cycle*: A series of steps performed during each accounting period to classify, record, and summarize data for a business and to produce needed financial information
 5.  *Accounting Standards Codification*: The source of authoritative U.S. GAAP

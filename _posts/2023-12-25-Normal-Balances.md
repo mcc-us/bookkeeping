@@ -36,6 +36,7 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |Sales Returns & Allowances(E)|Sales Tax Payable(L)|
 |Credit Card Expense(E)||
 |Cost of Goods(E)||
+|Allowance of Doubful Act(CA)||
 |||
 |**Purchases**||
 |Purchases(A/E)|Cash Discount(L)|
