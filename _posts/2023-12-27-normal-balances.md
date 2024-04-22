@@ -4,7 +4,7 @@ title: Normal Balances
 ---
 
 
-See Also: [Chart of Accounts - Example](/assets/misc/nahb-chart-of-accounts-2016.pdf)
+See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.worksheet.md)
 
 | Dr | Cr |
 |:-|:-|
@@ -13,14 +13,16 @@ See Also: [Chart of Accounts - Example](/assets/misc/nahb-chart-of-accounts-2016
 |Inventory(A)|Salaries Payable (L)|
 |Equipment(A)|Capital(Eq)|
 |Utilities Expense(E)|Drawings(Eq)|
-|Rent Expense(E)||
+|Rent Expense(E)|Notes Payable(L)|
 |Telephone Expense(E)||
+|Accrued expenses(E)||
 |||
 |Act. Receivable(A)|Acts Payable(L)|
 |Prepaid Expenses(A/E)|Accrued Revenue(L)|
 |Prepaid Insurance(A/E)|Deferred Revenue(L)|
 |Prepaid Supplies(A/E)|Unearned Revenue(L)|
 ||Interest Revenue(R)|
+||Deferred income(L)|
 |||
 |**Sales**||
 |Sales Discounts(E)|Sales(R)|
