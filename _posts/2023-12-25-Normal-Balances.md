@@ -48,9 +48,5 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |Payroll Tax Expense(E)|S.S. Tax Payable(L)|
 ||Medicare Tax Payable(L)|
 ||State Income Tax Payable(L)|
-|||
-|**Petty Cash**||
-|Petty Cash(A)||
-|Cash Variance = Cash Short|Cash Variance = Cash Over|
 
 
