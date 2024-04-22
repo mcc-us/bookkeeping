@@ -21,11 +21,11 @@ title: L-Financial Statements and Closing Procedures
 
 *Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
-*Inventory Turnover Ratio* = $\frac{COGS}{Average~ Inventory}$ 
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
 
-*Average Inventory* = $\frac{Begining~ +~ Ending~ Inventory}{2}$
+*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
 
-*Average Accounts Receivable* = $\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 ### Operating Revenue Calculation
 
