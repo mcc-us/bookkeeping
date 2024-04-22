@@ -19,7 +19,7 @@ title: L-Financial Statements and Closing Procedures
 
 *Plant and equipment* - Property that will be used in the business for longer than one year.
 
-*Accounts receivable turnover ratio* = $\frac{Net Credit Sales}{Average Accounts Receivable}
+*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
 *Inventory Turnover Ratio* = $\frac{COGS}{Average~ Inventory}$ 
 
