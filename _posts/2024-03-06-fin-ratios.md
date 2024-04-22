@@ -13,6 +13,17 @@ tags: reporting
 
 3. Revenue (Sales, Fees Earned) - Expenses = Operating Profit
 
+### Activity Ratios
+
+1. Inventory Turnover Ratio = $\frac{COGS}{Average Inventory}$
+
+- COGS - Cost of goods
+- Average inventory = $\frac{Begining Inventory + Ending Inventory}{2}$
+
+1. *Accounts receivable turnover ratio* = $\frac{Net Credit Sales}{Average Accounts Receivable} %
+
+1. *Average Inventory* = $\frac{Begining~ +~ Ending~ Inventory}{2}$
+
 ### Liquidity Ratios
 
 1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
