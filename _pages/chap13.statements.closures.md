@@ -25,6 +25,8 @@ title: L-Financial Statements and Closing Procedures
 
 *Average Inventory* = $\frac{Begining~ +~ Ending~ Inventory}{2}$
 
+*Average Accounts Receivable* = $\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+
 ### Operating Revenue Calculation
 
 |Operating Revenue||
