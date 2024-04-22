@@ -17,6 +17,13 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |Telephone Expense(E)||
 |Accrued expenses(E)||
 |||
+|**Petty Cash**||
+|Petty Cash(A)||
+|Cash Variance = Cash Short|Cash Variance = Cash Over|
+|||
+|Depreciation Expense(E)||
+|Accumulated Depreciation Expense(CA)||
+|||
 |Act. Receivable(A)|Acts Payable(L)|
 |Prepaid Expenses(A/E)|Accrued Revenue(L)|
 |Prepaid Insurance(A/E)|Deferred Revenue(L)|
@@ -24,7 +31,7 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 ||Interest Revenue(R)|
 ||Deferred income(L)|
 |||
-|**Sales**||
+||**Sales**|
 |Sales Discounts(E)|Sales(R)|
 |Sales Returns & Allowances(E)|Sales Tax Payable(L)|
 |Credit Card Expense(E)||
@@ -35,7 +42,7 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |Freight Charges(E)|Purchase Discounts(L)|
 ||Purchase Returns & Allowances(L)|
 |||
-|**Payroll Exp. & Lia.**||
+|**Payroll Expenses**|**Payroll Liabilities**|
 |Wages & Salaries Payable(E)|Employee Fed. Income Tax Payable(L)|
 |Payroll Tax Expense(E)|S.S. Tax Payable(L)|
 ||Medicare Tax Payable(L)|
