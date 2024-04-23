@@ -15,14 +15,14 @@ tags: reporting
 
 ### Activity Ratios
 
-1. Average inventory = $\large\frac{Begining~ Inventory~ +~ Ending~ Inventory}{2}$
+1. Average inventory = $Large\frac{Begining~ Inventory~ +~ Ending~ Inventory}{2}$
 
-2. Average Accounts Receivable = $\large\frac{Begining~ A/R +~ Ending~ A/R}{2}$
+2. Average Accounts Receivable = $\Large\frac{Begining~ A/R +~ Ending~ A/R}{2}$
 
-3. Inventory Turnover Ratio = $\large\frac{COGS}{Average~ Inventory}$
+3. Inventory Turnover Ratio = $\Large\frac{COGS}{Average~ Inventory}$
    - COGS - Cost of goods
 
-4. Accounts receivable turnover ratio = $\large\frac{Net~ Credit~ Sales}{Average~ Accounts Receivable}$
+4. Accounts receivable turnover ratio = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
 ### Liquidity Ratios
 
