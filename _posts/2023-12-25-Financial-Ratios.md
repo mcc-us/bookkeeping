@@ -24,6 +24,10 @@ tags: reporting
 
 4. Accounts receivable turnover ratio = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
+5. Average Investment in Assets =  $\Large\frac{Begining~ Total~ Assests +~ Ending~ Total~ Assests}{2}$
+   
+6. Return on Total Assets = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$
+
 ### Liquidity Ratios
 
 1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
