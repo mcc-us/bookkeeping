@@ -13,6 +13,15 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 - `&nbsp;`
 
+### PDF Containers
+
+```
+<div class="pdf-container">
+    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
+```
+
 ### 3 Blocks
 
 >#### green tip
@@ -61,14 +70,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 | White box |
 ```
 
-### PDF Containers
 
-```
-<div class="pdf-container">
-    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
-    </iframe>
-</div>
-```
 
 ### Emojis
 
