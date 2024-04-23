@@ -8,8 +8,6 @@ title: 12-Accruals, Deferrals, & the Worksheet
 
 Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/terms1.png)
-
 ![](/assets/mc-graw-accounting-course/chap12-accurals/1-objectives.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)

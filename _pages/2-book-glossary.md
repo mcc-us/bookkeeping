@@ -350,7 +350,7 @@ Definitions from mcgraw-hill
 341. *Production order*: *See* Job order
 342. *Profit center*: A business segment that produces revenue
 343. *Promissory note*: A written promise to pay a specified amount of money on a specific date
-344. *Property, plant, and equipment*: Long-term assets that are used in the operation of a business and that are subject to depreciation (except for land, which is not depreciated)
+344. *Property, plant, and equipment*: (**PPE**) Long-term assets that are used in the operation of a business and that are subject to depreciation (except for land, which is not depreciated)
 345. *Public accountants*: Members of firms that perform accounting services for other companies
 346. *Public sector*: The government sector, which is represented in developing accounting principles by the Securities and Exchange Commission (SEC)
 347. *Purchase allowance*: A price reduction from the amount originally billed
