@@ -12,10 +12,10 @@ title: I-Payroll
 
 - Federal laws require that the employer withhold at least three taxes from the employee's pay.
 
-||SS Tax|Medicare Tax|Federal Tax|
-|:-|:-|:-|:-|
+|SS Tax|Medicare Tax|Federal Tax|
+|:-|:-|:-|
 |6.2%<br>Maxes out @ $142,800|1.45%|Bracketed & Progressive|
-|Who Pays|Levied equally on employer & employee|Levied equally on employer & employee||See: W-4, Publication 15, Circular E|
+|Who Pays|Levied equally on employer & employee|Levied equally on employer & employee|See: W-4, Publication 15, Circular E|
 
 1. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals: The business does not match the amount.
 
