@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K-Accruals, Deferrals, & the Worksheet
+title: 12-Accruals, Deferrals, & the Worksheet
 --- 
 
 **Chap 12 - Accruals, Deferrals**

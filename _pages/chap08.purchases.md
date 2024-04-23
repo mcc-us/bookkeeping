@@ -1,6 +1,6 @@
 ---
 layout: post
-title: G-Purchases
+title: 8-Purchases
 ---
 
 **Chap 8 - How-To**

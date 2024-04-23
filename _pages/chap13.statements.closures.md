@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L-Financial Statements and Closing Procedures
+title: 13-Financial Statements and Closing Procedures
 --- 
 
 **Chap 13 - Financial Statements & Closing Procedures**

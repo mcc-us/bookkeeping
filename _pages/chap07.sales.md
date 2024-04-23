@@ -1,6 +1,6 @@
 ---
 layout: post
-title: F-Sales
+title: 7-Sales
 ---
 
 **Chap 7 - How-To**

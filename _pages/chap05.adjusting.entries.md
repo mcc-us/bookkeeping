@@ -1,6 +1,6 @@
 ---
 layout: post
-title: D-Adjusting Entries
+title: 5-Adjusting Entries
 ---
 
 - Adjustments or adjusting entries are for previously unrecorded items.     

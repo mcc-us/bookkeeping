@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H-Cash
+title: 9-Cash
 --- 
 
 **Chap 9 - How To**
