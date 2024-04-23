@@ -7,22 +7,22 @@ tags: reporting
 
 ### Basics
 
-1. Revenue + Gains - Expenses - Losses = Net Income/Loss
+1. Net Income/Loss = Revenue + Gains - Expenses - Losses
 
-2. Beginning Balance + Investments - Distributions = Ending Balances
+2. Ending Balances = Beginning Balance + Investments - Distributions
 
-3. Revenue (Sales, Fees Earned) - Expenses = Operating Profit
+3. Operating Profit = Revenue(Sales, Fees Earned) - Expenses 
 
 ### Activity Ratios
 
-1. Inventory Turnover Ratio = $\frac{COGS}{Average Inventory}$
+1. Average inventory = $\large\frac{Begining~ Inventory~ +~ Ending~ Inventory}{2}$
 
-- COGS - Cost of goods
-- Average inventory = $\frac{Begining Inventory + Ending Inventory}{2}$
+2. Average Accounts Receivable = $\large\frac{Begining~ A/R +~ Ending~ A/R}{2}$
 
-1. *Accounts receivable turnover ratio* = $\frac{Net Credit Sales}{Average Accounts Receivable} %
+3. Inventory Turnover Ratio = $\large\frac{COGS}{Average~ Inventory}$
+   - COGS - Cost of goods
 
-1. *Average Inventory* = $\frac{Begining~ +~ Ending~ Inventory}{2}$
+4. Accounts receivable turnover ratio = $\large\frac{Net~ Credit~ Sales}{Average~ Accounts Receivable}$
 
 ### Liquidity Ratios
 

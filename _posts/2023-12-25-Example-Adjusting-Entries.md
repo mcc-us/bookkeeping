@@ -3,7 +3,6 @@ layout: post
 title: EXAMPLE Adjusting Entries
 ---
 
-**Example Report**
 
 |Preparation Of Adjusted Balance Sheet, fig5.8f|
 |:-:|

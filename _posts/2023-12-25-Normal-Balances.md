@@ -10,7 +10,7 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |:-|:-|
 |**Assets + Expenses**|**Liabilities + Equity + Revenue**|
 |Cash(A)|Accounts Payable(L)| 
-|Inventory(A)|Salaries Payable (L)|
+|(Merchandise Inventory(A)|Salaries Payable (L)|
 |Equipment(A)|Capital(Eq)|
 |Utilities Expense(E)|Drawings(Eq)|
 |Rent Expense(E)|Notes Payable(L)|
