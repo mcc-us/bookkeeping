@@ -1,6 +1,0 @@
-Which journal entry could be used to record the replenishment of the petty cash fund?
-
-Debit Petty Cash, credit Cash
-
-Debit Supplies, debit Delivery Expense, credit Cash
-

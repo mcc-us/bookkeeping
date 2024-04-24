@@ -297,195 +297,196 @@ Definitions from mcgraw-hill
 288. *Net sales*: The difference between the balance in the  Sales  account and the balance in the  Sales Returns and Allowances  account
 289. *Net salvage value*: The salvage value of an asset less any costs to remove or sell the asset
 290. *Neutrality concept*: The concept that information in financial statements cannot be selected or presented in a way to favor one set of interested parties over another
-291. *Noncumulative preferred stock*: Stock that conveys to its owners the stated preference dividend for the current year but no rights to dividends for years in which none were declared
-292. *Nonparticipating preferred stock*: Stock that conveys to its owners the right to only the preference dividend amount specified on the stock certificate
-293. *No-par-value stock*: Stock that is not assigned a par value in the corporate charter
-294. *Normal balance*: The increase side of an account
-295. *Note payable*: A liability representing a written promise by the maker of the note (the debtor) to pay another party (the creditor) a specified amount at a specified future date
-296. *Note receivable*: An asset representing a written promise by another party (the debtor) to pay the note holder (the creditor) a specified amount at a specified future date
-297. *On account*: An arrangement to allow payment at a later date; also called a charge account or open-account credit
-298. *Open-account credit*: A system that allows the sale of services or goods with the understanding that payment will be made at a later date
-299. *Operating activities*: Routine business transactions—selling goods or services and incurring expenses
-300. *Operating assets and liabilities*: Current assets and current liabilities
-301. *Opportunity cost*: Potential earnings or benefits that are given up because a certain course of action is taken
-302. *Organization costs*: The costs associated with establishing a corporation
-303. *Outstanding checks*: Checks that have been recorded in the cash payments journal but have not yet been paid by the bank
-304. *Overapplied overhead*: The result of applied overhead exceeding the actual overhead costs
-305. *Overhead application rate*: The rate at which the estimated cost of overhead is charged to each job
-306. *Owner’s equity*: The financial interest of the owner of a business; also called proprietorship or net worth
-307. *Paid-in capital*: Capital acquired from capital stock transactions (also known as contributed capital)
-308. *Par value*: An amount assigned by the corporate charter to each share of stock for accounting purposes
-309. *Participating preferred stock*: Stock that conveys the right not only to the preference dividend amount but also to a share of other dividends paid
-310. *Partnership*: A business entity owned by two or more people who carry on a business for profit and who are legally responsible for the debts and taxes of the business
-311. *Partnership agreement*: A legal contract forming a partnership and specifying certain details of operation
-312. *Patent*: An intangible asset; an exclusive right given by the U.S. Patent and Trademark Office to manufacture and sell an invention for a period of 20 years from the date the patent is granted
-313. *Payee*: The person or firm to whom a check is payable
-314. *Payment date*: The date that dividends are paid
-315. *Payroll register*: A record of payroll information for each employee for the pay period
-316. *Periodic inventory*: Inventory based on a periodic count of goods on hand
-317. *Periodic inventory system*: An inventory system in which the merchandise inventory balance is only updated when a physical inventory is taken
-318. *Periodicity of income assumption*: The concept that economic activities of an entity can be divided logically and identified with specific time periods, such as the year or quarter
-319. *Permanent account*: An account that is kept open from one accounting period to the next
-320. *Perpetual inventory*: Inventory based on a running total number of units
-321. *Perpetual inventory system*: An inventory system that tracks the inventories on hand at all times
-322. *Petty cash analysis sheet*: A form used to record transactions involving petty cash
-323. *Petty cash fund*: A special-purpose fund used to handle payments involving small amounts of money
-324. *Petty cash voucher*: A form used to record the payments made from a petty cash fund
-325. *Physical inventory*: An actual count of the number of units of each type of good on hand
-326. *Piece-rate basis*: A method of paying employees according to the number of units produced
-327. *Plant and equipment*: Property that will be used in the business for longer than one year
-328. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
-329. *Postdated check*: A check dated some time in the future
-330. *Posting*: Transferring data from a journal to a ledger
-331. *Preemptive right*: A shareholder’s right to purchase a proportionate amount of any new stock issued at a later date
-332. *Preference dividend*: A basic or stated dividend rate for preferred stock that must be paid before dividends can be paid on common stock
-333. *Preferred stock*: A class of stock that has special claims on the corporate profits or, in case of liquidation, on corporate assets
-334. *Premium on bonds payable*: The excess of the price paid over the face value of a bond
-335. *Prepaid expenses*: Expense items acquired, recorded, and paid for in advance of their use 
-336. *Price-earnings ratio*: The ratio of the current market value of common stock to earnings per share of that stock
-337. *Principal*: The amount shown on the face of a note
-338. *Private sector*: This is the nongovernmental sector of society; in an accounting context, it is the business sector, which is represented in developing accounting principles by the Financial Accounting Standards Board (FASB)
-339. *Process cost accounting*: A cost accounting system whereby unit costs of manufactured items are determined by totaling unit costs in each production department
-340. *Process cost accounting system*: A method of accounting in which costs are accumulated for each process or department and then transferred on to the next process or department
-341. *Production order*: *See* Job order
-342. *Profit center*: A business segment that produces revenue
-343. *Promissory note*: A written promise to pay a specified amount of money on a specific date
-344. *Property, plant, and equipment*: (**PPE**) Long-term assets that are used in the operation of a business and that are subject to depreciation (except for land, which is not depreciated)
-345. *Public accountants*: Members of firms that perform accounting services for other companies
-346. *Public sector*: The government sector, which is represented in developing accounting principles by the Securities and Exchange Commission (SEC)
-347. *Purchase allowance*: A price reduction from the amount originally billed
-348. *Purchase invoice*: A bill received for goods purchased
-349. *Purchase order*: An order to the supplier of goods specifying items needed, quantity, price, and credit terms
-350. *Purchase requisition*: A list sent to the purchasing department showing the items to be ordered
-351. *Purchase return*: Return of unsatisfactory goods
-352. *Purchases account*: An account used to record cost of goods bought for resale during a period
-353. *Purchases discount*: A cash discount offered to the customers for payment within a specified period
-354. *Purchases journal*: A special journal used to record the purchase of goods on credit
-355. *Purchases returns and allowances*: A contra expense under cost of goods sold where purchase returns and purchase allowances are recorded; see definitions of purchase return and purchase allowance
-356. *Qualitative characteristics*: Traits necessary for credible financial statements: relevance (confirmatory and predictive value), faithful representation (completeness, neutrality, and freedom from error), comparability, timeliness, verifiability, and understandability
-357. *Quick assets*: Cash, receivables, and marketable securities
-358. *Ratio analysis*: Computing the relationship between various items in the financial statements
-359. *Raw materials*: The materials placed into production
-360. *Raw materials ledger record*: A record showing details of receipts and issues for a type of raw material
-361. *Raw materials subsidiary ledger*: A ledger containing the raw materials ledger records
-362. *Real property*: Assets such as land, land improvements, buildings, and other structures attached to the land
-363. *Realization*: The concept that revenue occurs when goods or services, merchandise, or other assets are exchanged for cash or claims to cash
-364. *Receiving report*: A form showing quantity and condition of goods received
-365. *Record date*: The date on which the specific stockholders to receive a dividend are determined
-366. *Recoverability test*: Test for possible impairment that compares the asset’s net book value with the estimated net cash flows from future use of the asset
-367. *Registered bonds*: Bonds issued to a party whose name is listed in the corporation’s records
-368. *Registrar*: A person or institution in charge of the issuance and transfer of a corporation’s stock
-369. *Relevant range of activity*: The different levels of activity at which a factory is expected to operate
-370. *Report form balance sheet*: A balance sheet that lists the asset accounts first, followed by liabilities and owner’s equity
-371. *Residual value*: The estimate of the amount that could be obtained from the sale or disposition of an asset at the end of its useful life; also called salvage or scrap value
-372. *Responsibility accounting*: The process that allows management to evaluate the performance of each segment of the business and assign responsibility for its financial results
-373. *Restrictive endorsement*: A signature that transfers a check to a specific party for a stated purpose
-374. *Retail business*: A business that sells directly to individual consumers
-375. *Retail method*: A method of estimating inventory cost by applying the ratio of cost to selling price in the current accounting period to the retail price of the inventory
-376. *Retained earnings*: The cumulative profits and losses of the corporation not distributed as dividends
-377. *Return on common stockholders’ equity*: A measure of how well the corporation is making a profit for its shareholders; the ratio of net income available for common stockholders to common stockholders’ equity
-378. *Revenue*: An inflow of money or other assets that results from the sales of goods or services or from the use of money or property; also called income
-379. *Revenue recognition principle*: Revenue is recognized when it has been earned and realized
-380. *Reversing entries*: Journal entries made to reverse the effect of certain adjusting entries involving accrued income or accrued expenses to avoid problems in recording future payments or receipts of cash in a new accounting period
-381. *Salary basis*: A method of paying employees according to an agreed-upon amount for each week or month
-382. *Sales allowance*: A reduction in the price originally charged to customers for goods or services
-383. *Sales discount*: A cash discount offered by the supplier for payment within a specified period
-384. *Sales invoice*: A supplier’s billing document
-385. *Sales journal*: A special journal used to record sales of merchandise on credit
-386. *Sales return*: A firm’s acceptance of a return of goods from a customer
-387. *Sales Returns and Allowances*: A contra revenue account where sales returns and sales allowances are recorded; sales returns and allowances are subtracted from sales to determine net sales
-388. *Salvage value*: An estimate of the amount that could be received by selling or disposing of an asset at the end of its useful life
-389. *Schedule of accounts payable*: A list of all balances owed to creditors
-390. *Schedule of accounts receivable*: A listing of all balances of the accounts in the accounts receivable subsidiary ledger
-391. *Schedule of operating expenses*: A schedule that supplements the income statement, showing the selling and general and administrative expenses in greater detail
-392. *Scrap value*: *See* Residual value
-393. *Secured bonds*: Bonds for which property is pledged to secure the claims of bondholders
-394. *Semidirect expenses*: Operating expenses that cannot be directly assigned to a department but are closely related to departmental activities
-395. *Semivariable costs*: Costs that vary with, but not in direct proportion to, the volume of activity
-396. *Separate entity assumption*: The concept that a business is  separate from its owners; the concept of keeping a firm’s  financial records separate from the owner’s personal financial records
-397. *Serial bonds*: Bonds issued at one time but payable over a period of years
-398. *Service business*: A business that sells services
-399. *Service charge*: A fee charged by a bank to cover the costs of maintaining accounts and providing services
-400. *Shareholder*: A person who owns shares of stock in a corporation; also called a stockholder
-401. *Sight draft*: A commercial draft that is payable on presentation
-402. *Single-step income statement*: A type of income statement where only one computation is needed to determine the net income (total revenue − total expenses = net income)
-403. *Slide*: An accounting error involving a misplaced decimal point
-404. *Social entity*: A nonprofit organization, such as a city, public school, or public hospital
-405. *Social security (FICA or OASDI) tax*: A tax imposed by the Federal Insurance Contributions Act and collected on employee earnings to provide retirement and disability benefits
-406. *Social Security Act*: A federal act providing certain benefits for employees and their families; officially the Federal Insurance Contributions Act
-407. *Sole proprietorship*: A business entity owned by one person, who is legally responsible for the debts and taxes of the business
-408. *Special journal*: A journal used to record only one type of transaction
-409. *Specific identification method*: A method of inventory costing based on the actual cost of each item of merchandise
-410. *Standard cost card*: A form that shows the per-unit standard costs for materials, labor, and overhead
-411. *Standard costs*: A measure of what costs should be in an efficient operation
-412. *State unemployment taxes (SUTA)*: Taxes levied by a state government against employers to benefit unemployed workers
-413. *Stated value*: The value that can be assigned to no-par-value stock by a board of directors for accounting purposes
-414. *Statement of account*: A form sent to a firm’s customers showing transactions during the month and the balance owed
-415. *Statement of cash flows*: A financial statement that provides information about the cash receipts and cash payments of a business
-416. *Statement of cost of goods manufactured*: A financial report showing details of the cost of goods completed for a manufacturing business
-417. *Statement of owner’s equity*: A formal report of changes that occurred in the owner’s financial interest during a reporting period
-418. *Statement of partners’ equities*: A financial statement prepared to summarize the changes in the partners’ capital accounts during an accounting period
-419. *Statement of retained earnings*: A financial statement that shows all changes that have occurred in retained earnings during the period
-420. *Statement of stockholders’ equity*: A financial statement that provides an analysis reconciling the beginning and ending balance of each of the stockholders’ equity accounts
-421. *Statements of Financial Accounting Standards*: Accounting principles established by the Financial Accounting Standards Board
-422. *Stock*: Certificates that represent ownership of a corporation
-423. *Stock certificate*: The form by which capital stock is issued; the certificate indicates the name of the corporation, the name of the stockholder to whom the certificate was issued, the class of stock, and the number of shares
-424. *Stock dividend*: Distribution of the corporation’s own stock on a pro rata basis that results in conversion of a portion of the firm’s retained earnings to permanent capital
-425. *Stock split*: When a corporation issues two or more shares of new stock to replace each share outstanding without making any changes in the capital accounts
-426. *Stockholders*: The owners of a corporation; also called shareholders
-427. *Stockholders’ equity*: The corporate equivalent of owners’ equity; also called shareholders’ equity
-428. *Stockholders’ ledger*: *See* Capital stock ledger
-429. *Stockholders of record*: Stockholders in whose name shares are held on date of record and who will receive a declared dividend
-430. *Straight-line amortization*: Amortizing the premium or discount on bonds payable in equal amounts each month over the life of the bond
-431. *Straight-line depreciation*: Allocation of an asset’s cost in equal amounts to each accounting period of the asset’s useful life
-432. *Subchapter S corporation (S corporation)*: An entity formed as a corporation that meets the requirements of subchapter S of the Internal Revenue Code to be treated essentially as a partnership, so that the corporation pays no income tax
-433. *Subscribers’ ledger*: A subsidiary ledger that contains an account receivable for each stock subscriber
-434. *Subscription book*: A list of the stock subscriptions received
-435. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
-436. *Sum-of-the-years’-digits method*: A method of depreciating asset costs by allocating as expense each year a fractional part of the asset’s depreciable cost, based on the sum of the digits of the number of years in the asset’s useful life
-437. *Sunk cost*: A cost that has been incurred and will not change as a result of a decision
-438. *T account*: A type of account, resembling a T, used to analyze the effects of a business transaction
-439. *Tangible personal property*: Assets such as machinery, equipment, furniture, and fixtures that can be removed and used elsewhere
-440. *Tax accounting*: A service that involves tax compliance and tax planning
-441. *Tax-exempt wages*: Earnings in excess of the base amount set by the Social Security Act
-442. *Temporary account*: An account whose balance is transferred to another account at the end of an accounting period
-443. *Time and a half*: Rate of pay for an employee’s work in excess of 40 hours a week
-444. *Time draft*: A commercial draft that is payable during a specified period of time
-445. *Time ticket*: Form used to record hours worked and jobs performed
-446. *Total equities*: The sum of a corporation’s liabilities and stockholders’ equity
-447. *Trade acceptance*: A form of commercial time draft used in transactions involving the sale of goods
-448. *Trade discount*: A reduction from list price
-449. *Trade name*: An intangible asset; an exclusive business name registered with the U.S. Patent and Trademark Office; also called brand name
-450. *Trademark*: An intangible asset; an exclusive business symbol registered with the U.S. Patent and Trademark Office
-451. *Trading on the equity*: *See* Leveraging
-452. *Transfer agent*: A person or institution that handles all stock transfers and transfer records for a corporation
-453. *Transfer price*: The price at which one segment’s goods are transferred to another segment of the company
-454. *Transmittal of Wage and Tax Statements, Form W-3*: Preprinted government form submitted with Forms W-2 to the Social Security Administration
-455. *Transparency*: Information provided in the financial statements and notes accompanying them should provide a clear and accurate picture of the financial affairs of the company. The key to this idea is that of disclosure
-456. *Transportation In account*: See *Freight In* account
-457. *Transposition*: An accounting error involving misplaced digits in a number
-458. *Treasury stock*: A corporation’s own capital stock that has been issued and reacquired; the stock must have been previously paid in full and issued to a stockholder
-459. *Trend analysis*: Comparing selected ratios and percentages over a period of time
-460. *Trial balance*: A statement to test the accuracy of total debits and credits after transactions have been recorded
-461. *Underapplied overhead*: The result of actual overhead costs exceeding applied overhead
-462. *Unearned income*: Income received before it is earned
-463. *Unemployment insurance program*: A program that provides unemployment compensation through a tax levied on employers
-464. *Units-of-output method*: *See* Units-of-production method
-465. *Units-of-production method*: A method of depreciating asset cost at the same rate for each unit produced during each period
-466. *Unlimited liability*: The implication that a creditor can look to all partners’ personal assets as well as the assets of the partnership for payment of the firm’s debts
-467. *Updated account balances*: The amounts entered in the Adjusted Trial Balance section of the worksheet
-468. *Valuation account*: An account, such as Allowance for Doubtful Accounts, whose balance is revalued or reappraised in light of reasonable expectations
-469. *Variable costing*: *See* Direct costing
-470. *Variable costs*: Costs that vary in total in direct proportion to changes in the level of activity
-471. *Variance analysis*: Explains the difference between standard cost and actual cost
-472. *Vertical analysis*: Computing the relationship between each item on a financial statement to some base amount on the statement
-473. *Wage and Tax Statement, Form W-2*: Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
-474. *Weighted average method*: *See* Average cost method
-475. *Wholesale business*: A business that manufactures goods for or distributes goods to retail businesses or large consumers such as hotels and hospitals
-476. *Withdrawals*: Funds taken from the business by the owner for personal use
-477. *Withholding statement*: *See* Wage and Tax Statement, Form W-2
-478. *Work in process*: Partially completed units in the production process
-479. *Work in process subsidiary ledger*: A ledger containing the job order cost sheets
-480. *Workers’ compensation insurance*: Insurance that protects employees against losses from job-related injuries or illnesses, or compensates their families if death occurs in the course of the employment
-481. *Working capital*: The measure of the ability of a company to meet its current obligations; the excess of current assets over ­current liabilities
-482. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements
+291. *Nominal Account*: See also Temporary Account.
+292. *Noncumulative preferred stock*: Stock that conveys to its owners the stated preference dividend for the current year but no rights to dividends for years in which none were declared
+293. *Nonparticipating preferred stock*: Stock that conveys to its owners the right to only the preference dividend amount specified on the stock certificate
+294. *No-par-value stock*: Stock that is not assigned a par value in the corporate charter
+295. *Normal balance*: The increase side of an account
+296. *Note payable*: A liability representing a written promise by the maker of the note (the debtor) to pay another party (the creditor) a specified amount at a specified future date
+297. *Note receivable*: An asset representing a written promise by another party (the debtor) to pay the note holder (the creditor) a specified amount at a specified future date
+298. *On account*: An arrangement to allow payment at a later date; also called a charge account or open-account credit
+299. *Open-account credit*: A system that allows the sale of services or goods with the understanding that payment will be made at a later date
+300. *Operating activities*: Routine business transactions—selling goods or services and incurring expenses
+301. *Operating assets and liabilities*: Current assets and current liabilities
+302. *Opportunity cost*: Potential earnings or benefits that are given up because a certain course of action is taken
+303. *Organization costs*: The costs associated with establishing a corporation
+304. *Outstanding checks*: Checks that have been recorded in the cash payments journal but have not yet been paid by the bank
+305. *Overapplied overhead*: The result of applied overhead exceeding the actual overhead costs
+306. *Overhead application rate*: The rate at which the estimated cost of overhead is charged to each job
+307. *Owner’s equity*: The financial interest of the owner of a business; also called proprietorship or net worth
+308. *Paid-in capital*: Capital acquired from capital stock transactions (also known as contributed capital)
+309. *Par value*: An amount assigned by the corporate charter to each share of stock for accounting purposes
+310. *Participating preferred stock*: Stock that conveys the right not only to the preference dividend amount but also to a share of other dividends paid
+311. *Partnership*: A business entity owned by two or more people who carry on a business for profit and who are legally responsible for the debts and taxes of the business
+312. *Partnership agreement*: A legal contract forming a partnership and specifying certain details of operation
+313. *Patent*: An intangible asset; an exclusive right given by the U.S. Patent and Trademark Office to manufacture and sell an invention for a period of 20 years from the date the patent is granted
+314. *Payee*: The person or firm to whom a check is payable
+315. *Payment date*: The date that dividends are paid
+316. *Payroll register*: A record of payroll information for each employee for the pay period
+317. *Periodic inventory*: Inventory based on a periodic count of goods on hand
+318. *Periodic inventory system*: An inventory system in which the merchandise inventory balance is only updated when a physical inventory is taken
+319. *Periodicity of income assumption*: The concept that economic activities of an entity can be divided logically and identified with specific time periods, such as the year or quarter
+320. *Permanent account*: An account that is kept open from one accounting period to the next
+321. *Perpetual inventory*: Inventory based on a running total number of units
+322. *Perpetual inventory system*: An inventory system that tracks the inventories on hand at all times
+323. *Petty cash analysis sheet*: A form used to record transactions involving petty cash
+324. *Petty cash fund*: A special-purpose fund used to handle payments involving small amounts of money
+325. *Petty cash voucher*: A form used to record the payments made from a petty cash fund
+326. *Physical inventory*: An actual count of the number of units of each type of good on hand
+327. *Piece-rate basis*: A method of paying employees according to the number of units produced
+328. *Plant and equipment*: Property that will be used in the business for longer than one year
+329. *Postclosing trial balance*: A statement that is prepared to prove the equality of total debits and credits after the closing process is completed
+330. *Postdated check*: A check dated some time in the future
+331. *Posting*: Transferring data from a journal to a ledger
+332. *Preemptive right*: A shareholder’s right to purchase a proportionate amount of any new stock issued at a later date
+333. *Preference dividend*: A basic or stated dividend rate for preferred stock that must be paid before dividends can be paid on common stock
+334. *Preferred stock*: A class of stock that has special claims on the corporate profits or, in case of liquidation, on corporate assets
+335. *Premium on bonds payable*: The excess of the price paid over the face value of a bond
+336. *Prepaid expenses*: Expense items acquired, recorded, and paid for in advance of their use 
+337. *Price-earnings ratio*: The ratio of the current market value of common stock to earnings per share of that stock
+338. *Principal*: The amount shown on the face of a note
+339. *Private sector*: This is the nongovernmental sector of society; in an accounting context, it is the business sector, which is represented in developing accounting principles by the Financial Accounting Standards Board (FASB)
+340. *Process cost accounting*: A cost accounting system whereby unit costs of manufactured items are determined by totaling unit costs in each production department
+341. *Process cost accounting system*: A method of accounting in which costs are accumulated for each process or department and then transferred on to the next process or department
+342. *Production order*: *See* Job order
+343. *Profit center*: A business segment that produces revenue
+344. *Promissory note*: A written promise to pay a specified amount of money on a specific date
+345. *Property, plant, and equipment*: (**PPE**) Long-term assets that are used in the operation of a business and that are subject to depreciation (except for land, which is not depreciated)
+346. *Public accountants*: Members of firms that perform accounting services for other companies
+347. *Public sector*: The government sector, which is represented in developing accounting principles by the Securities and Exchange Commission (SEC)
+348. *Purchase allowance*: A price reduction from the amount originally billed
+349. *Purchase invoice*: A bill received for goods purchased
+350. *Purchase order*: An order to the supplier of goods specifying items needed, quantity, price, and credit terms
+351. *Purchase requisition*: A list sent to the purchasing department showing the items to be ordered
+352. *Purchase return*: Return of unsatisfactory goods
+353. *Purchases account*: An account used to record cost of goods bought for resale during a period
+354. *Purchases discount*: A cash discount offered to the customers for payment within a specified period
+355. *Purchases journal*: A special journal used to record the purchase of goods on credit
+356. *Purchases returns and allowances*: A contra expense under cost of goods sold where purchase returns and purchase allowances are recorded; see definitions of purchase return and purchase allowance
+357. *Qualitative characteristics*: Traits necessary for credible financial statements: relevance (confirmatory and predictive value), faithful representation (completeness, neutrality, and freedom from error), comparability, timeliness, verifiability, and understandability
+358. *Quick assets*: Cash, receivables, and marketable securities
+359. *Ratio analysis*: Computing the relationship between various items in the financial statements
+360. *Raw materials*: The materials placed into production
+361. *Raw materials ledger record*: A record showing details of receipts and issues for a type of raw material
+362. *Raw materials subsidiary ledger*: A ledger containing the raw materials ledger records
+363. *Real property*: Assets such as land, land improvements, buildings, and other structures attached to the land
+364. *Realization*: The concept that revenue occurs when goods or services, merchandise, or other assets are exchanged for cash or claims to cash
+365. *Receiving report*: A form showing quantity and condition of goods received
+366. *Record date*: The date on which the specific stockholders to receive a dividend are determined
+367. *Recoverability test*: Test for possible impairment that compares the asset’s net book value with the estimated net cash flows from future use of the asset
+368. *Registered bonds*: Bonds issued to a party whose name is listed in the corporation’s records
+369. *Registrar*: A person or institution in charge of the issuance and transfer of a corporation’s stock
+370. *Relevant range of activity*: The different levels of activity at which a factory is expected to operate
+371. *Report form balance sheet*: A balance sheet that lists the asset accounts first, followed by liabilities and owner’s equity
+372. *Residual value*: The estimate of the amount that could be obtained from the sale or disposition of an asset at the end of its useful life; also called salvage or scrap value
+373. *Responsibility accounting*: The process that allows management to evaluate the performance of each segment of the business and assign responsibility for its financial results
+374. *Restrictive endorsement*: A signature that transfers a check to a specific party for a stated purpose
+375. *Retail business*: A business that sells directly to individual consumers
+376. *Retail method*: A method of estimating inventory cost by applying the ratio of cost to selling price in the current accounting period to the retail price of the inventory
+377. *Retained earnings*: The cumulative profits and losses of the corporation not distributed as dividends
+378. *Return on common stockholders’ equity*: A measure of how well the corporation is making a profit for its shareholders; the ratio of net income available for common stockholders to common stockholders’ equity
+379. *Revenue*: An inflow of money or other assets that results from the sales of goods or services or from the use of money or property; also called income
+380. *Revenue recognition principle*: Revenue is recognized when it has been earned and realized
+381. *Reversing entries*: Journal entries made to reverse the effect of certain adjusting entries involving accrued income or accrued expenses to avoid problems in recording future payments or receipts of cash in a new accounting period
+382. *Salary basis*: A method of paying employees according to an agreed-upon amount for each week or month
+383. *Sales allowance*: A reduction in the price originally charged to customers for goods or services
+384. *Sales discount*: A cash discount offered by the supplier for payment within a specified period
+385. *Sales invoice*: A supplier’s billing document
+386. *Sales journal*: A special journal used to record sales of merchandise on credit
+387. *Sales return*: A firm’s acceptance of a return of goods from a customer
+388. *Sales Returns and Allowances*: A contra revenue account where sales returns and sales allowances are recorded; sales returns and allowances are subtracted from sales to determine net sales
+389. *Salvage value*: An estimate of the amount that could be received by selling or disposing of an asset at the end of its useful life
+390. *Schedule of accounts payable*: A list of all balances owed to creditors
+391. *Schedule of accounts receivable*: A listing of all balances of the accounts in the accounts receivable subsidiary ledger
+392. *Schedule of operating expenses*: A schedule that supplements the income statement, showing the selling and general and administrative expenses in greater detail
+393. *Scrap value*: *See* Residual value
+394. *Secured bonds*: Bonds for which property is pledged to secure the claims of bondholders
+395. *Semidirect expenses*: Operating expenses that cannot be directly assigned to a department but are closely related to departmental activities
+396. *Semivariable costs*: Costs that vary with, but not in direct proportion to, the volume of activity
+397. *Separate entity assumption*: The concept that a business is  separate from its owners; the concept of keeping a firm’s  financial records separate from the owner’s personal financial records
+398. *Serial bonds*: Bonds issued at one time but payable over a period of years
+399. *Service business*: A business that sells services
+400. *Service charge*: A fee charged by a bank to cover the costs of maintaining accounts and providing services
+401. *Shareholder*: A person who owns shares of stock in a corporation; also called a stockholder
+402. *Sight draft*: A commercial draft that is payable on presentation
+403. *Single-step income statement*: A type of income statement where only one computation is needed to determine the net income (total revenue − total expenses = net income)
+404. *Slide*: An accounting error involving a misplaced decimal point
+405. *Social entity*: A nonprofit organization, such as a city, public school, or public hospital
+406. *Social security (FICA or OASDI) tax*: A tax imposed by the Federal Insurance Contributions Act and collected on employee earnings to provide retirement and disability benefits
+407. *Social Security Act*: A federal act providing certain benefits for employees and their families; officially the Federal Insurance Contributions Act
+408. *Sole proprietorship*: A business entity owned by one person, who is legally responsible for the debts and taxes of the business
+409. *Special journal*: A journal used to record only one type of transaction
+410. *Specific identification method*: A method of inventory costing based on the actual cost of each item of merchandise
+411. *Standard cost card*: A form that shows the per-unit standard costs for materials, labor, and overhead
+412. *Standard costs*: A measure of what costs should be in an efficient operation
+413. *State unemployment taxes (SUTA)*: Taxes levied by a state government against employers to benefit unemployed workers
+414. *Stated value*: The value that can be assigned to no-par-value stock by a board of directors for accounting purposes
+415. *Statement of account*: A form sent to a firm’s customers showing transactions during the month and the balance owed
+416. *Statement of cash flows*: A financial statement that provides information about the cash receipts and cash payments of a business
+417. *Statement of cost of goods manufactured*: A financial report showing details of the cost of goods completed for a manufacturing business
+418. *Statement of owner’s equity*: A formal report of changes that occurred in the owner’s financial interest during a reporting period
+419. *Statement of partners’ equities*: A financial statement prepared to summarize the changes in the partners’ capital accounts during an accounting period
+420. *Statement of retained earnings*: A financial statement that shows all changes that have occurred in retained earnings during the period
+421. *Statement of stockholders’ equity*: A financial statement that provides an analysis reconciling the beginning and ending balance of each of the stockholders’ equity accounts
+422. *Statements of Financial Accounting Standards*: Accounting principles established by the Financial Accounting Standards Board
+423. *Stock*: Certificates that represent ownership of a corporation
+424. *Stock certificate*: The form by which capital stock is issued; the certificate indicates the name of the corporation, the name of the stockholder to whom the certificate was issued, the class of stock, and the number of shares
+425. *Stock dividend*: Distribution of the corporation’s own stock on a pro rata basis that results in conversion of a portion of the firm’s retained earnings to permanent capital
+426. *Stock split*: When a corporation issues two or more shares of new stock to replace each share outstanding without making any changes in the capital accounts
+427. *Stockholders*: The owners of a corporation; also called shareholders
+428. *Stockholders’ equity*: The corporate equivalent of owners’ equity; also called shareholders’ equity
+429. *Stockholders’ ledger*: *See* Capital stock ledger
+430. *Stockholders of record*: Stockholders in whose name shares are held on date of record and who will receive a declared dividend
+431. *Straight-line amortization*: Amortizing the premium or discount on bonds payable in equal amounts each month over the life of the bond
+432. *Straight-line depreciation*: Allocation of an asset’s cost in equal amounts to each accounting period of the asset’s useful life
+433. *Subchapter S corporation (S corporation)*: An entity formed as a corporation that meets the requirements of subchapter S of the Internal Revenue Code to be treated essentially as a partnership, so that the corporation pays no income tax
+434. *Subscribers’ ledger*: A subsidiary ledger that contains an account receivable for each stock subscriber
+435. *Subscription book*: A list of the stock subscriptions received
+436. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
+437. *Sum-of-the-years’-digits method*: A method of depreciating asset costs by allocating as expense each year a fractional part of the asset’s depreciable cost, based on the sum of the digits of the number of years in the asset’s useful life
+438. *Sunk cost*: A cost that has been incurred and will not change as a result of a decision
+439. *T account*: A type of account, resembling a T, used to analyze the effects of a business transaction
+440. *Tangible personal property*: Assets such as machinery, equipment, furniture, and fixtures that can be removed and used elsewhere
+441. *Tax accounting*: A service that involves tax compliance and tax planning
+442. *Tax-exempt wages*: Earnings in excess of the base amount set by the Social Security Act
+443. *Temporary account*: An account whose balance is transferred to another account at the end of an accounting period, (Nominal Account)
+444. *Time and a half*: Rate of pay for an employee’s work in excess of 40 hours a week
+445. *Time draft*: A commercial draft that is payable during a specified period of time
+446. *Time ticket*: Form used to record hours worked and jobs performed
+447. *Total equities*: The sum of a corporation’s liabilities and stockholders’ equity
+448. *Trade acceptance*: A form of commercial time draft used in transactions involving the sale of goods
+449. *Trade discount*: A reduction from list price
+450. *Trade name*: An intangible asset; an exclusive business name registered with the U.S. Patent and Trademark Office; also called brand name
+451. *Trademark*: An intangible asset; an exclusive business symbol registered with the U.S. Patent and Trademark Office
+452. *Trading on the equity*: *See* Leveraging
+453. *Transfer agent*: A person or institution that handles all stock transfers and transfer records for a corporation
+454. *Transfer price*: The price at which one segment’s goods are transferred to another segment of the company
+455. *Transmittal of Wage and Tax Statements, Form W-3*: Preprinted government form submitted with Forms W-2 to the Social Security Administration
+456. *Transparency*: Information provided in the financial statements and notes accompanying them should provide a clear and accurate picture of the financial affairs of the company. The key to this idea is that of disclosure
+457. *Transportation In account*: See *Freight In* account
+458. *Transposition*: An accounting error involving misplaced digits in a number
+459. *Treasury stock*: A corporation’s own capital stock that has been issued and reacquired; the stock must have been previously paid in full and issued to a stockholder
+460. *Trend analysis*: Comparing selected ratios and percentages over a period of time
+461. *Trial balance*: A statement to test the accuracy of total debits and credits after transactions have been recorded
+462. *Underapplied overhead*: The result of actual overhead costs exceeding applied overhead
+463. *Unearned income*: Income received before it is earned
+464. *Unemployment insurance program*: A program that provides unemployment compensation through a tax levied on employers
+465. *Units-of-output method*: *See* Units-of-production method
+466. *Units-of-production method*: A method of depreciating asset cost at the same rate for each unit produced during each period
+467. *Unlimited liability*: The implication that a creditor can look to all partners’ personal assets as well as the assets of the partnership for payment of the firm’s debts
+468. *Updated account balances*: The amounts entered in the Adjusted Trial Balance section of the worksheet
+469. *Valuation account*: An account, such as Allowance for Doubtful Accounts, whose balance is revalued or reappraised in light of reasonable expectations
+470. *Variable costing*: *See* Direct costing
+471. *Variable costs*: Costs that vary in total in direct proportion to changes in the level of activity
+472. *Variance analysis*: Explains the difference between standard cost and actual cost
+473. *Vertical analysis*: Computing the relationship between each item on a financial statement to some base amount on the statement
+474. *Wage and Tax Statement, Form W-2*: Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
+475. *Weighted average method*: *See* Average cost method
+476. *Wholesale business*: A business that manufactures goods for or distributes goods to retail businesses or large consumers such as hotels and hospitals
+477. *Withdrawals*: Funds taken from the business by the owner for personal use
+478. *Withholding statement*: *See* Wage and Tax Statement, Form W-2
+479. *Work in process*: Partially completed units in the production process
+480. *Work in process subsidiary ledger*: A ledger containing the job order cost sheets
+481. *Workers’ compensation insurance*: Insurance that protects employees against losses from job-related injuries or illnesses, or compensates their families if death occurs in the course of the employment
+482. *Working capital*: The measure of the ability of a company to meet its current obligations; the excess of current assets over ­current liabilities
+483. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements
