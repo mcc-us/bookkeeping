@@ -4,11 +4,42 @@ title: 12-Accruals, Deferrals, & the Worksheet
 --- 
 
 
-### Questions
+Objuectives:
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/9.questions1-9.png)
+1. Understand 10-column worksheet.
+1. Determine the adjustment for merchandise inventory, and enter the adjustment on the worksheet
+1. Compute adjustments for accrued & prepaid expense items, make worksheet adjustments.
+1. Compute adjustments for accrued and deferred income items, make worksheet adjustments.
+2. Define the accounting terms.
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/10.questions10-19.png)
+
+### Discussion Questions
+
+1. What adjustment is made to record the estimated expense for uncollectible accounts?
+2. When a specific account receivable is deemed uncollectible, it is written off by debiting and crediting ____.
+3. Income Summary amounts are extended to which statement columns on the worksheet?
+4. Why is depreciation recorded?
+5. What types of assets are subject to depreciation? Give three examples of such assets.
+6. Explain the meaning of the following terms that relate to depreciation:
+- Salvage value
+- Depreciable base
+- Useful life
+- Straight-line method
+7. What adjustment is made for depreciation on office equipment?
+8. What is an accrued expense? Give three examples of items that often become accrued expenses.
+9. What adjustment is made to record accrued salaries?
+1. What is a prepaid expense? Give three examples of prepaid expense items.
+1. How is the cost of an insurance policy recorded when the policy is purchased?
+1. What adjustment is made to record expired insurance?
+1. What is the alternative method of handling prepaid expenses?
+1. What is accrued income? Give an example of an item that might produce accrued income.
+1. What adjustment is made for accrued interest on a note receivable?
+1. 1. What is unearned income? Give two examples of items that would be classified as unearned income.
+1. How is unearned income recorded when it is received?
+1. What adjustment is made to record income earned during a period?
+1. What is the alternative method of handling unearned income?
+1. Unearned Fees Income is classified as which type of account?
+1. ow does the worksheet help the accountant to prepare financial statements more efficiently?1. 
 
 ---
 
@@ -41,6 +72,7 @@ Prepaid assets and both accrued income and unearned income involve payments made
 
 Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
 
+1-objectives:  
 ![](/assets/mc-graw-accounting-course/chap12-accurals/1-objectives.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.accrual.act.png)
