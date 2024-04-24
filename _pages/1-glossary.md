@@ -16,7 +16,7 @@ title: Glossary
 
 5.  *Accounting Standards Codification*: The source of authoritative U.S. GAAP, [fasb.org](https://asc.fasb.org/Login)
 
-6. *Accounts payable*: Amounts a business must pay in the future
+6. *Accounts payable*: Amounts a business must pay in the future, a **liability**
 
 7. *Accounts payable ledger*: A subsidiary ledger that contains a separate account for each creditor
 
@@ -44,7 +44,7 @@ title: Glossary
 
 8.  *Balance sheet*: A formal report of a business's financial assets, liabilities, and owner's equity at a specific point in time; **Uses: A = L + E**   
 
-9.  *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation.<br>- Book Value = Equipment - Accumulated Depreciation      
+9.  *Book Value*: The remaining cost of an asset after factoring in accumulated Depreciation.<br>- **Book Value = Equipment - Accumulated Depreciation**      
 
 10. *Capital*: Financial investment in a business; **Owner's equity**
 
@@ -74,7 +74,7 @@ title: Glossary
 
 23. *Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
 
-24. *Credit*: Think RIGHT hand
+24. *Credit*: RIGHT hand Increases
 
 25. *Credit memorandum*: A document issued to a customer acknowledging a reduction in their account due to a return, allowance, or tax adjustment.
 
@@ -82,7 +82,7 @@ title: Glossary
 
 27. *Current Asset*: A current asset is a resource a company expects to use, sell, or convert to cash within one year. See also *Non-Current Asset*.     
 
-28. *Debit*: Think LEFT hand 
+28. *Debit*: LEFT hand Increases
 
 29. *DEA-LER*: Dividends, Expenses, Assets / Liabilities, Equity, Revenue; 1-3=Debits, 4-6=Credits   
 
