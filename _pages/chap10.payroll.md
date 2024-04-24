@@ -4,7 +4,7 @@ title: 10-Payroll
 --- 
 
 
-**Chap 10 - Payroll**
+**Payroll**
 
 1. Federal Wage & Hour Law limits 40 hours per week
 

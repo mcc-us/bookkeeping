@@ -3,7 +3,7 @@ layout: post
 title: 9-Cash
 --- 
 
-**Chap 9 - How To**
+**How To**
 
 1. Petty cash fund - *Expense account* => `Cash Short/Over`, `Cash Variance`  
 2. Cash register usage

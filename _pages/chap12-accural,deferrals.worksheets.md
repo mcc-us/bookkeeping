@@ -3,10 +3,8 @@ layout: post
 title: 12-Accruals, Deferrals, & the Worksheet
 --- 
 
-**Chap 12 - Accruals, Deferrals**
 
-
-### Base chapter on these questions
+### Questions
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/9.questions1-9.png)
 

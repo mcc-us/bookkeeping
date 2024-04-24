@@ -3,8 +3,6 @@ title: 6-Closing Entries
 layout: post
 ---
 
-**Chap 6 - How To**
-
 > #### REID = Revenue + Expenses -> Income Summary + Drawings -> Capital
 {: .block-tip }
 

@@ -3,7 +3,7 @@ layout: post
 title: 8-Purchases
 ---
 
-**Chap 8 - How-To**
+**How-To**
 
 - Purchases, Discounts, Returns & Allowances, Net delivered cost of purchases   
 - Internal controls, perpetual inventory system    

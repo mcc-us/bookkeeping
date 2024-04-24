@@ -3,8 +3,6 @@ layout: post
 title: 13-Financial Statements and Closing Procedures
 --- 
 
-**Chap 13 - Financial Statements & Closing Procedures**
-
 **Terms**
 
 *Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
