@@ -21,10 +21,10 @@ Objuectives:
 4. Why is depreciation recorded?
 5. What types of assets are subject to depreciation? Give three examples of such assets.
 6. Explain the meaning of the following terms that relate to depreciation:
-- Salvage value
-- Depreciable base
-- Useful life
-- Straight-line method
+    - Salvage value
+    - Depreciable base
+    - Useful life
+    - Straight-line method
 7. What adjustment is made for depreciation on office equipment?
 8. What is an accrued expense? Give three examples of items that often become accrued expenses.
 9. What adjustment is made to record accrued salaries?
@@ -72,8 +72,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 
 Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
 
-1-objectives:  
-![](/assets/mc-graw-accounting-course/chap12-accurals/1-objectives.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.accrual.act.png)
 
