@@ -3,6 +3,8 @@ layout: post
 title: 14-Study Questions
 --- 
 
+![](/WrongQuestions/chap1.q1.png)
+
 ![](/WrongQuestions/3b.cash.register.calc.png)
 
 ![](/WrongQuestions/drawer.png)
