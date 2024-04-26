@@ -64,9 +64,15 @@ For the Year Ending Dec. 31, 2024
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals
 {: .block-tip }
 
-**Four key components**
 
-1. Opening balance = value of all assets at the beginning of accounting period
+|**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *For the Year Ending 12/31/24*|
+|:-|
+|![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
+
+
+**4 key components**
+
+1. Opening balance
   
 2. ADD: Net income & owner contributions 
    - Add net income, or the total profit after taxes and business expenses
@@ -95,19 +101,11 @@ For the Year Ending Dec. 31, 2024
 > Reports NEED: Who, What, When: Time Period
 {: .block-tip }
 
-**Example Report**
+ 
 
-**WHO**: *Co.*  
-**WHAT**: *Statement of Equity*  
-**WHEN**: *For the Year Ending 12/31/24*  
-
-
-**Examples**
-
-| ![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
-|:-:|
-| ![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
-
+<!--
+|![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
+-->
 
 **Alternative Names**
 
