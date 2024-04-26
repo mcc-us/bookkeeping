@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B-Basic Reporting
+title: 2-Financial Statements
 ---
 
 **Common Procedure for Financial Statements:**
