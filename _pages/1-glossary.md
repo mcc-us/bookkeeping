@@ -226,59 +226,61 @@ title: Glossary
 
 107. *Sales invoice*: A document sent by a seller to a buyer that details the items sold, their quantities, and the total amount due.
 
-108. *Statement of account*: A form sent to a firm’s customers showing transactions during the month and the balance owed
+108. *Stakeholders*: a party that has an interest in a company. The primary stakeholders in a typical corporation are its investors, employees, customers, and suppliers. 
 
-109. Sub-Chapter S corporations*: [See Info](_posts/2024-04-25-s-corps.md)
+109. *Statement of account*: A form sent to a firm’s customers showing transactions during the month and the balance owed
+
+110. Sub-Chapter S corporations*: [See Info](_posts/2024-04-25-s-corps.md)
  
-110. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
+111. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
 
-111. *Quick Assets*:   
+112. *Quick Assets*:   
     1. **Q.A. = TCA - Inventory - PE**, where TCA = Total current assets, PE = Prepaid expenses​   
     2. **Q.A. = Cash + CE + MS + NAR**, where CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
 
-112. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
+113. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
 
-113. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
+114. *Report Form Balance Sheet*: A standard template for financial reports that lists the asset accounts on the debit side, followed by liabilities and owner's equity on the credit side.   
 
-114. *Sales allowance*: A reduction in the price of goods or services granted to a customer, usually for damaged items or dissatisfaction.   
+115. *Sales allowance*: A reduction in the price of goods or services granted to a customer, usually for damaged items or dissatisfaction.   
 
-115. *Sales Discounts*: A reduced amount for an invoice that is offered to customers who pay early. (Contra revenue account)
+116. *Sales Discounts*: A reduced amount for an invoice that is offered to customers who pay early. (Contra revenue account)
 
-116. *Sales return*: The physical return of previously purchased goods to the seller for a refund or exchange.
+117. *Sales return*: The physical return of previously purchased goods to the seller for a refund or exchange.
 
-117. *Sales Returns and Allowances*: A contra revenue account combining sales returns and allowances to calculate net sales.
+118. *Sales Returns and Allowances*: A contra revenue account combining sales returns and allowances to calculate net sales.
 
-118. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.
+119. *Salvage Value*: An asset's estimated resale or scrap value at the end of its useful life, usually after Depreciation, **Scrap value**.
 
-119. *Schedule of accounts payable*: A list of all balances owed to creditors
+120. *Schedule of accounts payable*: A list of all balances owed to creditors
 
-120. *Service business*: A business that sells services
+121. *Service business*: A business that sells services
 
-121. *Schedule of Accounts Receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
+122. *Schedule of Accounts Receivable*: A detailed listing of individual customer accounts receivable balances, often used for aging analysis.
    
-122. *Slide*: An accidental movement of a decimal point.   
+123. *Slide*: An accidental movement of a decimal point.   
 
-123. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
+124. *Statement of Owner's Equity:* A financial statement summarizing changes in the owner's investment, including contributions, withdrawals, and profits/losses, showing the ending balance. **Report detailing what the owner puts in, takes out, & has left**   
 
-124. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
+125. *Straight-Line Depreciation*: Dividing an asset's cost (initial cost - salvage value) equally over its useful life as an expense. **Linear depreciation with a slope = -1.**   
 
-125. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
+126. *Subsidiary ledger*: A ledger dedicated to accounts of a single type and showing details to support a general ledger account
    
-126. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
+127. *Temporary Account*: Accounts only used during an accounting period to summarize income and expenses, closing to zero at the end **Cost of goods sold, revenue**, etc.    
 
-127. *Trade discount*: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
+128. *Trade discount*: A reduction in the list price offered by a manufacturer or wholesaler to a reseller, typically for buying in bulk.
    
-128. *Transposition*: Accidentally **Switching the order of digits** in a number.   
+129. *Transposition*: Accidentally **Switching the order of digits** in a number.   
 
-129. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
+130. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
 
-130. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
+131. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
     1.  Prepaid rent: rent payed in advance for several months,  
     2.  Tuition fees: When a student pays tuition for a semester before classes begin,  
     3.  Advance payment for services: When a client pays a consultant or contractor upfront for a project not yet completed.
 
-131. *Unrealized calculation*: Basis minus fair market value (FMV)
+132. *Unrealized calculation*: Basis minus fair market value (FMV)
 
-132. Unrealized gain/loss:  Investment that has increased/decreased in value, but not yet sold.
+133. Unrealized gain/loss:  Investment that has increased/decreased in value, but not yet sold.
      
-133. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
+134. *Worksheet*: A form used to gather all data needed at the end of an accounting period to prepare financial statements.   
