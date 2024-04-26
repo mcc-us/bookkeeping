@@ -101,15 +101,13 @@ For the Year Ending Dec. 31, 2024
 **WHAT**: *Statement of Equity*  
 **WHEN**: *For the Year Ending 12/31/24*  
 
-????
 
-<!--
-**More Examples**
+**Examples**
 
 | ![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
 |:-:|
 | ![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
--->
+
 
 **Alternative Names**
 
