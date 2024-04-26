@@ -6,7 +6,7 @@ layout: post
 
 |The Accounting Cycle|
 |:-:|
-|![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.png)|
+|![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.85.png)|
 
 *If this is your first time encountering this, use this list as a roadmap, because it is only an outline.*
 
