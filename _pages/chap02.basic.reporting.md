@@ -70,24 +70,6 @@ For the Year Ending Dec. 31, 2024
 |![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
 
 
-**4 key components**
-
-1. Opening balance
-  
-2. ADD: Net income & owner contributions 
-   - Add net income, or the total profit after taxes and business expenses
-   - Add owner contributions, capital invested during that period
-   - This **represents the total assets**.
-  
-3. SUBTRACT: Net loss & withdrawals 
-   - Subtract all losses for that period   
-   - Subtract owner withdrawals  
-   - This represents the company’s **total liabilities**. 
-  
-4. **Opening balance + Assets - Liabilities = Equity**
-   -  Total retained earnings for that period.
-
-
 |Prepare a 'Statement of Equity' (WITH STOCKS)|
 |:-|
 |1. ADD: Capital + Common Shares at beginning of period|
@@ -96,16 +78,9 @@ For the Year Ending Dec. 31, 2024
 |4.  +/- Common shares bought/sold|
 |5. SUBTRACT: Dividends & Drawings (Owner Withdrawals)|
 
----
 
 > Reports NEED: Who, What, When: Time Period
 {: .block-tip }
-
- 
-
-<!--
-|![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
--->
 
 **Alternative Names**
 
@@ -119,6 +94,7 @@ For the Year Ending Dec. 31, 2024
 8. Schedule of Changes in Shareholders' Equity   
    
 - Find an example at Tony Bell @ accountingworkbook.com or Youtube
+
 
 ---
 
