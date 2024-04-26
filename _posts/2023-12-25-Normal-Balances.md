@@ -44,8 +44,9 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 ||Purchase Returns & Allowances(L)|
 |||
 |**Payroll Expenses**|**Payroll Liabilities**|
-|Wages & Salaries Payable(E)|Employee Fed. Income Tax Payable(L)|
-|Payroll Tax Expense(E)|S.S. Tax Payable(L)|
+|Wages & Salaries Payable(E)|**Payroll Deductions are Liabilities**|
+|Payroll Tax Expense(E)|Employee Fed. Income Tax Payable(L)|
+||S.S. Tax Payable(L)|
 ||Medicare Tax Payable(L)|
 ||State Income Tax Payable(L)|
 
