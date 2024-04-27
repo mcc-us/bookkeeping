@@ -14,17 +14,16 @@ title: 7-Sales
 Credit Card Expense = EXPENSE    
 Sales Tax Payable = LIABILITY   
 Sales = REVENUE   
-Sales Discount **&** Returns & Allowances are Contra-Revenue = EXPENSE 
+Sales Discount **&** Returns & Allowances are CONTRA REVENUE like Expense
 
-$$Assets + \frac{Expenses}{\begin{bmatrix}
-Credit~ Card~ Expense \\
-Sales~ Discount \\
-Sales~ Returns~\&~ Allowances \\
-\end{bmatrix}} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{Sales}$$  
+$$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{\begin{bmatrix}
+Sales \\
+Sales~ Returns~ \&~ Allowances(CR) \\
+Sales~ Discount(CR) \\
+\end{bmatrix}}$$  
 
 <!--  
 **Dr/Cr Sales Accounts**
-
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
 -->
 

@@ -24,17 +24,17 @@ See Also: [Chart of Accounts - Example](_posts/2024-02-16-7-adjusting-entries.wo
 |Depreciation Expense(E)||
 |Accumulated Depreciation Expense(CA)||
 |||
-|Act. Receivable(A)|Acts Payable(L)|
-|Prepaid Expenses(A/E)|Accrued Revenue(L)|
-|Prepaid Insurance(A/E)|Deferred Revenue(L)|
-|Prepaid Supplies(A/E)|Unearned Revenue(L)|
+|Accounts Receivable(A)|Accounts Payable(L)|
+|Prepaid Expenses(A)|Accrued Revenue(L)|
+|Prepaid Insurance(A)|Deferred Revenue(L)|
+|Prepaid Supplies(A)|Unearned Revenue(L)|
 ||Interest Revenue(R)|
 ||Deferred income(L)|
 |||
 ||**Sales**|
-|Sales Discounts(E)|Sales(R)|
+||Sales(R)|
+|Credit Card Expense(E)|Sales Discounts(CR)|
 |Sales Returns & Allowances(E)|Sales Tax Payable(L)|
-|Credit Card Expense(E)||
 |Cost of Goods(E)||
 |Allowance of Doubful Act(CA)||
 |||
