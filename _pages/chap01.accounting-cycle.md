@@ -52,44 +52,54 @@ layout: post
 |:-:|
 |![Worksheet](/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
-## 7. Close the Books (If Needed)
-
-**Journalize & Post Closing Entries**
-
-REID
+## 7. Journalize & Post Closing Entries (Close Books - If Needed)
 
 Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
 - Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.   
 
-**4 Steps**      
+**4 Steps - REID**      
 
-1. Transfer Revenue to I.S.  
+1. Transfer Revenue to Income Summary  
+
+> **Dr Revenue**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Income Summary**  
+{: .block-tip }
+
+2. Transfer Expense accounts to Income Summary   
 
 > **Dr Income Summary**  
-> &nbsp;&nbsp;&nbsp; **Cr Revenue**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Expense**  
+{: .block-tip } 
+
+- NET Income Summary Balance  
+
+3. Transfer Income Summary (Net Gain or Loss) to Capital    
+
+
+
+4. Transfer Drawing to Capital    
+
+> **Dr Capital Act**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
 {: .block-tip }
 
 
-2. Transfer **All Expense (Dr)** accounts to **Income Summary (Cr)**.  
-3. Transfer **Income Summary (Net Gain or Loss)** to **Owner’s Capital (Cr)**.  
-4. Transfer **Drawing (Dr)** account to **Owner’s Capital (Cr)**.  
-
-
-- After the closing entries have been posted, the capital account reflects the Net Gain or Loss of operations for that period. 
-
-- The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
+- Revenue, Expense, and Drawing accounts should have zero balances, ready to accumulate data for the next period.
   
+
 ## 8. Prepare (Official) Financial Statements
 
 1. Trial Balance
-2. Income Statement
-3. Statement of Equity
-4. Balance Sheet
+2. Adjust Entries
+3. Income Statement
+4. Statement of Equity
+5. Adjusted Balance Sheet
+
 
 ## 9. Interpret & Archive Records
 
 - All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
 
 > #### NOTE: 
-> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but underst&ing the underlying concepts remains crucial.*
+> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but understanding the underlying concepts remains crucial.*
 {: .block-tip }
