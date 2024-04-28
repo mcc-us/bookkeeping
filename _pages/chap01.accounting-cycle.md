@@ -56,12 +56,19 @@ layout: post
 
 **Journalize & Post Closing Entries**
 
+REID
+
 Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
 - Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.   
 
 **4 Steps**      
 
-1. Transfer **All Revenue (Cr)** accounts to **Income Summary (Dr)**.  
+1. Transfer Revenue to I.S.
+> **Dr Income Summary**
+> &nbsp;&nbsp;&nbsp; **Cr Revenue**
+{: .block-tip }
+
+
 2. Transfer **All Expense (Dr)** accounts to **Income Summary (Cr)**.  
 3. Transfer **Income Summary (Net Gain or Loss)** to **Owner’s Capital (Cr)**.  
 4. Transfer **Drawing (Dr)** account to **Owner’s Capital (Cr)**.  
