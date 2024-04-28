@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2-Financial Statements
+title: 4 Financial Statements
 ---
 
 **Common Procedure for Financial Statements:**
@@ -11,7 +11,7 @@ title: 2-Financial Statements
 - [3B. Balance Sheet](#3b-balance-sheet)
 - [3C. Rules for Presenting Balances](#3c-rules-for-presenting-balances)
 - [4. Statement of Cash Flows](#4-statement-of-cash-flows)
-- [5. Income Statements Vs Cash Flow Statements](#5-income-statements-vs-cash-flow-statements)
+- [Extra. Income Statements Vs Cash Flow Statements](#Extra-income-statements-vs-cash-flow-statements)
 
 ---
 
@@ -201,7 +201,7 @@ For the Year Ending Dec. 31, 2024
 Statement of cash flows is a statement that lists the cash inflows and outflows for the business for a period of time.
 
 
-### 5. Income Statements Vs Cash Flow Statements
+### Extra. Income Statements Vs Cash Flow Statements
 
 
 **In essence**:
