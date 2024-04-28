@@ -54,18 +54,17 @@ layout: post
 
 ## 7. Journalize & Post Closing Entries (Close Books - If Needed)
 
-Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
-- Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.   
+- Closing reduces Revenue, Expense, and Drawing accounts to zero. So they are reset for the next period.   
 
-**4 Steps - REID**      
+**4 Steps - REID -> Rev, Exp, Income, Drawing**      
 
-1. Transfer Revenue to Income Summary  
+Step 1. Transfer Revenue to Income Summary  
 
 > **Dr Revenue**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Income Summary**  
 {: .block-tip }
 
-2. Transfer Expense accounts to Income Summary   
+Step 2. Transfer Expense accounts to Income Summary   
 
 > **Dr Income Summary**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Expense**  
@@ -73,18 +72,16 @@ Closing entries transfer the results of operating costs and net gain/loss to the
 
 - NET Income Summary Balance  
 
-3. Transfer Income Summary (Net Gain or Loss) to Capital    
+Step 3. Transfer Income Summary (Net Gain or Loss) to Capital    
 
 
 
-4. Transfer Drawing to Capital    
+Step 4. Transfer Drawing to Capital    
 
 > **Dr Capital Act**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
 {: .block-tip }
 
-
-- Revenue, Expense, and Drawing accounts should have zero balances, ready to accumulate data for the next period.
   
 
 ## 8. Prepare (Official) Financial Statements
