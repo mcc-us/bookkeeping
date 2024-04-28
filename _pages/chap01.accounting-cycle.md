@@ -56,7 +56,7 @@ layout: post
 
 - Closing reduces Revenue, Expense, and Drawing accounts to zero. So they are reset for the next period.   
 
-**4 Steps - REID -> Rev, Exp, Income, Drawing**      
+**4 Steps: Rev, Exp, Income, Drawing (REID)**      
 
 Step 1. Transfer Revenue to Income Summary  
 
@@ -76,7 +76,7 @@ Step 3. Transfer Income Summary (Net Gain or Loss) to Capital
 
 **See 6B in Complete Worksheet Above**
 
-Step 4. Transfer Drawing to Capital    
+- Step 4. Transfer Drawing to Capital    
 
 > **Dr Capital Act**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
