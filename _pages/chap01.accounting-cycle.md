@@ -63,9 +63,10 @@ Closing entries transfer the results of operating costs and net gain/loss to the
 
 **4 Steps**      
 
-1. Transfer Revenue to I.S.
-> **Dr Income Summary**
-> &nbsp;&nbsp;&nbsp; **Cr Revenue**
+1. Transfer Revenue to I.S.  
+
+> **Dr Income Summary**  
+> &nbsp;&nbsp;&nbsp; **Cr Revenue**  
 {: .block-tip }
 
 
