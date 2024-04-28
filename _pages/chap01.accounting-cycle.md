@@ -74,9 +74,9 @@ Step 2. Transfer Expense accounts to Income Summary
 
 Step 3. Transfer Income Summary (Net Gain or Loss) to Capital    
 
-**See 6B in Complete Worksheet Above**
+- **See 6B in Complete Worksheet Above**
 
-- Step 4. Transfer Drawing to Capital    
+Step 4. Transfer Drawing to Capital    
 
 > **Dr Capital Act**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
