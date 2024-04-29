@@ -18,8 +18,8 @@ Purchases \\
 Freight \\
 Cost~ Of~ Goods(Ex) \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
-Cash~ discount(CR) \\
-Purchase~ Discounts(CE) \\
+Cash~ Discount(CR) \\
+Purchase~ Discount(CE) \\
 Purchase~ Returns~ \&~ Allowances(CE) \\
 \end{bmatrix}} + Equity + Revenue$$
 
