@@ -26,7 +26,7 @@ See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
 |Depreciation Expense(Ex)|Accumulated Depreciation Expense(CA)|
 |Drawings(Eq)||
 |||
-|Accounts Receivable(A)|Accounts Payable(L)|
+|Accounts Receivable(A)||
 |Prepaid Expenses(A)|Accrued Revenue(L)|
 |Prepaid Insurance(A)|Deferred Revenue(L)|
 |Prepaid Supplies(A)|Unearned Revenue(L)|
