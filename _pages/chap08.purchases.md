@@ -11,16 +11,16 @@ title: 8-Purchases
 ---
 
 - Treat Purchases like an Asset or Expense, & Freight is an Expense   
-
+- CE = Contra Expense Act.
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
 Purchases \\
 Freight \\
-Cost~ Of~ Goods \\
+Cost~ Of~ Goods(Ex) \\
 \end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
-Cash~ discount \\
-Purchase~ Discounts \\
-Purchase~ Returns~ \&~ Allowances \\
+Cash~ discount(CR) \\
+Purchase~ Discounts(CE) \\
+Purchase~ Returns~ \&~ Allowances(CE) \\
 \end{bmatrix}} + Equity + Revenue$$
 
 <!--
