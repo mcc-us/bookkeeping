@@ -52,36 +52,51 @@ layout: post
 |:-:|
 |![Worksheet](/assets/mc-graw-accounting-course/images/fig5.8f.preparation.of.bs.w.Circles.png)|
 
-## 7. Close the Books (If Needed)
+## 7. Journalize & Post Closing Entries (Close Books - If Needed)
 
-**Journalize & Post Closing Entries**
+- Closing reduces Revenue, Expense, and Drawing accounts to zero. So they are reset for the next period.   
 
-Closing entries transfer the results of operating costs and net gain/loss to the *'Income Summary'* account then to the owner’s equity account (capital).
-- Closing reduces the revenue and expense accounts to zero. So they are reset for the next period.   
+**4 Steps: Rev, Exp, Income, Drawing (REID)**      
 
-**4 Steps**      
+Step 1. Transfer Revenue to Income Summary  
 
-1. Transfer **All Revenue (Cr)** accounts to **Income Summary (Dr)**.  
-2. Transfer **All Expense (Dr)** accounts to **Income Summary (Cr)**.  
-3. Transfer **Income Summary (Net Gain or Loss)** to **Owner’s Capital (Cr)**.  
-4. Transfer **Drawing (Dr)** account to **Owner’s Capital (Cr)**.  
+> **Dr Revenue**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Income Summary**  
+{: .block-tip }
 
+Step 2. Transfer Expense accounts to Income Summary   
 
-- After the closing entries have been posted, the capital account reflects the Net Gain or Loss of operations for that period. 
+> **Dr Income Summary**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Expense**  
+{: .block-tip } 
 
-- The revenue and expense accounts, with zero balances, are ready to accumulate data for the next period.
+- NET Income Summary Balance  
+
+Step 3. Transfer Income Summary (Net Gain or Loss) to Capital    
+
+- **See 6B in Complete Worksheet Above**
+
+Step 4. Transfer Drawing to Capital    
+
+> **Dr Capital Act**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cr Drawing**  
+{: .block-tip }
+
   
+
 ## 8. Prepare (Official) Financial Statements
 
 1. Trial Balance
-2. Income Statement
-3. Statement of Equity
-4. Balance Sheet
+2. Adjust Entries
+3. Income Statement
+4. Statement of Equity
+5. Adjusted Balance Sheet
+
 
 ## 9. Interpret & Archive Records
 
 - All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
 
 > #### NOTE: 
-> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but underst&ing the underlying concepts remains crucial.*
+> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but understanding the underlying concepts remains crucial.*
 {: .block-tip }
