@@ -73,6 +73,13 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ---
 
+
+**Question 4**
+![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
+
+
+
+
 **Question 4**
 ![](/assets/mc-graw-accounting-course/chap9.cash/q4.exer.A.png)
 
@@ -108,10 +115,6 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 ![](/assets/mc-graw-accounting-course/chap9.cash/q10.exer.png)
 
 ---
-
-**Question 4**
-![](/assets/mc-graw-accounting-course/chap9.cash/29.bank.recon.example.png)
-
 
 <!--
 **& Adjusting Financial Ledgers / Records**
