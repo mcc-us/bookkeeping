@@ -15,7 +15,8 @@ title: 10-Payroll
 |SS Tax|Medicare Tax|Federal Tax|
 |:-|:-|:-|
 |6.2%<br>Maxes out @ $142,800|1.45%|Bracketed & Progressive|
-|Who Pays|Levied equally on employer & employee|Levied equally on employer & employee|See: W-4, Publication 15, Circular E|
+|Who Pays|Levied equally on employer & employee|Levied equally on employer & employee|
+|See: W-4, Publication 15, Circular E|
 
 1. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals: The business does not match the amount.
 
@@ -48,20 +49,21 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ---
 
-![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)
+1. ![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)
+1. ![](/assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)
+2. ![](/assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)
+3. ![](/assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)
+4. ![](/assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)
+5. ![](/assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)
+6. ![](/assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)
+7. ![](/assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)
+8.  ![](/assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)
+9.  ![](/assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)
+10. ![](/assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)
+11. ![](/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)
+12. ![](/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)
 
-![](/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)
-![](/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)
+---
 
 ### Questions
 
