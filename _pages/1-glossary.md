@@ -104,6 +104,8 @@ title: Glossary
 46. *DEAR-CLIP*: Drawings + Expenses + Assets + Receivables = Capital + Liabilities + Income + Payables     
 
 47. *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
+
+48. *Depreciable base*: The depreciable base is the total value of a fixed asset that can be depreciated over its useful life.
     
 48. *Depreciation*: The systematic allocation of an asset's cost over its useful life as an expense, **Spreads the cost of an asset over time**.
 
