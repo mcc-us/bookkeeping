@@ -1,5 +1,5 @@
 ---
-title: A-Accounting Cycle
+title: 9 Accounting Steps
 category: 
 layout: post
 ---
@@ -19,6 +19,7 @@ layout: post
 ## 2. Record Transactions To Journal
 
 - Entries should have three lines: debit, credit and description lines.
+- The journal is the record of first entry.
 
 ![example journal entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)
 
@@ -31,8 +32,9 @@ layout: post
 
 ## 4. Prepare Worksheet / Trial Balance(s)
 
+- Balancing Debits and Credits is IMPORTANT here. 
 - The accounting equation is not highlighted at this point.
-- Instead, the Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, gerneally Assets, followed by Liabilities, Revenue, and Expenses. 
+- The Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, gerneally Assets, followed by Liabilities, Revenue, and Expenses. 
 
 |Worksheet of Trial-Balance|
 |:-:|
