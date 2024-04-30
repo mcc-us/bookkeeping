@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Glossary
+title: MC-Glossary
 ---
 
-*Definitions are abbreviated and abridged.*  
+*My definitions are abbreviated and abridged.*  
 
 
 1. *Accounts*: Records, like a container/bucket, that track specific assets, liabilities, equity, revenue, or expenses.
