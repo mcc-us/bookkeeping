@@ -7,6 +7,7 @@ layout: post
 |The Accounting Cycle|
 |:-:|
 |![Accounting Cycle Flowhart](/assets/mc-graw-accounting-course/images/cir.act.cycle.85.png)|
+|1. Analyze<br>2. Journal<br>3. Post<br>4. Worksheet<br>5. Fin. Statements<br>6. Adjustments<br>7. Close Book<br>8. Trial Balance<br>9. Interpret|
 
 *If this is your first time encountering this, use this list as a roadmap, because it is only an outline.*
 
