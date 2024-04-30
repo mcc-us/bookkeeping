@@ -11,7 +11,7 @@ title: 4 Financial Statements
 - [3B. Balance Sheet](#3b-balance-sheet)
 - [3C. Rules for Presenting Balances](#3c-rules-for-presenting-balances)
 - [4. Statement of Cash Flows](#4-statement-of-cash-flows)
-- [Extra. Income Statements Vs Cash Flow Statements](#Extra-income-statements-vs-cash-flow-statements)
+- [Extra. Income Statements Vs Cash Flow Statements](#extra-income-statements-vs-cash-flow-statements)
 
 ---
 
@@ -64,6 +64,7 @@ For the Year Ending Dec. 31, 2024
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals
 {: .block-tip }
 
+![](/assets/mc-graw-accounting-course/chap2/_6.equity.png)
 
 |**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *For the Year Ending 12/31/24*|
 |:-|
