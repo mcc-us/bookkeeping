@@ -64,7 +64,7 @@ For the Year Ending Dec. 31, 2024
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals
 {: .block-tip }
 
-![](/assets/mc-graw-accounting-course/chap2/_6.equity.png)
+![](/assets/mc-graw-accounting-course/chap2/6.equity.png)
 
 |**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *For the Year Ending 12/31/24*|
 |:-|
