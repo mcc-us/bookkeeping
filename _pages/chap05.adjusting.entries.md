@@ -3,14 +3,24 @@ layout: post
 title: 5-Adjusting Entries
 ---
 
-- Adjustments or adjusting entries are for previously unrecorded items.     
-   - Adjustments recognize when expenses paid in advance, but have yet to be consumed. As time elapses, the asset is used. Because these expenses are bought before use, they are sometimes considered **assets**.  
+- Adjusting entries account for previously unrecorded events that impact the financial statements.
+
+- Prepaid expenses are initially recorded as assets because they represent a payment made for a future benefit (e.g., prepaid insurance, rent, supplies).
+
+**Other common examples**:
+
+  1. Depreciation / Accumulated Depreciation
+  2. Accrued Interest (aka Deferred Revenue)
+  3. Accrued Revenue   
+
+- Adjusting entries are used at the end of accounting periods to recognize the portion of the prepaid expense used during the period. The asset is moved to an expense over time reducing the asset account.
+
+- This process ensures the financial statements accurately reflect expenses incurred and assets remaining at the end of the period.
 
 
-$$Assets + \frac{Expenses}{\begin{bmatrix}
+$$\frac{Assets}{Prepaid~ Expenses} + \frac{Expenses}{\begin{bmatrix}
 Prepaid~ Expenses \\
-e.g.~ Prepaid~ Insurance \\
-e.g.~ Prepaid~ Supplies \\
+e.g.~ Insurance,~ rent,~ supplies \\
 Accrued~ Expense-Interest \\
 \end{bmatrix}} = Liabilities + Equity + \frac{Revenue}{\begin{bmatrix}
 Accrued~ Revenue \\
@@ -18,24 +28,14 @@ Deferred~ Revenue \\
 \end{bmatrix}}$$  
 
 
-1. Prepaid Expenses - { *Insurance, Rent, Supplies, Advertising* }  
-2. ???? Depreciation / Accumulated Depreciation   ?????????  
-3. Accrued Expense-Interest   
-4. Accrued Revenue   
-5. Deferred Revenue 
-
-
 ### 1. Prepaid Expenses 
    
 ![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
 
-- Common Prepaid expenses are:
+- Prepaid expenses start as assets:
   - Pre-paid Rent
-  - Pre-paid Insurance
-  - Pre-paid Advertising
-  - Pre-paid Supplies, etc.
-  - For example: Auto insurance is prepaid but **expires** monthly.
+  - For example: the prepaid Auto insurance **expires** monthly and becomes an expense
 
 
 ### 2. Depreciation Expense
