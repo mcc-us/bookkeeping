@@ -15,16 +15,16 @@ tags: reporting
 
 ### Activity Ratios
 
-1. Average inventory = $Large\frac{Begining~ Inventory~ +~ Ending~ Inventory}{2}$
+1. Average inventory = $\Large\frac{Beginning~ Inventory~ +~ Ending~ Inventory}{2}$
 
-2. Average Accounts Receivable = $\Large\frac{Begining~ A/R +~ Ending~ A/R}{2}$
+2. Average Accounts Receivable = $\Large\frac{Beginning~ A/R~ +~ Ending~ A/R}{2}$
 
 3. Inventory Turnover Ratio = $\Large\frac{COGS}{Average~ Inventory}$
    - COGS - Cost of goods
 
 4. Accounts receivable turnover ratio = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
-5. Average Investment in Assets =  $\Large\frac{Begining~ Total~ Assests +~ Ending~ Total~ Assests}{2}$
+5. Average Investment in Assets =  $\Large\frac{Beginning~ Total~ Assets~ +~ Ending~ Total~ Assets}{2}$
    
 6. Return on Total Assets = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$
 
