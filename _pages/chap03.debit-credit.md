@@ -23,7 +23,7 @@ Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 ### 2. Double-Entry Bookkeeping
 
 
-Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*.
+- Double-entry accounting is a method used to track the categories: *Assets, Liabilities, Owner Equity, Revenue, Expenses*.
 
 > **D E A L E R = Dividends, Expenses, Assets, Liabilities, Equity, Revenue**
 {: .block-tip }
@@ -33,16 +33,15 @@ Double-entry accounting is a method used to track the categories: *Assets, Liabi
 | **D**ividends + <br> **E**xpenses + <br> **A**ssets |=| **L**iabilities + <br> **E**quity + <br> **R**evenue |
 
 
-
-Every transaction has two components:
+Every transaction has (at least) two components:
 - a debit side (on the left) and 
 - a credit side (on the right)
 
-| T-table example ||
-|:-------:|:---------:|
-| Debit   | Credit    |
+| T-table Example ||
+|:-----:|:------:|
+| Debit | Credit |
 
-In accounting, Debit and Credit ONLY refer to the left or right side of a T-table, journal or ledger. See [T-table](T-table), Journal or Ledger.
+**NOTE**: In accounting, Debit & Credit ONLY refer to the left or right side of a T-table, journal or ledger.
 
 
 | Example Transaction |
@@ -55,6 +54,7 @@ In accounting, Debit and Credit ONLY refer to the left or right side of a T-tabl
 
 ---
 
+
 ### 3. Chart of Accounts
 
 Example C.O.A. Numbering
@@ -62,7 +62,6 @@ Example C.O.A. Numbering
 |A L O R E |||||
 |:-|:-|:-|:-|:-|
 |Assets|Liabilities|Owner Equity|Revenue|Expenses|
-|100|200|300|400|500|
 
 ![Example C.O.A.](/assets/aipb/coa.example.png)
 

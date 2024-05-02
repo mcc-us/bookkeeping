@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Normal Balances
+title: NORMAL BALANCES
 ---
 
-
-See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
 
 | Dr | Cr |
 |:-|:-|
@@ -52,3 +50,4 @@ See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
 ||State Income Tax Payable(L)|
 
 
+See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
