@@ -9,33 +9,30 @@ See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
 | Dr | Cr |
 |:-|:-|
 |**Assets + Expenses**|**Liabilities + Equity + Revenue**|
-|Cash(A)|Capital(Eq)| 
+|Cash(A)|| 
 |Merchandise Inventory(A)||
 |Equipment(A)||
 |Accounts Receivable(A)|Accounts Payable(L)|
-|Prepaid Expenses(A)|Accrued Revenue(L)|
-|Prepaid Insurance(A)|Deferred Revenue(L)|
-|Prepaid Supplies(A)|Unearned Revenue(L)|
+|Prepaid Expenses(A)<br>*Ex. Insurance, Rent, Supplies*...|Accrued Revenue(L)|
+||Deferred Revenue(L)<br>*aka Unearned Revenue*(L)|
 ||Interest Revenue(R)|
 ||Deferred Income(R) = Unearned Revenue(R)|
-||Accounts Payable(L)|
 |Utilities Expense(Ex)||
 |Rent Expense(Ex)|Notes Payable(L)|
 |Telephone Expense(Ex)|Fees Income(R)|
 |Accrued Expenses(Ex)||
-|Depreciation Expense(Ex)|Accumulated Depreciation Expense(CA)|
-|Drawings(Eq)||
+|**Depreciation**||
+|Depreciation Expense(Ex)|Accumulated Depreciation (*NOT Expense*)(CA)|
+||**Equity**|
+|Drawings(Eq)|Capital(Eq)|
 |||
-|Accounts Receivable(A)||
 |Prepaid Expenses(A)|Accrued Revenue(L)|
 |Prepaid Insurance(A)|Deferred Revenue(L)|
 |Prepaid Supplies(A)|Unearned Revenue(L)|
 ||Interest Revenue(R)|
-|||
 |**Petty Cash**||
 |Petty Cash(A)||
 |Cash Variance = Cash Short|Cash Variance = Cash Over|
-|||
 ||**Sales**|
 |Allowance of Doubful Act(CA)|Sales(R)|
 |Credit Card Expense(Ex)|Sales Discounts(CR)|

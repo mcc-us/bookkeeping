@@ -11,8 +11,9 @@ layout: post
 
 ## 1. Identify & Analyze Transactions
 
-- Identify which accounts are impacted by the transaction. What are the account names & numbers?
-- What accounts are increasing or decreasing? What accounts are the source of funds and what are the destination of the funds?
+- Identify accounts impacted by account names & numbers?
+- What accounts are increasing or decreasing? 
+- What accounts are the source of funds & what are the destination of the funds?
 - Include date(s), notes for purchases, sales, payments, receipts, etc.
 
 ## 2. Record Transactions To Journal
