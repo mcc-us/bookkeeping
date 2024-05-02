@@ -9,8 +9,8 @@ title: C-Debit & Credits
 
 **In General**:
 
-> **DEBITS** (**Dr**) represent the flow of funds **To A Destination**
->  &nbsp;&nbsp;&nbsp;&nbsp;**CREDITS** (**Cr**) represent the flow of funds **From A Source**
+> **DEBITS** (**Dr**) represent the flow of funds **To A Destination**   
+>  &nbsp;&nbsp;&nbsp;&nbsp;**CREDITS** (**Cr**) represent the flow of funds **From A Source**   
 {: .block-tip }
 
 
