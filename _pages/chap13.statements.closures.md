@@ -1,29 +1,8 @@
 ---
 layout: post
-title: 13-Financial Statements and Closing Procedures
+title: 13-Financial Statements & Closing Procedures
 --- 
 
-**Terms**
-
-*Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
-
-*Single-step income statement* - An income statement where only one computation is needed to determine the net income. (Total Revenue − Total Exp = Net Income/Loss)
-
-*Multiple-step income statement* - An income statement where many/several subtotals are computed before the net income is calculated.
-
-*Condensed income statement* - An income statement summarizing detailed income statement accounts into a few lines of information.
-
-*Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
-
-*Plant and equipment* - Property that will be used in the business for longer than one year.
-
-*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
-
-*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
-
-*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 ### Operating Revenue Calculation
 
@@ -71,13 +50,15 @@ title: 13-Financial Statements and Closing Procedures
 - COGS differs from operating expenses (OPEX) in that OPEX includes expenditures that are not directly tied to the production of goods or service.
 
 
-#### Gross Profit
+#### Net Sales
 
-|Gross Profit||
-|-|:-|
-||Net sales|
-|-|(Cost of goods sold)|
-|=|**Gross Profit On Sales**|
+|Total Sales|
+|:-|
+|**Subtract** Sales Returns & Allowances||
+|**Subtract** Sales Discounts|
+|**Equals Net Sales**|
+
+
 
 
 #### Operating Expenses Calculation
@@ -124,3 +105,24 @@ test
 |=|Book value|
 
 
+**Terms**
+
+*Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
+
+*Single-step income statement* - An income statement where only one computation is needed to determine the net income. (Total Revenue − Total Exp = Net Income/Loss)
+
+*Multiple-step income statement* - An income statement where many/several subtotals are computed before the net income is calculated.
+
+*Condensed income statement* - An income statement summarizing detailed income statement accounts into a few lines of information.
+
+*Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
+
+*Plant and equipment* - Property that will be used in the business for longer than one year.
+
+*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
+
+*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+
+*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
