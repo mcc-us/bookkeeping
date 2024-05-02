@@ -9,11 +9,12 @@ title: C-Debit & Credits
 
 **In General**:
 
-- **DEBITS** (**Dr**) represent the flow of funds **To A Destination**
+> **DEBITS** (**Dr**) represent the flow of funds **To A Destination**
+>  &nbsp;&nbsp;&nbsp;&nbsp;**CREDITS** (**Cr**) represent the flow of funds **From A Source**
+{: .block-tip }
 
-- **CREDITS** (**Cr**) represent the flow of funds **From A Source**
 
-It's important to understand that debits and credits represent **changes to specific accounts**, e.g. assets, liabilities, etc.
+Important: **Debits & Credits** represent **Left & Right sides of the Balance Sheet**
 
 Helpful video: [@AccountingStuff](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 
