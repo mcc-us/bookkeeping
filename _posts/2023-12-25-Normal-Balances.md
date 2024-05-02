@@ -22,16 +22,15 @@ title: NORMAL BALANCES
 |**Petty Cash(A)**||
 |Cash Variance = Cash Short(E)|Cash Variance = Cash Over(R)|
 ||**Sales(R)**|
-|Allowance of Doubful Act(CA)||
+|Allowance of Doubful Act(CA)|Sales Tax Payable(L)|
 |Credit Card Expense(Ex)|Sales Discounts(CR)|
 |Cost of Goods(Ex)|Sales Returns & Allowances(CR)|
-||Sales Tax Payable(L)|
-|**Purchases**||
-|Purchases(Ex)|Cash Discount(CE)|
-|Freight Charges(Ex)|Purchase Discounts(CE)|
+|**Purchases(Ex)**||
+|Freight Charges(Ex)|Cash Discount(CE)|
+||Purchase Discounts(CE)|
 ||Purchase Returns & Allowances(CE)|
-|**Payroll Expenses**|**Payroll Deductions are Liabilities**|
-|Wages & Salaries Payable(Ex)|S.S. Tax Payable(L)|
+|**Payroll Expenses(Ex)**|**Payroll Deductions are Liabilities**|
+|Wages & Salaries(Ex)|S.S. Tax Payable(L)|
 |Payroll Tax Expense(Ex)|Employee Fed. Income Tax Payable(L)|
 ||Medicare Tax Payable(L)|
 ||State Income Tax Payable(L)|
