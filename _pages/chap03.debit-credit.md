@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C-Debit & Credits
+title: Debit & Credits
 ---
 
 ### 1. Debit & Credits
