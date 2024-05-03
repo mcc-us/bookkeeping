@@ -3,6 +3,13 @@ layout: post
 title: 13-Financial Statements & Closing Procedures
 --- 
 
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/1.objectives.png)
+
+---
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/operating-rev.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
 
 ### Operating Revenue Calculation
 
