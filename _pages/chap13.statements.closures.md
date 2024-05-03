@@ -54,7 +54,7 @@ title: 13-Financial Statements & Closing Procedures
 
 |Total Sales|
 |:-|
-|**Subtract** Sales Returns & Allowances||
+|**Subtract** Sales Returns & Allowances|
 |**Subtract** Sales Discounts|
 |**Equals Net Sales**|
 
