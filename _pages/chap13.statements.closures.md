@@ -30,7 +30,8 @@ title: 13-Financial Statements & Closing Procedures
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/2.post.closing.png)
 
 ---
-#### Net Sales
+
+### Net Sales (a.k/a. Operating Revenue) Calculation
 
 ||Total Sales|
 |:-|:-|
@@ -40,25 +41,14 @@ title: 13-Financial Statements & Closing Procedures
 
 
 
-### Operating Revenue Calculation
+### Net??
 
-|Operating Revenue||
-|-|:-|
-||Total sales|
-|-|(sales returns & allowances)|
-|-|(sales discounts)|
-|=|**Net sales**|
-
-
-### Cost Of Goods Calculation, COGS
-
-|Net delivered cost of purchases||
-|-|:-|
 ||Purchases|
-|+|Freight in|
-|-|(purchases returns and allowances)|
-|-|(Purchase discounts)|
-|=|**Net delivered cost of purchases**|
+|:-|:-|
+|**ADD**|Freight in|
+|**Subtract**|(purchases returns and allowances)|
+|**Subtract**|(Purchase discounts)|
+||**Equals Net delivered cost of purchases**|
 
 **OR**
 
