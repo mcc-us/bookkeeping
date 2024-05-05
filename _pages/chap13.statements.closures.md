@@ -18,9 +18,8 @@ title: 13-Financial Statements & Closing Procedures
 
 ### Classified Balance Sheet
 
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/1b.classified.bal.sheet.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/2.ppe.bal.sheet.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/3.liabilities.bal.sheet.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/total.classified.bal.sheet.png)
+
 
 ---
 
@@ -38,11 +37,9 @@ title: 13-Financial Statements & Closing Procedures
 
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
+*Average Investment in Assets* =  $\Large\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
 
 *Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
-
 
 ---
 
@@ -69,6 +66,22 @@ title: 13-Financial Statements & Closing Procedures
 Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
 
 ---
+
+### Inventory turnover
+
+- The number of times inventory is purchased and sold during the accounting period (= COGS Sold ÷ Avg. Inventory)
+
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
+
+---
+
+### Average Collection Period
+
+The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
+
+
+
+
 
 ### Net Sales (a.k/a. Operating Revenue) Calculation
 
