@@ -31,6 +31,19 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
+## Interpreting Financial Statements
+
+
+*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+
+*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+
+
+*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
+
+
 ### Net Sales (a.k/a. Operating Revenue) Calculation
 
 ||Total Sales|
