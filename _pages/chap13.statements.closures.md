@@ -23,6 +23,13 @@ title: 13-Financial Statements & Closing Procedures
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/3.liabilities.bal.sheet.png)
 
 ---
+
+### Classified Post-Closing Balance Sheet
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/1.post.closing.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/2.post.closing.png)
+
+---
 #### Net Sales
 
 ||Total Sales|
