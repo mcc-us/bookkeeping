@@ -3,13 +3,35 @@ layout: post
 title: 13-Financial Statements & Closing Procedures
 --- 
 
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/1.objectives.png)
+- Details for preparing classified income statement, statement of owner’s equity, classified balance sheet from the worksheet.
+- Preparing Adjusting entries, Closing entries & calculating financial ratios.
 
 ---
+
+### Classified Income Statement
 
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/operating-rev.png)
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
+
+---
+
+### Classified Balance Sheet
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/1.classified.bal.sheet.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/2.ppe.bal.sheet.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/3.liabilities.bal.sheet.png)
+
+---
+#### Net Sales
+
+||Total Sales|
+|:-|:-|
+|**Subtract**|Sales Returns & Allowances|
+|**Subtract**|Sales Discounts|
+||**Equals Net Sales**|
+
+
 
 ### Operating Revenue Calculation
 
@@ -55,16 +77,6 @@ title: 13-Financial Statements & Closing Procedures
 - COGS is deducted from revenues (sales) in order to calculate gross profit and gross margin. Higher COGS results in lower margins.
 - The value of COGS will change depending on the accounting standards used in the calculation.
 - COGS differs from operating expenses (OPEX) in that OPEX includes expenditures that are not directly tied to the production of goods or service.
-
-
-#### Net Sales
-
-|Total Sales|
-|:-|
-|**Subtract** Sales Returns & Allowances|
-|**Subtract** Sales Discounts|
-|**Equals Net Sales**|
-
 
 
 
