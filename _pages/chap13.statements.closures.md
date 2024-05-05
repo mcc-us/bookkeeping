@@ -43,7 +43,7 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
-### Gross Profit P*ercentage
+### Gross Profit Percentage
 
 - The amount of gross profit from each dollar of sales   
   
@@ -196,6 +196,8 @@ test
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 ---
+
+#### Book Table
 
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
 
