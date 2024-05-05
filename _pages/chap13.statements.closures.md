@@ -194,3 +194,8 @@ test
 *Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
 
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+
+---
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
+
