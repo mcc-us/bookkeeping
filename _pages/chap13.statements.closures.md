@@ -44,6 +44,32 @@ title: 13-Financial Statements & Closing Procedures
 *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
 
 
+---
+
+### Gross Profit P*ercentage
+
+- The amount of gross profit from each dollar of sales   
+  
+*Gross Profit Percentage* = $\large \frac{Gross~ Profit}{Net~ Sales}$ 
+
+---
+
+### Working Capital
+
+- The measure of the ability of a company to meet its current obligations
+
+*Working capital* = Current Aassets - Current Liabilities
+
+---
+
+### Current Ratio
+
+- Provides a measure of a firm’s ability to pay its current debts 
+
+Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
+
+---
+
 ### Net Sales (a.k/a. Operating Revenue) Calculation
 
 ||Total Sales|
