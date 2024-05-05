@@ -33,13 +33,13 @@ title: 13-Financial Statements & Closing Procedures
 ## Interpreting Financial Statements
 
 
-*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+*Average Inventory* = $\Large\frac{Begining~ +~ Ending~ Inventory}{2}$
 
-*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+*Average Accounts Receivable* = $\Large\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 *Average Investment in Assets* =  $\Large\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
 
-*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+*Accounts receivable turnover ratio* = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
 
 ---
 
@@ -47,7 +47,7 @@ title: 13-Financial Statements & Closing Procedures
 
 - The amount of gross profit from each dollar of sales   
   
-*Gross Profit Percentage* = $\large \frac{Gross~ Profit}{Net~ Sales}$ 
+*Gross Profit Percentage* = $\Large \frac{Gross~ Profit}{Net~ Sales}$ 
 
 ---
 
@@ -71,7 +71,7 @@ Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.
 
 - The number of times inventory is purchased and sold during the accounting period (= COGS Sold ÷ Avg. Inventory)
 
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
+*Inventory Turnover Ratio* = $\Large\frac{COGS}{Average~ Inventory}$ 
 
 ---
 
