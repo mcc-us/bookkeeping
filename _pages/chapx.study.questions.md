@@ -6,7 +6,7 @@ title: 14-Study Questions
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
 
 
-![](/WrongQuestions/Screenshot at 2024-04-18 17-03-55)
+![](/WrongQuestions/Screenshot\ at\ 2024-04-18\ 17-03-55)
 
 1. ![](/WrongQuestions/Screenshot at 2024-04-18 17-04-22)
 2. ![](/WrongQuestions/Screenshot at 2024-04-18 17-04-39)
