@@ -6,6 +6,8 @@ title: 13-Financial Statements & Closing Procedures
 - Classified income statement, Owner’s equity, Balance sheet w/ worksheet.
 - Adjusting entries, Closing entries & Financial ratios.
 
+---
+
 #### Net Delivered Cost of Purchases
 
 N.D.C.P. :one: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**

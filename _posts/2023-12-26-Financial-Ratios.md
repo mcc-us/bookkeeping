@@ -7,11 +7,12 @@ tags: reporting
 
 ### Basics
 
-1. Net Income/Loss = Revenue + Gains - Expenses - Losses
+1. Net Income/Loss = **Revenue + Gains - Expenses - Losses**
 
-2. Ending Balances = Beginning Balance + Investments - Distributions
+2. Ending Balances = **Beginning Balance + Investments - Distributions**
 
-3. Operating Profit = Revenue(Sales + Fees Earned) - Expenses 
+3. Operating Profit = **Revenue(Sales + Fees Earned) - Expenses** 
+   
 4. Working Capital = **Current Assets - Current Liabilities**
 
 ### Activity Ratios
@@ -31,15 +32,14 @@ tags: reporting
 ### Liquidity Ratios
 
 1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
-<br>
 
 1. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$   
-<br>
 
-1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x Days per period   
-<br>
+2. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x Days per period   
 
-1. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$  
+3. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$  
+
+4. Working Capital = **Current Assets - Current Liabilities**
 
 ### Solvency Ratios
 
