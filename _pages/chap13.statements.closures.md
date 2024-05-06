@@ -3,125 +3,30 @@ layout: post
 title: 13-Financial Statements & Closing Procedures
 --- 
 
-- Details for preparing classified income statement, statement of owner’s equity, classified balance sheet from the worksheet.
+- Preparing 
+  - classified income statement, statement of owner’s equity, classified balance sheet from the worksheet.
 - Preparing Adjusting entries, Closing entries & calculating financial ratios.
 
----
+### Net Delivered Cost of Purchases:one:
 
-### Classified Income Statement
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/operating-rev.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
-
----
-
-### Classified Balance Sheet
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/total.classified.bal.sheet.png)
-
-
----
-
-### Classified Post-Closing Balance Sheet
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/2b.post.closing.png)
-
----
-
-## Interpreting Financial Statements
-
-
-*Average Inventory* = $\huge\frac{Begining~ +~ Ending~ Inventory}{2}$
-<br>
-
-*Average Accounts Receivable* = $\huge\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
-<br>
-
-*Average Investment in Assets* =  $\huge\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
-<br>
-
-*Accounts receivable turnover ratio* = $\huge\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
----
-
-### Gross Profit Percentage
-
-- The amount of gross profit from each dollar of sales   
-  
-*Gross Profit Percentage* = $\huge \frac{Gross~ Profit}{Net~ Sales}$ 
-
----
-
-### Working Capital
-
-- The measure of the ability of a company to meet its current obligations
-
-*Working capital* = Current Aassets - Current Liabilities
-
----
-
-### Current Ratio
-
-- Provides a measure of a firm’s ability to pay its current debts 
-
-Current Ratio = $\huge\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
-
----
-
-### Inventory turnover
-
-- The number of times inventory is purchased and sold during the accounting period (= COGS Sold ÷ Avg. Inventory)
-
-*Inventory Turnover Ratio* = $\huge\frac{COGS}{Average~ Inventory}$ 
-
----
-
-### Average Collection Period
-
-The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
-
-
-
-
-
-### Net Sales (a.k/a. Operating Revenue) Calculation
-
-||Total Sales|
+|Net Delivered Cost of Purchases:one:||
 |:-|:-|
-|**Subtract**|Sales Returns & Allowances|
-|**Subtract**|Sales Discounts|
-||**Equals Net Sales**|
-
-
-
-### Net??
-
 ||Purchases|
-|:-|:-|
 |**ADD**|Freight in|
-|**Subtract**|(purchases returns and allowances)|
+|**Subtract**|(Purchases returns & allowances)|
 |**Subtract**|(Purchase discounts)|
-||**Equals Net delivered cost of purchases**|
+|Equals|Net delivered cost of purchases:one:|
 
-**OR**
+### Cost of Goods Sold
 
-|Cost Of Goods Sold||
+|Cost of Goods Sold||
 |-|:-|
-||Beginning merchandise Inventory|
-|+|Net delivered cost of purchases, See Above|
-|-|(Ending merchandise inventory)|
-|=|Cost Of Goods Sold|
+||Beginning Inv.|
+|**ADD**|Net delivered cost of purchases:one:, *See Above*|
+|**Subtract**|(Ending Inv.)|
+|Equals|Cost of Goods Sold|
 
-**OR**
 
-|Cost Of Goods||
-|-|:-|
-||Beginning Inventory|
-|+|Purchases during period|
-|-|Ending Inventory|
-|=|COGS|
 
 [**See Investopedia.com**](https://www.investopedia.com/terms/c/cogs.asp#toc-formula-and-calculation-of-cost-of-goods-sold-cogs)
 - COGS includes all of the costs and expenses directly related to the production of goods.
@@ -135,10 +40,12 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 #### Operating Expenses Calculation
 
 |Operating Expenses||
-|-|:-|
-||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipment exp, also called warehouse exps.*|
-|+|Gen Administrative Exp|
+|:-|:-|
+||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipment exp*|
+|**ADD**|Gen Administrative Exp|
 |=|**Total Operating Exp**|
+
+- Rent, utils, lights, salaries and wages, equipment exp, are also called warehouse exps.
 
 **Common examples of OPEX**:
 
@@ -203,4 +110,94 @@ test
 #### Book Table
 
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
+
+
+---
+
+### Classified Income Statement
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/operating-rev.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
+
+---
+
+### Classified Balance Sheet
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/total.classified.bal.sheet.png)
+
+
+---
+
+### Classified Post-Closing Balance Sheet
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/2b.post.closing.png)
+
+---
+
+## Interpreting Financial Statements
+
+
+*Average Inventory* = $\huge\frac{Begining~ +~ Ending~ Inventory}{2}$
+<br>
+
+*Average Accounts Receivable* = $\huge\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+<br>
+
+*Average Investment in Assets* =  $\huge\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
+<br>
+
+*Accounts receivable turnover ratio* = $\huge\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+
+---
+
+### Gross Profit Percentage
+
+- The amount of gross profit from each dollar of sales   
+  
+*Gross Profit Percentage* = $\huge \frac{Gross~ Profit}{Net~ Sales}$ 
+
+---
+
+### Working Capital
+
+- The measure of the ability of a company to meet its current obligations
+
+*Working Capital* = **Current Assets - Current Liabilities**
+
+---
+
+### Current Ratio
+
+- Provides a measure of a firm’s ability to pay its current debts 
+
+Current Ratio = $\huge\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
+
+---
+
+### Inventory turnover
+
+- The number of times inventory is purchased and sold during the accounting period  
+
+*Inventory Turnover Ratio* = $\huge\frac{COGS}{Average~ Inventory}$ 
+
+---
+
+### Average Collection Period
+
+The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
+
+
+
+
+### Net Sales (a.k.a. Operating Revenue)
+
+||Net Sales |
+|:-|:-|
+||Total Sales|
+|**Subtract**|Sales Returns & Allowances|
+|**Subtract**|Sales Discounts|
+|Equals|Net Sales|
+
 
