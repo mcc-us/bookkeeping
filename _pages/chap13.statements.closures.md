@@ -3,9 +3,8 @@ layout: post
 title: 13-Financial Statements & Closing Procedures
 --- 
 
-- Preparing 
-  - classified income statement, statement of owner’s equity, classified balance sheet from the worksheet.
-- Preparing Adjusting entries, Closing entries & calculating financial ratios.
+- Classified income statement, Owner’s equity, Balance sheet w/ worksheet.
+- Adjusting entries, Closing entries & Financial ratios.
 
 ### Net Delivered Cost of Purchases
 
