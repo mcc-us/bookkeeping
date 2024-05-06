@@ -1,8 +1,3 @@
----
-layout: post
-title: 14-Study Questions
---- 
-
 1. ![](/WrongQuestions/Screenshot at 2024-04-18 17-03-55)
 2. ![](/WrongQuestions/Screenshot at 2024-04-18 17-04-22)
 3. ![](/WrongQuestions/Screenshot at 2024-04-18 17-04-39)
@@ -102,5 +97,3 @@ title: 14-Study Questions
 97. ![](/WrongQuestions/Screenshot from 2024-05-06 10-16-09)
 98. ![](/WrongQuestions/Screenshot from 2024-05-06 10-16-28)
 99. ![](/WrongQuestions/Screenshot from 2024-05-06 10-16-57)
-    
-    
