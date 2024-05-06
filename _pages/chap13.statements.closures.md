@@ -8,55 +8,36 @@ title: 13-Financial Statements & Closing Procedures
 
 ### Net Delivered Cost of Purchases
 
-|Net Delivered Cost of Purchases :one:||
-|:-:|:-|
-|Equals|Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)
+N.D.C.P. :one: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
+
 
 ### Cost of Goods Sold
 
-|Cost of Goods Sold :two:||
-|-:|:-|
-||Beginning Inv.|
-|**ADD**|Net delivered cost of purchases :one:|
-|**Subtract**|(Ending Inv.)|
-|Equals|Cost of Goods Sold :two:|
+COGS :two: = **Beginning Inv. + Net Delivered Cost of Purchases :one: - (Ending Inv.) - (Purchase Discounts)**
 
----
 
 ### Gross Profit
-The difference between net sales and the cost of goods sold (gross profit = net sales – cost of goods sold)
 
-|Gross Profit :three:||
-|-:|:-|
-||Net Sales|
-|**Subtract**|Cost of Goods Sold :two:|
-|Equals|Gross Profit :three:|
+Gross Profit :three: = **Net Sales - COGS :two:**
 
----
 
 ### Net Income/Loss from Operations
 
 - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
 
-|Net from Operations :four:||
-|-:|:-|
-||Gross Profit on Sales|
-|**Subtract**|Total Operating Exp|
-|Equals|Net from Operations :four:|
+Net of Ops :four: = **Gross Profit on Sales - Total Operating Exp**
 
----
 
 ### Current Ratio 
 
-C. R. = $\Large\frac{Current~ Assets}{Current~ Liabilities}$
+C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
 
 Ratio > 1.5 is good  
 
----
 
 ### Book Value
 
-B. V. = Asset - Accumulated Depreciation
+B.V. = **Asset - Accumulated Depreciation**
 
 ---
 
@@ -68,23 +49,21 @@ B. V. = Asset - Accumulated Depreciation
 |**ADD**|Gen Administrative Exp|
 |=|**Total Operating Exp**|
 
-- Rent, utils, lights, salaries and wages, equipment exp, are also called warehouse exps.
+- Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
+
+---
+
+- OPEX includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, but excludes the direct costs of making the products or providing the services you sell (reflected in COGS).
 
 **Common examples of OPEX**:
 
-1. **Selling Expenses**: Costs associated with marketing, advertising, and selling your products or services. Examples include sales commissions, marketing materials, and salaries for salespeople.
+1. **Selling Expenses**: Marketing, advertising, and selling your products or services, includes sales commissions, marketing materials, salaries for sales staff.
    
-2. **General & Administrative Expenses (G&A)**: These are ongoing costs required to run the overall business, not directly tied to production. Examples include rent, utilities, office supplies, salaries for administrative staff, and accounting fees.
+2. **General & Administrative Expenses (G&A)**: Ongoing costs required to run business, not directly tied to production. For example: rent, utilities, office supplies, salaries for administrative staff, accounting fees.
 
-3. **Research & Development (R&D)**: This includes expenses related to developing new products or services. Examples include salaries for R&D personnel, materials used in prototyping, and patent filing fees.
+3. **Research & Development (R&D)**: Expenses related to R&D or services. Example: salaries for R&D, materials used in R&D, all patent fees.
 
 4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.
-
-OPEX includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, but excludes the direct costs of making the products or providing the services you sell (reflected in COGS).
-
-
-
-
 
 ---
 
