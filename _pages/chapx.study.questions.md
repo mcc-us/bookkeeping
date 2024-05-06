@@ -3,108 +3,54 @@ layout: post
 title: 14-Study Questions
 --- 
 
-![](/WrongQuestions/chap1.q1.png)
-
-![](/WrongQuestions/3b.cash.register.calc.png)
-
-![](/WrongQuestions/drawer.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-03-55.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-04-22.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-04-39.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-05-03.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-05-16.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-14-29.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-15-44.png)
-
-![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-17-20.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-49-15.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-50-19.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-56-58.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2012-06-16.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-25-12.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-52-45.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-53-26.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-58-58.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-04-44.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-05-11.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-08-16.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-09-18.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-19-32.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-00.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-16.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-09-18.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-19-32.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-00.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-22-14.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-16.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-01-56.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-12.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-34.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-58.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2017-01-47.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-22%2017-02-52.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-23%2010-18-52.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-23%2010-19-27.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-07-30.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-07-57.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-19.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-37.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-52.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-23.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-35.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-47.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-51-05.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-51-34.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-25%2008-51-08.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-25%2008-51-47.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-25%2010-06-58.png)
-
-![](/WrongQuestions/Screenshot%20from%202024-04-25%2010-07-17.png)
+1. ![](/WrongQuestions/chap1.q1.png)
+2. ![](/WrongQuestions/drawer.png)
+3. ![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-03-55.png)
+4. ![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-04-39.png)
+5. ![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-05-03.png)
+6. ![](/WrongQuestions/Screenshot%20at%202024-04-18%2017-05-16.png)
+7. ![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-14-29.png)
+8. ![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-15-44.png)
+9. ![](/WrongQuestions/Screenshot%20at%202024-04-20%2011-17-20.png)
+10. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-49-15.png)
+11. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-50-19.png)
+12. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2011-56-58.png)
+13. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2012-06-16.png)
+14. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-25-12.png)
+15. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-52-45.png)
+16. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-53-26.png)
+17. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2015-58-58.png)
+18. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-04-44.png)
+19. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-05-11.png)
+20. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-08-16.png)
+21. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-09-18.png)
+22. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-19-32.png)
+23. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-00.png)
+24. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-16.png)
+25. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-09-18.png)
+26. ![](/WrongQuestions/Screenshot%20from%202024-04-12%2016-19-32.png)
+27. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-00.png)
+28. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-22-14.png)
+29. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2011-18-16.png)
+30. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-01-56.png)
+31. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-12.png)
+32. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-34.png)
+33. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2012-02-58.png)
+34. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2017-01-47.png)
+35. ![](/WrongQuestions/Screenshot%20from%202024-04-22%2017-02-52.png)
+36. ![](/WrongQuestions/Screenshot%20from%202024-04-23%2010-18-52.png)
+37. ![](/WrongQuestions/Screenshot%20from%202024-04-23%2010-19-27.png)
+38. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-07-30.png)
+39. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-07-57.png)
+40. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-19.png)
+41. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-37.png)
+42. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-08-52.png)
+43. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-23.png)
+44. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-35.png)
+45. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-50-47.png)
+46. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-51-05.png)
+47. ![](/WrongQuestions/Screenshot%20from%202024-04-24%2011-51-34.png)
+48. ![](/WrongQuestions/Screenshot%20from%202024-04-25%2008-51-08.png)
+49. ![](/WrongQuestions/Screenshot%20from%202024-04-25%2008-51-47.png)
+50. ![](/WrongQuestions/Screenshot%20from%202024-04-25%2010-06-58.png)
+51. ![](/WrongQuestions/Screenshot%20from%202024-04-25%2010-07-17.png)
