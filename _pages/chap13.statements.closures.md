@@ -6,54 +6,52 @@ title: 13-Financial Statements & Closing Procedures
 - Classified income statement, Owner’s equity, Balance sheet w/ worksheet.
 - Adjusting entries, Closing entries & Financial ratios.
 
-### Net Delivered Cost of Purchases
+#### Net Delivered Cost of Purchases
 
 N.D.C.P. :one: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
 
 
-### Cost of Goods Sold
+#### Cost of Goods Sold
 
 COGS :two: = **Beginning Inv. + Net Delivered Cost of Purchases :one: - (Ending Inv.) - (Purchase Discounts)**
 
 
-### Gross Profit
+#### Gross Profit
 
 Gross Profit :three: = **Net Sales - COGS :two:**
 
 
-### Net Income/Loss from Operations
+#### Net Income/Loss from Operations
 
 - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
 
 Net of Ops :four: = **Gross Profit on Sales - Total Operating Exp**
 
 
-### Current Ratio 
+#### Current Ratio 
 
 C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
 
 Ratio > 1.5 is good  
 
 
-### Book Value
+#### Book Value
 
 B.V. = **Asset - Accumulated Depreciation**
 
 ---
 
-### Operating Expenses Calculation
+#### Operating Expenses
 
-|Operating Expenses||
-|:-|:-|
-||Expenses incurred during sales<br>*rent, utils, lights, salaries and wages, equipment exp*|
-|**ADD**|Gen Administrative Exp|
-|=|**Total Operating Exp**|
+Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
 
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
 ---
 
-- OPEX includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, but excludes the direct costs of making the products or providing the services you sell (reflected in COGS).
+#### OPEX
+
+- Includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, **excluding** direct costs of production or providing the services you sell (reflected in COGS).
 
 **Common examples of OPEX**:
 

@@ -11,21 +11,21 @@ tags: reporting
 
 2. Ending Balances = Beginning Balance + Investments - Distributions
 
-3. Operating Profit = Revenue(Sales, Fees Earned) - Expenses 
+3. Operating Profit = Revenue(Sales + Fees Earned) - Expenses 
+4. Working Capital = **Current Assets - Current Liabilities**
 
 ### Activity Ratios
 
-1. Average inventory = $\Large\frac{Beginning~ Inventory~ +~ Ending~ Inventory}{2}$
+1. Average Inventory = $\Large\frac{Beginning~ Inventory~ +~ Ending~ Inventory}{2}$
 
 2. Average Accounts Receivable = $\Large\frac{Beginning~ A/R~ +~ Ending~ A/R}{2}$
 
-3. Inventory Turnover Ratio = $\Large\frac{COGS}{Average~ Inventory}$
-   - COGS - Cost of goods
+3. Average Investment in Assets =  $\Large\frac{Beginning~ Total~ Assets~ +~ Ending~ Total~ Assets}{2}$
 
-4. Accounts receivable turnover ratio = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+4. Inventory Turnover Ratio = $\Large\frac{COGS}{Average~ Inventory}$
 
-5. Average Investment in Assets =  $\Large\frac{Beginning~ Total~ Assets~ +~ Ending~ Total~ Assets}{2}$
-   
+5. Accounts Receivable Turnover Ratio = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+
 6. Return on Total Assets = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$
 
 ### Liquidity Ratios
@@ -36,7 +36,7 @@ tags: reporting
 1. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$   
 <br>
 
-1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x No. Days per period   
+1. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x Days per period   
 <br>
 
 1. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$  
