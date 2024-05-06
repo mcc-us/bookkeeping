@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Financial Ratios
-tags: reporting
+title: FINANCIAL RATIOS
 ---
 
 
