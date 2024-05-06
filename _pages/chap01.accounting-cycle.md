@@ -25,7 +25,7 @@ layout: post
 
 ## 3. Post Transactions From Journal To Ledger
 
-- Transactions listed in the Journal are transfered to their respective Ledger accounts.
+- Transactions listed in the Journal are transferred to their respective Ledger accounts.
 - Each account has its own ledger for tracking.
 
 ![example ledger](/assets/misc/post.2.ledger.jpg)
@@ -34,7 +34,7 @@ layout: post
 
 - Balancing Debits and Credits is IMPORTANT here. 
 - The accounting equation is not highlighted at this point.
-- The Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, gerneally Assets, followed by Liabilities, Revenue, and Expenses. 
+- The Trial Balance lists all accounts in the journal/ledger with their *Normal Balances*, generally Assets, followed by Liabilities, Revenue, and Expenses. 
 
 |Worksheet of Trial-Balance|
 |:-:|

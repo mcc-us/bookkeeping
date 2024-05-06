@@ -7,22 +7,22 @@ title: 13-Financial Statements & Closing Procedures
   - classified income statement, statement of owner’s equity, classified balance sheet from the worksheet.
 - Preparing Adjusting entries, Closing entries & calculating financial ratios.
 
-### Net Delivered Cost of Purchases:one:
+### Net Delivered Cost of Purchases
 
-|Net Delivered Cost of Purchases:one:||
-|:-|:-|
+|Net Delivered Cost of Purchases :one:||
+|-:|:-|
 ||Purchases|
 |**ADD**|Freight in|
 |**Subtract**|(Purchases returns & allowances)|
 |**Subtract**|(Purchase discounts)|
-|Equals|Net delivered cost of purchases:one:|
+|Equals|Net delivered cost of purchases :one:|
 
 ### Cost of Goods Sold
 
 |Cost of Goods Sold||
-|-|:-|
+|-:|:-|
 ||Beginning Inv.|
-|**ADD**|Net delivered cost of purchases:one:, *See Above*|
+|**ADD**|Net delivered cost of purchases :one:|
 |**Subtract**|(Ending Inv.)|
 |Equals|Cost of Goods Sold|
 
