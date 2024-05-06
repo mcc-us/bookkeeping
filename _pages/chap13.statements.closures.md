@@ -19,25 +19,53 @@ title: 13-Financial Statements & Closing Procedures
 
 ### Cost of Goods Sold
 
-|Cost of Goods Sold||
+|Cost of Goods Sold :two:||
 |-:|:-|
 ||Beginning Inv.|
 |**ADD**|Net delivered cost of purchases :one:|
 |**Subtract**|(Ending Inv.)|
-|Equals|Cost of Goods Sold|
+|Equals|Cost of Goods Sold :two:|
 
+---
 
+### Gross Profit
+The difference between net sales and the cost of goods sold (gross profit = net sales – cost of goods sold)
 
-[**See Investopedia.com**](https://www.investopedia.com/terms/c/cogs.asp#toc-formula-and-calculation-of-cost-of-goods-sold-cogs)
-- COGS includes all of the costs and expenses directly related to the production of goods.
-- COGS excludes indirect costs such as overhead + sales + marketing.
-- COGS is deducted from revenues (sales) in order to calculate gross profit and gross margin. Higher COGS results in lower margins.
-- The value of COGS will change depending on the accounting standards used in the calculation.
-- COGS differs from operating expenses (OPEX) in that OPEX includes expenditures that are not directly tied to the production of goods or service.
+|Gross Profit :three:||
+|-:|:-|
+||Net Sales|
+|**Subtract**|Cost of Goods Sold :two:|
+|Equals|Gross Profit :three:|
 
+---
 
+### Net Income/Loss from Operations
 
-#### Operating Expenses Calculation
+- Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
+
+|Net from Operations :four:||
+|-:|:-|
+||Gross Profit on Sales|
+|**Subtract**|Total Operating Exp|
+|Equals|Net from Operations :four:|
+
+---
+
+### Current Ratio 
+
+C. R. = $\Large\frac{Current~ Assets}{Current~ Liabilities}$
+
+Ratio > 1.5 is good  
+
+---
+
+### Book Value
+
+B. V. = Asset - Accumulated Depreciation
+
+---
+
+### Operating Expenses Calculation
 
 |Operating Expenses||
 |:-|:-|
@@ -60,50 +88,8 @@ title: 13-Financial Statements & Closing Procedures
 OPEX includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, but excludes the direct costs of making the products or providing the services you sell (reflected in COGS).
 
 
-#### Net Income/Loss Of Operations
-
-|Net Income/Loss Of Operations||
-|-|:-|
-||Gross Profit on sales|
-|-|(total operating expenses)
-|=|**Net income (loss) from Operations**|
 
 
-#### Equity Statement
-
-test
-
-
-#### Plant & Equipment
-
-|Plant & Equipment||
-|-|:-|
-||Asset|
-|-|(accumulated depreciation)|
-|=|Book value|
-
-
-**Terms**
-
-*Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
-
-*Single-step income statement* - An income statement where only one computation is needed to determine the net income. (Total Revenue − Total Exp = Net Income/Loss)
-
-*Multiple-step income statement* - An income statement where many/several subtotals are computed before the net income is calculated.
-
-*Condensed income statement* - An income statement summarizing detailed income statement accounts into a few lines of information.
-
-*Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
-
-*Plant and equipment* - Property that will be used in the business for longer than one year.
-
-*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
-
-*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
-
-*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 ---
 
@@ -201,3 +187,27 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 |Equals|Net Sales|
 
 
+---
+
+
+**Terms**
+
+*Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
+
+*Single-step income statement* - An income statement where only one computation is needed to determine the net income. (Total Revenue − Total Exp = Net Income/Loss)
+
+*Multiple-step income statement* - An income statement where many/several subtotals are computed before the net income is calculated.
+
+*Condensed income statement* - An income statement summarizing detailed income statement accounts into a few lines of information.
+
+*Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
+
+*Plant and equipment* - Property that will be used in the business for longer than one year.
+
+*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
+
+*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+
+*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$

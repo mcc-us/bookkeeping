@@ -70,3 +70,10 @@ tags: reporting
 <br>
 
 6. Asset-to-Equity Ratio = $\Large\frac{Total~ Assets}{Total~ Equity}$   
+
+---
+
+## More?
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/types-adjusting-entries.png)
+
