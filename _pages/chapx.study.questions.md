@@ -31,7 +31,7 @@ title: 14-Study Questions
 25. FALSE, the paperwork is called a `Purchase Requisition` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-08-16.png)
 26. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-19-32.png)
 27. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-09-18.png)
-28. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-20-15.png)
+28. ?? ![](/WrongQuestions/Screenshot.from.2024-04-12.16-20-15.png)
 29. ![](/WrongQuestions/Screenshot.from.2024-04-22.09-58-44.png)
 30. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-14-45.png)
 31. ![](/WrongQuestions/Screenshot.from.2024-04-22.11-15-24.png)
