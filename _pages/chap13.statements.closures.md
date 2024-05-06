@@ -10,14 +10,8 @@ title: 13-Financial Statements & Closing Procedures
 ### Net Delivered Cost of Purchases
 
 |Net Delivered Cost of Purchases :one:||
-|-:|:-|
-||Purchases|
-|**ADD**|Freight in|
-|**Subtract**|(Purchases returns & allowances)|
-|**Subtract**|(Purchase discounts)|
-|Equals|Net delivered cost of purchases :one:|
-
-Net Delivered Cost of Purchases :one: = Purchases + Freight-Costs - (Purchases Returns/Allowances) - (Purchase Discounts)
+|:-:|:-|
+|Equals|Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)
 
 ### Cost of Goods Sold
 
