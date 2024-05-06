@@ -12,7 +12,7 @@ counter=1
 # Loop through all PNG files starting with "Screenshot"
 for file in Screenshot*.png; do
   # Extract filename without extension
-  filename="${file%.*}"
+  filename="${file}"
 
   # Construct markdown image command
   command="$counter. ![](${PREFIX}${filename})"
