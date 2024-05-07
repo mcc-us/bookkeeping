@@ -4,7 +4,7 @@ title: 14-Study Questions
 --- 
 
 
-2. Drawee is person issuing check, Drawer is Bank ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-22.png)
+1. Drawee is person issuing check, Drawer is Bank ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-22.png)
 3. a-c require no changes ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-39.png)
 4. ?? ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-03.png)
 5. Book - NSF - fees = 7,700 ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-16.png)
@@ -16,7 +16,6 @@ title: 14-Study Questions
 11. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_45.png)
 12. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_58.png)
 13. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_43_02.png)
-14. ![](/WrongQuestions/Screenshot.chap1.q1.png)
 15. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-49-15.png)
 16. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-50-19.png)
 17. DEA / LER ![](/WrongQuestions/Screenshot.from.2024-04-12.11-56-58.png)
