@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EXAMPLE Adjusting Entries
+title: ADJUSTING ENTRIES
 ---
 
 
