@@ -1,31 +1,26 @@
----
-layout: post
-title: 14-Study Questions
---- 
-
-|Study Questions|
-|:-|
-|1. Drawee is person issuing check, Drawer is Bank  ![](/WrongQuestions/Screenshot.at.2024-04-18.17-03-55.png)|
+|Quiz Questions|
+|:-:|
+|1. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-03-55.png)|
 |2. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-22.png)|
-|3. a-c require no changes  ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-39.png)|
+|3. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-04-39.png)|
 |4. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-03.png)|
-|5. Book - NSF - fees = 7,700  ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-16.png)|
-|6. Employers pay ALL Medicare ![](/WrongQuestions/Screenshot.at.2024-04-20.11-14-29.png)|
-|7. Medicare depends on Hours worked ![](/WrongQuestions/Screenshot.at.2024-04-20.11-15-44.png)|
-|8. Payroll Taxes are 'Payables' ![](/WrongQuestions/Screenshot.at.2024-04-20.11-17-20.png)|
+|5. ![](/WrongQuestions/Screenshot.at.2024-04-18.17-05-16.png)|
+|6. ![](/WrongQuestions/Screenshot.at.2024-04-20.11-14-29.png)|
+|7. ![](/WrongQuestions/Screenshot.at.2024-04-20.11-15-44.png)|
+|8. ![](/WrongQuestions/Screenshot.at.2024-04-20.11-17-20.png)|
 |9. ![](/WrongQuestions/Screenshot.at.3b.cash.register.calc.png)|
 |10. ![](/WrongQuestions/Screenshot.chap1.q1.png)|
 |11. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-49-15.png)|
 |12. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-50-19.png)|
-|13.  DEA / LER ![](/WrongQuestions/Screenshot.from.2024-04-12.11-56-58.png)|
+|13. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-56-58.png)|
 |14. ![](/WrongQuestions/Screenshot.from.2024-04-12.12-06-16.png)|
-|15.  C is correct ![](/WrongQuestions/Screenshot.from.2024-04-12.15-25-12.png)|
+|15. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-25-12.png)|
 |16. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-52-45.png)|
-|17. Income=13,200-(8,100+4,200+700)-900+4,400 ![](/WrongQuestions/Screenshot.from.2024-04-12.15-53-26.png)|
-|18. D ![](/WrongQuestions/Screenshot.from.2024-04-12.15-58-58.png)|
-|19. Sales=4,200, *sales does not include tax payable* ![](/WrongQuestions/Screenshot.from.2024-04-12.16-04-44.png)|
-|20. `Sales` receipt = 1,500, But Remember $15 is `Sales Discount`(??) ![](/WrongQuestions/Screenshot.from.2024-04-12.16-05-11.png)|
-|21. FALSE, the paperwork is called a `Purchase Requisition` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-08-16.png)|
+|17. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-53-26.png)|
+|18. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-58-58.png)|
+|19. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-04-44.png)|
+|20. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-05-11.png)|
+|21. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-08-16.png)|
 |22. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-09-18.png)|
 |23. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-19-32.png)|
 |24. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-20-15.png)|
@@ -100,4 +95,3 @@ title: 14-Study Questions
 |93. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-09.png)|
 |94. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-28.png)|
 |95. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-57.png)|
-

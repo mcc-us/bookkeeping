@@ -10,12 +10,12 @@ OUTPUT_FILE="png.mk.2.txt"
 counter=1
 
 # Loop through all PNG files starting with "Screenshot"
-for file in Screenshot*.png; do
+for file in Screenshot*; do
   # Extract filename without extension
   filename="${file}"
 
   # Construct markdown image command
-  command="| $counter. ![](${PREFIX}${filename}.png)"
+  command="|$counter. ![](${PREFIX}${filename}.png)|"
 
   # Append the command to the output file
   echo -n "$command" >> "$OUTPUT_FILE"
