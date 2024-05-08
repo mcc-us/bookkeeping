@@ -13,7 +13,7 @@ title: 14-Study Questions
 7. Payroll Taxes are 'Payables' ![](/WrongQuestions/Screenshot.at.2024-04-20.11-17-20.png)<br><br><br>
 8.  ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_32.png)<br><br><br>
 9.  ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_45.png)<br><br><br>
-10. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_58.png)<br><br><br>
+10. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_40_58.png)<br><br><br><br><br><br>
 11. ![](/WrongQuestions/Screenshot.at.nacpb.org-2024.02.15-11_43_02.png)<br><br><br>
 12. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-49-15.png)<br><br><br>
 13. ![](/WrongQuestions/Screenshot.from.2024-04-12.11-50-19.png)<br><br><br>
@@ -23,10 +23,9 @@ title: 14-Study Questions
 17. ![](/WrongQuestions/Screenshot.from.2024-04-12.15-52-45.png)<br><br><br>
 18. Income=13,200-(8,100+4,200+700)-900+4,400 ![](/WrongQuestions/Screenshot.from.2024-04-12.15-53-26.png)<br><br><br>
 19. D ![](/WrongQuestions/Screenshot.from.2024-04-12.15-58-58.png)<br><br><br>
-20. Sales=4,200, *sales does not include tax payable* ![](/WrongQuestions/Screenshot.from.2024-04-12.16-04-44.png)<br><br><br>
-21. `Sales` receipt = 1,500, But Remember $15 is `Sales Discount`(??) ![](/WrongQuestions/Screenshot.from.2024-04-12.16-05-11.png)<br><br><br>
-22. FALSE, the paperwork is called a `Purchase Requisition` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-08-16.png)<br><br><br>
-23. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-19-32.png)<br><br><br>
+20. Sales=4,200, sales does not include `sales tax payable` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-04-44.png)<br><br><br>
+21. `Sales` receipt = 1,500, But Remember $15 is `Sales Discount` ![](/WrongQuestions/Screenshot.from.2024-04-12.16-05-11.png)<br><br><br>
+22. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-19-32.png)<br><br><br>
 24. ![](/WrongQuestions/Screenshot.from.2024-04-12.16-09-18.png)<br><br><br>
 25. ?? ![](/WrongQuestions/Screenshot.from.2024-04-12.16-20-15.png)<br><br><br>
 26. ![](/WrongQuestions/Screenshot.from.2024-04-22.09-58-44.png)<br><br><br>
