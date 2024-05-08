@@ -100,4 +100,5 @@ title: 14-Study Questions
 |93. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-09.png)|
 |94. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-28.png)|
 |95. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-57.png)|
+|96. ![](/WrongQuestions/Screenshot%20from%202024-05-08%2011-51-58.png)|
 
