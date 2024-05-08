@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADJUSTING ENTRIES & WORKSHEET
+title: ADJUSTING ENTRIES
 ---
 
 
