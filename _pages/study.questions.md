@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14-Study Questions
+title: Study Questions
 --- 
 
 |Study Questions|
