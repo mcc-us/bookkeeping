@@ -101,4 +101,5 @@ title: Study Questions
 |94. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-28.png)|
 |95. ![](/WrongQuestions/Screenshot.from.2024-05-06.10-16-57.png)|
 |96. ![](/WrongQuestions/Screenshot%20from%202024-05-08%2011-51-58.png)|
-
+|97. ![](/WrongQuestions/chap6.section.r.no8.png)|
+|98. ![](/WrongQuestions/chap7.sec.rev.q12.png)|
