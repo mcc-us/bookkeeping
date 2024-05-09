@@ -26,20 +26,18 @@ Sales~ Discount(CR) \\
 <!--  
 **Dr/Cr Sales Accounts**
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/chap7.1.png)
--->
-
 
 ### 1. Sales, NO Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/1.sales.w.NO.tax.png)
+-->
 
-
-### 2. Sales WITH Tax
+### 12. Sales WITH Tax
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### 3. Returns & Allowances WITH Tax, Cash or A/R
+### 2. Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
 
@@ -47,7 +45,7 @@ Sales~ Discount(CR) \\
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
-### 4. Sales/Trade Discounts
+### 3. Sales/Trade Discounts
 
 A Sale or Trade discount is a reduction from list price.
    - **1/10** = 1% OFF, if < 10 days
@@ -63,7 +61,7 @@ A Sale or Trade discount is a reduction from list price.
 | Less 1% discount (2000 * 0.01)| 20 |
 | Cash Price | $1980 |
 
-### 5. Cash discount on sales with returns
+### 4. Cash discount on sales with returns
 
 - credit terms
    - Many businesses offer discounts to customers for early payment of invoices. These are known as credit terms.
@@ -83,14 +81,14 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 |Net Sales|93|
 -->
 
-### 6. Schedule of Accounts / Customer Accounts Receivable Ledger 
+### 5. Schedule of Accounts / Customer Accounts Receivable Ledger 
 
 Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
 
-### 7. Credit Card Sales via A/R
+### 6. Credit Card Sales via A/R
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
@@ -107,7 +105,7 @@ Time on video 22:50
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/9.act.recvable.2.schedule.2.ar.balance.png)
 -->
 
-### 8. Double Trade Discounts
+### 7. Double Trade Discounts
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
 
