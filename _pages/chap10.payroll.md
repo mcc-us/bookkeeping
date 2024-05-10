@@ -18,15 +18,18 @@ title: 10-Payroll
 |Who Pays|Levied equally on employer & employee|Levied equally on employer & employee|
 |See: **W4**, Publication 15, Circular E|
 
-1. There is no wage base limit for Medicare taxes. Under the Affordable Care Act, higher-income wage earners are now subject to an additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent. Unlike the regular Medicare tax, this extra tax on high-income wage earners is paid only by the individuals: The business does not match the amount.
+1. **Medicare taxes have no wage base limit**. 
+   1. Under the Affordable Care Act, higher-income wage earners are now subject to an **additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent**, paid only by the individuals. The business does not match the amount.
 
-2. Employee Income Taxes are deducted by the employer then paid to the government periodically. The employee's **W4**, Publication 15, Circular E, and other IRS guidance are used to determine the amount of federal income tax to withhold.
+2. **Employee Income Taxes** are deducted by the employer then paid to the government periodically **via the employee's W4**, Publication 15, Circular E, and other IRS regs/forms.
 
-3. Enter gross earnings, deductions, and net pay in the payroll register - Daily records of the hours worked by each non-supervisory employees are kept. Using these hourly time sheets, the payroll clerk computes the employees' earnings. Deductions and net pay for each payroll period and records the data in a payroll register.
+3. In the **Payroll Register**, Enter gross earnings, deductions, and net pay. 
+   1. Daily records of the hours worked by each non-supervisory employees are kept. Using *time sheets*, the payroll clerk computes the employees' earnings. Deductions and net pay for each payroll period and records the data in a payroll register.
 
-4. Journalize payroll transactions in the general journal - The payroll register prepares a general journal entry to record payroll expenses and liability amounts. A separate journal entry records payments to employees.
+4. **Journalize payroll transactions**: The payroll register prepares a general journal entry to record payroll expenses and liability amounts. A separate journal entry records payments to employees.
 
-5. Maintain an earnings record for each employee - At the beginning of each year, the employer sets up an individual earnings record for each employee. The amounts in the payroll register are posted to the individual earnings records throughout the year so that the firm has detailed payroll information for each employee. At the end of the year, employers provide reports that show gross earnings and total deductions to each employee.
+5. **Maintain an earnings record for each employee** 
+   1. At the beginning of each year, the employer sets up an individual earnings record for each employee. The amounts in the payroll register are posted to the individual earnings records throughout the year so that the firm has detailed payroll information for each employee. At the end of the year, employers provide reports that show gross earnings and total deductions to each employee.
 
 ---
 
