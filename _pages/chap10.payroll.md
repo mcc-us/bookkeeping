@@ -21,7 +21,7 @@ title: 10-Payroll
 1. **Medicare taxes have no wage base limit**. 
    1. Under the Affordable Care Act, higher-income wage earners are now subject to an **additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent**, paid only by the individuals. The business does not match the amount.
 
-2. **Employee Income Taxes** are deducted by the employer then paid to the government periodically **via the employee's W4**, Publication 15, Circular E, and other IRS regs/forms.
+2. **Employee Income Taxes** are deducted by the employer then paid to the government periodically **via the employee's W4**, [Publication 15, Circular E](_posts/2024-05-10-pub15.md), and other IRS regs/forms, https://www.irs.gov/pub/irs-pdf/p15.pdf
 
 3. In the **Payroll Register**, Enter gross earnings, deductions, and net pay. 
    1. Daily records of the hours worked by each non-supervisory employees are kept. Using *time sheets*, the payroll clerk computes the employees' earnings. Deductions and net pay for each payroll period and records the data in a payroll register.
