@@ -25,13 +25,13 @@ Employee~ Income~ Tax~ Payable \\
 
 - Merit rating system: Rewards individual employees with lower insurance premiums based on their safety record or performance.
 
-- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W-2 (Wage and Tax Statement) to the Social Security Administration.
+- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W2 (Wage and Tax Statement) to the Social Security Administration.
 
 - Unemployment insurance program: Government-funded program that provides temporary financial assistance to qualified workers who lose their jobs through no fault of their own.
 
-- Wage and Tax Statement, Form W-2: An annual form employers send to employees summarizing their wages, taxes withheld, and other earnings information for tax filing purposes.
+- Wage and Tax Statement, Form W2: An annual form employers send to employees summarizing their wages, taxes withheld, and other earnings information for tax filing purposes.
 
-- Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W-2).
+- Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W2).
 
 - Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
 
@@ -85,11 +85,11 @@ Employee~ Income~ Tax~ Payable \\
 https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 
-## Wage & Tax Statement, Form W-2
+## Wage & Tax Statement, Form W2
 
-- Wage and Tax Statement, Form W-2 - Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
+- Wage and Tax Statement, Form W2 - Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
 
-- Withholding statement - See Wage and Tax Statement, Form W-2
+- Withholding statement - See Wage and Tax Statement, Form W2
 
 ---
 
@@ -98,7 +98,7 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 ## Transmittal of Wage & Tax Statements, Form W-3
 
-- Transmittal of Wage and Tax Statements, Form W-3 - Preprinted government form submitted with Forms W-2 to the Social Security Administration
+- Transmittal of Wage and Tax Statements, Form W-3 - Preprinted government form submitted with Forms W2 to the Social Security Administration
 
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
