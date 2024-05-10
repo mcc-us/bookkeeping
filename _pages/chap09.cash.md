@@ -28,6 +28,10 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 
 ![](/assets/mc-graw-accounting-course/chap9.cash/11.petty.cash.balance.sheet.png)
 
+#### 1b. Replenish Petty Cash
+
+![](/assets/mc-graw-accounting-course/chap9.cash/2b.replenish.petty.cash.png)
+
 
 ### 2. Cash Sales & Cash Variance 
 
