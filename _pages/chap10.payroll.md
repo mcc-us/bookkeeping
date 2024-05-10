@@ -6,9 +6,9 @@ title: 10-Payroll
 
 **Payroll**
 
-1. Federal Wage & Hour Law limits 40 hours per week
-
-2. Overtime = 1.5 x hourly (By law)
+1. Salaries and Wages are treated like **Expenses** or **Accrued Liabilities**.
+2. Federal Wage & Hour Law limits 40 hours per week
+3. Overtime = 1.5 x hourly (By law)
 
 - Federal laws require that the employer withhold at least three taxes from the employee's pay.
 
