@@ -52,19 +52,21 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ---
 
-1. ![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)
-1. ![](/assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)
-2. ![](/assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)
-3. ![](/assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)
-4. ![](/assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)
-5. ![](/assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)
-6. ![](/assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)
-7. ![](/assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)
-8.  ![](/assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)
-9.  ![](/assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)
-10. ![](/assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)
-11. ![](/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)
-12. ![](/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)
+|Book NOTES|
+|:-|
+|1. id.contracor.png ![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)|
+|2. ss.emplooyee.employer.taxs.png![](/assets/mc-graw-accounting-course/chap10.payroll/2.ss.emplooyee.employer.taxs.png)|
+|3. wage.base.limit ![](/assets/mc-graw-accounting-course/chap10.payroll/2.wage.base.limit.png)|
+|4. medicare.tax![](/assets/mc-graw-accounting-course/chap10.payroll/4.medicare.tax.png)|
+|5. tax.table.png ![](/assets/mc-graw-accounting-course/chap10.payroll/5.tax.table.png)|
+|6. suta.png![](/assets/mc-graw-accounting-course/chap10.payroll/6.suta.png)|
+|7. employee.records.reqd![](/assets/mc-graw-accounting-course/chap10.payroll/7.employee.records.reqd.png)|
+|8. earnings ![](/assets/mc-graw-accounting-course/chap10.payroll/8.earnings.png)|
+|9.  gros.pay ![](/assets/mc-graw-accounting-course/chap10.payroll/9.gros.pay.png)|
+|10. fed.taxes.info![](/assets/mc-graw-accounting-course/chap10.payroll/11.fed.taxes.info.png)|
+|11. withholdings ![](/assets/mc-graw-accounting-course/chap10.payroll/12.withholdings.png)|
+|12. medicare.tax.table ![](/assets/mc-graw-accounting-course/chap10.payroll/medicare.tax.table.png)|
+|13. ss.tax.table.example ![](/assets/mc-graw-accounting-course/chap10.payroll/ss.tax.table.example.png)|
 
 ---
 
