@@ -8,49 +8,48 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
-#### Net Sales
+#### 1 Net Sales
 
-N.S. = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
-
-
-#### Net Delivered Cost of Purchases
-
-N.D.C.P. :one: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
+N.S. :one: = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
 
 
-#### Cost of Goods Sold
+#### 2 Net Delivered Cost of Purchases
 
-COGS :two: = **Beginning Inv. + Net Delivered Cost of Purchases :one: - (Ending Inv.) - (Purchase Discounts)**
-
-
-#### Gross Profit
-
-Gross Profit :three: = **Net Sales - COGS :two:**
+N.D.C.P. :two: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
 
 
-#### Net Income/Loss from Operations
+#### 3 Cost of Goods Sold
+
+COGS :three: = **Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)**
+
+
+#### 4 Gross Profit
+
+Gross Profit :four: = **Net Sales :one:  - (COGS :three:)**
+
+
+#### 5 Net Income/Loss from Operations
 
 - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
 
-Net of Ops :four: = **Gross Profit on Sales - Total Operating Exp**
+Net of Ops :five: = **Gross Profit on Sales :four:  - (Total Operating Exp :eight:)**
 
 
-#### Current Ratio 
+#### 6 Current Ratio 
 
 C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
 
 Ratio > 1.5 is good  
 
 
-#### Book Value
+#### 7 Book Value
 
 B.V. = **Asset - Accumulated Depreciation**
 
----
 
-#### Operating Expenses
+#### 8 Operating Expenses
 
-Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
+Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
