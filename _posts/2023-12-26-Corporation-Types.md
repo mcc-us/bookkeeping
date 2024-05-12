@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CORPORATION TYPES +/-
+title: CORPORATION TYPES
 ---
 
 
