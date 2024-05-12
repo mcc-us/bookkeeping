@@ -8,6 +8,11 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
+#### Net Sales
+
+N.S. = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
+
+
 #### Net Delivered Cost of Purchases
 
 N.D.C.P. :one: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
