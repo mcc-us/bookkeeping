@@ -26,7 +26,7 @@ Objuectives:
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
 
-
+![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
 ### Discussion Questions
 
