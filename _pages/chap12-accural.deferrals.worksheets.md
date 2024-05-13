@@ -38,6 +38,14 @@ To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we nee
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary $[Final initial merchandise value]
 {: .block-tip }
 
+
+OR ??????
+
+> Dr Merchandise Inventory $[Final merchandise value]
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory $[Initial merchandise value]
+{: .block-tip }
+
+
 #### Uncollectible & Doubtful Act.
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
