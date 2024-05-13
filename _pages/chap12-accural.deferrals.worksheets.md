@@ -31,18 +31,18 @@ Objectives:
 
 To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
 
-> Dr Income Summary \$[Initial merchandise value]   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory \$[Initial merchandise value]   
+> Dr Income Summary **Initial merchandise value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**    
 >   
-> Dr Merchandise Inventory \$[Final merchandise value]   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary \$[Final initial merchandise value]   
+> Dr Merchandise Inventory **Final merchandise value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final initial merchandise value**   
 {: .block-tip }   
 
 
 OR ??????
 
-> Dr Merchandise Inventory \$[Final merchandise value]   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory \$[Initial merchandise value]   
+> Dr Merchandise Inventory **Final merchandise value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**   
 {: .block-tip }   
 
 
