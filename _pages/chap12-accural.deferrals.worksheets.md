@@ -29,6 +29,15 @@ Objectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
 
+To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
+
+> Dr Income Summary $[Initial merchandise value]
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory $[Initial merchandise value]
+>
+> Dr Merchandise Inventory $[Final merchandise value]
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary $[Final initial merchandise value]
+{: .block-tip }
+
 #### Uncollectible & Doubtful Act.
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
