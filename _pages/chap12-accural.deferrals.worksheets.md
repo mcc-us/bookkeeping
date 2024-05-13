@@ -37,6 +37,11 @@ Objectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
 
 
+#### Accrued Payroll Taxes
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
+
+
 
 
 ### Discussion Questions
