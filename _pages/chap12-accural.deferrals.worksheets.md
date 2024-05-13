@@ -6,11 +6,26 @@ title: 12-Accruals, Deferrals, & the Worksheet
 
 Objuectives:
 
-1. Understand 10-column worksheet.
+1. Re-hash 10-column worksheet.
 1. Compute adjustment for merchandise inventory, and make worksheet adjustments.
 1. Compute adjustments for accrued & prepaid expense items, make worksheet adjustments.
 1. Compute adjustments for accrued & deferred income items, make worksheet adjustments.
 2. Define the accounting terms.
+
+#### Accurual Definitions (More)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/1.chap12.accurual.def.png)
+
+#### Merchandise/Sales/Purchases
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
+
+- Dealing with Merchandise Inv. and End of Period Adjustments using Income Summary
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
+
 
 
 ### Discussion Questions
@@ -64,14 +79,12 @@ https://www.accountingverse.com/accounting-basics/unearned-revenue.html
 
 Prepaid assets and both accrued income and unearned income involve payments made in advance, but for different reasons:
 
-    Prepaid Assets: These are payments made for goods or services yet to be received.  For example, prepaying rent creates a prepaid asset account as you've paid for future occupancy.
+- Prepaid Assets: These are payments made for goods or services yet to be received.  For example, prepaying rent creates a prepaid asset account as you've paid for future occupancy.
 
-    Accrued Income: This represents income earned but not yet received. It's the opposite of a prepaid asset. You've provided a service (like consulting) on credit, but the customer hasn't paid yet. The income is accrued (earned) but not yet reflected in your cash flow.
+- Accrued Income: This represents income earned but not yet received. It's the opposite of a prepaid asset. You've provided a service (like consulting) on credit, but the customer hasn't paid yet. The income is accrued (earned) but not yet reflected in your cash flow.
 
-    Unearned Income: This is a liability created when you receive payment in advance for a service not yet performed.  Imagine receiving a payment for a magazine subscription that starts next month. You have a liability (unearned income) until you deliver the service (magazines) over time.
+- Unearned Income: This is a liability created when you receive payment in advance for a service not yet performed.  Imagine receiving a payment for a magazine subscription that starts next month. You have a liability (unearned income) until you deliver the service (magazines) over time.
 
-
----
 
 ---
 
