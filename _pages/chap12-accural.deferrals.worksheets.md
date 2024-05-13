@@ -34,6 +34,9 @@ Objectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
+
+
 
 
 ### Discussion Questions
