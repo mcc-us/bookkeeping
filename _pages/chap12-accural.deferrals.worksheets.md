@@ -7,10 +7,10 @@ title: 12-Accruals, Deferrals, & the Worksheet
 Objuectives:
 
 1. Re-hash 10-column worksheet.
-1. Compute adjustment for merchandise inventory, and make worksheet adjustments.
-1. Compute adjustments for accrued & prepaid expense items, make worksheet adjustments.
-1. Compute adjustments for accrued & deferred income items, make worksheet adjustments.
-2. Define the accounting terms.
+2. Make adjustment for merchandise inventory
+3. Make adjustments for accrued & prepaid expense items
+4. Make adjustments for accrued & deferred income items
+
 
 #### Accurual Definitions (More)
 
