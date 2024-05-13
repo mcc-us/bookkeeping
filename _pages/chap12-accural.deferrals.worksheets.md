@@ -54,6 +54,11 @@ OR ??????
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
 
 
+> Dr Uncollectible Act Exp **Final Value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
+{: .block-tip }   
+
+
 #### Accrued Payroll Taxes
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
