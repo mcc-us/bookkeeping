@@ -4,7 +4,7 @@ title: 12-Accruals, Deferrals, & the Worksheet
 --- 
 
 
-Objuectives:
+Objectives:
 
 1. Re-hash 10-column worksheet.
 2. Make adjustment for merchandise inventory
@@ -27,6 +27,14 @@ Objuectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
+
+
+#### Uncollectible & Doubtful Act.
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
+
+
+
 
 ### Discussion Questions
 
