@@ -18,12 +18,6 @@ Objectives:
 
 ## Merchandise/Sales/Purchases
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
-
-
-To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
 
 > Dr Income Summary **Initial merchandise value**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**    
@@ -39,12 +33,17 @@ OR ??????
 {: .block-tip }   
 
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
+
+To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
+
 - Merchandise Inv. & End of Period Adjustments using Income Summary
 
-
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
 
 ## Uncollectible Act Exp & Allowance for Doubtful Acts
@@ -54,20 +53,21 @@ OR ??????
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
 {: .block-tip }   
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
 
 ## Accrued Payroll Taxes
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
 
 > Dr Payroll Tax Exp. **91.80**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable **74.40**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable **17.40**  
 {: .block-tip }   
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
+
 
 
 ## Discussion Questions
