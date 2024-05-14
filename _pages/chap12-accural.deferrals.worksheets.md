@@ -22,12 +22,6 @@ Objectives:
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
 
-- Dealing with Merchandise Inv. and End of Period Adjustments using Income Summary
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
-
 
 To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
 
@@ -38,12 +32,19 @@ To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we nee
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final initial merchandise value**   
 {: .block-tip }   
 
-
 OR ??????
 
 > Dr Merchandise Inventory **Final merchandise value**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**   
 {: .block-tip }   
+
+
+- Merchandise Inv. & End of Period Adjustments using Income Summary
+
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
 
 ## Uncollectible Act Exp & Allowance for Doubtful Acts
@@ -63,7 +64,10 @@ OR ??????
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
 
-
+> Dr Payroll Tax Exp. **91.80**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable **74.40**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable **17.40**  
+{: .block-tip }   
 
 
 ## Discussion Questions
