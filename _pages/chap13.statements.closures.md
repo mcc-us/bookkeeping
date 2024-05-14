@@ -106,8 +106,6 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 
 *Plant and equipment* - Property that will be used in the business for longer than one year.
 
-*Accounts receivable turnover ratio* = $\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
 *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
 
 *Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
