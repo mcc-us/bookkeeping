@@ -8,76 +8,7 @@ title: 13-Financial Statements & Closing Procedures
 - **Reversing entries**: Journal entries made to reverse the effect of certain adjusting entries involving accrued income or accrued expenses to avoid problems in recording future payments or receipts of cash in a new accounting period.
 
 ---
-
-#### 1 Net Sales
-
-N.S. :one: = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
-
-
-#### 2 Net Delivered Cost of Purchases
-
-N.D.C.P. :two: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
-
-
-#### 3 Cost of Goods Sold
-
-COGS :three: = **Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)**
-
-
-#### 4 Gross Profit
-
-Gross Profit :four: = **Net Sales :one:  - (COGS :three:)**
-
-
-#### 5 Net Income/Loss from Operations
-
-- Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
-
-Net of Ops :five: = **Gross Profit on Sales :four:  - (Total Operating Exp :eight:)**
-
-
-#### 6 Current Ratio 
-
-C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
-
-Ratio > 1.5 is good  
-
-
-#### 7 Book Value
-
-B.V. = **Asset - Accumulated Depreciation**
-
-
-#### 8 Operating Expenses
-
-Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
-
-- Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
-
----
-
-#### OPEX
-
-- Includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, **excluding** direct costs of production or providing the services you sell (reflected in COGS).
-
-**Common examples of OPEX**:
-
-1. **Selling Expenses**: Marketing, advertising, and selling your products or services, includes sales commissions, marketing materials, salaries for sales staff.
-   
-2. **General & Administrative Expenses (G&A)**: Ongoing costs required to run business, not directly tied to production. For example: rent, utilities, office supplies, salaries for administrative staff, accounting fees.
-
-3. **Research & Development (R&D)**: Expenses related to R&D or services. Example: salaries for R&D, materials used in R&D, all patent fees.
-
-4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.
-
----
-
-#### Book Table
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
-
-
----
+## Classified Statements
 
 ### Classified Income Statement
 
@@ -85,7 +16,10 @@ Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
 
----
+### Statement of Equity
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/statement.owners.equity.png)
+
 
 ### Classified Balance Sheet
 
@@ -155,21 +89,10 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 
 
 
-
-### Net Sales (a.k.a. Operating Revenue)
-
-||Net Sales |
-|:-|:-|
-||Total Sales|
-|**Subtract**|Sales Returns & Allowances|
-|**Subtract**|Sales Discounts|
-|Equals|Net Sales|
-
-
 ---
 
 
-**Terms**
+## Terms
 
 *Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
 
@@ -190,3 +113,83 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 *Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
 
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+
+
+## Terms and Calculations
+
+#### 1 Net Sales
+
+N.S. :one: = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
+
+
+#### 2 Net Delivered Cost of Purchases
+
+N.D.C.P. :two: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
+
+
+#### 3 Cost of Goods Sold
+
+COGS :three: = **Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)**
+
+
+#### 4 Gross Profit
+
+Gross Profit :four: = **Net Sales :one:  - (COGS :three:)**
+
+
+#### 5 Net Income/Loss from Operations
+
+- Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
+
+Net of Ops :five: = **Gross Profit on Sales :four:  - (Total Operating Exp :eight:)**
+
+
+#### 6 Current Ratio 
+
+C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
+
+Ratio > 1.5 is good  
+
+
+#### 7 Book Value
+
+B.V. = **Asset - Accumulated Depreciation**
+
+
+#### 8 Operating Expenses
+
+Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
+
+- Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
+
+
+
+### Net Sales (a.k.a. Operating Revenue)
+
+||Net Sales |
+|:-|:-|
+||Total Sales|
+|**Subtract**|Sales Returns & Allowances|
+|**Subtract**|Sales Discounts|
+|Equals|Net Sales|
+
+
+#### Book Table
+
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
+
+---
+
+#### OPEX
+
+- Includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, **excluding** direct costs of production or providing the services you sell (reflected in COGS).
+
+**Common examples of OPEX**:
+
+1. **Selling Expenses**: Marketing, advertising, and selling your products or services, includes sales commissions, marketing materials, salaries for sales staff.
+   
+2. **General & Administrative Expenses (G&A)**: Ongoing costs required to run business, not directly tied to production. For example: rent, utilities, office supplies, salaries for administrative staff, accounting fees.
+
+3. **Research & Development (R&D)**: Expenses related to R&D or services. Example: salaries for R&D, materials used in R&D, all patent fees.
+
+4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.
