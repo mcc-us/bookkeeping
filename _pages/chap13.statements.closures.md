@@ -3,7 +3,7 @@ layout: post
 title: 13-Financial Statements & Closing Procedures
 --- 
 
-- Classified income statement, Owner’s equity, Balance sheet w/ worksheet.
+- Classified Income statement, Owner’s equity, Balance sheets.
 - Adjusting entries, Closing entries & Financial ratios.
 - **Reversing entries**: Journal entries made to reverse the effect of certain adjusting entries involving accrued income or accrued expenses to avoid problems in recording future payments or receipts of cash in a new accounting period.
 
@@ -12,9 +12,7 @@ title: 13-Financial Statements & Closing Procedures
 
 ### Classified Income Statement
 
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/operating-rev.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/total-operating-exp.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/net-income-annual.png)
+![](/assets/mc-graw-accounting-course/chap13-fin.statements/total_IS.png)
 
 ### Statement of Equity
 
@@ -36,58 +34,6 @@ title: 13-Financial Statements & Closing Procedures
 ---
 
 ## Interpreting Financial Statements
-
-
-*Average Inventory* = $\huge\frac{Begining~ +~ Ending~ Inventory}{2}$
-<br>
-
-*Average Accounts Receivable* = $\huge\frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
-<br>
-
-*Average Investment in Assets* =  $\huge\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
-<br>
-
-*Accounts receivable turnover ratio* = $\huge\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
-
----
-
-### Gross Profit Percentage
-
-- The amount of gross profit from each dollar of sales   
-  
-*Gross Profit Percentage* = $\huge \frac{Gross~ Profit}{Net~ Sales}$ 
-
----
-
-### Working Capital
-
-- The measure of the ability of a company to meet its current obligations
-
-*Working Capital* = **Current Assets - Current Liabilities**
-
----
-
-### Current Ratio
-
-- Provides a measure of a firm’s ability to pay its current debts 
-
-Current Ratio = $\huge\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
-
----
-
-### Inventory turnover
-
-- The number of times inventory is purchased and sold during the accounting period  
-
-*Inventory Turnover Ratio* = $\huge\frac{COGS}{Average~ Inventory}$ 
-
----
-
-### Average Collection Period
-
-The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
-
-
 
 ---
 

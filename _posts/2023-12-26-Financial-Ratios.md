@@ -3,8 +3,8 @@ layout: post
 title: FINANCIAL RATIOS
 ---
 
-
 ### Basics
+
 
 1. **Net Sales** :one: = Total Sales - (Returns/Allowances) - (Purchase Discounts)<br>
    - a.k.a. Operating Revenue<br><br>   
@@ -28,6 +28,14 @@ title: FINANCIAL RATIOS
 9.  **Operating Profit** = Revenue(Sales + Fees Earned) - Expenses<br><br>
 
 10.  **Ending Balances** = Beginning Balance + Investments - Distributions<br><br>
+
+11. **Gross Profit Percentage** = $\huge \frac{Gross~ Profit}{Net~ Sales}$
+    - The amount of gross profit from each dollar of sales<br><br>   
+
+12. s = $\Large \frac{Days~ per~ Period}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
+    - The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
+OR
+    - **ACP** = (Average Accounts Receivable / Net Credit Sales) x Number of Days in a Period
 
 
 ### Activity Ratios
@@ -58,6 +66,8 @@ title: FINANCIAL RATIOS
 4. **Cash Ratio** = $\Large\frac{Cash}{Current~ Liabilities}$<br><br>   
 
 5. **Working Capital** = Current Assets - Current Liabilities
+    - The measure of the ability of a company to meet its current obligations<br><br>
+
 
 ### Solvency Ratios
 
@@ -66,7 +76,9 @@ title: FINANCIAL RATIOS
 1. **Equity Ratio** = $\Large\frac{Total~ Shareholders~ Equity}{Total~ Assets}$: *Present as %*   
    - Equity ratio = 1 - Debt ratio<br><br>
 
+
 ### Financial Leverage
+
 
 1. **Debt-to-Capital Ratio** = $\Large\frac{Debt}{Debt~ +~ Equity}$<br><br>
 
@@ -83,6 +95,7 @@ title: FINANCIAL RATIOS
 6. **Asset-to-Equity Ratio** = $\Large\frac{Total~ Assets}{Total~ Equity}$<br><br>
 
 ---
+
 
 ## More?
 
