@@ -22,9 +22,9 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Net Income/Loss = Revenue - Expenses  
 {: .block-tip }
 
-The Shuttle Ride Company   
-Income Statement   
-For the Year Ending Dec. 31, 2024
+**WHO:** The Shuttle Ride Company   
+**WHAT:** Income Statement   
+**WHEN:** For the Year Ending Dec. 31, 2024
 
 | Act | Amount | Total |
 |:----|-------:|------:|

@@ -12,11 +12,11 @@ Objectives:
 4. Make adjustments for accrued & deferred income items
 
 
-#### Accurual Definitions (More)
+## Accurual Definitions (More)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/1.chap12.accurual.def.png)
 
-#### Merchandise/Sales/Purchases
+## Merchandise/Sales/Purchases
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
 
@@ -46,9 +46,7 @@ OR ??????
 {: .block-tip }   
 
 
-#### Uncollectible & Doubtful Act.
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
+## Uncollectible Act Exp & Allowance for Doubtful Acts
 
 
 > Dr Uncollectible Act Exp **Final Value**   
@@ -58,16 +56,17 @@ OR ??????
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
 
-#### Accrued Payroll Taxes
+## Accrued Payroll Taxes
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
 
 
 
 
-### Discussion Questions
+## Discussion Questions
 
 1. What adjustment is made to record the estimated expense for uncollectible accounts?
 2. When a specific account receivable is deemed uncollectible, it is written off by debiting and crediting ____.
