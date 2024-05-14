@@ -5,6 +5,7 @@ title: 13-Financial Statements & Closing Procedures
 
 - Classified income statement, Owner’s equity, Balance sheet w/ worksheet.
 - Adjusting entries, Closing entries & Financial ratios.
+- **Reversing entries**: Journal entries made to reverse the effect of certain adjusting entries involving accrued income or accrued expenses to avoid problems in recording future payments or receipts of cash in a new accounting period.
 
 ---
 

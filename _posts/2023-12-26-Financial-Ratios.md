@@ -16,11 +16,11 @@ title: FINANCIAL RATIOS
 
 ### Activity Ratios
 
-1. Average Inventory = $\Large\frac{Beginning~ Inventory~ +~ Ending~ Inventory}{2}$
+1. Average Inventory = $\Large\frac{Beginning~ +~ Ending~ Inventory}{2}$
 
-2. Average Accounts Receivable = $\Large\frac{Beginning~ A/R~ +~ Ending~ A/R}{2}$
+2. Average Accounts Receivable = $\Large\frac{Beginning~ +~ Ending~ A/R}{2}$
 
-3. Average Investment in Assets =  $\Large\frac{Beginning~ Total~ Assets~ +~ Ending~ Total~ Assets}{2}$
+3. Average Investment in Assets =  $\Large\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
 
 4. Inventory Turnover Ratio = $\Large\frac{COGS}{Average~ Inventory}$
 
