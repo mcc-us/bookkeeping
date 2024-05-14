@@ -115,45 +115,7 @@ The ratio of 365 days to the accounts receivable turnover; also called the numbe
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
 
 
-## Terms and Calculations
-
-#### 1 Net Sales
-
-N.S. :one: = **Total Sales - (Returns/Allowances) - (Purchase Discounts)**
-
-
-#### 2 Net Delivered Cost of Purchases
-
-N.D.C.P. :two: = **Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)**
-
-
-#### 3 Cost of Goods Sold
-
-COGS :three: = **Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)**
-
-
-#### 4 Gross Profit
-
-Gross Profit :four: = **Net Sales :one:  - (COGS :three:)**
-
-
-#### 5 Net Income/Loss from Operations
-
-- Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'
-
-Net of Ops :five: = **Gross Profit on Sales :four:  - (Total Operating Exp :eight:)**
-
-
-#### 6 Current Ratio 
-
-C.R. = $\huge\frac{Current~ Assets}{Current~ Liabilities}$
-
-Ratio > 1.5 is good  
-
-
-#### 7 Book Value
-
-B.V. = **Asset - Accumulated Depreciation**
+## Calculations
 
 
 #### 8 Operating Expenses
@@ -163,18 +125,7 @@ Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
 
-
-### Net Sales (a.k.a. Operating Revenue)
-
-||Net Sales |
-|:-|:-|
-||Total Sales|
-|**Subtract**|Sales Returns & Allowances|
-|**Subtract**|Sales Discounts|
-|Equals|Net Sales|
-
-
-#### Book Table
+#### Book Table???
 
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
 

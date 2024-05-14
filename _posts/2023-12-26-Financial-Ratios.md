@@ -6,13 +6,31 @@ title: FINANCIAL RATIOS
 
 ### Basics
 
-1. Net Income/Loss = **Revenue + Gains - Expenses - Losses**
-
-2. Ending Balances = **Beginning Balance + Investments - Distributions**
-
-3. Operating Profit = **Revenue(Sales + Fees Earned) - Expenses** 
+1. Net Sales :one: = Total Sales - (Returns/Allowances) - (Purchase Discounts)<br><br>
+- a.k.a. Operating Revenue
    
-4. Working Capital = **Current Assets - Current Liabilities**
+2. Net Delivered Cost of Purchases :two: = Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts<br><br>
+
+3. Cost of Goods Sold :three: = Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)<br><br>
+
+4. Gross Profit of Sales :four: = Net Sales :one:  - (COGS :three:)<br><br>
+
+5. Operating Expenses :eight: = Expenses incurred during sales + Gen. Administrative Exp
+    - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.<br><br>
+
+6. Net Income/Loss from Operations :five: = Gross Profit on Sales :four:  - (Total Operating Exp :eight:)
+    - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'<br><br>
+
+7. Book Value = Asset - Accumulated Depreciation<br><br>
+
+8. Net Income/Loss = Revenue + Gains - Expenses - Losses<br><br>
+
+9.  Operating Profit = Revenue(Sales + Fees Earned) - Expenses<br><br>
+
+10.  Working Capital = Current Assets - Current Liabilities<br><br>
+
+11.  Ending Balances = Beginning Balance + Investments - Distributions<br><br>
+
 
 ### Activity Ratios
 
@@ -30,45 +48,38 @@ title: FINANCIAL RATIOS
 
 ### Liquidity Ratios
 
-1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good     
+1. Current Ratio = $\Large\frac{Current~ Assets}{Current~ Liabilities}$: Ratio > 1.5 is good<br><br>
 
-1. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$   
+2. Quick Ratio = $\Large\frac{Current~ Assets~ -~ Inventory}{Current~ Liabilities}$<br><br>   
 
-2. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x Days per period   
+3. Days Sales Outstanding = $\Large\frac{Act~ Receivable}{Credit~ Sales}$ x Days per period<br><br>
 
-3. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$  
+4. Cash Ratio = $\Large\frac{Cash}{Current~ Liabilities}$<br><br>   
 
-4. Working Capital = **Current Assets - Current Liabilities**
+5. Working Capital = Current Assets - Current Liabilities
 
 ### Solvency Ratios
 
-1. Debt-to-Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$: *Present as %*   
-<br>
+1. Debt-to-Equity Ratio = $\Large\frac{Total~ Liabilities}{Total~ Assets}$: *Present as %* <br><br>
 
 1. Equity Ratio = $\Large\frac{Total~ Shareholders~ Equity}{Total~ Assets}$: *Present as %*   
-<br> 
-   - Equity ratio = 1 - Debt ratio   
+   - Equity ratio = 1 - Debt ratio<br><br>
 
 ### Financial Leverage
 
-1. Debt-to-Capital Ratio = $\Large\frac{Debt}{Debt~ +~ Equity}$   
-<br>
+1. Debt-to-Capital Ratio = $\Large\frac{Debt}{Debt~ +~ Equity}$<br><br>
 
-2. Debt-to-Asset Ratio = $\Large\frac{Total~ Debt}{Total~ Assets}$    
-<br>
+2. Debt-to-Asset Ratio = $\Large\frac{Total~ Debt}{Total~ Assets}$<br><br>
 
-3. Financial Leverage Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$    
-<br>
+3. Financial Leverage Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
 
-4. Debt-to-Equity Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$   
-<br>
+4. Debt-to-Equity Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
 
 5. Debt-to-EBITDA Ratio = $\Large\frac{Total~ Debt}{EBITDA}$   
 
-   EBITDA = Earnings Before Interest Taxes Depreciation & Amortization   
-<br>
+- EBITDA = Earnings Before Interest Taxes Depreciation & Amortization<br><br>
 
-6. Asset-to-Equity Ratio = $\Large\frac{Total~ Assets}{Total~ Equity}$   
+6. Asset-to-Equity Ratio = $\Large\frac{Total~ Assets}{Total~ Equity}$<br><br>
 
 ---
 
