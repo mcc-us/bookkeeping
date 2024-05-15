@@ -1,3 +1,8 @@
+---
+layout: post
+title: NACPB Questions
+--- 
+
 |NACPB Quiz Questions|
 |:-:|
 | 1. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-15-35.png) |
