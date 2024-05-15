@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the prefix for image URLs
-PREFIX="/WrongQuestions/"
+PREFIX="/assets/nacpb_material/bookkeeping/"
 
 # Output filename
 OUTPUT_FILE="png.mk.2.md"
