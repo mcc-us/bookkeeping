@@ -58,9 +58,6 @@ title: 13-Financial Statements & Closing Procedures
 *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory :one: }$ 
 
 
-## Calculations
-
-
 #### 8 Operating Expenses
 
 Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
@@ -76,7 +73,8 @@ Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 
 #### OPEX
 
-- Includes all the costs associated with keeping the business running, from marketing and administration to research and maintaining equipment, **excluding** direct costs of production or providing the services you sell (reflected in COGS).
+- Includes all the costs associated with keeping the business running, from marketing, administration, R&D, and maintaining equipment. 
+- It **excludes** direct costs of production or providing the services you sell (that are reflected in COGS).
 
 **Common examples of OPEX**:
 

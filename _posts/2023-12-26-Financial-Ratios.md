@@ -29,7 +29,7 @@ title: FINANCIAL RATIOS
 
 10.  **Ending Balances** = Beginning Balance + Investments - Distributions<br><br>
 
-11. **Gross Profit Percentage** = $\huge \frac{Gross~ Profit}{Net~ Sales}$
+11. **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$   
     - The amount of gross profit from each dollar of sales<br><br>   
 
 12. s = $\Large \frac{Days~ per~ Period}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
