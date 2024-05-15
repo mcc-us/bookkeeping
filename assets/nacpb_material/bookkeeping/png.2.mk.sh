@@ -16,12 +16,12 @@ command="|:-:|"
 echo "$command" >> "$OUTPUT_FILE"
 
 # Loop through all PNG files starting with "Screenshot"
-for file in Screenshot*.png; do
+for file in Screenshot*; do
   # Extract filename without extension
   filename="${file}"
 
   # Construct markdown image command
-  command="| $counter. ![](${PREFIX}${filename}.png) |"
+  command="| $counter. ![](${PREFIX}${filename}) |"
 
   # Append the command to the output file
   echo -n "$command" >> "$OUTPUT_FILE"
