@@ -32,7 +32,7 @@ title: FINANCIAL RATIOS
 11. **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$   
     - The amount of gross profit from each dollar of sales<br><br>   
 
-12. s = $\Large \frac{Days~ per~ Period}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
+12. **ACP** = $\Large \frac{Days~ per~ Period}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
     - The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
 OR
     - **ACP** = (Average Accounts Receivable / Net Credit Sales) x Number of Days in a Period
