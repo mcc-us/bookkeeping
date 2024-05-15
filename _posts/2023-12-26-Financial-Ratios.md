@@ -41,17 +41,17 @@ OR
 ### Activity Ratios
 
 
-1. **Average Inventory** = $\Large\frac{Beginning~ +~ Ending~ Inventory}{2}$
+1. **Average Inventory** = $\Large\frac{Beginning~ +~ Ending~ Inventory}{2}$<br><br> 
 
-2. **Average Accounts Receivable** = $\Large\frac{Beginning~ +~ Ending~ A/R}{2}$
+2. **Average Accounts Receivable** = $\Large\frac{Beginning~ +~ Ending~ A/R}{2}$<br><br> 
 
-3. **Accounts Receivable Turnover Ratio** = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$
+3. **Accounts Receivable Turnover Ratio** = $\Large\frac{Net~ Credit~ Sales}{Average~ Accounts~ Receivable}$<br><br> 
 
-4. **Average Investment in Assets** =  $\Large\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$
+4. **Average Investment in Assets** =  $\Large\frac{Beginning~ +~ Ending~ Total~ Assets}{2}$<br><br> 
 
-5. **Inventory Turnover Ratio** = $\Large\frac{COGS}{Average~ Inventory}$
+5. **Inventory Turnover Ratio** = $\Large\frac{COGS}{Average~ Inventory}$<br><br> 
 
-6. **Return on Total Assets** = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$
+6. **Return on Total Assets** = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$<br><br> 
 
 
 ### Liquidity Ratios
