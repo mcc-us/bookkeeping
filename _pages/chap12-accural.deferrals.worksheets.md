@@ -12,9 +12,18 @@ Objectives:
 4. Make adjustments for accrued & deferred income items
 
 
-## Accurual Definitions (More)
+## Accurual Definitions
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/1.chap12.accurual.def.png)
+- **Revenue** is recognized when earned, not necessarily when the cash is received. 
+- **Revenue** is recognized when the sale is completed. 
+  - A sale is complete when title to the goods passes to the customer or when the service is provided. 
+  - For sales on account, revenue is recognized when the sale occurs even though the cash is not collected immediately.
+<br>
+- **Expenses** are recognized when incurred or used, not necessarily when cash is paid. 
+- **Expenses** are assigned to the accounting period in which it was used to earn revenue, even if cash is not paid at that time. 
+  
+**This is referred to as matching revenues and expenses.**
+
 
 ## Merchandise/Sales/Purchases
 
