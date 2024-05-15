@@ -28,7 +28,7 @@ title: 13-Financial Statements & Closing Procedures
 ### Classified Post-Closing Balance Sheet
 
 ![](/assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/2b.post.closing.png)
+
 
 ---
 
