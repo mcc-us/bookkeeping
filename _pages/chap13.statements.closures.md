@@ -49,13 +49,13 @@ title: 13-Financial Statements & Closing Procedures
 
 *Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
 
-*Plant and equipment* - Property that will be used in the business for longer than one year.
-
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$ 
-
-*Average Inventory* = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+*Plant, property and equipment* - Property that will be used in the business for longer than one year.
 
 *Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
+
+*Average Inventory* :one: = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
+
+*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory :one: }$ 
 
 
 ## Calculations
