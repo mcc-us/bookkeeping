@@ -4,16 +4,16 @@
 PREFIX="/WrongQuestions/"
 
 # Output filename
-OUTPUT_FILE="png.mk.2.txt"
+OUTPUT_FILE="png.mk.2.md"
 
 # Counter for numbering images
 counter=1
 
 # Construct markdown table header; Open & Append
 command="|NACPB Quiz Questions|"
-echo -n "$command" >> "$OUTPUT_FILE"
+echo "$command" >> "$OUTPUT_FILE"
 command="|:-:|"
-echo -n "$command" >> "$OUTPUT_FILE"
+echo "$command" >> "$OUTPUT_FILE"
 
 # Loop through all PNG files starting with "Screenshot"
 for file in Screenshot*.png; do
