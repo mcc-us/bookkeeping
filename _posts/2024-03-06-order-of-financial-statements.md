@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Order Of Financial Statements
-tags: reporting
 ---
 
 What order are financial statements prepared?

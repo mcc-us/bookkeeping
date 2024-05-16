@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perpetual Inventory System
+title: Perpetual Inventory System NEEDS WORK
 ---
 
 A perpetual inventory system is a method for tracking inventory levels continuously throughout an accounting period.  In contrast to a periodic inventory system where stock is counted physically at intervals, a perpetual system relies on real-time updates based on every purchase and sale transaction.

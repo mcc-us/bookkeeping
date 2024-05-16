@@ -8,7 +8,7 @@ permalink: /
 | :honeybee: Resources :honeybee: |
 |:---------:|
 | [**McGraw-Course**](https://connect.mheducation.com/connect/hmStudentCourseList.do) &nbsp; &nbsp; [**AIPB**](https://aipb.org) &nbsp; &nbsp; [**NACPB**](https://www.certifiedpublicbookkeeper.org) &nbsp; &nbsp; [**Udemy**](https://www.udemy.com/)|
-|[Principles of Accounting-GREAT QUESTIONS](https://openstax.org/books/principles-financial-accounting/pages/4-questions) &nbsp; &nbsp;[Motley Fool-Good Info](https://www.fool.com/)|
+|[Principles of Accounting-GREAT QUESTIONS](https://openstax.org/books/principles-financial-accounting/pages/4-questions) &nbsp; &nbsp;[Good Info?]()|
 ||
 | :hatching_chick: **TO DO** :hatching_chick: |
 |Retake all Quizzes|

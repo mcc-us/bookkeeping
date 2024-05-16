@@ -3,7 +3,7 @@ layout: post
 title: Going Concern Principle
 --- 
 
-The Going Concern Principle assumes that a company will continue operating into the foreseeable future unless there's substantial evidence to the contrary.
+- The Going Concern Principle assumes that a company will continue operating into the foreseeable future unless there's substantial evidence to the contrary.
 
 > **Businesses that are in it for the long haul will be more stable into the future and retain a better value.**
 {: .block-tip }

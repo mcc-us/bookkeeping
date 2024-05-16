@@ -1,10 +1,9 @@
 ---
-title: GAAP Principles  
+title: 10 GAAP Principles  
 layout: post  
-tags: gaap  
 ---
 
-| 10 GAAP Concepts|
+|10 GAAP Concepts|
 |:-:|
 |![GAAP](/assets/misc/gaap.png)|
 
