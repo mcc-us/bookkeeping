@@ -38,7 +38,9 @@ title: MC-Glossary
 
 16. *Adjustment*: A change made to an account that reflects its accurate or updated balances at the end of a period.
 
-17. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.       
+17. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.     
+
+18. *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory :one: }$   
 
 18. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 
@@ -198,7 +200,9 @@ title: MC-Glossary
 
 93. *Prepaid Expenses*: Expenses that are paid in advance but have not been used or consumed. Think: rent or insurance.
 
-94. *Principal*: The amount, typically of a loan   
+94. *Principal*: The amount, typically of a loan
+
+95. *Plant, property and equipment* - Property that will be used in the business for longer than one year.
    
 95. *Posting*: Transferring recorded transactions from the journal to individual accounts in the  ledger. **Posting = transfers data from journal to ledger**.     
    
