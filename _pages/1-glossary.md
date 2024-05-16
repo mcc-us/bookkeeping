@@ -16,7 +16,7 @@ title: MC-Glossary
 
 5.  *Accounting Standards Codification*: The source of authoritative U.S. GAAP, [fasb.org](https://asc.fasb.org/Login)
 
-6. *Accounts payable*: Amounts a business must pay in the future, a **liability**
+6. *Accounts payable*: a **Liability**, an amounts a business must pay in the future. 
 
 7. *Accounts payable ledger*: A subsidiary ledger that contains a separate account for each creditor
 
@@ -40,7 +40,7 @@ title: MC-Glossary
 
 17. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.     
 
-18. *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory :one: }$   
+18. *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$   
 
 19. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 
@@ -50,7 +50,7 @@ title: MC-Glossary
 
 22. *Capital*: **Owner's equity**, any financial investment in a business 
 
-23. *Cash basis*: **Not GAAP** : Recognizes transactions when cash or equivalents has been exchanged 
+23. *Cash basis*: **Not GAAP**, Recognizes transactions when cash or equivalents has been exchanged 
 
 24. *Cash discount*: A reduction in the price of a good or service given to a customer for paying their bill promptly.   
 
@@ -76,7 +76,7 @@ title: MC-Glossary
 
 35. *Cost basis*: Original cost of investment minus prior accumulated depreciation.
 
-36. *Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
+36. ?????*Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
 
 37. *Credit*: RIGHT hand Increases
 
@@ -88,7 +88,7 @@ title: MC-Glossary
 
 41. *Debit*: LEFT hand Increases
 
-42. *DEA-LER*: Dividends, Expenses, Assets **/** Liabilities, Equity, Revenue  
+42. *DEA-LER*: Dividends, Expenses, Assets // Liabilities, Equity, Revenue  
 
 43. *Double-declining-depreciation*: Rate is twice simple linear depreciation.   
 
