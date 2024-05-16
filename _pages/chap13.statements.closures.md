@@ -35,25 +35,6 @@ title: 13-Financial Statements & Closing Procedures
 ---
 
 
-## Terms
-
-*Classified financial statement* - A format where revenues and expenses on the income statement, and assets and liabilities on the balance sheet, are divided into groups of similar accounts and a subtotal is given for each group.
-
-*Single-step income statement* - An income statement where only one computation is needed to determine the net income. (Total Revenue − Total Exp = Net Income/Loss)
-
-*Multiple-step income statement* - An income statement where many/several subtotals are computed before the net income is calculated.
-
-*Condensed income statement* - An income statement summarizing detailed income statement accounts into a few lines of information.
-
-*Liquidity* - The ease with which an item can be converted into cash; the ability of a business to pay its debts when due.
-
-*Plant, property and equipment* - Property that will be used in the business for longer than one year.
-
-*Average Accounts Receivable* = $\large \frac{Begining~ +~ Ending~ Accounts~ Receivable}{2}$
-
-*Average Inventory* :one: = $\large \frac{Begining~ +~ Ending~ Inventory}{2}$
-
-*Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory :one: }$ 
 
 
 #### 8 Operating Expenses
@@ -62,10 +43,6 @@ Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
-
-#### Book Table???
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
 
 ---
 

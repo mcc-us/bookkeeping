@@ -29,13 +29,12 @@ title: FINANCIAL RATIOS
 
 10.  **Ending Balances** = Beginning Balance + Investments - Distributions<br><br>
 
-11. **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$   
-    - The amount of gross profit from each dollar of sales<br><br>   
+11. **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$  The ratio of gross profit to each dollar of sales<br><br>   
 
-12. **ACP** = $\Large \frac{Days~ per~ Period}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
-    - The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables
+12. **Avg Collection Period** = $\Large \frac{365~ Days}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
+    - The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables, OR use days in a period.
 OR
-    - **ACP** = (Average Accounts Receivable / Net Credit Sales) x Number of Days in a Period
+    - **Avg Collection Period** = (Average Accounts Receivable / Net Credit Sales) x Number of Days in a Period
 
 
 ### Activity Ratios
@@ -52,6 +51,9 @@ OR
 5. **Inventory Turnover Ratio** = $\Large\frac{COGS}{Average~ Inventory}$<br><br> 
 
 6. **Return on Total Assets** = $\Large\frac{Operating~ Income}{Average~ Investment~ in~ Assets}$<br><br> 
+
+7. **Avg Number Of Days In Inventory** = $\Large\frac{365~ Days}{Inventory~ Turnover~ Ratio}$<br><br>
+     - Avg days it takes to sell merch after purchased.
 
 
 ### Liquidity Ratios

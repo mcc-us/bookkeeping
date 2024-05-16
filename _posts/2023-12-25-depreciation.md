@@ -1,7 +1,6 @@
 ---
 layout: post
-title: depreciation NEEDS WORK
-tags: depreciation
+title: Depreciation NEEDS WORK
 math: true
 ---
 
