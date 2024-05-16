@@ -63,10 +63,6 @@ Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
 
-#### Book Table???
-
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
-
 ---
 
 #### OPEX
