@@ -18,9 +18,9 @@ Sales Discount **&** Returns & Allowances are CONTRA REVENUE like Expense
 
 $$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{\begin{bmatrix}
 Sales \\
-Sales~ Returns(CR) \\
-Sales~ Allowances(CR) \\
-Sales~ Discount(CR) \\
+Sales~ Returns(Contra~Rev-Dr) \\
+Sales~ Allowances(Contra~Rev-Dr) \\
+Sales~ Discount(Contra~Rev-Dr) \\
 \end{bmatrix}}$$  
 
 <!--  
