@@ -30,9 +30,9 @@ title: MC-Glossary
 
 12. *Accrued income*: Income that accrues over time but payment is received at a later time.
 
-13. *Acid Test*: A measure of immediate liquidity; the ratio of quick assets to current liabilities, aka the Quick Ratio:<br>$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
+13. *Acid Test*: A measure of immediate liquidity; the ratio of quick assets to current liabilities, aka Quick Ratio:<br>$$A.T. =  \Large \frac{Cash~ +~ Marketable~ Securities~ +~ A/R}{Current~ Liabilities}$$
 
-14. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act title.    
+14. *ADIP*: "Additional Paid-In Capital," This is an owner's equity act. title.    
    
 15. *Adjusting entries*: Journal entries are made to update accounts for items that were **not recorded** during the accounting period 
 
@@ -40,7 +40,7 @@ title: MC-Glossary
 
 17. *Audit Trail*: A sequential chain of evidence (documents, entries) showing the origin and flow of information. Document numbers, check numbers, account reference numbers, dates, companies/individuals used, and equipment bought or sold should be listed.     
 
-18. *Inventory Turnover Ratio* = $\large \frac{COGS}{Average~ Inventory}$   
+18. *Inventory Turnover Ratio* = $\Large \frac{COGS}{Average~ Inventory}$   
 
 19. *Balance Ledger Form*: A balance ledger form is a two-column spreadsheet (debit and credit) that presents each Account's balances and net changes during a specific period. A ledger account form that shows the account balance after each Entry is posted.   
 

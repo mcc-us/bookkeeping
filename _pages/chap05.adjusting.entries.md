@@ -3,19 +3,18 @@ layout: post
 title: 5-Adjusting Entries
 ---
 
-- Adjusting entries account for previously unrecorded events that impact the financial statements.
+- Adjusting entries are previously unrecorded events
+- Prepaid expenses are initially recorded as "Assets", then expire to expenses
+- The asset is moved to an expense act. over time reducing the assets value.
 
-- Prepaid expenses are initially recorded as assets because they represent a payment made for a future benefit (e.g., prepaid insurance, rent, supplies).
+**Common examples**
 
-**Other common examples**:
-
-  1. Depreciation / Accumulated Depreciation
+  1. Prepaid insurance, rent, supplies
+  2. Depreciation Exp / Accumulated Depreciation
   2. Accrued Interest (aka Deferred Revenue)
   3. Accrued Revenue   
 
-- Adjusting entries are used at the end of accounting periods to recognize the portion of the prepaid expense used during the period. The asset is moved to an expense over time reducing the asset account.
-
-- This process ensures the financial statements accurately reflect expenses incurred and assets remaining at the end of the period.
+---
 
 
 $$\frac{Assets}{Prepaid~ Expenses} + \frac{Expenses}{\begin{bmatrix}
@@ -92,7 +91,6 @@ they can vary depending on the business.
 
 
 [FA14 - Adjusting Journal Entries EXAMPLES-Tony Bell](https://www.youtube.com/watch?v=gkqoIqeiCsU)
-
 
 
 **For more information see Tony Bell**   
