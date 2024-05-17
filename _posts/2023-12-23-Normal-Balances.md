@@ -27,7 +27,7 @@ title: NORMAL BALANCES
 ||**Sales(R)**|
 ||Sales Tax Payable(L)|
 |Credit Card Expense(Ex)|Sales Discounts(CR)|
-||Sales Returns & Allowances(CR)|
+|Sales Returns & Allowances(CR)||
 |**Purchases(Ex)**||
 |Freight Charges(Ex)|Cash Discount(CE)|
 |Cost of Goods(Ex)|Purchase Discounts(CE)|
