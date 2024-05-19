@@ -20,8 +20,7 @@ title: NORMAL BALANCES
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
-|**NOTE**: Cash Variance (short/over) does NOT have a **"Normal balance"**||
-|Cash Short(E)|Cash Over(R)|
+|Cash Short(E)<br>*NOTE: Cash Variance (short/over) does NOT have a* **"Normal balance"**|Cash Over(R)|
 ||**Sales(R)**|
 ||Sales Tax Payable(L)|
 |Credit Card Expense(Ex)|Sales Discounts(CR)|
@@ -30,7 +29,7 @@ title: NORMAL BALANCES
 |Freight Charges(Ex)|Cash Discount(CE)|
 |Cost of Goods(Ex)|Purchase Discounts(CE)|
 ||Purchase Returns & Allowances(CE)|
-|**Payroll Expenses(Ex)**|**NOTE:Payroll Deductions are Liabilities**|
+|Payroll Expenses(Ex)|*NOTE:Payroll Deductions are Liabilities*|
 |Wages & Salaries(Ex)|S.S. Tax Payable(L)|
 |Payroll Tax Expense(Ex)|Employee Fed. Income Tax Payable(L)|
 ||Medicare Tax Payable(L)|
