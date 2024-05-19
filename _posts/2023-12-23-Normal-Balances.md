@@ -11,6 +11,8 @@ title: NORMAL BALANCES
 |Merchandise Inventory(A)|Interest Revenue(R)|
 |Equipment(A)|Notes Payable(L)|
 |Accounts Receivable(A)|Accounts Payable(L)|
+|Supplies(A)||
+|Supplies Expenses(Ex)||
 |Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
 |Utility Expenses(Ex)<br>{*Ex. Rent,Telephone, Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
