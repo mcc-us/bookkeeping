@@ -52,10 +52,15 @@ Every transaction has (at least) two components:
   -  *For example*; Money comes from account & goes into another. 
  
 
+### 3. Accounting Equation
+
+![](/assets/misc/balance.sheet.png)
+
+
 ---
 
 
-### 3. Chart of Accounts
+### 4. Chart of Accounts
 
 Example C.O.A. Numbering
 
@@ -78,6 +83,7 @@ Other resources:
 
 - [Chart-of-accounts Quickbooks.intuit](https://quickbooks.intuit.com/global/resources/accounting/chart-of-accounts-definition-and-example/)   
 - [Chart of Account / Polaris - Very Good](https://polaristaxandaccounting.com/chart-of-accounts-the-ultimate-guide-with-examples/)   
+
 
 - NAHCB Chart of Accounts   
 <div class="pdf-container">
