@@ -17,33 +17,26 @@ Employee~ Income~ Tax~ Payable \\
 \end{bmatrix}} + Equity + Revenue$$
 
 
-# This NEEDS a chart??
 
-## Terms
-
-- Experience rating system: Adjusts insurance premiums based on a company's past history of claims (fewer claims = lower premiums).
-
-- Merit rating system: Rewards individual employees with lower insurance premiums based on their safety record or performance.
-
-- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W2 (Wage and Tax Statement) to the Social Security Administration.
-
-- Unemployment insurance program: Government-funded program that provides temporary financial assistance to qualified workers who lose their jobs through no fault of their own.
-
-- Wage and Tax Statement, Form W2: An annual form employers send to employees summarizing their wages, taxes withheld, and other earnings information for tax filing purposes.
-
-- Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W2).
-
-- Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
-
-
-## Objectives
+### Objectives
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
 
 
-## Payment of Payroll Taxes
+### Recording Payment of Taxes Withheld
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
+
+### Quarterly Summary of Earning Records
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
+
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
+
+
+
+### Payment of Payroll Taxes
 
 - *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, ow a 10% penalty is possible
 
@@ -51,7 +44,7 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
 
 
-## SS & Medicare Taxes
+### SS & Medicare Taxes
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
@@ -60,20 +53,7 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 
 
-## Recording Payment of Taxes Withheld
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
-
-
-## Quarterly Summary of Earning Records
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
-
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
-
-
-## Employer’s Quarterly Federal Tax Return, 
+### Employer’s Quarterly Federal Tax Return, 
 
 - Employer’s Quarterly Federal Tax Return, Form 941 - Preprinted government form used by the employer to report payroll tax information relating to social security, Medicare, and employee income tax withholding to the Internal Revenue Service
 
@@ -85,7 +65,7 @@ Employee~ Income~ Tax~ Payable \\
 https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 
-## Wage & Tax Statement, Form W2
+### Wage & Tax Statement, Form W2
 
 - Wage and Tax Statement, Form W2 - Preprinted government form that contains information about an employee’s earnings and tax withholdings for the year
 
@@ -96,7 +76,7 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
 
 
-## Transmittal of Wage & Tax Statements, Form W-3
+### Transmittal of Wage & Tax Statements, Form W-3
 
 - Transmittal of Wage and Tax Statements, Form W-3 - Preprinted government form submitted with Forms W2 to the Social Security Administration
 
@@ -107,7 +87,7 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 ## Section 2
 
 
-## Unemployment Insurance Program
+### Unemployment Insurance Program
 
 - Unemployment insurance program - A program that provides unemployment compensation through a tax levied on employers
 
@@ -125,7 +105,27 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
 
 
-## Questions
+### Questions
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
 
+---
+
+### Terms
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/terms1.png)
+
+
+- Experience rating system: Adjusts insurance premiums based on a company's past history of claims (fewer claims = lower premiums).
+
+- Merit rating system: Rewards individual employees with lower insurance premiums based on their safety record or performance.
+
+- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W2 (Wage and Tax Statement) to the Social Security Administration.
+
+- Unemployment insurance program: Government-funded program that provides temporary financial assistance to qualified workers who lose their jobs through no fault of their own.
+
+- Wage and Tax Statement, Form W2: An annual form employers send to employees summarizing their wages, taxes withheld, and other earnings information for tax filing purposes.
+
+- Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W2).
+
+- Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
