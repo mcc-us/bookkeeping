@@ -11,18 +11,16 @@ title: NORMAL BALANCES
 |Merchandise Inventory(A)|Interest Revenue(R)|
 |Equipment(A)|Notes Payable(L)|
 |Accounts Receivable(A)|Accounts Payable(L)|
-|Prepaid Expenses(A)<br>{Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
-|Utilities Expense(Ex)|Deferred Revenue(L)|
-||Unearned Revenue(L)|
-|Rent,Telephone,UTILS Expense(Ex)||
-|Accrued Expenses(Ex)||
+|Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
+|Utility Expenses(Ex)<br>{*Ex. Rent,Telephone, Electric, Heating*}|Deferred Revenue(L)|
+|Accrued Expenses(Ex)|Unearned Revenue(L)|
 |Allowance of Doubful Act(CA)||
-|**Depreciation Expense(Ex)**||
+|**Depreciation Expense(Ex)**<br>{*Ex. Equipment,Vehicles, Office Equip.*}||
 ||Accumulated Depreciation(CA)|
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
-|**NOTE: Cash Variance (short/over) does not have a Normal balance**||
+|**NOTE**: Cash Variance (short/over) does NOT have a **"Normal balance"**||
 |Cash Short(E)|Cash Over(R)|
 ||**Sales(R)**|
 ||Sales Tax Payable(L)|
