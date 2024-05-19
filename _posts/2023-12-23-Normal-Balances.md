@@ -20,7 +20,7 @@ title: NORMAL BALANCES
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
-|Cash Short(E)<br>*NOTE: Cash Variance (short/over) does NOT have a* **"Normal balance"**|Cash Over(R)|
+|Cash Short(Ex)<br>*NOTE: Cash Variance (short/over) does NOT have a* **"Normal balance"**|Cash Over(R)|
 ||**Sales(R)**|
 ||Sales Tax Payable(L)|
 |Credit Card Expense(Ex)|Sales Discounts(CR)|
