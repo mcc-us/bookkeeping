@@ -14,7 +14,7 @@ title: NORMAL BALANCES
 |Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
 |Utility Expenses(Ex)<br>{*Ex. Rent,Telephone, Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
-|Allowance of Doubful Act(CA)||
+|Allowance of Doubtful Act(CA)||
 |**Depreciation Expense(Ex)**<br>{*Ex. Equipment,Vehicles, Office Equip.*}||
 ||Accumulated Depreciation(CA)|
 ||**Equity(Eq)**|
