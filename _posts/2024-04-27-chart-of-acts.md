@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NAHCB Chart of Acts.
+title: CHART Of ACTS. - NAHCB
 ---
 
 <div class="pdf-container">
