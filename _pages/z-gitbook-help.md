@@ -5,15 +5,16 @@ layout: post
 
 More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook) 
 
-### Scale images on page"
+### Scale images on page
 
+```
 <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="100%" />
+```
 
 ### Add non-breaking space: 
 
-- `&nbsp;`
+`&nbsp;`
 
-- &nbsp;
 
 ### PDF Containers
 

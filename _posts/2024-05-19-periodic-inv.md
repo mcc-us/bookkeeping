@@ -3,17 +3,23 @@ title: Periodic Inv Systems
 layout: post
 ---
 
-Q. Under a periodic inventory system, the adjustment for merchandise inventory removes the beginning invenmeotry from the books within which step?
+Q. Under a periodic inventory system, the adjustment for merchandise inventory removes the beginning inventory from the books within which step?
 
 A. The first adjusting entry
 
+Journal Entry:
+
+> Dr Merchandise Inventory/Supplies 250 (records purchase)    
+> &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
+{: .block-tip }
+
 Here's why:
 
-- Periodic Inventory System: This system doesn't track inventory throughout the period like the perpetual inventory records. The physical inventory is counted at the end of the period to determine the cost of goods sold.
+- Periodic Inventory System doesn't track inventory continually throughout the period like the perpetual inventory records. The physical inventory is counted at the end of the period to determine the cost of goods sold.
 
 - Need for Adjustment: Since the accounting system doesn't continuously update inventory records, adjustments are needed at the end of the period to reflect the actual ending inventory and calculate the cost of goods sold accurately.
 
-**Two-Step Adjustment**: The adjustment for merchandise inventory in a periodic system typically involves two journal entries:
+- **Two-Step Adjustment**: The adjustment for merchandise inventory in a periodic system typically involves two journal entries:
 
 - First Entry: This entry removes the beginning inventory from the books. It's done with a debit to Income Summary (to reduce net income by the amount of beginning inventory that wasn't actually sold) and a credit to Merchandise Inventory (to bring the inventory account to zero).
 
@@ -21,7 +27,8 @@ Here's why:
 
 Therefore, the first adjusting entry specifically addresses removing the beginning inventory from the books.
 
-Q. please give an example debit/credit transaction statement
+
+#### please give an example debit/credit transaction statement
 
 A. Debit/Credit Transaction Example: Office Supplies Purchase
 
@@ -33,8 +40,9 @@ Scenario:
 
 Journal Entry:
 
-Dr Office Supplies 250 (records purchase)
- &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
+> Dr Office Supplies 250 (records purchase)    
+> &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
+{: .block-tip }
 
 Explanation:
 

@@ -5,14 +5,14 @@ title: NACPB Questions
 
 |NACPB Quiz Questions|
 |:-:|
-| 1. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-15-35.png) |
+| 1. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-15-35.png) [June 6, 1934, SEC](https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission) |
 | 2. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-16-06.png) |
 | 3. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-16-26.png) |
-| 4. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-16-47.png) |
+| 4. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-16-47.png) A/P|
 | 5. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-17-05.png) |
-| 6. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-17-58.png) |
-| 7. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-18-41.png) |
-| 8. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-19-09.png) |
+| 6. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-17-58.png) D.|
+| 7. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-18-41.png) T|
+| 8. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-19-09.png) F|
 | 9. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-19-57.png) |
 | 10. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-20-18.png) |
 | 11. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-20-58.png) |
@@ -21,7 +21,7 @@ title: NACPB Questions
 | 14. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-22-32.png) |
 | 15. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-22-58.png) |
 | 16. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-24-06.png) |
-| 17. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-24-26.png) |
+| 17. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-24-26.png) False.<br> <br>A circled balance in the accounts receivable ledger indicates a credit balance, meaning the customer owes money to the company.<br><br>In accounting, accounts receivable is an asset account, and asset accounts normally have debit balances.  However, accounts receivable represent money owed by customers, which is a liability to the customer but an asset for the company.  Therefore, a normal accounts receivable balance is a debit balance.<br><br>Since the circled balance is to highlight something unusual, it's flagging that the customer has a credit balance, which means they have a prepayment or the company owes them money.|
 | 18. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-24-55.png) |
 | 19. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-25-10.png) |
 | 20. ![](/assets/nacpb_material/bookkeeping/Screenshot.from.2024-05-15.14-25-28.png) |
