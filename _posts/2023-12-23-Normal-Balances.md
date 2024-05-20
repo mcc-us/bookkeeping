@@ -3,6 +3,7 @@ layout: post
 title: NORMAL BALANCES
 ---
 
+*NOTE: CR, CA, CE - Represent Contra accounts*
 
 | Dr | Cr |
 |:-|:-|
@@ -14,7 +15,7 @@ title: NORMAL BALANCES
 |Supplies(A)||
 |Supplies Expenses(Ex)||
 |Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
-|Utility Expenses(Ex)<br>{*Ex. Rent,Telephone, Electric, Heating*}|Deferred Revenue(L)|
+|Utility Expenses(Ex)<br>{*Ex. Rent, Telephone, Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
 |Allowance of Doubtful Act(CA)||
 |**Depreciation Expense(Ex)**<br>{*Ex. Equipment,Vehicles, Office Equip.*}||
@@ -22,11 +23,11 @@ title: NORMAL BALANCES
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
-|Cash Short(Ex)<br>*NOTE: Cash Variance (short/over) does NOT have a* **"Normal balance"**|Cash Over(R)|
+|Cash Short(Ex)<br>*NOTE: Cash `Short/Over` do NOT have a* **"Normal balance"**|Cash Over(R)|
 ||**Sales(R)**|
-||Sales Tax Payable(L)|
-|Credit Card Expense(Ex)|Sales Discounts(CR)|
+|Sales Discounts(CR)|Sales Tax Payable(L)|
 |Sales Returns & Allowances(CR)||
+|Credit Card Expense(Ex)||
 |**Purchases(Ex)**||
 |Freight Charges(Ex)|Cash Discount(CE)|
 |Cost of Goods(Ex)|Purchase Discounts(CE)|
