@@ -54,7 +54,7 @@ First, let's take care of wages exp/payable;
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense $5,000   
 {: .block-danger }   
 
-NOTE: We constitute the wages expense that we had for the last period but on this periods books.
+NOTE: We re-constitute the wages expense that we had for the last period but on this periods books.
 
 1/3/2024: Record wages and payday
 
