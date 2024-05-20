@@ -21,7 +21,7 @@ title: NORMAL BALANCES
 |Utility Expenses(Ex)<br>{*Ex. Rent, Telephone, Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
 |Uncollectible Accounts Expense(Ex)<br>{*aka. Bad Debt Expense*}|Allowance of Doubtful Act(CA)<br>{*aka ADA, contra-A/R*}|
-|**Depreciation Expense(Ex)**<br>{*Ex. Equipment,Vehicles, Office Equip.*}||
+|**Depreciation Expense(Ex)**<br>{*Ex. Equipment, Vehicles, Office Equip.*}||
 ||Accumulated Depreciation(CA)|
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
