@@ -30,9 +30,13 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
-### Reversing Entries
+### Reversing Entries *(Optional)*
 
-- Generally, entail Accrued REV & Accrued EXP
+- Generally, Accrued REV & EXP
+  - accrued wages
+  - accrued payroll taxes
+  - interest payable
+  - interest receivable
 - **Optional**
 - They "Undo" adjusting entries
 - Intended to simplify records
