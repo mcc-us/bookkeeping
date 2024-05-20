@@ -33,7 +33,7 @@ title: 13-Financial Statements & Closing Procedures
 ### Reversing Entries
 
 - Generally, entail Accrued REV & Accrued EXP
-- Optional
+- **Optional**
 - They "Undo" adjusting entries
 - Intended to simplify records
 
@@ -53,7 +53,7 @@ First, let's journal/post transaction;
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
 {: .block-tip }   
 
-**1/1/2024**: Because the wages were incurred last period that should be on the books for when they were incurred.
+**1/1/2024**: **REVERSAL**, Because the wages were incurred last period that should be on the books for when they were incurred.
 
 > Dr Wage payable 5,000   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
