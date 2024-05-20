@@ -35,6 +35,10 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
 
 
+### W3
+
+- https://www.irs.gov/pub/irs-pdf/iw2w3.pdf
+
 
 ### Payment of Payroll Taxes
 
@@ -120,7 +124,7 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 - Merit rating system: Rewards individual employees with lower insurance premiums based on their safety record or performance.
 
-- Transmittal of Wage and Tax Statements, Form W-3: An employer's form used to send copies of Form W2 (Wage and Tax Statement) to the Social Security Administration.
+- Transmittal of Wage and Tax Statements, Form W3: An employer's form used to send copies of Form W2 (Wage and Tax Statement) to the Social Security Administration.
 
 - Unemployment insurance program: Government-funded program that provides temporary financial assistance to qualified workers who lose their jobs through no fault of their own.
 
