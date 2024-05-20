@@ -20,7 +20,7 @@ title: NORMAL BALANCES
 |Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
 |Utility Expenses(Ex)<br>{*Ex. Rent, Telephone, Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
-|Uncollectible Accounts Expense(Ex)<br>{aka. Bad Debt Expense}|Allowance of Doubtful Act(CA)<br>{aka ADA, contra-A/R}|
+|Uncollectible Accounts Expense(Ex)<br>{*aka. Bad Debt Expense*}|Allowance of Doubtful Act(CA)<br>{*aka ADA, contra-A/R*}|
 |**Depreciation Expense(Ex)**<br>{*Ex. Equipment,Vehicles, Office Equip.*}||
 ||Accumulated Depreciation(CA)|
 ||**Equity(Eq)**|
