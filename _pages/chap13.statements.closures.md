@@ -32,23 +32,28 @@ title: 13-Financial Statements & Closing Procedures
 
 ### Reversing Entries
 
+- Generally, entail Accrued REV & Accrued EXP
+- Optional
+- They "Undo" adjusting entries
+- Intended to simplify records
+
 **Example** 
 
-12/31/2023: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week(period).
+**12/31/2023**: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week(period).
 
-First, let's take care of wages exp/payable;
+First, let's journal/post transaction;
 
 > Dr Wages expense 5,000  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages payable 5,000   
 {: .block-tip }  
 
-12/31/2023: Close books: Since it is the END of the period(year) we need to close the books.
+**12/31/2023**: *Close books*: Since it is the END of the period(year) we need to close the books.
 
 > Dr Income Summary 5,000   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
 {: .block-tip }   
 
-1/1/2024: Because the wages were incurred last period that should be on the books for when they were incurred.
+**1/1/2024**: Because the wages were incurred last period that should be on the books for when they were incurred.
 
 > Dr Wage payable 5,000   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
@@ -56,7 +61,7 @@ First, let's take care of wages exp/payable;
 
 NOTE: We re-constitute the wages expense that we had for the last period but on this periods books.
 
-1/3/2024: Record wages and payday
+**1/15/2024**: Record wages and payday in *New period*.
 
 > Dr Wage expense 5,000   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Cash 5,000   
