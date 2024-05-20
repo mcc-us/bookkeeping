@@ -26,7 +26,7 @@ title: NORMAL BALANCES
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
-|Cash Short(Ex)<br>*NOTE: Cash `Short/Over` do NOT have a* **"Normal balance"**|Cash Over(R)|
+|Cash Short(Ex)<br>*NOTE: Cash `Short/Over` do NOT have a **Normal balance**|Cash Over(R)|
 ||**Sales(R)**|
 |Sales Discounts(CR)|Sales Tax Payable(L)|
 |Sales Returns & Allowances(CR)||
