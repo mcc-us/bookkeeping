@@ -34,7 +34,7 @@ title: 13-Financial Statements & Closing Procedures
 
 **Example** 
 
-12/31/2023: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week.
+12/31/2023: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week(period).
 
 First, let's take care of wages exp/payable;
 
