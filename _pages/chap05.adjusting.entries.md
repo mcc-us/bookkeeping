@@ -52,9 +52,9 @@ Deferred~ Revenue \\
 |:-:|
 |![](/assets/misc/accrued.expense.example.png)|
 
-**Example 3 Journal Entry**:
-- Debit expense account (e.g., Salaries Expense)
-- &nbsp;&nbsp;&nbsp;Credit liability account (e.g., Salaries Payable)
+> **Example Adjusting w/ Accrued Expense**:   
+> Dr Salaries Expense account    
+> &nbsp;&nbsp;&nbsp;Cr Salaries Payable account    
 
 ---
 
@@ -65,6 +65,12 @@ Deferred~ Revenue \\
 |:-:|
 |![](/assets/misc/what-is-accrued-revenue.jpg)|
   
+
+> **Example Adjusting w/ Accrued Revenue**:   
+> Dr Pre-paid Fees account    
+> &nbsp;&nbsp;&nbsp;Cr A/R account    
+
+
 
 - Accrued Revenue represents income earned, but hasn't yet received payment for.   
 - Since Accrued Revenue is an asset account representing uncollected revenue, it follows the logic of a revenue account and has a normal credit balance.   
