@@ -38,28 +38,28 @@ title: 13-Financial Statements & Closing Procedures
 
 First, let's take care of wages exp/payable;
 
-> Dr Wages expense $5,000  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages payable $5,000   
+> Dr Wages expense 5,000  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages payable 5,000   
 {: .block-tip }  
 
 12/31/2023: Close books: Since it is the END of the period(year) we need to close the books.
 
-> Dr Income Summary $5,000   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense $5,000   
+> Dr Income Summary 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
 {: .block-tip }   
 
 1/1/2024: Because the wages were incurred last period that should be on the books for when they were incurred.
 
-> Dr Wage payable $5,000   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense $5,000   
+> Dr Wage payable 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
 {: .block-danger }   
 
 NOTE: We re-constitute the wages expense that we had for the last period but on this periods books.
 
 1/3/2024: Record wages and payday
 
-> Dr Wage expense $5,000   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Cash $5,000   
+> Dr Wage expense 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Cash 5,000   
 {: .block-danger }   
 
 
