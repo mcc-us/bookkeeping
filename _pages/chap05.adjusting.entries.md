@@ -64,10 +64,10 @@ Accrued expenses are: Salaries, Utilities
 |![](/assets/misc/what-is-accrued-revenue.jpg)|
   
 
-> **Example Adjusting w/ Accrued Revenue**:   
+> **Example Adjusting w/ Accrued Revenue**   
 > Dr Pre-paid Fees account    
 > &nbsp;&nbsp;&nbsp;Cr A/R account    
-
+{: .block-tip }   
 
 
 - Accrued Revenue represents income earned, but hasn't yet received payment for.   
