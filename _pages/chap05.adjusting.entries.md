@@ -66,7 +66,7 @@ Accrued expenses are: Salaries, Utilities
 
 > **Example Adjusting w/ Accrued Revenue**   
 > Dr Pre-paid Fees account    
-> &nbsp;&nbsp;&nbsp;Cr A/R account    
+> &nbsp;&nbsp;&nbsp; Cr A/R account    
 {: .block-tip }   
 
 
