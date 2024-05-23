@@ -67,7 +67,7 @@ Accrued expenses are: Salaries, Utilities
 
 > **Example Adjusting w/ Accrued Revenue**   
 > Dr Pre-paid Fees account 1   
-> &nbsp;&nbsp;&nbsp; Cr A/R account &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1   
+> &nbsp;&nbsp;&nbsp; Cr A/R account &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1   
 {: .block-tip }   
 
 
