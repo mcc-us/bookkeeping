@@ -77,7 +77,7 @@ NOTE: We re-constitute the wages expense that we had for the last period but on 
 
 #### Operating Expenses
 
-Op. Exps :eight: = **Expenses incurred during sales + Gen. Administrative Exp**
+Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
 
 - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
 
