@@ -7,7 +7,7 @@ layout: post
 {: .block-tip }
 
 
-**Ledger Account**    
+**4 Steps - Ledger Account**    
 
 > 1 **Debit Revenue**<br>&nbsp;&nbsp;&nbsp;&nbsp;**Credit Income Summary**   
 {: .block-tip }   

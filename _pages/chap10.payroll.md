@@ -14,9 +14,9 @@ title: 10-Payroll
 
 |SS Tax|Medicare Tax|Federal Tax|
 |:-|:-|:-|
-|6.2%<br>Maxes out @ $142,800|1.45%|Bracketed & Progressive|
+|6.2%<br>Maxes out @ $142,800|1.45%<br>No Max But rate changes|Bracketed & Progressive|
 |Who Pays|Levied equally on employer & employee|Levied equally on employer & employee|
-|See: **W4**, Publication 15, Circular E|
+|See: **W4**, Publication 15, Circular E|>||
 
 1. **Medicare taxes have no wage base limit**. 
    1. Under the Affordable Care Act, higher-income wage earners are now subject to an **additional Medicare tax of 0.9 percent and the regular Medicare tax of 1.45 percent**, paid only by the individuals. The business does not match the amount.
