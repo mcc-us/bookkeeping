@@ -70,9 +70,9 @@ To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we nee
 ## Accrued Payroll Taxes
 
 
-> Dr Payroll Tax Exp. **91.80**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **74.40**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable **17.40**  
+> Dr Payroll Tax Exp. 2    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable 1   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable 1   
 {: .block-tip }   
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
