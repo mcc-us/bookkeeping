@@ -48,18 +48,18 @@ title: 13-Financial Statements & Closing Procedures
 First, let's journal/post transaction;
 
 > Dr Wages expense 5,000  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages payable 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages payable  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000   
 {: .block-tip }  
 
 **12/31/2023**: *Close books*: Since it is the END of the period(year) we need to close the books.
 
 > Dr Income Summary 5,000   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000   
 {: .block-tip }   
 
 **1/1/2024**: **REVERSAL**, Because the wages were incurred last period that should be on the books for when they were incurred.
 
-> Dr Wage payable 5,000   
+> Dr Wage payable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Wages expense 5,000   
 {: .block-danger }   
 
@@ -68,7 +68,7 @@ NOTE: We re-constitute the wages expense that we had for the last period but on 
 **1/15/2024**: Record wages and payday in *New period*.
 
 > Dr Wage expense 5,000   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Cash 5,000   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Cash &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000   
 {: .block-danger }   
 
 
