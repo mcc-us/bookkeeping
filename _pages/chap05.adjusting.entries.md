@@ -51,8 +51,8 @@ Deferred~ Revenue \\
 Accrued expenses are: Salaries, Utilities
 
 > **Example Adjustment w/ Accrued Expense**:   
-> Dr Salaries Expense account \$1    
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Salaries Payable account \$1   
+> Dr Salaries Expense account 1    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Salaries Payable account 1   
 
 ---
 
@@ -65,8 +65,8 @@ Accrued expenses are: Salaries, Utilities
   
 
 > **Example Adjusting w/ Accrued Revenue**   
-> Dr Pre-paid Fees account    
-> &nbsp;&nbsp;&nbsp; Cr A/R account    
+> Dr Pre-paid Fees account 1   
+> &nbsp;&nbsp;&nbsp; Cr A/R account 1   
 {: .block-tip }   
 
 
