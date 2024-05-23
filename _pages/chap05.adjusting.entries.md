@@ -32,7 +32,7 @@ Deferred~ Revenue \\
 ![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
 > **Adjusting Entry**   
-> Dr Rent Expenses &nbsp;&nbsp;&nbsp; 4,000 (b)   
+> Dr Rent Expenses &nbsp;&nbsp; 4,000 (b)   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Pre-Paid rent 4,000 (b)   
 {: .block-tip }   
 
