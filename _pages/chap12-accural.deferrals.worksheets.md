@@ -71,7 +71,7 @@ To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we nee
 
 
 > Dr Payroll Tax Exp. **91.80**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable **74.40**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **74.40**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable **17.40**  
 {: .block-tip }   
 
