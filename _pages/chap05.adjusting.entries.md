@@ -33,7 +33,7 @@ Deferred~ Revenue \\
 
 > **Adjusting Entry**   
 > Dr Rent Expenses &nbsp;&nbsp; 4,000 (b)   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Pre-Paid rent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,000 (b)   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Pre-Paid rent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,000 (b)   
 {: .block-tip }   
 
 - Prepaid expenses start as assets:
