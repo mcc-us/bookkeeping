@@ -32,8 +32,8 @@ Deferred~ Revenue \\
 ![Pre-paid rent example](/assets/mc-graw-accounting-course/images/pre.paid.example.png)
 
 > **Adjusting Entry**   
-> Dr Rent Expenses 4,000 (b)   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Pre-Paid rent &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,000 (b)   
+> Dr Rent Expenses &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,000 (b)   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr Pre-Paid rent 4,000 (b)   
 {: .block-tip }   
 
 - Prepaid expenses start as assets:
@@ -50,9 +50,10 @@ Deferred~ Revenue \\
 
 Accrued expenses are: Salaries, Utilities
 
-> **Example Adjustment w/ Accrued Expense**:   
-> Dr Salaries Expense account 1    
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Salaries Payable account 1   
+> **Example Adjustment w/ Accrued Expense**:    
+> Dr Salaries Expense account 1     
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Salaries Payable account 1    
+{: .block-tip }   
 
 ---
 
