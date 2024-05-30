@@ -1,5 +1,5 @@
 ---
-title: Periodic Inv Systems
+title: Periodic Inventory Systems
 layout: post
 ---
 
