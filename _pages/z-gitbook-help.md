@@ -136,3 +136,12 @@ foo(3)
 |1|2|3|4|5|6|7|8|
 </div>
 ```
+
+<dl>
+  <dt>QBO</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Term 2</dt>
+  <dd>This is one definition of the second term.</dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
+
