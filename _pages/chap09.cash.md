@@ -40,6 +40,8 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 |Cash Register Sales w/ Cash Short/Over|
 |:-|
 |![](/assets/mc-graw-accounting-course/chap9.cash/q1.exercises.png)|
+|Cash Log|
+|![](/assets/mc-graw-accounting-course/chap9.cash/cash.log.chap9.crit.prob1.png)|
 
 **A Balance found on:**
 
@@ -74,6 +76,51 @@ Petty Cash must have an **Analysis Sheet** to mark down purchases.
 |4|SUBTRACT &nbsp;&nbsp;&nbsp;&nbsp;Bank Errors or Fees & returned items|
 |=|**Equals**|
 |Final|$ Balance per books|
+
+---
+
+### Guide To Reconciling Your Bank Accounts
+
+Reconciling bank accounts ensures your accounting books/records match the bank statement. 
+
+**A simplified outline**:
+
+1. **Gather Information**:
+
+    - Bank Statement
+    - Check Register: Records of your checks written & deposits made.
+    - Outstanding Deposits
+    - Outstanding Checks: Checks that have not yet cleared the bank.
+
+2. **Compare Transactions**:
+
+    - Match the bank statement with check registry, marking them off.
+    - Deposits: Verify all deposits
+    - Checks: Match all checks amounts & dates.
+
+3. **Identify Differences**:
+
+    - Bank Fees: Check for any bank fees and record as needed
+    - NSF Checks (Non-Sufficient Funds): "bounced checks"; Record them as reductions in your cash account and receivables from the person who wrote the check.
+    - Deposits in Transit: These are deposits made but not yet reflected on the bank statement. Add them to your checkbook balance.
+    - Outstanding Checks: These haven't cleared the bank yet. Subtract them from your checkbook balance.
+
+4. **Adjust Records**:
+
+    - Make journal entries to record any discrepancies identified in step 3.
+    These entries might involve debits/credits to Cash, Accounts Receivable, Bank Fees, etc.
+
+5. **Reconcile the Balance**:
+
+    - Once adjustments are made, your adjusted checkbook balance should equal the ending balance on your bank statement.
+
+Common Issues:
+
+   - Math Errors: Double-check your calculations in both your check register and bank statement.
+   - Deposits in Transit: Ensure you record these to avoid understating your cash balance.
+   - Outstanding Checks: Consider the timing of checks written near the end of the month to avoid overstating your cash balance.
+   - Reconciliation Differences: If you can't reconcile after a reasonable effort, contact your bank to investigate any unresolved discrepancies.
+
 
 ---
 
