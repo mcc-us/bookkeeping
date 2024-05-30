@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cash Equivalents
+title: Cash Equivalents Question
 ---
 
 **Q. Which of the following would be considered a cash equivalent?**
