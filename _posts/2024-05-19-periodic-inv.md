@@ -10,7 +10,7 @@ A. The first adjusting entry
 Journal Entry:
 
 > Dr Merchandise Inventory/Supplies 250 (records purchase)    
-> &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;250 (records money owed to creditor)
+> &nbsp;&nbsp;&nbsp;&nbsp; Cr A/P 250 (records money owed to creditor)
 {: .block-tip }
 
 Here's why:
