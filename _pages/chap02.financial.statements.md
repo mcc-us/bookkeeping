@@ -181,13 +181,13 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 
 **Key benefits it offers:**
 
-1. **Verifies Accuracy**: The purpose of a Trial-Balance is to check for mathematical errors. By ensuring the total debits equal the total credits, you gain confidence that transactions are recorded correctly. This saves time compared to manually rechecking every entry.
+1. **Verifies Accuracy**: The purpose of a Trial-Balance is to check for mathematical errors. By ensuring the total debits equal the total credits, you gain confidence that transactions are recorded correctly.   
 
-2. **Identifies Potential Issues**: While a balanced Trial-Balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, it indicates an error, prompting further investigation.
+2. **Identifies Potential Issues**: While a balanced Trial-Balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, investigate further.   
 
 3. **Provides Overview of Financial Position**: The Trial-Balance offers a snapshot of the `financial position` at a specific point in time. Seeing total assets, liabilities, equity, income, and expenses one gains a high-level understanding.
 
-4. **Aids in Financial Statement Preparation**: The Trial-Balance forms the foundation for preparing financial statements such as the balance sheet and income statement. By having all the balances readily available, you can easily transfer them to the appropriate statements, saving time and ensuring consistency.
+4. **Aids in Financial Statement Preparation**: The Trial-Balance forms the foundation for preparing financial statements such as the `Balance Sheet` and `Income Statement`. By having all the balances readily available, you can easily transfer them to the appropriate statements, saving time.
 
 5. **Internal Control Tool**: Regularly preparing Trial-Balance serves as a form of internal control. It promotes discipline and accuracy in daily bookkeeping and helps prevent errors and fraud from going undetected.
 
@@ -218,7 +218,7 @@ See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and
 - Focus: Measures a company's profitability over a specific period.
 - Records: Revenue earned, expenses incurred, and resulting net income (profit) or loss.
 - Basis: **Uses the accrual accounting method**, recognizing revenue when earned and expenses when incurred, regardless of cash flow.
-- Example: A company might sell products on credit (revenue earned) but not receive payment yet. The income statement reflects the sale as revenue even though cash hasn't been received.
+- Example: A company might sell products on credit (e.g. accrued revenue) but not receive payment yet. The income statement reflects the sale as revenue even though cash hasn't been received.
 
 **Statement of Cash Flow**:
 
