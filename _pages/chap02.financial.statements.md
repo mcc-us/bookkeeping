@@ -52,7 +52,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
 {: .block-tip }
 
-*Income Statements: Display Revenues & Expenses appear alphabetically.*
+*Income Statements: Display Revenues & Expenses alphabetically.*
 
 ---
 

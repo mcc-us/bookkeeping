@@ -76,7 +76,7 @@ title: MC-Glossary
 
 35. *Cost basis*: Original cost of investment minus prior accumulated depreciation.
 
-36. ?????*Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
+36. *Cost of goods sold (COGS)*: The direct costs associated with producing the goods or services sold by a business during a specific period.
 
 37. *Credit*: RIGHT hand Increases
 
@@ -125,7 +125,9 @@ title: MC-Glossary
 
 57. *FMV*: Fair Market Value.
    
-58. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. An economic stake in a company, expecting financial rewards.   
+58. *Financial interest*: A claim on a company's profits or assets, typically represented by ownership through shares or investments, granting rights to dividends, voting power, and potential capital appreciation. An economic stake in a company, expecting financial rewards.
+
+59. *Fixed Asset*: property which cannot easily be converted into cash, such as land, buildings and machinery. 
 
 59. *Freight In account*: An account used to record the cost of transporting goods purchased from a supplier to the buyer's location.
      
