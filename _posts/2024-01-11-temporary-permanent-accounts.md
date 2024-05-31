@@ -5,13 +5,13 @@ title: Temporary Vs Permanent Accounts
 
 ### Key Differences:
 
-1. *Temporary accounts*: Measures short-term performance, usually <= year, commonly expenses or revenues.   
+1. *Temporary accounts*: Commonly **expenses and revenues**, measure short-term performance, e.g. quarterly or annually.   
 
 2. *Permanent accounts*: Measures log-term performance, usually acts that carry over to subsequent periods.  
 
 ### Closing procedures:
 
-1. *Temporary accounts*: **Close out** at the end of the period and transfer remaining balance to income summary/closing accounts and ultimately to owner's equity. Balances reset to zero for the next period.   
+1. *Temporary accounts*: **Close out** at the end of the period and transfer remaining balance to `Income Summary`, and ultimately to owner's equity. Balances reset to zero for the next period.   
 
 1. *Permanent accounts*: Maintain their balances throughout the year and are **NOT closed**.   
 
