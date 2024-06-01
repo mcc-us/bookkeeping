@@ -52,6 +52,23 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ---
 
+![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.prob1.table.png)
+
+![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.salary.table.png)
+
+![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.tax.journal.entry.png)
+
+![](/assets/mc-graw-accounting-course/chap10.payroll/journal.entry.monthly.payroll.png)
+
+![](/assets/mc-graw-accounting-course/chap10.payroll/payroll.calcs.ledger.png)
+
+
+<!-- 
+
+---
+
+### This is not needed cuz its shite!
+
 |Book NOTES|
 |:-|
 |1. id.contracor.png ![](/assets/mc-graw-accounting-course/chap10.payroll/1.id.contracor.png)|
@@ -74,3 +91,8 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ![](/assets/mc-graw-accounting-course/chap10.payroll/c%20hap10.section1a.q.png)
 ![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.sectiojn1b.q.png)
+
+-->
+
+
+dsfs
