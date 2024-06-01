@@ -109,6 +109,14 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
 
 
+
+
+<!--
+
+---
+
+# NOT NEEDED
+
 ### Questions
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.section1.q.png)
@@ -133,3 +141,6 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 - Withholding statement: A document showing the amount of tax withheld from an employee's paycheck throughout the year (often synonymous with Form W2).
 
 - Back period: Refers to a previous pay period or tax year for which tax filings or payments were missed or need to be adjusted.
+
+-->
+EOF
