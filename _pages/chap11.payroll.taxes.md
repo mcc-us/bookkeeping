@@ -104,6 +104,27 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/reporting.quarter.unemployment.taxes.png)
 
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/futa3.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-05-35.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-09-02.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-12-54.png)
+
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-15-58.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-16-40.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/Screenshot%20from%202024-04-22%2017-17-41.png)
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/tax.table.png)
+
+
+
+
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/13.w2.info.png)
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
