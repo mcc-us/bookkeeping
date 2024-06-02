@@ -35,9 +35,9 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
 
 
-### W3
+### W3 Form
 
-- https://www.irs.gov/pub/irs-pdf/iw2w3.pdf
+- PDF: [](https://www.irs.gov/pub/irs-pdf/iw2w3.pdf)
 
 
 ### Payment of Payroll Taxes
@@ -53,6 +53,8 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
+
+
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 
