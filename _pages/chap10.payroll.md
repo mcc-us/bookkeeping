@@ -62,8 +62,10 @@ Federal laws require detailed payroll records be maintained for all categories o
 
 ![](/assets/mc-graw-accounting-course/chap10.payroll/payroll.calcs.ledger.png)
 
-
+![](/assets/mc-graw-accounting-course/chap10.payroll/chap10.wage.exp.prob.png)
 <!-- 
+
+
 
 ---
 
