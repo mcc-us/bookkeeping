@@ -46,8 +46,6 @@ Objectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
 -->
 
-To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
-
 - Merchandise Inv. & End of Period Adjustments using Income Summary
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
@@ -68,9 +66,11 @@ To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we nee
 ## Accrued Payroll Taxes
 
 
-> Dr Payroll Tax Exp. 2    
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable 1   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable 1   
+> Dr Payroll Tax Exp. **Total Tax Exp**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable X1 {6.2%}  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable X2 {1.45%}  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr FUTA Payable X3  {0.6%}  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {?%}  
 {: .block-tip }   
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
