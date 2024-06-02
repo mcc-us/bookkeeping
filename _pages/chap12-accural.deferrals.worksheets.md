@@ -37,6 +37,7 @@ Objectives:
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.2.png)
 
 <!--
 ![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
