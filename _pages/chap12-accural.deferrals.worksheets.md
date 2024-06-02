@@ -35,18 +35,16 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final initial merchandise value**   
 {: .block-tip }   
 
-OR ??????
-
-> Dr Merchandise Inventory **Final merchandise value**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**   
-{: .block-tip }   
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
 
 
+<!--
 ![](/assets/mc-graw-accounting-course/chap12-accurals/4.merch.inv.income.sum.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.adjustments.4.merch.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/2.steps.bal.adjustments.png)
+-->
 
 To adjust from the `Beginning Merch Inventory` to `Final Merch Inventory` we need to adjust using the `Income Summary`, in 2 steps
 
