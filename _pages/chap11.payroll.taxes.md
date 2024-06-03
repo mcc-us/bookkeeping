@@ -44,9 +44,9 @@ Employee~ Income~ Tax~ Payable \\
 
 - *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, ow a 10% penalty is possible
 
-
+<!--
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
-
+-->
 
 ### SS & Medicare Taxes
 
