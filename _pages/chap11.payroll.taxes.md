@@ -50,11 +50,11 @@ Employee~ Income~ Tax~ Payable \\
 
 ### SS & Medicare Taxes
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
+
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
-
-
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)s
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 
