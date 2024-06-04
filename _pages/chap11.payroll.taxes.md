@@ -80,6 +80,8 @@ https://www.irs.gov/pub/irs-prior/f941--2024.pdf
 
 - Withholding statement - See Wage and Tax Statement, Form W2
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/w2.copies.made.png)
+
 ---
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
