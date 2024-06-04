@@ -62,10 +62,9 @@ Employee~ Income~ Tax~ Payable \\
 
 
 
-### Employer’s Quarterly Federal Tax Return, 
+### Employer’s Quarterly Federal Tax Return,
 
 - Employer’s Quarterly Federal Tax Return, Form 941 - Preprinted government form used by the employer to report payroll tax information relating to social security, Medicare, and employee income tax withholding to the Internal Revenue Service
-
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/9.company.wide.tax.and.pay.schedule.png)
 
