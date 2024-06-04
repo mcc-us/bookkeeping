@@ -58,7 +58,7 @@ Employee~ Income~ Tax~ Payable \\
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
 
-
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
 
 
