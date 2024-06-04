@@ -116,10 +116,10 @@ Reconciling bank accounts ensures your accounting books/records match the bank s
 
 Common Issues:
 
-   - Math Errors: Double-check your calculations in both your check register and bank statement.
-   - Deposits in Transit: Ensure you record these to avoid understating your cash balance.
-   - Outstanding Checks: Consider the timing of checks written near the end of the month to avoid overstating your cash balance.
-   - Reconciliation Differences: If you can't reconcile after a reasonable effort, contact your bank to investigate any unresolved discrepancies.
+    - Math Errors: Double-check your calculations in both your check register and bank statement.
+    - Deposits in Transit: Ensure you record these to avoid understating your cash balance.
+    - Outstanding Checks: Consider the timing of checks written near the end of the month to avoid overstating your cash balance.
+    s- Reconciliation Differences: If you can't reconcile after a reasonable effort, contact your bank to investigate any unresolved discrepancies.
 
 
 ---
