@@ -59,10 +59,14 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
 {: .block-tip }   
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.3.png)
+
+
+<!--
 ![](/assets/mc-graw-accounting-course/chap12-accurals/5.uncollectible.doubtful.acts.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
-
+-->
 
 ## Accrued Payroll Taxes
 
