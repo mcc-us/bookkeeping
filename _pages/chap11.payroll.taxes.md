@@ -104,6 +104,7 @@ Too much info
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
 
 ### 941 - Employer’s Quarterly Federal Tax Return
 
