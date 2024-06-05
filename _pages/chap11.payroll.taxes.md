@@ -106,8 +106,9 @@ Too much info
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
 
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
+![940 form](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
 
+![940 form](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
 
 
 
