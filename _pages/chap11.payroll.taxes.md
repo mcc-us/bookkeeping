@@ -52,6 +52,28 @@ Employee~ Income~ Tax~ Payable \\
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/8.earning.records.png)
 
 
+---
+
+What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
+
+- Paid if over $500.
+  
+|Feature|FUTA|SUTA|
+|:-|:-|:-|
+|Level|Federal|State|
+|Tax Rate|Generally pay 0.6% on the first $7k,<br>O.W. 6.0%|Varies by state (2-8%)|
+|Paid| Quarterly if >= $500 | Quarterly |
+
+1. FUTA and SUTA are paid entirely by the employer.   
+
+2. FUTA & SUTA support unemployment benefit programs.  
+
+3. Both FUTA & SUTA benefits are for workers who lose their jobs through "no fault of their own."  
+
+4. FUTA goes to a national pool, while, SUTA stays within that state.
+
+---
+
 ### W3 Form
 
 - PDF: [](https://www.irs.gov/pub/irs-pdf/iw2w3.pdf)
@@ -69,11 +91,16 @@ Employee~ Income~ Tax~ Payable \\
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
+
+
+Too much info
+
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/3.calculating.tax.liability.png)
 
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)s
-
+<!--
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/5.tax.accts.dr.cr.png)
+-->
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
