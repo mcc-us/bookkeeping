@@ -140,6 +140,7 @@ Too much info
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/workmans.comp.exp.payable.png)
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/prepaid.workmans.comp.cash.2.ins.png)
 
 ## Section 2
 
