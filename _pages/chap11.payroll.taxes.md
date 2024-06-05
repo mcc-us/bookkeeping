@@ -4,7 +4,6 @@ title: 11-Payroll Taxes
 --- 
 
 
-**Payroll Taxes**
 
 ## Payroll Tax Expense & Liability Accounts
 
