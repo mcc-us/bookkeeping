@@ -59,7 +59,7 @@ What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
 
 - Paid if over $500.
   
-|Feature|FUTA|SUTA|
+|Form 940|FUTA|SUTA|
 |:-|:-|:-|
 |Level|Federal|State|
 |Tax Rate|Generally pay 0.6% on the first $7k,<br>O.W. 6.0%|Varies by state (2-8%)|
