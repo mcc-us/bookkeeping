@@ -35,6 +35,7 @@ Employee~ Income~ Tax~ Payable \\
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
 
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
 
 ### Recording Payment of Taxes Withheld
 
@@ -76,22 +77,18 @@ What is Federal Unemployment Tax Act (FUTA) & State Unemployment Tax Act (SUTA)?
 
 ### W3 Form
 
-- PDF: [](https://www.irs.gov/pub/irs-pdf/iw2w3.pdf)
+- [W3 Form PDF](https://www.irs.gov/pub/irs-pdf/iw2w3.pdf)
 
 
 ### Payment of Payroll Taxes
 
-- *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, ow a 10% penalty is possible
+- *EFTPS Electronic Federal Tax Payment System* - EFTPS must be used if Payroll is >= $200,000, o.w. a 10% penalty is possible
 
 <!--
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/2.aca.provisions.png)
 -->
 
 ### SS & Medicare Taxes
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/4.tax.liability.png)
 
 
 Too much info
@@ -115,7 +112,7 @@ Too much info
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/10.when.to.file.png)
 
-https://www.irs.gov/pub/irs-prior/f941--2024.pdf
+[Form 941 - 2024](https://www.irs.gov/pub/irs-prior/f941--2024.pdf)
 
 
 ### Wage & Tax Statement, Form W2
