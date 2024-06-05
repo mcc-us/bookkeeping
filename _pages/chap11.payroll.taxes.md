@@ -18,17 +18,34 @@ Employee~ Income~ Tax~ Payable \\
 
 
 
-### Objectives
+### Ideas
 
+1. Recording: SS, Medicare, FUTA, SUTA
+2. Recording Tax Expense and Tax Payable
+3. IRS form 940 & FUTA & SUTA
+4. IRS form 941 - Quarterly Fed Tax Returns
+5. W2: Tax Statement
+6. W3: Annual Transmittal of Wage & Tax Statements
+
+<!-- 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
+-->
+
+### SS & Medicare Taxes
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/ss.medicare.payin.png)
 
 
 ### Recording Payment of Taxes Withheld
 
+- Tax Expense --> Tax Payable
+
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/6.ledger.4.ss.medicare.tax.png)
 
-### Quarterly Summary of Earning Records
+### Quarterly Payout of Earning Records
 
+- Payout to Fed.Taxes Withheld
+  
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/7.ledger.example.taxes.payable.png)
 
 
