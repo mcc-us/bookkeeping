@@ -8,12 +8,14 @@ title: 11-Payroll Taxes
 ## Payroll Tax Expense & Liability Accounts
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
-Payroll~ Tax~ Expense \\
-\end{bmatrix}} = \frac{Liabilities}{\begin{bmatrix}
-S. S.~ Tax~ Payable \\
-Medicare~ Tax~ Payable \\
-Employee~ Income~ Tax~ Payable \\
-\end{bmatrix}} + Equity + Revenue$$
+                           Payroll~ Tax~ Expense \\
+                           \end{bmatrix}} 
+= \frac{Liabilities}{\begin{bmatrix}
+                     S. S.~ Tax~ Payable \\
+                     Medicare~ Tax~ Payable \\
+                     Employee~ Income~ Tax~ Payable \\
+                     \end{bmatrix}} 
+ + Equity + Revenue$$
 
 
 
@@ -133,6 +135,10 @@ Too much info
 
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
+
+### Workman's Compensation
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/workmans.comp.exp.payable.png)
 
 
 ## Section 2
