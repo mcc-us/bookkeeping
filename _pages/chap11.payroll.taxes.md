@@ -104,15 +104,31 @@ Too much info
 
 ![Problem 1](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
+<<<<<<< HEAD
 ![Problem 2](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
+=======
+---
 
-![940 form](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
+>>>>>>> refs/remotes/origin/main
 
+---
+
+<<<<<<< HEAD
 ![Problem 4](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
 
 ![Problem 5](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.5.futa.png)
 
 ![Problem 6](/assets/mc-graw-accounting-course/chap11.payroll.taxes/)
+=======
+![940 form-problem 3](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
+
+---
+
+![940 form-problem 4](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
+
+---
+>>>>>>> refs/remotes/origin/main
 
 ### 941 - Employer’s Quarterly Federal Tax Return
 
@@ -133,6 +149,9 @@ Too much info
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/w2.copies.made.png)
 
+
+![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
+
 ---
 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/11.quarters.png)
@@ -142,8 +161,7 @@ Too much info
 
 - Transmittal of Wage and Tax Statements, Form W-3 - Preprinted government form submitted with Forms W2 to the Social Security Administration
 
-
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/12.w2.form.requirements.png)
+---
 
 ### Workman's Compensation
 
