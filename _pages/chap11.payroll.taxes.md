@@ -102,15 +102,17 @@ Too much info
 
 ---
 
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
+![Problem 1](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.1.png)
 
-![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
+![Problem 2](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.2.wages.table.png)
 
 ![940 form](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.3.940.form.png)
 
-![940 form](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
+![Problem 4](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.4.png)
 
+![Problem 5](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.5.futa.png)
 
+![Problem 6](/assets/mc-graw-accounting-course/chap11.payroll.taxes/)
 
 ### 941 - Employer’s Quarterly Federal Tax Return
 
