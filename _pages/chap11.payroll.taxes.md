@@ -122,7 +122,7 @@ Too much info
 
 ---
 
-![Problem 6](/assets/mc-graw-accounting-course/chap11.payroll.taxes/)
+![Problem 6](/assets/mc-graw-accounting-course/chap11.payroll.taxes/chap11.prob.6.png)
 
 ---
 
