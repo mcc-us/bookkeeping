@@ -29,9 +29,9 @@ Objectives:
 
 
 > Dr Income Summary **Initial merchandise value**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  (Zeros out initial merch. value)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  (*Zeros out initial merch. value*)  
 >   
-> Dr Merchandise Inventory **Final merchandise value**  (Sets final merch. value)
+> Dr Merchandise Inventory **Final merchandise value**  (*Sets final merch. value*)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final initial merchandise value**   
 {: .block-tip }   
 
