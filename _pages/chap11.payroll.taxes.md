@@ -209,10 +209,14 @@ Too much info
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/14.w3.info.png)
 
 
+#### irs pub15 cirE Employers tax guide pdf
 
+<div class="pdf-container">
+    <iframe src="/assets/misc/irs.pub15.cirE.Employers.tax guide.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    </iframe>
+</div>
 
 <!--
-
 ---
 
 # NOT NEEDED
