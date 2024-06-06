@@ -7,12 +7,10 @@ title: 12-Accruals, Deferrals, & the Worksheet
 Objectives:
 
 1. Re-hash 10-column worksheet.
-2. Make adjustment for merchandise inventory
-3. Make adjustments for accrued & prepaid expense items
-4. Make adjustments for accrued & deferred income items
+2. Make adjustment for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
 
 
-## Accurual Definitions
+## Accrual Definitions
 
 - **Revenue** is recognized when earned, not necessarily when the cash is received. 
 - **Revenue** is recognized when the sale is completed. 
@@ -59,7 +57,7 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
 {: .block-tip }   
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.3.png)
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.3.png)
 
 
 <!--
