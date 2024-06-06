@@ -73,11 +73,8 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable X1 {6.2%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable X2 {1.45%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr FUTA Payable X3  {0.6%}  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {?%}  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {State rate%}  
 {: .block-tip }   
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/accrued.payroll.taxes.png)
-
 
 
 ## Discussion Questions
@@ -95,18 +92,19 @@ Objectives:
 7. What adjustment is made for depreciation on office equipment?
 8. What is an accrued expense? Give three examples of items that often become accrued expenses.
 9. What adjustment is made to record accrued salaries?
-1. What is a prepaid expense? Give three examples of prepaid expense items.
-1. How is the cost of an insurance policy recorded when the policy is purchased?
-1. What adjustment is made to record expired insurance?
-1. What is the alternative method of handling prepaid expenses?
-1. What is accrued income? Give an example of an item that might produce accrued income.
-1. What adjustment is made for accrued interest on a note receivable?
-1. 1. What is unearned income? Give two examples of items that would be classified as unearned income.
-1. How is unearned income recorded when it is received?
-1. What adjustment is made to record income earned during a period?
-1. What is the alternative method of handling unearned income?
-1. Unearned Fees Income is classified as which type of account?
-1. ow does the worksheet help the accountant to prepare financial statements more efficiently?1. 
+10. What is a prepaid expense? Give three examples of prepaid expense items.
+11. How is the cost of an insurance policy recorded when the policy is purchased?
+12. What adjustment is made to record expired insurance?
+13. What is the alternative method of handling prepaid expenses?
+14. What is accrued income? Give an example of an item that might produce accrued income.
+15. What adjustment is made for accrued interest on a note receivable?
+16. What is unearned income? Give two examples of items that would be classified as unearned income.
+17. How is unearned income recorded when it is received?
+18. What adjustment is made to record income earned during a period?
+19. What is the alternative method of handling unearned income?
+20. Unearned Fees Income is classified as which type of account?
+21. How does the worksheet help the accountant to prepare financial statements more efficiently?
+
 
 ---
 
@@ -144,7 +142,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
 
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/3.accrual.act.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/4.fed.state.employee.accrued.tax.png)
 
