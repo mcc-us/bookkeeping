@@ -7,6 +7,7 @@ title: NORMAL BALANCES
 - CA:  A contra-asset reduces the value of another asset account, the asset being A/R.
 - CR:  a contra-revenue account (or contra-sales) offsets a revenue/sales account.
   - Sales discounts, Sales returns & allowances are contra revenue account.
+- **Income Summary** is a temp Owner's Equity act
 
 | Dr | Cr |
 |:-|:-|
