@@ -7,7 +7,7 @@ title: 12-Accruals, Deferrals, & the Worksheet
 Objectives:
 
 1. Re-hash 10-column worksheet.
-2. Make adjustment for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
+2. Make adjustments for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
 
 
 ## Accrual Definitions
@@ -78,16 +78,17 @@ Objectives:
 
 ## Accrued Interest on Notes Payable
 
-Simple Interest = PRT
+Simple Interest = PRT    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = Principle x Interest Rate x Time
 
-Compounding Interest = P(1 + (R/n))^nT
-n = Periods
+Compounding Interest = P(1 + (R/n))^nT    
+n = Periods   
 
-> Dr Interest Exp. **Y**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**  
+> Dr Interest Exp. **Y**    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**   
+{: .block-tip }  
 
-## Discussion Questions
+## Discussion Questions   
 
 1. What adjustment is made to record the estimated expense for uncollectible accounts?
 2. When a specific account receivable is deemed uncollectible, it is written off by debiting and crediting ____.
