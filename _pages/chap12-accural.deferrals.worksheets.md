@@ -179,10 +179,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 
 - Unearned Income: This is a liability created when you receive payment in advance for a service not yet performed.  Imagine receiving a payment for a magazine subscription that starts next month. You have a liability (unearned income) until you deliver the service (magazines) over time.
 
-
----
-
-
----
-
 ![](/assets/mc-graw-accounting-course/chap12-accurals/8.over.all.review.png)
+
+EOF
