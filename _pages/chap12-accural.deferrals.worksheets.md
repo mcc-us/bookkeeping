@@ -78,8 +78,11 @@ Objectives:
 
 ## Accrued Interest on Notes Payable
 
-Interest = PIT
+Simple Interest = PRT
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = Principle x Interest Rate x Time
+
+Compounding Interest = P(1 + (R/n))^nT
+n = Periods
 
 > Dr Interest Exp. **Y**   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**  
