@@ -101,6 +101,19 @@ n = Periods
 ![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 
 
+## Unearned Income - Publishing Subscription Example
+
+
+> Dr Cash **1000**    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
+{: .block-tip }  
+
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
+
+
+
+
 ## Discussion Questions   
 
 1. What adjustment is made to record the estimated expense for uncollectible accounts?
@@ -162,9 +175,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 
 ---
 
-
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
 
 ---
 
