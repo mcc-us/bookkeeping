@@ -108,6 +108,13 @@ n = Periods
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
 {: .block-tip }  
 
+**Followed By**
+
+> Dr Unearned Subscription Income **750** (Liability account)   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**   
+{: .block-tip }  
+
+- Leaves a balance of $250 for `Unearned Subscription Income`.
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
 
