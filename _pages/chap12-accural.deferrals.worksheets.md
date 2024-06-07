@@ -90,9 +90,13 @@ n = Periods
 
 ## Supplies & Supplies Expense
 
-> Dr Supplies Expense **Y**    
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **X**   
+- Initial Balance = **6300**
+
+> Dr Supplies Expense **4975**    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **4975**   
 {: .block-tip }  
+
+- Final Balance = **1325**  
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 
