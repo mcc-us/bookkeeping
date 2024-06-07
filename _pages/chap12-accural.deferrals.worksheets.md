@@ -76,6 +76,13 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {State rate%}  
 {: .block-tip }   
 
+## Accrued Interest on Notes Payable
+
+Interest = PIT
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = Principle x Interest Rate x Time
+
+> Dr Interest Exp. **Y**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**  
 
 ## Discussion Questions
 
@@ -141,9 +148,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 
 Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
 
-
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/4.fed.state.employee.accrued.tax.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/5.accrued.interest.on.notes.payable.png)
 
