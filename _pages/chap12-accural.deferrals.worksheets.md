@@ -152,12 +152,6 @@ n = Periods
 
 ---
 
-Unearned Rev/Deferred Rev/Deferred Income
-https://www.accountingverse.com/accounting-basics/unearned-revenue.html
-
-
----
-
 ### Comprehensive Self Review
 
 1. Why is the accrual basis of accounting usually preferred?  
