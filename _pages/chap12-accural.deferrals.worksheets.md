@@ -88,6 +88,15 @@ n = Periods
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**   
 {: .block-tip }  
 
+## Supplies & Supplies Expense
+
+> Dr Supplies Expense **Y**    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **X**   
+{: .block-tip }  
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
+
+
 ## Discussion Questions   
 
 1. What adjustment is made to record the estimated expense for uncollectible accounts?
@@ -150,8 +159,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 ---
 
 
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
 
