@@ -149,10 +149,6 @@ Prepaid assets and both accrued income and unearned income involve payments made
 ---
 
 
-Accrual basis - A system of accounting by which all revenues and expenses are matched and reported on financial statements for the applicable period, regardless of when the cash related to the transaction is received or paid
-
-
-![](/assets/mc-graw-accounting-course/chap12-accurals/5.accrued.interest.on.notes.payable.png)
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 
