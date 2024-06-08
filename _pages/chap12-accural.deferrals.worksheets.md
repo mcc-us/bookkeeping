@@ -88,6 +88,9 @@ n = Periods
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**   
 {: .block-tip }  
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
+
+
 ## Supplies & Supplies Expense
 
 - Initial Balance = **6300**
@@ -111,7 +114,7 @@ n = Periods
 **Followed By**
 
 > Dr Unearned Subscription Income **750** (Liability account)   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**  (Revenue account)  
 {: .block-tip }  
 
 - Leaves a balance of $250 for `Unearned Subscription Income`.
