@@ -92,7 +92,7 @@ n = Periods
 - Initial Balance = **6300**
 
 > Dr Supplies Expense **4975**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **4975**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4975**   
 {: .block-tip }  
 
 - Final Balance = **1325**  
