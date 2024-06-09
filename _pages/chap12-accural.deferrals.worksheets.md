@@ -22,11 +22,11 @@ Objectives:
 
 ## Merchandise Inventory
 
-> Dr Income Summary **Initial merchandise value**
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)  
+> Dr Income Summary **Initial merchandise value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)    
 > 
-> Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**
+> Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)    
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**  
 {: .block-tip }
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
@@ -49,8 +49,8 @@ Objectives:
 
 - Adjusting for un-payable accounts receivable
   
-> Dr Uncollectible Act Exp **Final Value**
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**
+> Dr Uncollectible Act Exp **Final Value**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
 {: .block-tip }
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.3.png)
@@ -77,8 +77,8 @@ Simple Interest = PRT = Principle x Interest Rate x Time
 Compounding Interest = P(1 + (R/n))^nT
 n = Periods
 
-> Dr Interest Exp. **Y**
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**
+> Dr Interest Exp. **Y**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**   
 {: .block-tip }  
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
