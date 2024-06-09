@@ -83,7 +83,7 @@ n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.6.png)
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/)
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.7.jpg)
 
 ## Supplies & Supplies Expense
 
