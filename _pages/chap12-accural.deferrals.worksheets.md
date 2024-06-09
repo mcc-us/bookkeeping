@@ -1,14 +1,12 @@
 ---
 layout: post
-title: 12-Accruals, Deferrals, & the Worksheet
+title: 12-Accruals, Deferrals
 --- 
 
 
 Objectives:
 
-1. Re-hash 10-column worksheet.
-2. Make adjustments for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
-
+1. Make adjustments for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
 
 ## Accrual Accounting Definitions
 
@@ -126,6 +124,7 @@ n = Periods
 ## Discussion Questions   
 
 1. What adjustment is made to record the estimated expense for uncollectible accounts?
+   1. See: Uncollectible Act Exp & Allowance for Doubtful Acts [Uncollectible Act Exp & Allowance for Doubtful Acts](#Uncollectible-Act-Exp-&-Allowance-for-Doubtful-Acts)
 2. When a specific account receivable is deemed uncollectible, it is written off by debiting and crediting ____.
 3. Income Summary amounts are extended to which statement columns on the worksheet?
 4. Why is depreciation recorded?
@@ -137,7 +136,7 @@ n = Periods
     - Straight-line method
 7. What adjustment is made for depreciation on office equipment?
 8. What is an accrued expense? Give three examples of items that often become accrued expenses.
-9. What adjustment is made to record accrued salaries?
+9.  What adjustment is made to record accrued salaries?
 10. What is a prepaid expense? Give three examples of prepaid expense items.
 11. How is the cost of an insurance policy recorded when the policy is purchased?
 12. What adjustment is made to record expired insurance?

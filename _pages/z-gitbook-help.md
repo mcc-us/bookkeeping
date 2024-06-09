@@ -39,10 +39,6 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 {: .block-tip }
 ```
 
-> #### yellow warning
->
-> yellow warning
-{: .block-warning }
 
 ```
 > #### yellow warning
@@ -51,10 +47,6 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 {: .block-warning }
 ```
 
-> #### red danger
-> 
-> red danger
-{: .block-danger }
 
 ```
 > #### red danger
