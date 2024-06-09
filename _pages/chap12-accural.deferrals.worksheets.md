@@ -81,6 +81,10 @@ n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
 
+![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.6.png)
+
+![](/assets/mc-graw-accounting-course/chap12-accurals/)
+
 ## Supplies & Supplies Expense
 
 - Initial Balance = **6300**
@@ -99,7 +103,7 @@ n = Periods
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
 {: .block-tip }  
 
-### Followed By
+*Followed By*
 
 > Dr Unearned Subscription Income **750** (Liability account)
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**  (Revenue account)  
@@ -137,7 +141,7 @@ n = Periods
 
 8. What is an accrued expense? Give three examples of items that often become accrued expenses.
 
-9.  What adjustment is made to record accrued salaries?
+9. What adjustment is made to record accrued salaries?
 
 10. What is a prepaid expense? Give three examples of prepaid expense items.
 
