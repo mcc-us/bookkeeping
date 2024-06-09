@@ -47,6 +47,8 @@ Objectives:
 
 ## Uncollectible Act Exp To Allowance for Doubtful Acts
 
+- Adjusting for un-payable accounts receivable
+  
 > Dr Uncollectible Act Exp **Final Value**
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**
 {: .block-tip }
@@ -85,12 +87,12 @@ n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.7.jpg)
 
-## Supplies & Supplies Expense
+## Adjusting Supplies & Expense
 
 - Initial Balance = **6300**
 
-> Dr Supplies Expense **4975**
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **4975**
+> Dr Supplies Expense **4975**   
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies **4975**   
 {: .block-tip }  
 
 - Final Balance = **1325**  
