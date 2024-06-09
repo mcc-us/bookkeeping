@@ -22,10 +22,10 @@ Objectives:
 
 ## Merchandise Inventory
 
-> Dr Income Summary **Initial merchandise value**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)    
+> Dr Income Summary **Initial merchandise value**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)  
 > 
-> Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)    
+> Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**  
 {: .block-tip }
 
@@ -48,9 +48,10 @@ Objectives:
 ## Uncollectible Act Exp To Allowance for Doubtful Acts
 
 - Adjusting for un-payable accounts receivable
+- Usually the allowance is a percentage of the total sales based on past experience.
   
-> Dr Uncollectible Act Exp **Final Value**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Initial merchandise value**   
+> Dr Uncollectible Act Exp **Value**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Allowance for Doubtful Acts. **Value**  
 {: .block-tip }
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.3.png)
@@ -63,7 +64,7 @@ Objectives:
 
 ## Accrued Payroll Taxes
 
-> Dr Payroll Tax Exp. **Total Tax Exp**
+> Dr Payroll Tax Exp. **Total Tax Exp**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable X1 {6.2%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable X2 {1.45%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr FUTA Payable X3  {0.6%}  
@@ -77,8 +78,8 @@ Simple Interest = PRT = Principle x Interest Rate x Time
 Compounding Interest = P(1 + (R/n))^nT
 n = Periods
 
-> Dr Interest Exp. **Y**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**   
+> Dr Interest Exp. **Y**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**  
 {: .block-tip }  
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
@@ -91,8 +92,8 @@ n = Periods
 
 - Initial Balance = **6300**
 
-> Dr Supplies Expense **4975**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4975**   
+> Dr Supplies Expense **4975**  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4975**  
 {: .block-tip }  
 
 - Final Balance = **1325**  
@@ -101,13 +102,13 @@ n = Periods
 
 ## Unearned Income - Publishing Subscription Example
 
-> Dr Cash **1000**
+> Dr Cash **1000**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
 {: .block-tip }  
 
 *Followed By*
 
-> Dr Unearned Subscription Income **750** (Liability account)
+> Dr Unearned Subscription Income **750** (Liability account)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**  (Revenue account)  
 {: .block-tip }  
 
