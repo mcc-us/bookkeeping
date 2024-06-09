@@ -94,7 +94,7 @@ title: MC-Glossary
 
 44. *Doubling error*: occurs when a transaction is entered twice, for example, a credit balance in the debit column.   
 
-45. *Drawing Account*: An account recording equitt withdrawals from the business  
+45. *Drawing Account*: An account recording equity withdrawals from the business  
 
 46. *Equity*: synonyms   
     1. Ownership interest   
@@ -107,7 +107,7 @@ title: MC-Glossary
 
 48. *Declining Book Value*: Each year's depreciation expense is calculated based on the asset's remaining book value at the beginning of that year, resulting in decreasing depreciation amounts over time.
 
-49. *Depreciable base* = Asset fixed value minus salavage value  
+49. *Depreciable base* = Asset fixed value minus salvage value  
     
 50. *Depreciation*: The systematic allocation of an asset's cost over its useful life to an expense. **Spreads the cost of an asset over time**.
 
@@ -244,8 +244,8 @@ title: MC-Glossary
 114. *Transportation In account*: Similar to the Freight In account, this account is used to record the cost of transporting goods sold from the seller's location to the buyer's location.
 
 115. *Quick Assets*:   
-    1. **Q.A. = TCA - Inventory - PE**, TCA = Total current assets, PE = Prepaid expenses​   
-    2. **Q.A. = Cash + CE + MS + NAR**, CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​   
+    1. **Q.A. = TCA - Inventory - PE**, TCA = Total current assets, PE = Prepaid expenses​
+    2. **Q.A. = Cash + CE + MS + NAR**, CE = Cash equivalents, MS = Marketable securities, NAR = Net accounts receivable​
 
 116. *Quick Ratio*: describes the ability to meet short-term obligations using "quick" to liquidate assets, Q.R. > 1.0.<br>$$Q.R. = \Large \frac{Current~ Assets~ - ~Inventory~ - Prepaid~ Exp}{Current~ Liabilities}$$   
 
@@ -283,7 +283,7 @@ title: MC-Glossary
 
 133. *Trial Balance*: A list of transactions and accounts after posting entries, **Debits MUST EQUAL Credits**. 
 
-134. *Unearned Revenue*: Money payed for services yet to be rendered. For exampl, 
+134. *Unearned Revenue*: Money payed for services yet to be rendered. For example, 
     1.  Prepaid rent: rent payed in advance for several months,  
     2.  Tuition fees: When a student pays tuition for a semester before classes begin,  
     3.  Advance payment for services: When a client pays a consultant or contractor upfront for a project not yet completed.

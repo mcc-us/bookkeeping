@@ -10,7 +10,7 @@ Objectives:
 2. Make adjustments for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
 
 
-## Accrual Definitions
+## Accrual Accounting Definitions
 
 - **Revenue** is recognized when earned, not necessarily when the cash is received. 
 - **Revenue** is recognized when the sale is completed. 
@@ -23,14 +23,14 @@ Objectives:
 **This is referred to as matching revenues and expenses.**
 
 
-## Merchandise/Sales/Purchases
+## Merchandise Inventory
 
 
 > Dr Income Summary **Initial merchandise value**   
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  (*Zeros out initial merch. value*)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)  
 >   
-> Dr Merchandise Inventory **Final merchandise value**  (*Sets final merch. value*)  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final initial merchandise value**   
+> Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**   
 {: .block-tip }   
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.exer.merch.2.is.2.merch.png)
@@ -73,13 +73,12 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable X1 {6.2%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Medicare Tax Payable X2 {1.45%}  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr FUTA Payable X3  {0.6%}  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {State rate%}  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {State % rate}  
 {: .block-tip }   
 
 ## Accrued Interest on Notes Payable
 
-Simple Interest = PRT    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = Principle x Interest Rate x Time
+Simple Interest = PRT = Principle x Interest Rate x Time
 
 Compounding Interest = P(1 + (R/n))^nT    
 n = Periods   
@@ -111,7 +110,7 @@ n = Periods
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
 {: .block-tip }  
 
-**Followed By**
+### Followed By
 
 > Dr Unearned Subscription Income **750** (Liability account)   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Subscription Income **750**  (Revenue account)  

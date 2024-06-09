@@ -9,21 +9,23 @@ title: FINANCIAL RATIOS
 1. **Net Sales** :one: = Total Sales - (Returns/Allowances) - (Purchase Discounts)<br>
    - a.k.a. Operating Revenue<br><br>   
    
-2. **Net Delivered Cost of Purchases** :two: = Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts<br><br>
+2. **Net Delivered Cost of Purchases** :two: = Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)<br><br>
 
-3. **Operating Profit** = Revenue(Sales + Fees Earned) - Expenses<br><br>
+3. **Operating Profit** = Revenue{Sales + Fees Earned} - Expenses<br><br>
 
 4. **Cost of Goods Sold** :three: = Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)<br><br>
 
 5. **Gross Profit of Sales** :four: = Net Sales :one:  - (COGS :three:)<br><br>
 
-6.  **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$  The ratio of gross profit to each dollar of sales<br><br>   
+6.  **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$ : The ratio of gross profit to each dollar of sales<br><br>   
     
 7.  **Operating Expenses** :eight: = Expenses incurred during sales + Gen. Administrative Exp
     - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.<br><br>
 
 8.  **Net Income/Loss from Operations** :five: = Gross Profit on Sales :four:  - (Total Operating Exp :eight:)
     - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'<br><br>
+
+9. **Depreciable base** = Asset fixed value minus salvage value
 
 9.  **Book Value** = Asset - Accumulated Depreciation<br><br>
 
