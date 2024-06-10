@@ -117,7 +117,12 @@ where n = Periods
 
 - Leaves a balance of $250 for `Unearned Subscription Income`.
 
-![](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
+![Publishing example](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
+
+## Full Worksheet Example
+
+![Full Worksheet Example](/assets/mc-graw-accounting-course/chap12-accurals/chap12.prob.4.worksheet.png)
+
 
 ## Discussion Questions
 
@@ -188,7 +193,7 @@ where n = Periods
    - Unearned income is money received but not yet earned, like advance payment for a future service.
    - Both affect your financial statements, but at different stages of the transaction cycle.
 
-Prepaid assets and both accrued income and unearned income involve payments made in advance, but for different reasons:
+- Prepaid assets and both accrued income and unearned income involve payments made in advance, but for different reasons:
 
 - Prepaid Assets: These are payments made for goods or services yet to be received.  For example, prepaying rent creates a prepaid asset account as you've paid for future occupancy.
 
