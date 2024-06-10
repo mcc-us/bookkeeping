@@ -75,9 +75,7 @@ Objectives:
 
 Simple Interest = PRT = Principle x Interest Rate x Time
 
-Compounding Interest = P(1 + (R/n))^nT ; where n = Periods
-
-$$\Large P(1 + \frac{R}{n})^{nT}$$
+Compounding Interest = $\Large P(1 + \frac{R}{n})^{nT}$
 
 where n = Periods
 
