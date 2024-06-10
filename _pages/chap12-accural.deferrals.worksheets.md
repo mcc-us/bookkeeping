@@ -62,7 +62,7 @@ Objectives:
 ![](/assets/mc-graw-accounting-course/chap12-accurals/doubtuful.acts.png)
 -->
 
-## Accrued Payroll Taxes
+## Payroll Taxes, Accrued
 
 > Dr Payroll Tax Exp. **Total Tax Exp**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr S.S. Tax Payable X1 {6.2%}  
