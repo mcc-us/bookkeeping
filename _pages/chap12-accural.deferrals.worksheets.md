@@ -115,10 +115,11 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![Publishing example](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
 
-## Full Worksheet Example
+## Worksheet Example, FULL
 
 ![Full Worksheet Example](/assets/mc-graw-accounting-course/chap12-accurals/chap12.prob.4.worksheet.png)
 
+---
 
 ## Discussion Questions
 
@@ -176,7 +177,7 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ---
 
-### Comprehensive Self Review
+## Comprehensive Review
 
 1. Why is the accrual basis of accounting usually preferred?  
    - Accrual basis accounting is preferred because it provides a more accurate picture of a company's financials.
@@ -184,7 +185,7 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
    - It allows for better matching of revenue and expenses in the period they relate to.
    - It enables a better understanding of a company's obligations and accounts receivable.
 
-2. How, does “accrued income” differ from “unearned income”?
+2. How, does *accrued income* differ from *unearned income*?
    - Accrued income is money earned but not yet received, like services rendered on credit.
    - Unearned income is money received but not yet earned, like advance payment for a future service.
    - Both affect your financial statements, but at different stages of the transaction cycle.
