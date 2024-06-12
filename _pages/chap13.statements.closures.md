@@ -9,10 +9,17 @@ title: 13-Financial Statements & Closing Procedures
 
 ---
 
+## Classified Categories
+
+![Classified Categories](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.1.classifieds.png)
+
+![Classified Categories2](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.2.classifieds.png)
 
 ## Classified Income Statement
 
 ![Income Statement](/assets/mc-graw-accounting-course/chap13-fin.statements/total_IS.png)
+
+![Income Statement](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.3.classifieds.png)
 
 ## Statement of Equity
 
