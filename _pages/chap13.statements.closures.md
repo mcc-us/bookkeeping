@@ -74,6 +74,8 @@ Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
 
 **Example**  
 
+![ID.reversing.entries](/assets/mc-graw-accounting-course/chap13-fin.statements/ID.reversing.entries.png)
+
 **12/31/2023**: You have determined that your company's employees have accrued $5,000 in wages payable to date. However, payday is not until next week(period).
 
 First, let's journal/post transaction;
