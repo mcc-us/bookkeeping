@@ -90,7 +90,7 @@ OR
 
 3. **Financial Leverage Ratio** = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
 
-4. Debt-to-Equity Ratio = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
+4. **Debt-to-Equity Ratio** = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
 
 5. **Debt-to-EBITDA Ratio** = $\Large\frac{Total~ Debt}{EBITDA}$   
 
