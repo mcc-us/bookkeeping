@@ -16,7 +16,7 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 ![List of Actions](/assets/calvin.lee.udemy/QBO-adding-new.png)
 
 
-## Section 2: Using QBO 
+## Section 2: Using QBO
 
 The Chart of Accounts: adding accounts in QBO
 
@@ -28,7 +28,7 @@ The Chart of Accounts: adding accounts in QBO
 1. Access reports such as the Profit & Loss Statement:
    - On the left panel, select Reports>Reports
 
-## Section 3: Customers: 
+## Section 3: Customers
 
 > Set up Invoices, Estimates, Get Paid, Adjustments to invoices, Receipt of payments, Sales receipts
 {: .block-tip }
@@ -98,7 +98,7 @@ The Chart of Accounts: adding accounts in QBO
 
 4. Bank Feed - Matching Bank Transactions:
    - Bank Transactions>Goto Category or Match>Choose transaction>Match
-   
+
 5. receipt.forwarding.ex
 
 ![receipt.forwarding.ex](/assets/calvin.lee.udemy/receipt.forwarding.ex.png)
@@ -113,7 +113,6 @@ The Chart of Accounts: adding accounts in QBO
    
 1. Running Payroll in QBO
    - On the left panel, select Payroll/Employees/Run Payroll (On Right), and pay by paper check or direct deposit.
-
 
 ## Section 7 TAXES
 
@@ -131,8 +130,8 @@ The Chart of Accounts: adding accounts in QBO
    - On top right <+New>/Customer/Invoice/add info/
 
 32. Recording sales tax in an expense transaction
-   -  On the left panel, select <New>/Vendors/Expense/{New window}/Select Payee/Payment act./Select Act. category/from Cat. details/amount/Is tax applicable?/Select Product service or item/Add notes/Attach contract or quote, etc./Save 
-   
+   -  On the left panel, select <New>/Vendors/Expense/{New window}/Select Payee/Payment act./Select Act. category/from Cat. details/amount/Is tax applicable?/Select Product service or item/Add notes/Attach contract or quote, etc./Save
+
 33. Sales Tax Summary report, how to find taxable sales
    - On left side click Reports/{you can use search box, example taxable}/Choose taxable sales summary or detail/
    - It is possible to drill down into details by clicking any sales item.
@@ -150,7 +149,7 @@ The Chart of Accounts: adding accounts in QBO
 ### Section 8: Examples & Practice: Sales & Customers
 
 
-36. Injecting capital (money) to start a company:
+36. Injecting capital (money) to start a company:  
    - DR Asset/bank account and then CR to Equity act
    - On top right <+New>/Journal entry/Choose line #1/Bank act checking or savings/Add description/Save & close.
    - To follow up goto Chart of Acts & check for DR. as well as a CR for 'Share Capital'
