@@ -100,5 +100,5 @@ Step 4. Transfer Drawing to Capital
 - All transaction details, journal entries, & supporting documents are securely stored for future reference & potential audits.
 
 > #### NOTE: 
-> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but understanding the underlying concepts remains crucial.*
+> *This is a general overview, & specific details or steps might vary depending on the business size, complexity, & industry practices. Additionally, software can automate much of this process, but understanding the underlying concepts remains is crucial.*
 {: .block-tip }
