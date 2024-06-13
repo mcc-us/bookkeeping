@@ -12,18 +12,18 @@ title: NORMAL BALANCES
 | Dr | Cr |
 |:-|:-|
 |**Assets + Expenses**|**Liabilities + Equity + Revenue**|
-|Cash(A)|Fees Income, Sales(R)| 
+|Cash(A)|Fees Income, Sales(R)|
 |Merchandise Inventory(A)|Interest Revenue(R)|
 |Equipment(A)|Notes Payable(L)|
+||Accumulated Depreciation(CA)|
 |Accounts Receivable(A)|Accounts Payable(L)|
 |Supplies(A)||
 |Supplies Expenses(Ex)||
 |Prepaid Expenses(A)<br>{*Ex. Insurance, Rent, Supplies*}|Accrued Revenue(L)|
-|Utility Expenses(Ex)<br>{*Ex. Rent, Telephone, Electric, Heating*}|Deferred Revenue(L)|
+|Utility Expenses(Ex)<br>{*Ex. Electric, Heating*}|Deferred Revenue(L)|
 |Accrued Expenses(Ex)|Unearned Revenue(L)|
 |Uncollectible Accounts Expense(Ex)<br>{*aka. Bad Debt Expense*}|Allowance of Doubtful Act(CA)<br>{*aka ADA, contra-A/R*}|
 |**Depreciation Expense(Ex)**<br>{*Ex. Equipment, Vehicles, Office Equip.*}||
-||Accumulated Depreciation(CA)|
 ||**Equity(Eq)**|
 |Drawings(Eq)|Capital(Eq)|
 |**Petty Cash(A)**||
@@ -33,10 +33,10 @@ title: NORMAL BALANCES
 |Sales Returns & Allowances(CR)||
 |Credit Card Expense(Ex)||
 |**Purchases(Ex)**||
-|Freight Charges(Ex)|Cash Discount(CE)|
+|Freight-in Charges(Ex)|Cash Discount(CE)|
 |Cost of Goods(Ex)|Purchase Discounts(CE)|
 ||Purchase Returns & Allowances(CE)|
-|Payroll Expenses(Ex)|*NOTE:Payroll Deductions are Liabilities*|
+|Payroll Expenses(Ex)<br>*NOTE:Payroll Deductions are Liabilities*||
 |Wages & Salaries(Ex)|S.S. Tax Payable(L)|
 |Payroll Tax Expense(Ex)|Employee Fed. Income Tax Payable(L)|
 ||Medicare Tax Payable(L)|
