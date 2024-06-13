@@ -56,7 +56,11 @@ Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
 
 4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.  
 
+---
 
+Calculations
+
+![Post-Closing Balance Sheet](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.ex.10.calculations.png)
 
 
 ---
