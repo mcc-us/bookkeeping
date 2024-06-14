@@ -3,7 +3,9 @@ layout: post
 title: 4 Financial Statements
 ---
 
-**Common Procedure for Financial Statements:**
+**Common Procedure for Financial Statements:**  
+
+(*Chapter 2*)  
 
 - [1. Income Statement](#1-income-statement)
 - [2. Statement of Equity](#2-statement-of-equity)
@@ -20,10 +22,10 @@ title: 4 Financial Statements
 The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
 
 > Net Income/Loss = Revenue - Expenses  
-{: .block-tip }
+{: .block-tip }  
 
-**WHO:** The Shuttle Ride Company   
-**WHAT:** Income Statement   
+**WHO:** The Shuttle Ride Company  
+**WHAT:** Income Statement  
 **WHEN:** For the Year Ending Dec. 31, 2024
 
 | Act | Amount | Total |
@@ -37,22 +39,22 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
 **Steps**   
-1. 3 columns; **Act, Amount, Total**      
-2. List **Revenues, Expenses**   
-3. Total & Calculate Net   
+1. 3 columns; **Act, Amount, Total**  
+2. List **Revenues, Expenses**  
+3. Total & Calculate Net  
 4. Double underline 'bottom line' or Net  
 
 > Do Not include Drawings with Income Statement
 {: .block-danger }
 
-> Reports NEED:   
-> Who, What, When: Time Period   
-{: .block-tip }
+> Reports NEED:  
+> Who, What, When: Time Period  
+{: .block-tip }  
 
 > Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
-{: .block-tip }
+{: .block-tip }  
 
-*Income Statements: Display Revenues & Expenses alphabetically.*
+*Income Statements: Display Revenues & Expenses alphabetically.*  
 
 ---
 
@@ -60,9 +62,9 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 2. Statement of Equity
 
 
-> **Equity** =   
-> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals
-{: .block-tip }
+> **Equity** =  
+> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals  
+{: .block-tip }  
 
 |**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *For the Year Ending 12/31/24*|
 |:-|
@@ -77,20 +79,19 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 |4.  +/- Common shares bought/sold|
 |5. SUBTRACT: Dividends & Drawings (Owner Withdrawals)|
 
-
-> Reports NEED: Who, What, When: Time Period
-{: .block-tip }
+> Reports NEED: Who, What, When: Time Period  
+{: .block-tip }  
 
 **Alternative Names**
 
-1. Statement of Shareholders' Equity   
-2. Changes in Shareholders' Equity   
+1. Statement of Shareholders' Equity  
+2. Changes in Shareholders' Equity  
 3. Shareholders' Equity Movement  
-4. Statement of Equity   
-5. Owners' Equity Statement: In smaller businesses with sole ownership, this term replaces "Shareholders'" to reflect the specific ownership structure.   
-6. Equity and Liabilities Statement: A less common variation combines this statement with the "Statement of Liabilities and Shareholders' Equity" into a single report.   
-7. Condensed Statement of Changes in Shareholders' Equity   
-8. Schedule of Changes in Shareholders' Equity   
+4. Statement of Equity  
+5. Owners' Equity Statement: In smaller businesses with sole ownership, this term replaces "Shareholders'" to reflect the specific ownership structure.  
+6. Equity and Liabilities Statement: A less common variation combines this statement with the "Statement of Liabilities and Shareholders' Equity" into a single report.  
+7. Condensed Statement of Changes in Shareholders' Equity  
+8. Schedule of Changes in Shareholders' Equity  
    
 - Find an example at Tony Bell @ accountingworkbook.com or Youtube
 
@@ -101,29 +102,31 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 3A. Trial Balances
 
 
-**Purpose:**    
-- Trial balances promote accuracy,   
-- Identify potential issues,   
+**Purpose:**  
+
+- Trial balances promote accuracy,  
+- Identify potential issues,  
 - Facilitate financial statement preparation,  
-- Serve as an internal control.   
+- Serve as an internal control.  
 - More [Info](https://mcc-us.github.io/2024-01-29-trial-bal-v-bal-sheet.html)
 
 **4 Steps**
 
-1. Enter the general ledger account names.   
+1. Enter the general ledger account names.  
    - Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
 
-2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.   
+2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.  
 
-3. Determine IF trial balance is in balance by totaling the Debit and Credit columns.   
+3. Determine IF trial balance is in balance by totaling the Debit and Credit columns.  
 
-4. Double underscore Trial Balance columns to show that the work in that column is complete.   
+4. Double underscore Trial Balance columns to show that the work in that column is complete.  
 
 **NOTE: Trial Balance adds 4 accounts**:  
+
 1. Accumulated Depreciation—Equipment,  
 2. Supplies Expense,  
 3. Rent Expense,  
-4. Depreciation Expense—Equipment.     
+4. Depreciation Expense—Equipment.  
 
 |Example Trial Balance|
 |:-:|
@@ -135,24 +138,24 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 3B. Balance Sheet
 
 
-> **A = L + E**:<br>
-> Asset = Liabilities + Equity
-{: .block-tip }
+> **A = L + E**:<br>  
+> Asset = Liabilities + Equity  
+{: .block-tip }  
 
 1. Display Current Assets & Long-term Assets  
-2. Display Current Liabilities & Long-term Liabilities   
+2. Display Current Liabilities & Long-term Liabilities  
 3. Include Equity from Statement of Equity  
 
-> Include Drawings PRE-CLOSING
-{: .block-tip }
+> Include Drawings PRE-CLOSING  
+{: .block-tip }  
 
-> Expenses NOT Included
-{: .block-danger }
+> Expenses NOT Included  
+{: .block-danger }  
 
 **Example Report**
 
-> Reports NEED: Who, What, When (On Day / Date Time)
-{: .block-tip }
+> Reports NEED: Who, What, When (On Day / Date Time)  
+{: .block-tip }  
 
 ![](/assets/misc/Balance-Sheet-Template-03.jpg)
 
@@ -162,28 +165,28 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 3C. Rules for Presenting Balances
 
 
-1. Balance sheet assets are arranged on the bases of liquidity. 
-   - Cash first
+1. Balance sheet assets are arranged on the bases of liquidity.  
+   - Cash first,  
    - marketable securities,  
    - accounts receivable,  
    - supplies,  
    - inventory,  
-   - prepaid items   
-   - fixed assets (which appear in the order of longevity)     
+   - prepaid items,  
+   - fixed assets (which appear in the order of longevity)  
 
-2. Liability accounts appear based on their earliest due date.   
-   -  A/P  
-   -  bank notes payable
-   -  mortgages payable   
+2. Liability accounts appear based on their earliest due date.  
+   - A/P  
+   - bank notes payable
+   - mortgages payable  
 
-3. Income statement accounts, both revenues and expenses appear in alphabetical order.   
+3. Income statement accounts, both revenues and expenses appear in alphabetical order.  
 
 
 **Key benefits it offers:**
 
-1. **Verifies Accuracy**: The purpose of a Trial-Balance is to check for mathematical errors. By ensuring the total debits equal the total credits, you gain confidence that transactions are recorded correctly.   
+1. **Verifies Accuracy**: The purpose of a Trial-Balance is to check for mathematical errors. By ensuring the total debits equal the total credits, you gain confidence that transactions are recorded correctly.  
 
-2. **Identifies Potential Issues**: While a balanced Trial-Balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, investigate further.   
+2. **Identifies Potential Issues**: While a balanced Trial-Balance doesn't guarantee error-free accounts, it can uncover inconsistencies and missing entries. If the totals don't match, investigate further.  
 
 3. **Provides Overview of Financial Position**: The Trial-Balance offers a snapshot of the `financial position` at a specific point in time. Seeing total assets, liabilities, equity, income, and expenses one gains a high-level understanding.
 
@@ -196,18 +199,14 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 
 ### 4. Statement of Cash Flows
 
-
 Statement of cash flows is a statement that lists the cash inflows and outflows for the business for a period of time.
 
-
 ### Extra. Income Statements Vs Cash Flow Statements
-
 
 **In essence**:
 
 - The income statement shows how much money a company earned (profitability).
 - The statement of cash flow shows how much money a company has on hand (liquidity).
-
 
 The income statement and statement of cash flow are both important financial statements, but they provide different information:
 
@@ -229,7 +228,6 @@ See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and
 
 **An analogy**:
 
-- Income Statement: Think of it like a company's scorecard. It shows how many dollars (revenue) were acquired and number of dollars (expenses) were used up, resulting in the final net income.   
+- Income Statement: Think of it like a company's scorecard. It shows how many dollars (revenue) were acquired and number of dollars (expenses) were used up, resulting in the final net income.  
 
 - Statement of Cash Flow: Imagine the cash register tape for the game. It details all the cash received from ticket sales (operating inflow) and cash spent on refreshments (operating outflow) during the game.
-
