@@ -119,10 +119,6 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![Depreciation Example](/assets/mc-graw-accounting-course/chap12-accurals/depreciation.example.png)
 
-## Reversing Tax Payroll Examples
-
-![Depreciation Example](/assets/mc-graw-accounting-course/chap13-fin.statements/reversing.tax.payroll.examples.png)
-
 
 ## Worksheet Example, FULL
 

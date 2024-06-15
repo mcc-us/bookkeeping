@@ -33,28 +33,6 @@ title: 13-Financial Statements & Closing Procedures
 
 ![Post-Closing Balance Sheet](/assets/mc-graw-accounting-course/chap13-fin.statements/1b.post.closing.png)
 
----
-
-## Operating Expenses
-
-Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
-
-- Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
-
-**OPEX - Operating Expenses**
-
-- Includes all the costs associated with keeping the business running, from marketing, administration, R&D, and maintaining equipment.  
-- It **excludes** direct costs of production or providing the services (It's reflected in COGS; purchases, freight-in, sales discounts/R&A).  
-
-**Common examples of OPEX**:
-
-1. **Selling Expenses**: Marketing, advertising, sales commissions, marketing materials, salaries for sales staff.  
-
-2. **General & Administrative Expenses (G&A)**: Ongoing costs required to run business, not directly tied to production. Example: rent, utilities, office supplies/expenses, salaries for administrative staff, accounting fees.  
-
-3. **Research & Development (R&D)**: R&D expenses or services. Example: salaries for R&D, materials used in R&D, all patent fees.  
-
-4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.  
 
 ---
 
@@ -109,6 +87,10 @@ NOTE: We re-constitute the wages expense that we had for the last period but on 
 {: .block-danger }  
 
 
+## Reversing Tax Payroll Examples
+
+![Depreciation Example](/assets/mc-graw-accounting-course/chap13-fin.statements/reversing.tax.payroll.examples.png)
+
 ---
 
 
@@ -132,4 +114,27 @@ NOTE: We re-constitute the wages expense that we had for the last period but on 
 - Plant and equipment: Tangible assets with a long lifespan used in the production process (e.g., machinery, buildings).
 - Reversing entries: Journal entries made at the beginning of a new accounting period to reverse specific closing entries from the prior period (ensures clean account balances for the new period).
 - Single-step income statement: A more basic income statement that combines all expenses into one section, resulting in a less detailed view of profitability.
-- Working capital: The current assets available to a company after accounting for its current liabilities (measure of short-term financial health).
+- Working capital: The current assets available to a company after accounting for its current liabilities (measure of short-term financial health).  
+
+---
+
+## Operating Expenses
+
+Op. Exps = **Expenses incurred during sales + Gen. Administrative Exp**
+
+- Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.
+
+**OPEX - Operating Expenses**
+
+- Includes all the costs associated with keeping the business running, from marketing, administration, R&D, and maintaining equipment.  
+- It **excludes** direct costs of production or providing the services (It's reflected in COGS; purchases, freight-in, sales discounts/R&A).  
+
+**Common examples of OPEX**:
+
+1. **Selling Expenses**: Marketing, advertising, sales commissions, marketing materials, salaries for sales staff.  
+
+2. **General & Administrative Expenses (G&A)**: Ongoing costs required to run business, not directly tied to production. Example: rent, utilities, office supplies/expenses, salaries for administrative staff, accounting fees.  
+
+3. **Research & Development (R&D)**: R&D expenses or services. Example: salaries for R&D, materials used in R&D, all patent fees.  
+
+4. **Depreciation & Amortization**: These are non-cash expenses that spread the cost of long-term assets (property, equipment) over their useful life.  
