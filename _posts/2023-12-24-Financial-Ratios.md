@@ -6,34 +6,34 @@ title: FINANCIAL RATIOS
 ### Basics
 
 
-1. **Net Sales** :one: = Total Sales - (Returns/Allowances) - (Purchase Discounts)<br>
+1. **Net Sales** = Total Sales - (Returns/Allowances) - (Purchase Discounts)<br>
    - a.k.a. Operating Revenue<br><br>   
    
-2. **Net Delivered Cost of Purchases** :two: = Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)<br><br>
+2. **Net Delivered Cost of Purchases** = Purchases + Freight-Costs - (Returns/Allowances) - (Purchase Discounts)<br><br>
 
 3. **Operating Profit** = Revenue{Sales + Fees Earned} - Expenses<br><br>
 
-4. **Cost of Goods Sold** :three: = Beginning Inv. + Net Delivered Cost of Purchases :two: - (Ending Inv.) - (Purchase Discounts)<br><br>
+4. **Cost of Goods Sold** = Beginning Inv. + Net Delivered Cost of Purchases - (Ending Inv.) - (Purchase Discounts)<br><br>
 
-5. **Gross Profit of Sales** :four: = Net Sales :one:  - (COGS :three:)<br><br>
+5. **Gross Profit of Sales** = Net Sales - (COGS)<br><br>
 
 6.  **Gross Profit Rate/Percentage** = $\Large \frac{Gross~ Profit}{Net~ Sales}$ : The ratio of gross profit to each dollar of sales<br><br>   
     
-7.  **Operating Expenses** :eight: = Expenses incurred during sales + Gen. Administrative Exp
+7.  **Operating Expenses** = Expenses incurred during sales + Gen. Administrative Exp
     - Rent, utils, lights, salaries and wages, equipment exp, are often called Warehouse exps.<br><br>
 
-8.  **Net Income/Loss from Operations** :five: = Gross Profit on Sales :four:  - (Total Operating Exp :eight:)
+8.  **Net Income/Loss from Operations** = Gross Profit on Sales - (Total Operating Exp)
     - Keeping operating & non-operating income separate helps one learn about '*operating efficiency*.'<br><br>
 
 9. **Depreciable base** = Asset fixed value minus salvage value
 
-9.  **Book Value** = Asset - Accumulated Depreciation<br><br>
+10. **Book Value** = Asset - Accumulated Depreciation<br><br>
 
-10. **Net Income/Loss** = Revenue + Gains - Expenses - Losses<br><br>
+11. **Net Income/Loss** = Revenue + Gains - Expenses - Losses<br><br>
 
-11.  **Ending Balances** = Beginning Balance + Investments - Distributions<br><br>
+12.  **Ending Balances** = Beginning Balance + Investments - Distributions<br><br>
 
-12. **Avg Collection Period** = $\Large \frac{365~ Days}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
+13. **Avg Collection Period** = $\Large \frac{365~ Days}{Accounts~ Receivable~ Turnover~ Ratio}$<br><br> 
     - The ratio of 365 days to the accounts receivable turnover; also called the number of days’ sales in receivables, OR use days in a period.
 OR
     - **Avg Collection Period** = (Average Accounts Receivable / Net Credit Sales) x Number of Days in a Period
