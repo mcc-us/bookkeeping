@@ -99,7 +99,7 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
 
-## Unearned Income - Publishing Subscription Example
+## Unearned Income - Example, Publishing Subscription
 
 > Dr Cash **1000**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Unearned Subscription Income **1000** (Liability account)  
@@ -114,6 +114,10 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 - Leaves a balance of $250 for `Unearned Subscription Income`.
 
 ![Publishing example](/assets/mc-graw-accounting-course/chap12-accurals/7.unearned.income.4.publishing.example.png)
+
+## Depreciation Example
+
+![Depreciation Example](/assets/mc-graw-accounting-course/chap12-accurals/depreciation.example.png)
 
 ## Worksheet Example, FULL
 
