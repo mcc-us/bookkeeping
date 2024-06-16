@@ -8,13 +8,17 @@ title: 4 Financial Statements
 (*Chapter 2*)  
 
 > ALL REPORTS NEED:  
-> Who, What, When: Time Period  
+> Who, What, When: Time Period or Date  
+{: .block-tip }  
+
+> Use Dollar signs at top & bottom of column.  
+> Do not use dollar signs on ALL values.  
 {: .block-tip }  
 
 - [1. Income Statement](#1-income-statement)
 - [2. Statement of Equity](#2-statement-of-equity)
 - [3A. Trial Balances](#3a-trial-balances)
-- [3B. Balance Sheet](#3b-balance-sheet)
+- [3B. Balance Sheet](#3b-classified-balance-sheet)
 - [3C. Rules for Presenting Balances](#3c-rules-for-presenting-balances)
 - [4. Statement of Cash Flows](#4-statement-of-cash-flows)
 - [Extra. Income Statements Vs Cash Flow Statements](#extra-income-statements-vs-cash-flow-statements)
@@ -23,14 +27,21 @@ title: 4 Financial Statements
 
 ### 1. Income Statement
 
-The **Income Statement** is needed for **Net Income/Loss in Equity** calculations.  
+- Income Statement is needed for **Equity Statement**
 
-> Net Income/Loss = Revenue - Expenses  
-{: .block-tip }  
+> * Net Income/Loss = Revenue - Expenses  
+> * Display Revenues & Expenses: Alphabetically or Classified  
+> * Double underline the '*Bottom Line*' or Net 
+{: .block-tip } 
+
+> Do Not Include Drawings
+{: .block-danger }
+
 
 **WHO:** Shuttle Ride Company  
-**WHAT:** Income Statement  
+**WHAT:** Income Statement - Simple 3 Columns  
 **WHEN:** For TIME PERIOD
+
 
 | Act | Amount | Total |
 |:----|-------:|------:|
@@ -42,20 +53,6 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 | (SUBTRACT) Total Expenses | | 44,000 |
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
-**Steps**   
-1. USE: 3 columns; **Act, Amount, Total**  
-2. List **Revenues, Expenses**  
-3. Total & Calculate Net  
-4. Double underline the '*Bottom Line*' or Net  
-
-> Do Not include Drawings with Income Statement
-{: .block-danger }
-
-
-> Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
-{: .block-tip }  
-
-*Income Statements: Display Revenues & Expenses alphabetically.*  
 
 ---
 
@@ -63,8 +60,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 2. Statement of Equity
 
 
-> **Equity** =  
-> Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals  
+> **Equity** =  Capital, Common Shares, Income, Dividends, Retained Earnings(Net Income) & Withdrawals  
 {: .block-tip }  
 
 **WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *FOR A PERIOD OF TIME*
@@ -104,26 +100,23 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 **Purpose:**  
 
 - Trial balances promote accuracy,  
-- Identify potential issues,  
+- Check Balances & Identify potential issues,  
 - Facilitate financial statement preparation,  
 - Serve as an internal control.  
 - More [Info](https://mcc-us.github.io/2024-01-29-trial-bal-v-bal-sheet.html)
 
 **4 Steps**
 
-1. Enter the general ledger account names.  
-   - Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
-
-2. Enter the ending balance of each account in Debit or Credit column, using *Normal Balance*.  
-
-3. Determine IF trial balance is in balance by totaling the Debit and Credit columns.  
-
+1. Enter in order: Assets followed by Liabilities, Capital, Drawings, Revenue, and Expenses
+2. Enter account balance using **Normal Balance**. See: POST   
+3. IS trial balance is in balance, for example: Debits = Credits  
 4. Double underscore Trial Balance columns to show that the work in that column is complete.  
 
-- **NOTE: Trial Balance ADDS** 
-   - Accumulated Depreciation—Equipment,  
-   - Depreciation Expense—Equipment  
-   - ALL Expenses,  
+**NOTE: Trial Balance ADDS** 
+
+- Accumulated Depreciation X, Cr  
+- Depreciation Expense X, Dr  
+- ALL Expenses  
 
 |Example Trial Balance|
 |:-:|
@@ -132,7 +125,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ---
 
 
-### 3B. Balance Sheet
+### 3B. Classified Balance Sheet
 
 
 > **A = L + E** **:** Asset = Liabilities + Equity  
@@ -145,14 +138,13 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Include Drawings PRE-CLOSING  
 {: .block-tip }  
 
-> Expenses NOT Included for Closed B.S. 
+> Expenses NOT Included for Closed Balance Sheet 
 {: .block-danger }  
 
-**Example Report**
 
 **WHO**: Co.<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date
 
-![](/assets/misc/Balance-Sheet-Template-03.jpg)
+![Classified Balance Sheet](/assets/misc/Balance-Sheet-Template-03.jpg)
 
 ---
 
