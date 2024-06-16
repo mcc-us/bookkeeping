@@ -7,6 +7,10 @@ title: 4 Financial Statements
 
 (*Chapter 2*)  
 
+> ALL REPORTS NEED:  
+> Who, What, When: Time Period  
+{: .block-tip }  
+
 - [1. Income Statement](#1-income-statement)
 - [2. Statement of Equity](#2-statement-of-equity)
 - [3A. Trial Balances](#3a-trial-balances)
@@ -24,9 +28,9 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Net Income/Loss = Revenue - Expenses  
 {: .block-tip }  
 
-**WHO:** The Shuttle Ride Company  
+**WHO:** Shuttle Ride Company  
 **WHAT:** Income Statement  
-**WHEN:** For the Year Ending Dec. 31, 2024
+**WHEN:** For TIME PERIOD
 
 | Act | Amount | Total |
 |:----|-------:|------:|
@@ -35,21 +39,18 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 | **Expenses** | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fuel | $14,000 | |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wages | 30,000 | |
-| SUBTRACT Total Expenses | | 44,000 |
+| (SUBTRACT) Total Expenses | | 44,000 |
 | Net Income | | $6,000 <br> **DOUBLE UNDERLINE** |
 
 **Steps**   
-1. 3 columns; **Act, Amount, Total**  
+1. USE: 3 columns; **Act, Amount, Total**  
 2. List **Revenues, Expenses**  
 3. Total & Calculate Net  
-4. Double underline 'bottom line' or Net  
+4. Double underline the '*Bottom Line*' or Net  
 
 > Do Not include Drawings with Income Statement
 {: .block-danger }
 
-> Reports NEED:  
-> Who, What, When: Time Period  
-{: .block-tip }  
 
 > Use Dollar signs at the top of each column & at the bottom line. Do not use dollar signs on ALL values.  
 {: .block-tip }  
@@ -66,21 +67,19 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Capital, Common Shares, Income, Dividends, Retained Earnings (Net Income) & Withdrawals  
 {: .block-tip }  
 
-|**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *For the Year Ending 12/31/24*|
-|:-|
-|![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
-|![](/assets/mc-graw-accounting-course/chap2/equity.example.png)|
+**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *FOR A PERIOD OF TIME*
 
-|Prepare a 'Statement of Equity' (WITH STOCKS)|
-|:-|
-|1. ADD: Capital + Common Shares at beginning of period|
-|2. ADD: Retained Earning at beginning of period|
-|3.  +/- Net Income/Loss|
-|4.  +/- Common shares bought/sold|
-|5. SUBTRACT: Dividends & Drawings (Owner Withdrawals)|
 
-> Reports NEED: Who, What, When: Time Period  
-{: .block-tip }  
+|How To Prepare a Statement of Equity|
+|:-|
+|1. Beginning Capital|
+|2. ADD: Common Shares at beginning of period|
+|3. ADD: Retained Earning at beginning of period|
+|4.  +/- Net Income/Loss|
+|5.  +/- Common shares bought/sold|
+|6. SUBTRACT: Dividends & Drawings(Owner Withdrawals)|
+|7. Result: Final Capital|
+
 
 **Alternative Names**
 
@@ -121,12 +120,10 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 
 4. Double underscore Trial Balance columns to show that the work in that column is complete.  
 
-**NOTE: Trial Balance adds 4 accounts**:  
-
-1. Accumulated Depreciation—Equipment,  
-2. Supplies Expense,  
-3. Rent Expense,  
-4. Depreciation Expense—Equipment.  
+- **NOTE: Trial Balance ADDS** 
+   - Accumulated Depreciation—Equipment,  
+   - Depreciation Expense—Equipment  
+   - ALL Expenses,  
 
 |Example Trial Balance|
 |:-:|
@@ -138,8 +135,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 ### 3B. Balance Sheet
 
 
-> **A = L + E**:<br>  
-> Asset = Liabilities + Equity  
+> **A = L + E** **:** Asset = Liabilities + Equity  
 {: .block-tip }  
 
 1. Display Current Assets & Long-term Assets  
@@ -149,13 +145,12 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 > Include Drawings PRE-CLOSING  
 {: .block-tip }  
 
-> Expenses NOT Included  
+> Expenses NOT Included for Closed B.S. 
 {: .block-danger }  
 
 **Example Report**
 
-> Reports NEED: Who, What, When (On Day / Date Time)  
-{: .block-tip }  
+**WHO**: Co.<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date
 
 ![](/assets/misc/Balance-Sheet-Template-03.jpg)
 
@@ -201,7 +196,7 @@ The **Income Statement** is needed for **Net Income/Loss in Equity** calculation
 
 Statement of cash flows is a statement that lists the cash inflows and outflows for the business for a period of time.
 
-### Extra. Income Statements Vs Cash Flow Statements
+### NOTES. Income Statements Vs Cash Flow Statements
 
 **In essence**:
 
@@ -212,7 +207,7 @@ The income statement and statement of cash flow are both important financial sta
 
 See: [Describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate](https://openstax.org/books/principles-financial-accounting/pages/2-1-describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate)
 
-**Income Statement**:
+#### Income Statement:
 
 - Focus: Measures a company's profitability over a specific period.
 - Records: Revenue earned, expenses incurred, and resulting net income (profit) or loss.
