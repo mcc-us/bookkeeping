@@ -41,7 +41,7 @@ Calculations
 
 ---
 
-### Reversing Entries *(Optional)*  
+## Reversing Entries
 
 - Generally, Accrued REV & EXP  
   - accrued wages  
