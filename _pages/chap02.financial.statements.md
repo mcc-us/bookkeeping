@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Financial Statements
+title: Financial Statements
 ---
 
 **Common Procedure for Financial Statements:**  
@@ -110,7 +110,7 @@ title: 4 Financial Statements
 3. IS trial balance is in balance, for example: Debits = Credits  
 4. Double underscore Trial Balance columns to show that the work in that column is complete.  
 
-**NOTE: Trial Balance ADDS** 
+**NOTE: Trial Balance ADDS**  
 
 - Accumulated Depreciation X, Cr  
 - Depreciation Expense X, Dr  
@@ -121,7 +121,6 @@ title: 4 Financial Statements
 |![](/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
 ---
-
 
 ### 3B. Classified Balance Sheet
 
@@ -140,7 +139,7 @@ title: 4 Financial Statements
 {: .block-danger }  
 
 
-**WHO**: Co.<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date
+**WHO**: Company<br>**WHAT**: Statement of Equity<br>**WHEN**: On A Date
 
 ![Classified Balance Sheet](/assets/misc/Balance-Sheet-Template-03.jpg)
 
