@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 12-Accruals, Deferrals
+title: 12-Adjustments Closings Accruals
 --- 
 
 
 Objectives:
 
-1. Make adjustments for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
+1. Make **Adjustments, Closings, and Accruals** for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
 
 ## Accrual Accounting Definitions
 
