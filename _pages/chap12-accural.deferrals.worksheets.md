@@ -45,7 +45,7 @@ Objectives:
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/3.income.summary.adjustments.png)
 
-## Uncollectible Act Exp To Allowance for Doubtful Acts
+## Uncollectible Act & Allowance for Doubtful Acts
 
 - Adjusting for un-payable accounts receivable
 - Usually the allowance is a percentage of the total sales based on past experience.
@@ -71,7 +71,7 @@ Objectives:
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr SUTA Payable X4  {State % rate}  
 {: .block-tip }
 
-## Accrued Interest on Notes Payable
+## Interest on Notes Payable, Accrued  
 
 Simple Interest = PRT = Principle x Interest Rate x Time
 
@@ -87,7 +87,7 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.7.jpg)
 
-## Adjusting Supplies & Expense
+## Adjust Supplies & Expense
 
 - Initial Balance = **6300**
 
