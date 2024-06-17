@@ -18,10 +18,11 @@ title: 4 Financial Statements
 - [1. Income Statement](#1-income-statement)
 - [2. Statement of Equity](#2-statement-of-equity)
 - [3A. Trial Balances](#3a-trial-balances)
-- [3B. Balance Sheet](#3b-classified-balance-sheet)
+- [3B. Classified Balance Sheet](#3b-classified-balance-sheet)
 - [3C. Rules for Presenting Balances](#3c-rules-for-presenting-balances)
 - [4. Statement of Cash Flows](#4-statement-of-cash-flows)
-- [Extra. Income Statements Vs Cash Flow Statements](#extra-income-statements-vs-cash-flow-statements)
+- [Income Statements Vs Cash Flow Statements](#income-statements-vs-cash-flow-statements)
+  - [Income Statement:](#income-statement)
 
 ---
 
@@ -63,8 +64,7 @@ title: 4 Financial Statements
 > **Equity** =  Capital, Common Shares, Income, Dividends, Retained Earnings(Net Income) & Withdrawals  
 {: .block-tip }  
 
-**WHO**: *Co.*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *FOR A PERIOD OF TIME*
-
+**WHO**: *Company*<br>**WHAT**: *Statement of Equity*<br>**WHEN**: *FOR TIME PERIOD*
 
 |How To Prepare a Statement of Equity|
 |:-|
@@ -76,7 +76,6 @@ title: 4 Financial Statements
 |6. SUBTRACT: Dividends & Drawings(Owner Withdrawals)|
 |7. Result: Final Capital|
 
-
 **Alternative Names**
 
 1. Statement of Shareholders' Equity  
@@ -87,9 +86,8 @@ title: 4 Financial Statements
 6. Equity and Liabilities Statement: A less common variation combines this statement with the "Statement of Liabilities and Shareholders' Equity" into a single report.  
 7. Condensed Statement of Changes in Shareholders' Equity  
 8. Schedule of Changes in Shareholders' Equity  
-   
-- Find an example at Tony Bell @ accountingworkbook.com or Youtube
 
+- Find an example at Tony Bell @ accountingworkbook.com or Youtube
 
 ---
 
