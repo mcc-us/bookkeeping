@@ -3,8 +3,6 @@ layout: post
 title: Financial Statements
 ---
 
-**Common Procedure for Financial Statements:**  
-
 (*Chapter 2*)  
 
 > ALL REPORTS NEED:  
