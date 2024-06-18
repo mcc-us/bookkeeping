@@ -6,7 +6,11 @@ title: 1-Corporation Types
 
 ![Corporation Types](/assets/mc-graw-accounting-course/chap1/corps.chap1.q1.png)
 
-**Understanding three major types of businesses**  
+**Knowing the business' structure impacts**  
+
+1. Financial reporting  
+2. Decision-making  
+3. Communication  
 
 This tells accountants/bookkeeper who is ultimately in charge & who is responsible.
 
@@ -18,6 +22,8 @@ This tells accountants/bookkeeper who is ultimately in charge & who is responsib
 
 > Do not pierce the corporate veil.
 {: .block-danger }
+
+See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/business-tax-account)
 
 ### 1. Sole Proprietor
 
@@ -52,6 +58,37 @@ This tells accountants/bookkeeper who is ultimately in charge & who is responsib
 - Has concept of **"pass-through taxation" & avoids double taxation**.  
 - Like a partnership, the corp pays NO income tax.  
 - Owner's have limited liability  
+
+
+Understanding Business Structures for Bookkeepers
+--- 
+
+
+Financial Reporting:
+
+- Helps identify potential risks and compliance issues based on the structure (e.g., sole proprietor vs. LLC) or (e.g., tax rules for S-Corps vs. C-Corps).
+
+Decision-Making & Analysis:
+
+- Financial ratios & metrics might differ based on structure.
+- Provides tailored financial advice considering legal and operational aspects.
+- Identifies financial strengths and weaknesses unique to each structure.
+
+Client Communication & Service:
+
+- Cater services to specific financial reporting, tax, and compliance needs.
+- Explains financial concepts relevant to their structure and challenges.
+- Build trust by demonstrating understanding of their business type.
+
+### Importance of Business Types
+
+1. **Sole Proprietorships**: Easy to form, but owners have unlimited liability for business debts.
+
+2. **Partnerships**: Shared ownership and management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
+
+3. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
+
+4. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
 
 ### LLC v. LLP
 
@@ -91,3 +128,17 @@ This tells accountants/bookkeeper who is ultimately in charge & who is responsib
 - Formation and Maintenance:  
   - LLPs may have specific formation and ongoing regulatory requirements depending on the profession or state.  
   - LLCs generally require less paperwork and ongoing formalities.  
+
+
+---
+
+## Question
+
+- Owners have no personal liability under which legal business structure?  
+
+1. a corporation  
+2. a partnership  
+3. a sole proprietorship  
+4. There is the potential for some personal liability in every business structure, though that liability varies with the type of structure.  
+
+Answer: 4. There is the potential for some personal liability in every business structure, though that liability varies with the type of structure.
