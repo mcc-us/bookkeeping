@@ -1,19 +1,19 @@
 ---
 layout: post
-title: CORPORATION TYPES
+title: Corporation Types
 ---
 
 
-![CORPORATION TYPES](/WrongQuestions/Screenshot.chap1.q1.png)
+![Corporation Types](/assets/mc-graw-accounting-course/chap1/corps.chap1.q1.png)
 
----
+## Understanding three major types of businesses  
 
-
-## Understanding three major types of businesses: 
-
-This can tell accountants/bookkeeper who is ultimately in charge & who is responsible.
+This tells accountants/bookkeeper who is ultimately in charge & who is responsible.
 
 > It is important to know who to ask for help and guidance when issues regarding cash flow and managerial decisions are needed.
+{: .block-tip }
+
+> Knowing how corporations work can change tax liabilities, too!
 {: .block-tip }
 
 > Do not pierce the corporate veil.
@@ -22,22 +22,22 @@ This can tell accountants/bookkeeper who is ultimately in charge & who is respon
 ### 1. Sole Proprietor
 
 - One owner is solely responsible for all debts and taxes.  
-- Separate entity assumption - 'keep company and personal finances separate.  
-- Business dies when owner does or when sold.  
-- Easy to form: 'DBA'-Doing Business As  
+- Separate entity assumption - keep company and personal finances separate.  
+- When owner dies so does business unless it is sold.  
+- Easy to form: **DBA-Doing Business As**  
 
 ### 2A. Partnerships
 
 - Partners decide break down of all rights, obligations and limitations in the company beforehand.
-     - $ or % initially contributed, % ownership, % or share of profits
-     - Duties and responsibilities including to creditors and tax authorities OR Other intangible liabilities
+  - $ or % initially contributed, % ownership, % or share of profits
+  - Duties and responsibilities including to creditors and tax authorities OR Other intangible liabilities
 - If one partner is negligent then other is **ON THE HOOK**
 - Business is dissolved when the partnership is dissolved.
 
 ### 2B. Limited Liability Partnerships
 
 - Partners are only responsible for their own actions.  
-- If one partner is negligent then other is **OFF THE HOOK**  
+- For example, If one partner is negligent(malfeasance) then other is **OFF THE HOOK**  
 
 ### 3. Corporations
 
@@ -49,13 +49,14 @@ This can tell accountants/bookkeeper who is ultimately in charge & who is respon
 
 ### 3B. S-Corps
 
-- Has concept of **"pass-through taxation" and avoids double taxation**.  
+- Has concept of **"pass-through taxation" & avoids double taxation**.  
 - Like a partnership, the corp pays NO income tax.  
-- Advantage: Owner's have limited liability & avoid double taxation.  
+- Owner's have limited liability  
 
 ## LLC v. LLP
 
 **Key differences between:**  
+
 - Limited Liability Partnerships Vs. Limited Liability Company  
 
 ### Structure
