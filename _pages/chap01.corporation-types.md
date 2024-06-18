@@ -12,7 +12,16 @@ title: 1-Corporation Types
 2. Decision-making  
 3. Communication  
 
-This tells accountants/bookkeeper who is ultimately in charge & who is responsible.
+**Importance of Business Types**  
+
+1. **Sole Proprietorships**: Easy to form, but owners have unlimited liability for business debts.
+
+2. **Partnerships**: Shared ownership and management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
+
+3. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
+
+4. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
+
 
 > It is important to know who to ask for help and guidance when issues regarding cash flow and managerial decisions are needed.
 {: .block-tip }
@@ -79,16 +88,6 @@ Client Communication & Service:
 - Cater services to specific financial reporting, tax, and compliance needs.
 - Explains financial concepts relevant to their structure and challenges.
 - Build trust by demonstrating understanding of their business type.
-
-### Importance of Business Types
-
-1. **Sole Proprietorships**: Easy to form, but owners have unlimited liability for business debts.
-
-2. **Partnerships**: Shared ownership and management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
-
-3. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
-
-4. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
 
 ### LLC v. LLP
 
