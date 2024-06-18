@@ -11,10 +11,7 @@ title: 7-Sales
 
 **Accounts**
 
-Credit Card Expense = EXPENSE    
-Sales Tax Payable = LIABILITY   
-Sales = REVENUE   
-Sales Discount **&** Returns & Allowances are CONTRA REVENUE like an Expense
+Sales Discount & Returns & Allowances are CONTRA REVENUE, like an Expense.  
 
 $$Assets + \frac{Expenses}{Credit~ Card~ Expense} = \frac{Liabilities}{Sales~ Tax~ Payable} + Equity + \frac{Revenue}{\begin{bmatrix}
 Sales \\
@@ -37,7 +34,7 @@ Sales~ Discount(Contra~Rev-Dr) \\
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### 2. Returns & Allowances WITH Tax, Cash or A/R
+### 2. Sales Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
 
@@ -81,14 +78,13 @@ Net sales = Total Sales - Sales Returns/Allowances account - Sales Discounts.
 |Net Sales|93|
 -->
 
-### 5. Schedule of Accounts / Customer Accounts Receivable Ledger 
+### 5. Schedule of Accounts / Customer Accounts Receivable Ledger  
 
 Time on video 22:50
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/6.schedule.of.accounts.receivable.7.5.png)
 
-
-### 6. Credit Card Sales via A/R
+### 6. Credit Card Sales via A/R  
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.credit.card.sales.via.AR.png)
 
@@ -96,7 +92,6 @@ Time on video 22:50
 ### State Tax forms
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/8.sales.taxes.state.form.png)
-
 
 ### Schedule of Accounts for Customers Accounts Receivable
 
@@ -108,8 +103,6 @@ Time on video 22:50
 ### 7. Double Trade Discounts
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/7.double.trade.discount.png)
-
-
 
 <!--
 ### 7.4 Post from the journal to the ledger accounts and to the subsidiary ledger.
@@ -124,7 +117,6 @@ Time on video 22:50
 ### 7.6 Record the payment of sales taxes.
 
 - Every business that collects sales taxes from its customers is responsible for accurately reporting and paying the amount of sales taxes collected to the appropriate government agency.
-
 
 ### Overview
 
