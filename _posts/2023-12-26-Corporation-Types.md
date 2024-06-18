@@ -36,23 +36,22 @@ This can tell accountants/bookkeeper who is ultimately in charge & who is respon
 
 ### 2B. Limited Liability Partnerships
 
-- Partners are only responsible for their own actions.
-- If one partner is negligent then other is **OFF THE HOOK**
+- Partners are only responsible for their own actions.  
+- If one partner is negligent then other is **OFF THE HOOK**  
 
 ### 3. Corporations
 
-- Corp has legal right to own property and do business under its own name.
-- Stock is used in place of simple owner's equity
-- Private companies can be 'Closely Held' or private companies
-- Stockholders are not responsible for the debts of the company.
-- More complex overall to start and run
+- Corp has legal right to own property & do business under its own name.  
+- Stock is used in place of simple owner's equity  
+- Private companies = 'Closely Held'  
+- Stockholders are not responsible for the debts of the company.  
+- More complex overall to start and run  
 
 ### 3B. S-Corps
 
-- Has concept of **"pass-through taxation" and avoids double taxation**.
-- Is treated like a partnership such that the corp pays no income tax.
-- The advantage is that owner's have limited liability and avoid double taxation.
-- Like any corp, the business has indeterminate life span
+- Has concept of **"pass-through taxation" and avoids double taxation**.  
+- Like a partnership, the corp pays NO income tax.  
+- Advantage: Owner's have limited liability & avoid double taxation.  
 
 ## LLC v. LLP
 
@@ -61,7 +60,7 @@ This can tell accountants/bookkeeper who is ultimately in charge & who is respon
 
 ### Structure
 
-- LLP: **Partners share profits and losses according to predefined agreements**. They are typically formed by professionals like lawyers, accountants, or doctors.   
+- LLP: **Partners share profits and losses according to predefined agreements**. They are typically formed by professionals like lawyers, accountants, or doctors.  
 
 - LLC: **Offers more flexibility, allowing for both partnership and corporate-like characteristics**. Members can choose to share profits and losses proportionally or based on specific agreements, similar to an LLP, or elect for fixed shares, like in a corporation.  
 
