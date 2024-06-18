@@ -22,7 +22,9 @@ layout: post
 {: .block-tip }  
 
 
-![](/assets/mc-graw-accounting-course/images/closing.fig.6.2.all.4.steps.png)
+![](/assets/mc-graw-accounting-course/chap06/closing.fig.6.2.all.4.steps.png)
+
+- `Income Summary` is a Temp. Owner's Equity account, aka `Rev. & Exp Summary`, or `Income & Expense Summary`.
 
 After the closing entries have been posted, the capital account reflects the results of operations for the period, either a NET GAIN or LOSS.
 
