@@ -3,11 +3,11 @@ layout: post
 title: NORMAL BALANCES
 ---
 
-*NOTE: CR, CA, CE - Represent Contra accounts*
-- CA:  A contra-asset reduces the value of another asset account, the asset being A/R.
-- CR:  a contra-revenue account (or contra-sales) offsets a revenue/sales account.
-  - Sales discounts, Sales returns & allowances are contra revenue account.
-- **Income Summary** is a temp Owner's Equity act
+*NOTE: CR, CA, CE - Represent Contra Revenue, Asset, Expense*
+- CA: A contra-asset reduces the value of another asset account, the asset being A/R.
+- CR: a contra-revenue account (or contra-sales) offsets a revenue/sales account.  
+  - Sales discounts, Sales returns & allowances are contra revenue account.  
+- **Income Summary** is a temp. Owner's Equity act.
 
 | Dr | Cr |
 |:-|:-|
@@ -36,11 +36,14 @@ title: NORMAL BALANCES
 |Freight-in Charges(Ex)|Cash Discount(CE)|
 |Cost of Goods(Ex)|Purchase Discounts(CE)|
 ||Purchase Returns & Allowances(CE)|
-|Payroll Expenses(Ex)<br>*NOTE:Payroll Deductions are Liabilities*||
-|Wages & Salaries(Ex)|S.S. Tax Payable(L)|
+|Payroll(Salary, Wages) Expenses(Ex)||
+|Wages & Salaries(Ex)||
+|**Tax Expenses(Ex)**||
+||S.S. Tax Payable(L)|
 |Payroll Tax Expense(Ex)|Employee Fed. Income Tax Payable(L)|
 ||Medicare Tax Payable(L)|
 ||State Income Tax Payable(L)|
-
+||FUTA & SUTA Payable(L)|
+||Payroll Tax Payable(L)|
 
 See Also: [Chart of Accounts - Example](_posts/2024-04-27-chart-of-acts.md)
