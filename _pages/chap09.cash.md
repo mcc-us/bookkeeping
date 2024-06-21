@@ -10,7 +10,20 @@ title: 9-Cash
 3. Reconcile bank statements **MONTHLY**  
    - *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."  
 4. Record adjusting entries to ledger required from the bank reconciliation.  
-  
+
+$$\frac{Assets}{\begin{bmatrix}
+                 Petty~ Cash \\
+                 Notes Receivable \\
+                \end{bmatrix}} + 
+                \frac{Expenses}{\begin{bmatrix}
+                                 Intrest~ Expense \\
+                                \end{bmatrix}} 
+= \frac{Liabilities}{\begin{bmatrix}
+                     Interest~ Payable \\
+                     Notes Payable \\
+                     \end{bmatrix}} 
+ + Equity + \frac{Revenue}{Interest~ Income}$$
+
 ---
 
 ### 1. Petty Cash  
