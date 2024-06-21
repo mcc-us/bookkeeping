@@ -25,14 +25,6 @@ title: 1-Corporation Types
 | Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp. |
 | S-Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp.,<br>Avoids double taxation |
 
-1. **Sole Proprietorships**: Easy to form, but owners are fully liable for all business debts.
-
-2. **Partnerships**: Shared ownership & management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
-
-3. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
-
-4. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
-
 See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/business-tax-account)
 
 ### 1. Sole Proprietor
@@ -53,6 +45,7 @@ See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/bu
 ### 2B. Limited Liability Partnerships
 
 - Partners are only responsible for their own actions.  
+- flexibility of a partnership with limited liability protection for owners.  
 - For example, If one partner is negligent(malfeasance) then other is **OFF THE HOOK**  
 
 ### 3. Corporations
@@ -62,6 +55,7 @@ See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/bu
 - Private companies = 'Closely Held'  
 - Stockholders are not responsible for the debts of the company.  
 - More complex overall to start and run  
+- Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
 
 ### 3B. S-Corps
 
@@ -89,9 +83,7 @@ Client Communication & Service:
 
 ### LLC v. LLP
 
-**Key differences between:**  
-
-- Limited Liability Partnerships Vs. Limited Liability Company  
+*Key differences between: Limited Liability Partnerships Vs. Limited Liability Company*  
 
 #### Structure
 
@@ -114,6 +106,7 @@ Client Communication & Service:
 #### Taxation
 
 - LLP: Profits and losses pass through to partners' individual tax returns, **avoiding double taxation**. LLPs are treated as partnerships for tax purposes.  
+
 - LLC: **LLC can elect corporate taxation status if desired**. Offering flexibility in choosing taxation. By default, LLCs are also taxed as partnerships.  This can be beneficial for larger LLCs or those with substantial profits.  
 
 #### Other Considerations
