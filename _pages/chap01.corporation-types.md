@@ -22,8 +22,8 @@ title: 1-Corporation Types
 | Sole Proprietorships | Yes (D.B.A.) | Owner has unlimited liability for business debts|
 | Partnerships | Yes |  Shared, all partners are fully liable |
 | Limited Liability Companies (LLCs) | Yes | Partners have limited liability for their work |
-| Corporations | No | Separate legal entity from owners, Limited to Assets of Corp. |
-| S-Corporations | No | Separate legal entity from owners, Limited to Assets of Corp., Reduces double taxation |
+| Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp. |
+| S-Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp.,<br>Reduces double taxation |
 
 1. **Sole Proprietorships**: Easy to form, but owners are fully liable for all business debts.
 
