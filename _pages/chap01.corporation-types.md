@@ -23,7 +23,7 @@ title: 1-Corporation Types
 | Partnerships | Yes |  Shared, all partners are fully liable |
 | Limited Liability Companies (LLCs) | Yes | Partners have limited liability for their work |
 | Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp. |
-| S-Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp.,<br>Reduces double taxation |
+| S-Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp.,<br>Avoids double taxation |
 
 1. **Sole Proprietorships**: Easy to form, but owners are fully liable for all business debts.
 
