@@ -9,10 +9,21 @@ title: 1-Corporation Types
 **Knowing the business' structure impacts**  
 
 1. Financial reporting  
-2. Decision-making  
+2. Decision-making - Managerial decisions
 3. Communication  
 
 **Importance of Business Types**  
+
+| Business Type | Easy To Start | Liability |
+| :------------ |:---- | :---- |
+| Sole Proprietorships | Easy to form (DBA) | Owner has unlimited liability for business debts|
+| Partnerships | Yes |  Shared, all partners are fully liable |
+| Limited Liability Companies (LLCs) | Yes | Partners have limited liability for their work |
+| Corporations | No | Separate legal entity from owners, Limited to Assets of Corp. |
+| S-Corporations | No | Separate legal entity from owners, Limited to Assets of Corp. |
+
+
+
 
 1. **Sole Proprietorships**: Easy to form, but owners have unlimited liability for business debts.
 
