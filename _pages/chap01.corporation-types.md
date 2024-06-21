@@ -19,7 +19,7 @@ title: 1-Corporation Types
 
 | Business Type | Easy To Start | Liability |
 | :------------ |:---- | :---- |
-| Sole Proprietorships | Yes (D.B.A.) | Owner has unlimited liability for business debts|
+| Sole Proprietorships | Yes (D.B.A.) | Owner is fully liable for business debts|
 | Partnerships | Yes |  Shared, all partners are fully liable |
 | Limited Liability Companies (LLCs) | Yes | Partners have limited liability for their work |
 | Corporations | No | Separate legal entity from owners,<br>Limited to Assets of Corp. |
