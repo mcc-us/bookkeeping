@@ -11,6 +11,10 @@ title: 9-Cash
    - *Most* differences are due to "deposits in transit", "outstanding checks", & "bank service charges."  
 4. Record adjusting entries to ledger required from the bank reconciliation.  
 
+---
+
+**New Accounts**  
+
 $$\frac{Assets}{\begin{bmatrix}
                  Petty~ Cash \\
                  Notes Receivable \\
