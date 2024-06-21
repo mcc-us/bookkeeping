@@ -9,39 +9,29 @@ title: 1-Corporation Types
 **Knowing the business' structure impacts**  
 
 1. Financial reporting  
-2. Decision-making - Managerial decisions
+2. Decision-making - Managerial decisions  
 3. Communication  
+4. Knowing business model can change tax liabilities  
+5. Do not pierce the corporate veil.  
+6. Understanding Business Structures for Bookkeepers  
 
 **Importance of Business Types**  
 
 | Business Type | Easy To Start | Liability |
 | :------------ |:---- | :---- |
-| Sole Proprietorships | Easy to form (DBA) | Owner has unlimited liability for business debts|
+| Sole Proprietorships | Yes (D.B.A.) | Owner has unlimited liability for business debts|
 | Partnerships | Yes |  Shared, all partners are fully liable |
 | Limited Liability Companies (LLCs) | Yes | Partners have limited liability for their work |
 | Corporations | No | Separate legal entity from owners, Limited to Assets of Corp. |
-| S-Corporations | No | Separate legal entity from owners, Limited to Assets of Corp. |
+| S-Corporations | No | Separate legal entity from owners, Limited to Assets of Corp., Reduces double taxation |
 
+1. **Sole Proprietorships**: Easy to form, but owners are fully liable for all business debts.
 
+2. **Partnerships**: Shared ownership & management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
 
+3. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
 
-1. **Sole Proprietorships**: Easy to form, but owners have unlimited liability for business debts.
-
-2. **Partnerships**: Shared ownership and management, with variations like general partnerships (all partners fully liable) and limited partnerships (limited liability for some partners).
-
-3. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
-
-4. **Limited Liability Companies (LLCs)**: Combine flexibility of a partnership with limited liability protection for owners.
-
-
-> It is important to know who to ask for help and guidance when issues regarding cash flow and managerial decisions are needed.
-{: .block-tip }
-
-> Knowing how corporations work can change tax liabilities, too!
-{: .block-tip }
-
-> Do not pierce the corporate veil.
-{: .block-danger }
+4. **Corporations**: Separate legal entity from owners, offering limited liability and potential for raising capital. Consider sub-categories like C-Corps (double taxation) and S-Corps (avoid double taxation).
 
 See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/business-tax-account)
 
@@ -54,7 +44,7 @@ See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/bu
 
 ### 2A. Partnerships
 
-- Partners decide break down of all rights, obligations and limitations in the company beforehand.
+- Before forming, Partners must decide break down of all rights, obligations and limitations in the company.
   - $ or % initially contributed, % ownership, % or share of profits
   - Duties and responsibilities including to creditors and tax authorities OR Other intangible liabilities
 - If one partner is negligent then other is **ON THE HOOK**
@@ -79,26 +69,23 @@ See: [irs.gov/businesses/business-tax-account](https://www.irs.gov/businesses/bu
 - Like a partnership, the corp pays NO income tax.  
 - Owner's have limited liability  
 
-
-Understanding Business Structures for Bookkeepers
---- 
-
+---
 
 Financial Reporting:
 
 - Helps identify potential risks and compliance issues based on the structure (e.g., sole proprietor vs. LLC) or (e.g., tax rules for S-Corps vs. C-Corps).
 
-Decision-Making & Analysis:
+Decision-Making & Analysis:  
 
-- Financial ratios & metrics might differ based on structure.
-- Provides tailored financial advice considering legal and operational aspects.
-- Identifies financial strengths and weaknesses unique to each structure.
+- Financial ratios & metrics might differ based on structure.  
+- Provides tailored financial advice considering legal and operational aspects.  
+- Identifies financial strengths and weaknesses unique to each structure.  
 
-Client Communication & Service:
+Client Communication & Service:  
 
-- Cater services to specific financial reporting, tax, and compliance needs.
-- Explains financial concepts relevant to their structure and challenges.
-- Build trust by demonstrating understanding of their business type.
+- Cater services to specific financial reporting, tax, and compliance needs.  
+- Explains financial concepts relevant to their structure and challenges.  
+- Build trust by demonstrating understanding of their business type.  
 
 ### LLC v. LLP
 
@@ -139,7 +126,6 @@ Client Communication & Service:
   - LLPs may have specific formation and ongoing regulatory requirements depending on the profession or state.  
   - LLCs generally require less paperwork and ongoing formalities.  
 
-
 ---
 
 ## Question
@@ -151,4 +137,4 @@ Client Communication & Service:
 3. a sole proprietorship  
 4. There is the potential for some personal liability in every business structure, though that liability varies with the type of structure.  
 
-Answer: 4. There is the potential for some personal liability in every business structure, though that liability varies with the type of structure.
+Answer: 4. There is the potential for some personal liability in every business structure, though that liability varies with the type of structure.  
