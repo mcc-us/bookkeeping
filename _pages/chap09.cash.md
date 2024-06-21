@@ -17,14 +17,14 @@ title: 9-Cash
 
 $$\frac{Assets}{\begin{bmatrix}
                  Petty~ Cash \\
-                 Notes Receivable \\
+                 Notes~ Receivable \\
                 \end{bmatrix}} + 
                 \frac{Expenses}{\begin{bmatrix}
                                  Intrest~ Expense \\
                                 \end{bmatrix}} 
 = \frac{Liabilities}{\begin{bmatrix}
                      Interest~ Payable \\
-                     Notes Payable \\
+                     Notes~ Payable \\
                      \end{bmatrix}} 
  + Equity + \frac{Revenue}{Interest~ Income}$$
 
