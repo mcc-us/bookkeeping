@@ -34,7 +34,7 @@ Sales~ Discount(Contra~Rev-Dr) \\
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
 
-### 2. Sales Returns & Allowances WITH Tax, Cash or A/R
+### 2. Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
 
@@ -42,7 +42,7 @@ Sales~ Discount(Contra~Rev-Dr) \\
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/recording.sales.returns.allowances.png)
 
-### 3. Sales/Trade Discounts
+### 3. Trade Discounts
 
 A Sale or Trade discount is a reduction from list price.
    - **1/10** = 1% OFF, if < 10 days
