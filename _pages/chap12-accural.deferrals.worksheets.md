@@ -89,15 +89,15 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ## Adjust Supplies & Expense
 
-- Initial Balance = **6300**
+- NET = Initial - Final Balance = **6300** - **1325**  = **4975**
 
 > Dr Supplies Expense **4975**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Supplies &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4975**  
 {: .block-tip }  
 
-- Final Balance = **1325**  
-
+<!--
 ![](/assets/mc-graw-accounting-course/chap12-accurals/6.accrued.prepaid.exp.ex.supplies.png)
+-->
 
 ## Unearned Income - Example, Publishing Subscription
 
