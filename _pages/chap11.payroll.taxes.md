@@ -9,24 +9,21 @@ title: 11-Payroll Taxes
 
 $$Assets + \frac{Expenses}{\begin{bmatrix}
                            Payroll~ Tax~ Expense \\
-                           \end{bmatrix}} 
+                           \end{bmatrix}}
 = \frac{Liabilities}{\begin{bmatrix}
                      S. S.~ Tax~ Payable \\
                      Medicare~ Tax~ Payable \\
                      Employee~ Income~ Tax~ Payable \\
-                     \end{bmatrix}} 
+                     \end{bmatrix}}
  + Equity + Revenue$$
 
-
-
-### Ideas
-
-1. Recording: SS, Medicare, FUTA, SUTA
-2. Recording Tax Expense and Tax Payable
-3. IRS form 940 & FUTA & SUTA
-4. IRS form 941 - Quarterly Fed Tax Returns
-5. W2: Tax Statement
-6. W3: Annual Transmittal of Wage & Tax Statements
+**Topics**  
+1. Recording: SS, Medicare, FUTA, SUTA  
+2. Recording Tax Expense and Tax Payable  
+3. IRS form 940 & FUTA & SUTA  
+4. IRS form 941 - Quarterly Fed Tax Returns  
+5. W2: Tax Statement  
+6. W3: Annual Transmittal of Wage & Tax Statements  
 
 <!-- 
 ![](/assets/mc-graw-accounting-course/chap11.payroll.taxes/1.objectives.png)
