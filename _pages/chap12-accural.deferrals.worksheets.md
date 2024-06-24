@@ -8,7 +8,7 @@ Objectives:
 
 1. Make **Adjustments, Closings, & Accruals** for merch. inventory, accrued & prepaid expense, accrued & deferred income items.
 
-## Accrual Accounting Definitions
+## Accrual Definitions
 
 - **Revenue** is recognized when earned, not necessarily when the cash is received.
 - **Revenue** is recognized when the sale is completed.
@@ -73,13 +73,13 @@ Objectives:
 
 ## Interest on Notes Payable, Accrued  
 
-Simple Interest = PRT = Principle x Interest Rate x Time
-
-Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
-
 > Dr Interest Exp. **Y**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Interest Payable **X**  
 {: .block-tip }  
+
+Simple Interest = PRT = Principle x Interest Rate x Time
+
+Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![](/assets/mc-graw-accounting-course/chap12-accurals/chap12.ex.5.png)
 
