@@ -6,7 +6,7 @@ title: 12-Adjustments Closings Accruals
 
 Objectives:
 
-1. Make **Adjustments, Closings, and Accruals** for merchandise inventory, accrued & prepaid expense, accrued & deferred income items.
+1. Make **Adjustments, Closings, & Accruals** for merch. inventory, accrued & prepaid expense, accrued & deferred income items.
 
 ## Accrual Accounting Definitions
 
@@ -20,11 +20,11 @@ Objectives:
   
 **This is referred to as matching revenues and expenses.**
 
-## Merchandise Inventory
+## Merch. Inventory
 
 > Dr Income Summary **Initial merchandise value**  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Merchandise Inventory **Initial merchandise value**  &nbsp;&nbsp;&nbsp;(*Zeros out initial merch. value*)  
-> 
+>
 > Dr Merchandise Inventory **Final merchandise value**  &nbsp;&nbsp;&nbsp;(*Sets final merch. value*)  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cr Income Summary **Final merchandise value**  
 {: .block-tip }
@@ -119,7 +119,6 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 
 ![Depreciation Example](/assets/mc-graw-accounting-course/chap12-accurals/depreciation.example.png)
 
-
 ## Worksheet Example, FULL
 
 ![Full Worksheet Example](/assets/mc-graw-accounting-course/chap12-accurals/chap12.prob.4.worksheet.png)
@@ -145,10 +144,10 @@ Compounding Interest = $\large P(1 + \frac{R}{n})^{nT}$ ; where n = Periods
 5. What types of assets are subject to depreciation? Give three examples of such assets.
 
 6. Explain the meaning of the following terms that relate to depreciation:
-    - Salvage value
-    - Depreciable base
-    - Useful life
-    - Straight-line method
+   - Salvage value
+   - Depreciable base
+   - Useful life
+   - Straight-line method
 
 7. What adjustment is made for depreciation on office equipment?
 
