@@ -6,7 +6,6 @@ layout: post
 
 
 ## Q. when using the worksheet balance sheet, the account form balance sheet must be used not the report form balance sheet? True or False
-Show drafts
 
 False.
 
@@ -34,8 +33,7 @@ QuickBooks Online likely provides guidance within the worksheet tool on which ba
 
 ---
 
-## Q. a check that has full endorsement can be further endorsed by any bearer and therefore is not as safe as  a check with a blank endorsement? Answer True or False.
-Show drafts
+## Q. a check that has full endorsement can be further endorsed by any bearer and therefore is not as safe as  a check with a blank endorsement? Answer True or False
 
 False.
 
@@ -62,7 +60,6 @@ In conclusion, a full endorsement provides more security compared to a blank end
 https://www.irs.gov/newsroom/2018-withholding-tables-now-available
 
 ## Q. the wage bracket table method for determining federal income tax withholding may only be used for employees who are paid on either weekly or a monthly basis? True or False.
-Show drafts
 
 False.
 
