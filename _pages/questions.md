@@ -72,3 +72,38 @@ The IRS allows the wage bracket method to be used for employees paid:
 As long as the appropriate table for the pay frequency is used and the employee's W-4 form information (filing status, allowances) aligns with the method, the wage bracket tables can be a valid way to withhold federal income tax.
 
 ---
+
+## Q. When services are provided on credit, the total amount of liabilities increases? True or False.
+Show drafts
+
+True.
+
+When services are provided on credit, the total amount of liabilities  increases. Here's why:
+
+- When you provide a service to a customer on credit, you are essentially extending them a loan. This creates a liability for your company, as the customer now owes you money for the service performed. The liability account (such as Accounts Receivable) increases to reflect the amount owed by the customer.
+
+In essence, you have performed the service, but haven't received the payment yet. This creates a debt (liability) for your company.
+
+## Q. "Closing" is written in the description column of the revenue and expense accounts in the general ledger? True or False.
+
+True.
+
+When closing the books at the end of an accounting period, "Closing" is typically written in the description column of the general ledger accounts for:
+
+- Revenue Accounts: This signifies that the balance in the account is being transferred to the income summary account.
+
+---
+
+## Q. the adjusting entry to record depreciation should be reversed at the start of a new fiscal period to make subsequent financial records keeping easier? T or F.
+
+True.  The adjusting entry to record depreciation should be reversed at the start of a new fiscal period to make subsequent financial record keeping easier.
+
+Here's why:
+
+- Depreciation is an allocation of the cost of an asset over its useful life. An adjusting entry is made at the end of the period to reflect the portion of the asset's cost "used up" during that period.
+
+- Reversing the depreciation entry at the beginning of the new period accomplishes two things:  
+    - It sets the accumulated depreciation balance back to its previous amount, effectively "undoing" the depreciation expense recognized in the prior period.  
+    - It allows you to start recording depreciation expense for the new period on the asset's original cost basis, simplifying the calculations for the current period's depreciation.  
+
+This process ensures a clean starting point for depreciation expense in the new period and avoids confusion by having the accumulated depreciation balance reflect only the depreciation recognized up to that point.
