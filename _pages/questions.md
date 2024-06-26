@@ -49,10 +49,6 @@ Safety Comparison:
 
 - Blank Endorsement: Allows anyone with the check to become the payee, increasing the risk of unauthorized negotiation.
 
-Note:
-
-- Once a check is cashed or deposited, even a fully endorsed check can no longer be further negotiated.
-
 In conclusion, a full endorsement provides more security compared to a blank endorsement by limiting who can become the new payee of the check.
 
 ---
@@ -82,6 +78,8 @@ When services are provided on credit, the total amount of liabilities  increases
 - When you provide a service to a customer on credit, you are essentially extending them a loan. This creates a liability for your company, as the customer now owes you money for the service performed. The liability account (such as Accounts Receivable) increases to reflect the amount owed by the customer.
 
 In essence, you have performed the service, but haven't received the payment yet. This creates a debt (liability) for your company.
+
+---
 
 ## Q. "Closing" is written in the description column of the revenue and expense accounts in the general ledger? True or False.
 
