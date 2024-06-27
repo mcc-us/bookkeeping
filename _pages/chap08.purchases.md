@@ -8,8 +8,6 @@ title: 8-Purchases
 - Purchases, Discounts, Returns & Allowances, Net delivered cost of purchases   
 - Internal controls, perpetual inventory system    
 
----
-
 - Treat Purchases like an Asset or Expense, & Freight is an Expense   
 - CE = Contra Expense Act.
 
@@ -42,11 +40,9 @@ In General:
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/4.purchase.N.returns.w.freight.png)
 
-
 ### 2. Returns & Allowances
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/5.purcahse.allowances.redux.png)
-
 
 >**Purchase Terms** are negotiated   
 > Common ones include:   
@@ -54,7 +50,6 @@ In General:
 > n/10 EOM - Due 10 after End of Month  
 > 1/10 - 1 % for cash or <= 10 days  
 {: .block-tip }  
-
 
 ### 3. Discounts & Returns
 
@@ -66,7 +61,6 @@ In General:
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/206.acct.payable.w.discount.cash.png)
 
-
 ### 4. Trade & Early Cash Discounts
 
 |Trade Discounts|$|
@@ -74,7 +68,6 @@ In General:
 |Discounts (20%, 10% = 0.8 x 0.9 = 0.72): 6000 x 0.72 = |4320|
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/8.using.trade.discounts.png)
-
 
 ### 5. Net delivered cost of purchases.
 
@@ -88,14 +81,10 @@ In General:
 |LESS Purchase Discounts|124|
 |Net Delivered Cost of Purchases|$24,280|
 
-
 ### 6. Schedule of accounts payable
 A list of all balances owed to creditors
 
 ![](/assets/mc-graw-accounting-course/chap8.purchases/101.schedule.of.acct.payable.png)
-
-
----
 
 ### 7. Internal control of purchases
 
