@@ -4,10 +4,8 @@ title: 7-Sales
 ---
 
 **How-To**
-- Sales w & w/o Taxes, Sales Returns & Allowances 
+- Sales w & w/o Taxes, Sales Returns & Allowances, & Discounts
 - Using Credit & Trade & Sales discount (ex. 1/30, n/30) & Trade discounts: 20% & 10%
-
----
 
 **Accounts**
 
@@ -33,7 +31,6 @@ Sales~ Discount(Contra~Rev-Dr) \\
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/2.sales.w.tax.png)
 
-
 ### 2. Returns & Allowances WITH Tax, Cash or A/R
 
 **Which one is better?**
@@ -50,7 +47,6 @@ A Sale or Trade discount is a reduction from list price.
    - **n/30** - No discount, Payment expected by 30 days
 
 ![](/assets/mc-graw-accounting-course/chap7.sales.returns/4.trade.discount.png)
-
 
 |Sales discount of 1% reduction from list price.|*1/15, n/30*|
 |:-|-:|
