@@ -19,3 +19,10 @@ permalink: /
   <script>
    function NAHB() {window.open("https://www.nahb.org/-/media/NAHB/nahb-community/docs/member-benefits/knowledge/biztools/nahb-chart-of-accounts-2016.pdf");}
   </script>
+
+<p>A computer science portal for geeks
+        <a target="_blank"
+           href="https://www.geeksforgeeks.org/">
+            GeeksforGeeks
+        </a>
+    </p>
