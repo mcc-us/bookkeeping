@@ -84,19 +84,18 @@ OR
 ### Financial Leverage
 
 
-1. **Debt-to-Capital Ratio** = $\Large\frac{Debt}{Debt~ +~ Equity}$<br><br>
+1. **Debt-to-Asset Ratio** = $\Large\frac{Total~ Debt}{Total~ Assets}$<br><br>
 
-2. **Debt-to-Asset Ratio** = $\Large\frac{Total~ Debt}{Total~ Assets}$<br><br>
+2. **Debt-to-Equity Ratio** = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
 
-3. **Financial Leverage Ratio** = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
+3. **Debt-to-Capital Ratio** = $\Large\frac{Debt}{Debt~ +~ Equity}$<br><br>
 
-4. **Debt-to-Equity Ratio** = $\Large\frac{Total~ Debt}{Total~ Equity}$<br><br>
-
-5. **Debt-to-EBITDA Ratio** = $\Large\frac{Total~ Debt}{EBITDA}$   
+4. **Debt-to-EBITDA Ratio** = $\Large\frac{Total~ Debt}{EBITDA}$   
 
 - EBITDA = Earnings Before Interest Taxes Depreciation & Amortization<br><br>
 
-6. **Asset-to-Equity Ratio** = $\Large\frac{Total~ Assets}{Total~ Equity}$<br><br>
+5. **Asset-to-Equity Ratio** = $\Large\frac{Total~ Assets}{Total~ Equity}$<br><br>
+
 
 ---
 
