@@ -9,7 +9,7 @@ email:            mcurcio@duck.com
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              ""
+url:              "/bookkeeping"
 baseurl:          "https://mcc-us.github.io/bookkeeping"
 rss:              RSS
 
