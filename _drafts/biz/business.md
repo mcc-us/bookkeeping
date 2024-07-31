@@ -94,7 +94,7 @@ Place the letter associated with the advantage or disadvantage of each entity in
 
 
 <div class="pdf-container">
-    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf" title="business-types-test" height="400" width="712" allowfullscreen="true">
+    <iframe src="/bookkeeping/assets/mc-graw-accounting-course/biz.entities.test.pdf" title="business-types-test" height="400" width="712" allowfullscreen="true">
     </iframe>
 </div>
 

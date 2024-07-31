@@ -10,7 +10,7 @@ title: Classified Balance Sheets
 
 2. **Classified Balance Sheet**: lists subcategories of **assets, liabilities, equity**. Providing a more detailed understanding.
 
-![](/assets/misc/classified.bs.png)
+![](/bookkeeping/assets/misc/classified.bs.png)
 
 #### Benefits of a Classified Balance Sheet:
 

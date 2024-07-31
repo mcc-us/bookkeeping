@@ -51,9 +51,9 @@ tags: reporting
 
 **More Examples**
 
-| ![Example 1](/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
+| ![Example 1](/bookkeeping/assets/misc/Statement-of-Owners-Equity-Example.jpg) |
 |:-:|
-| ![Example 2](/assets/misc/Statement-of-Stockholders-Equity.png)|
+| ![Example 2](/bookkeeping/assets/misc/Statement-of-Stockholders-Equity.png)|
 
 ### Alternative Names
 

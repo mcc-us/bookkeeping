@@ -50,18 +50,18 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 
 8. Have the monthly bank statement sent to and reconciled by someone other than the employees who handle, record, and deposit the funds
 
-![](/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/15.control.of.cash.png)
 
 ---
 
 ### 6. Banking Procedures
 
-![](/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/18.check.stub.example.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/19.restrictive.endorsements.png)
 
 
-![](/assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/20.post.dated.chjecks.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/21.errors.in.reconcilation.png)
 
 
 ### 7. Debit Cards
@@ -71,12 +71,12 @@ Cash is most easily stolen, lost, or mishandled. It is important to protect all 
 ### 8. Chapter Questions
 
 
-![](/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/30.section1.questions.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/31.section1a.questions.png)
 
-![](/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/16.section2.q.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/17.section2.q.png)
 
-![](/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
-![](/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/27.section3a.q.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap9.cash/28.section3b.q.png)
 

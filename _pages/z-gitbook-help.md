@@ -20,7 +20,7 @@ More information see: [Jekyll Git Book theme](https://github.com/sighingnow/jeky
 
 ```
 <div class="pdf-container">
-    <iframe src="/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/bookkeeping/assets/mc-graw-accounting-course/biz.entities.test.pdf#zoom=FitH" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 ```
@@ -94,15 +94,15 @@ Then reference it with a normal Markdown link:
 
 ### Pictures
 
-`![lion](/assets/img/lion_head-144x144.png)`
+`![lion](/bookkeeping/assets/img/lion_head-144x144.png)`
 
 Images can also be centered!
 
-`![lion](/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
+`![lion](/bookkeeping/assets/img/lion_head-144x144.png){: .mx-auto.d-block :}`
 
 |ImageTitle|
 |:-:|
-|![abc](/assets/a.png)|
+|![abc](/bookkeeping/assets/a.png)|
 
 ### Code chunks 
 

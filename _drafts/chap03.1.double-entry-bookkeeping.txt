@@ -22,7 +22,7 @@ In accounting, Debit and Credit ONLY refer to the left or right side of a T-tabl
 
 | Example Transaction |
 |:-----:|
-| ![Example Entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)  |
+| ![Example Entry](/bookkeeping/assets/mc-graw-accounting-course/images/example.journal.entry.png)  |
 
 - Double-entry bookkeeping states that a transaction may effect 2 or more accounts. 
   -  *For example*; when a business buys a car it may pay 10% with cash and the remainder with a bank loan. 

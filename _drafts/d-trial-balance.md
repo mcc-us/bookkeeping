@@ -29,7 +29,7 @@ tags: reporting
 
 |Example Trial Balance|
 |:-:|
-|![](/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
+|![](/bookkeeping/assets/mc-graw-accounting-course/images/example.trial.balance.png)|
 
 
 ### Rules for Presentation:

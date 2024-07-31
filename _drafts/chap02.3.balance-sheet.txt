@@ -23,4 +23,4 @@ tags: reporting
 > Reports NEED: Who, What, When (On Day / Date Time)
 {: .block-tip }
 
-![](/assets/misc/Balance-Sheet-Template-03.jpg)
+![](/bookkeeping/assets/misc/Balance-Sheet-Template-03.jpg)

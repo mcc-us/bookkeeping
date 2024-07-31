@@ -102,7 +102,7 @@ OR
 
 ## More?
 
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/chap.13.fin.ratios.png)
 
-![](/assets/mc-graw-accounting-course/chap13-fin.statements/types-adjusting-entries.png)
+![](/bookkeeping/assets/mc-graw-accounting-course/chap13-fin.statements/types-adjusting-entries.png)
 

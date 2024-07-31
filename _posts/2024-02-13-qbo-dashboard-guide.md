@@ -13,7 +13,7 @@ QBO Test drive - [https://qbo-intuit.com/redir/testdrive](https://qbo.intuit.com
 
 - QBO, How to Add...:
 
-![List of Actions](/assets/calvin.lee.udemy/QBO-adding-new.png)
+![List of Actions](/bookkeeping/assets/calvin.lee.udemy/QBO-adding-new.png)
 
 
 ## Section 2: Using QBO
@@ -101,7 +101,7 @@ The Chart of Accounts: adding accounts in QBO
 
 5. receipt.forwarding.ex
 
-![receipt.forwarding.ex](/assets/calvin.lee.udemy/receipt.forwarding.ex.png)
+![receipt.forwarding.ex](/bookkeeping/assets/calvin.lee.udemy/receipt.forwarding.ex.png)
 
 
 ## Section 6: Payroll Overview: Using Payroll to pay employees

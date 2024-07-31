@@ -10,7 +10,7 @@ Example C.O.A. Numbering
 |Assets|Liabilities|Owner Equity|Revenue|Expenses|
 |100|200|300|400|500|
 
-![Example C.O.A.](/assets/aipb/coa.example.png)
+![Example C.O.A.](/bookkeeping/assets/aipb/coa.example.png)
 
 > COA's should be printable and easy to reference bc it may be used often. 
 {: .block-tip }
