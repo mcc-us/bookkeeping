@@ -30,8 +30,8 @@ title: Financial Statements
 
 > * Net Income/Loss = Revenue - Expenses  
 > * Display Revenues & Expenses: Alphabetically or Classified  
-> * Double underline the '*Bottom Line*' or Net 
-{: .block-tip } 
+> * Double underline the '*Bottom Line*' or Net  
+{: .block-tip }  
 
 > Do Not Include Drawings
 {: .block-danger }
