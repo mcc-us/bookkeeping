@@ -4,6 +4,7 @@ title: bookkeeping notes
 permalink: /
 ---
 
+[Bookkeeping Home](https://mcc-us.github.io/bookkeeping/)
 
 | :honeybee: Resources :honeybee: |
 |:---------:|
