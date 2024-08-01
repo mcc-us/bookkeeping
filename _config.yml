@@ -9,8 +9,8 @@ email:            mcurcio@duck.com
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              "/bookkeeping"
-baseurl:          "https://mcc-us.github.io"
+baseurl: "/bookkeeping"
+url: "https://mcc-us.github.io" 
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
