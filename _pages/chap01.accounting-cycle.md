@@ -20,7 +20,7 @@ layout: post
 - Entries should have three lines: debit, credit and description lines.  
 - The journal is the record of first entry.  
 
-![example journal entry](/bookkeeping/assets/mc-graw-accounting-course/images/example.journal.entry.png)
+![example journal entry](/assets/mc-graw-accounting-course/images/example.journal.entry.png)
 
 ## 3. Post Transactions From Journal To Ledger  
 
